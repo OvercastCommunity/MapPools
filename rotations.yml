@@ -1,13 +1,22 @@
 last_active: mini
 rotations:
-  mini:
+  micro:
     enabled: true
     players: 1
-    next_map: Warlock
+    next_map: Mini Drought
+    maps:
+    - Mini Drought
+    - Academy
+    - Dynamo
+    - Downforce
+    - Deepwind Jungle
+  mini:
+    enabled: true
+    players: 8
+    next_map: Race for Victory
     maps:
     - Race for Victory
     - Snowy Wars
-    - Academy
     - BalloonsDTM
     - Cloud Nine
     - Balloon Archipelago
@@ -16,89 +25,93 @@ rotations:
     - Pharaoh's Catacombs
     - Empire
     - Sunrise Over Paradise
-    - Cargo
     - Desert Cataract
     - Facility
     - Cake Wars
     - Tree of Life Mini
-    - Downforce
     - The Fenland
     - Circus DTC
-    - Dynamo
+    - Cargo
     - Warlock
     - Golden Drought III
     - Monument Valley
     - A Watery Grave
     - Strongbow
-    - Deepwind Jungle
     - Boom
     - Airship Aces
-  mega:
+  medium:
     enabled: true
-    players: 25
-    next_map: Trench Warfare 2
+    players: 16
+    next_map: Fortress Battles
     maps:
     - Fortress Battles
-    - Midnight Train
-    - The Arena
-    - Hadron
+    - Sand Wars
     - Medieval Warfare
-    - Harb
-    - Fallencrests
     - Smog
-    - Total War
-    - Modern Cityscape
-    - Blocks DTC
-    - Race for Victory 2
+    - Fallencrests
     - Storm
     - Sky Traffic
-    - Viridun
+    - Race for Victory 2
     - Spaceship Battles
-    - Sand Wars
     - Iris DTC
     - Turf Wars
-    - Anathema
     - BlockBlock
     - Interitus
     - Mushroom Gorge
-    - Coral Reef
+    - Abandoned Zoo
     - Athirk
-    - Venice TDM
     - Urban Jungle
-    - Runes of Ruin
-    - Battle of Lyndanisse
     - Fort Wars
-    - Hot Dam
-    - Golden Drought
     - Battle of Tenjin
     - Wooly Woods
-    - Full Salvo
     - Ring Race
-    - Airship Battle
-    - Wildwood Crevice
     - Bessemer's Process
     - Shroom Trip
-    - Race for Victory 3
-    - Scrap Mettle
     - Black Gold
-    - Golden Drought II
     - Fractal Descent
     - Fairy Tales 2: A Tale or Two
     - Retaliation
     - Cat's Cradle
-    - The Nile
-    - Temple Valley
     - Two Tier
-    - Trench Warfare 2
     - Avalanche
+    - Escensio
+    - Avalon Funland
+    - The Complex TDM
+  mega:
+    enabled: true
+    players: 32
+    next_map: The Nile
+    maps:
+    - The Nile
+    - The Arena
+    - Temple Valley
+    - Hadron
+    - Midnight Train
+    - Harb
+    - Total War
+    - Modern Cityscape
+    - Blocks DTC
+    - Viridun
+    - Anathema
+    - Soviet Mills
+    - Coral Reef
+    - Venice TDM
+    - Runes of Ruin
+    - Battle of Lyndanisse
+    - Hot Dam
+    - Golden Drought
+    - Full Salvo
+    - Airship Battle
+    - Wildwood Crevice
+    - Race for Victory 3
+    - Scrap Mettle
+    - Golden Drought II
+    - Trench Warfare 2
     - Glacial Impact
     - Twisted
-    - Escensio
     - Tree of Life
     - Hydrolock
     - Sky Traffic 2
     - Babylon
     - Bridge over Troubled Water
-    - Avalon Funland
-    - The Complex TDM
     - Temple Run
