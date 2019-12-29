@@ -9,10 +9,9 @@ rotations:
     - Academy
     - Dynamo
     - Downforce
-    - Deepwind Jungle
   mini:
     enabled: true
-    players: 8
+    players: 16
     next_map: Race for Victory
     maps:
     - Race for Victory
@@ -28,6 +27,7 @@ rotations:
     - Desert Cataract
     - Facility
     - Cake Wars
+    - Deepwind Jungle
     - Tree of Life Mini
     - The Fenland
     - Circus DTC
@@ -41,7 +41,7 @@ rotations:
     - Airship Aces
   medium:
     enabled: true
-    players: 16
+    players: 32
     next_map: Fortress Battles
     maps:
     - Fortress Battles
@@ -79,7 +79,7 @@ rotations:
     - The Complex TDM
   mega:
     enabled: true
-    players: 32
+    players: 40
     next_map: The Nile
     maps:
     - The Nile
