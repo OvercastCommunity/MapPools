@@ -79,7 +79,7 @@ rotations:
     - The Complex TDM
   mega:
     enabled: true
-    players: 40
+    players: 64
     next_map: The Nile
     maps:
     - The Nile
