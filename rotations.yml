@@ -1,0 +1,75 @@
+# 
+# Rotations sample configuration
+last_active: mini
+rotations:
+  mini:
+    enabled: true
+    players: 1
+    next_map: Warlock
+    maps:
+    - Race for Victory
+    - Snowy Wars
+    - Balloon Archipelago
+    - Hot Dam Mini
+    - Sunrise Over Paradise
+    - Cake Wars
+    - Tree of Life Mini
+    - The Fenland
+    - Dynamo
+    - Warlock
+    - A Watery Grave
+    - Airship Aces
+  mega:
+    enabled: true
+    players: 25
+    next_map: Trench Warfare 2
+    maps:
+    - Fortress Battles
+    - Midnight Train
+    - The Arena
+    - Hadron
+    - Medieval Warfare
+    - Harb
+    - Total War
+    - Modern Cityscape
+    - Blocks DTC
+    - Race for Victory 2
+    - Sky Traffic
+    - Viridun
+    - Spaceship Battles
+    - Sand Wars
+    - Iris DTC
+    - Turf Wars
+    - BlockBlock
+    - Interitus
+    - Venice TDM
+    - Urban Jungle
+    - Battle of Lyndanisse
+    - Fort Wars
+    - Hot Dam
+    - Golden Drought
+    - Battle of Tenjin
+    - Wooly Woods
+    - Full Salvo
+    - Ring Race
+    - Airship Battle
+    - Wildwood Crevice
+    - Bessemer's Process
+    - Shroom Trip
+    - Race for Victory 3
+    - Scrap Mettle
+    - Fractal Descent
+    - Fairy Tales 2: A Tale or Two
+    - The Nile
+    - Temple Valley
+    - Trench Warfare 2
+    - Avalanche
+    - Glacial Impact
+    - Escensio
+    - Tree of Life
+    - Hydrolock
+    - Babylon
+    - Bridge over Troubled Water
+    - Avalon Funland
+    - The Complex TDM
+    - Temple Run
