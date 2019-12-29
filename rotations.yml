@@ -1,5 +1,3 @@
-# 
-# Rotations sample configuration
 last_active: mini
 rotations:
   mini:
@@ -9,15 +7,31 @@ rotations:
     maps:
     - Race for Victory
     - Snowy Wars
+    - Academy
+    - BalloonsDTM
+    - Cloud Nine
     - Balloon Archipelago
+    - Dead Heat
     - Hot Dam Mini
+    - Pharaoh's Catacombs
+    - Empire
     - Sunrise Over Paradise
+    - Cargo
+    - Desert Cataract
+    - Facility
     - Cake Wars
     - Tree of Life Mini
+    - Downforce
     - The Fenland
+    - Circus DTC
     - Dynamo
     - Warlock
+    - Golden Drought III
+    - Monument Valley
     - A Watery Grave
+    - Strongbow
+    - Deepwind Jungle
+    - Boom
     - Airship Aces
   mega:
     enabled: true
@@ -30,20 +44,28 @@ rotations:
     - Hadron
     - Medieval Warfare
     - Harb
+    - Fallencrests
+    - Smog
     - Total War
     - Modern Cityscape
     - Blocks DTC
     - Race for Victory 2
+    - Storm
     - Sky Traffic
     - Viridun
     - Spaceship Battles
     - Sand Wars
     - Iris DTC
     - Turf Wars
+    - Anathema
     - BlockBlock
     - Interitus
+    - Mushroom Gorge
+    - Coral Reef
+    - Athirk
     - Venice TDM
     - Urban Jungle
+    - Runes of Ruin
     - Battle of Lyndanisse
     - Fort Wars
     - Hot Dam
@@ -58,16 +80,23 @@ rotations:
     - Shroom Trip
     - Race for Victory 3
     - Scrap Mettle
+    - Black Gold
+    - Golden Drought II
     - Fractal Descent
     - Fairy Tales 2: A Tale or Two
+    - Retaliation
+    - Cat's Cradle
     - The Nile
     - Temple Valley
+    - Two Tier
     - Trench Warfare 2
     - Avalanche
     - Glacial Impact
+    - Twisted
     - Escensio
     - Tree of Life
     - Hydrolock
+    - Sky Traffic 2
     - Babylon
     - Bridge over Troubled Water
     - Avalon Funland
