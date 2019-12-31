@@ -1,9 +1,9 @@
 last_active: mini
 rotations:
   micro:
-    enabled: true
+    enabled: false
     players: 1
-    next_map: Mini Drought
+    next_map: Dynamo
     maps:
     - Mini Drought
     - Academy
@@ -12,14 +12,16 @@ rotations:
   mini:
     enabled: true
     players: 16
-    next_map: Race for Victory
+    next_map: Airship Aces
     maps:
     - Race for Victory
     - Snowy Wars
+    - Dynamo
     - BalloonsDTM
     - Cloud Nine
     - Balloon Archipelago
     - Dead Heat
+    - Academy
     - Hot Dam Mini
     - Pharaoh's Catacombs
     - Empire
@@ -29,6 +31,7 @@ rotations:
     - Cake Wars
     - Deepwind Jungle
     - Tree of Life Mini
+    - Downforce
     - The Fenland
     - Circus DTC
     - Cargo
@@ -42,7 +45,7 @@ rotations:
   medium:
     enabled: true
     players: 32
-    next_map: Fortress Battles
+    next_map: 'Fairy Tales 2: A Tale or Two'
     maps:
     - Fortress Battles
     - Sand Wars
@@ -58,7 +61,6 @@ rotations:
     - BlockBlock
     - Interitus
     - Mushroom Gorge
-    - Abandoned Zoo
     - Athirk
     - Urban Jungle
     - Fort Wars
@@ -67,9 +69,9 @@ rotations:
     - Ring Race
     - Bessemer's Process
     - Shroom Trip
+    - 'Fairy Tales 2: A Tale or Two'
     - Black Gold
     - Fractal Descent
-    - Fairy Tales 2: A Tale or Two
     - Retaliation
     - Cat's Cradle
     - Two Tier
@@ -80,7 +82,7 @@ rotations:
   mega:
     enabled: true
     players: 64
-    next_map: The Nile
+    next_map: Temple Valley
     maps:
     - The Nile
     - The Arena
@@ -114,4 +116,5 @@ rotations:
     - Sky Traffic 2
     - Babylon
     - Bridge over Troubled Water
+    - Abandoned Zoo
     - Temple Run
