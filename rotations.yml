@@ -1,6 +1,7 @@
 last_active: mini
-rotations:
+pools:
   micro:
+    type: ordered
     enabled: false
     players: 1
     next_map: Dynamo
@@ -9,26 +10,42 @@ rotations:
     - Academy
     - Dynamo
     - Downforce
+    - The Grove
+    - Battle Ecliptica II
+    - BallonsDTM
+    - Balloon Archipelago
+    - SolitudeMC
+    - Hot Dam Mini
+    - Cake Wars
   mini:
+    type: ordered
     enabled: true
-    players: 16
-    next_map: Airship Aces
+    players: 1
+    next_map: Pharaoh's Catacombs
     maps:
     - Race for Victory
     - Snowy Wars
     - Dynamo
+    - The Grove
     - BalloonsDTM
     - Cloud Nine
     - Balloon Archipelago
-    - Dead Heat
     - Academy
+    - Wit's End
+    - SolitudeMC
+    - Battle Ecliptica II
     - Hot Dam Mini
     - Pharaoh's Catacombs
+    - BoomBox
     - Empire
     - Sunrise Over Paradise
+    - Banana Split
     - Desert Cataract
+    - 9.5th Law
     - Facility
     - Cake Wars
+    - Woolirium
+    - Tanker TNT
     - Deepwind Jungle
     - Tree of Life Mini
     - Downforce
@@ -38,31 +55,40 @@ rotations:
     - Warlock
     - Golden Drought III
     - Monument Valley
+    - Two Castles
+    - Ender Blast
     - A Watery Grave
     - Strongbow
     - Boom
     - Airship Aces
+    - Antiquis
+    - Equinox
   medium:
+    type: voted
     enabled: true
-    players: 32
-    next_map: 'Fairy Tales 2: A Tale or Two'
+    players: 24
     maps:
     - Fortress Battles
     - Sand Wars
     - Medieval Warfare
     - Smog
     - Fallencrests
+    - Fourchette
     - Storm
+    - 9th Law
     - Sky Traffic
     - Race for Victory 2
     - Spaceship Battles
+    - Battle Ecliptica III
     - Iris DTC
     - Turf Wars
     - BlockBlock
+    - Blocks CTW
     - Interitus
     - Mushroom Gorge
     - Athirk
     - Urban Jungle
+    - Bamboo Valley
     - Fort Wars
     - Battle of Tenjin
     - Wooly Woods
@@ -72,6 +98,7 @@ rotations:
     - 'Fairy Tales 2: A Tale or Two'
     - Black Gold
     - Fractal Descent
+    - Utopia
     - Retaliation
     - Cat's Cradle
     - Two Tier
@@ -79,12 +106,28 @@ rotations:
     - Escensio
     - Avalon Funland
     - The Complex TDM
+    - Cake Day
+    - Circus CTW
+    - Jungle Beat
+    - Kytriak
+    - Outback
+    - PixelMix
+    - Mayan Apocalypse
+    - Royal Garden DTC
+    - Bamboo Valley III
+    - Retaliation 2
+    - Woodwork Harbor
+    - Lunar Coliseum
+    - Piston KotH
+    - The Hill
+    - Green Hill Zone
   mega:
+    type: voted
     enabled: true
     players: 64
-    next_map: Temple Valley
     maps:
     - The Nile
+    - Royal Garden CTW
     - The Arena
     - Temple Valley
     - Hadron
@@ -104,6 +147,7 @@ rotations:
     - Golden Drought
     - Full Salvo
     - Airship Battle
+    - Broken Unity
     - Wildwood Crevice
     - Race for Victory 3
     - Scrap Mettle
@@ -118,3 +162,7 @@ rotations:
     - Bridge over Troubled Water
     - Abandoned Zoo
     - Temple Run
+    - Corrupted Kingdoms
+    - Irongate Harbor
+    - Scorched Grove
+    - Spaceship Battles II
