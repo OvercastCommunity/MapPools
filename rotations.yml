@@ -1,4 +1,4 @@
-last_active: medium
+last_active: mini
 pools:
   micro:
     type: ordered
@@ -12,16 +12,16 @@ pools:
     - Downforce
     - The Grove
     - Battle Ecliptica II
-    - BallonsDTM
+    - BalloonsDTM
     - Balloon Archipelago
     - SolitudeMC
-    - Hot Dam Mini
+    - 'Hot Dam: Mini'
     - Cake Wars
   mini:
     type: ordered
     enabled: true
     players: 1
-    next_map: The Grove
+    next_map: A Watery Grave
     maps:
     - Race for Victory
     - Snowy Wars
@@ -31,15 +31,15 @@ pools:
     - Cloud Nine
     - Balloon Archipelago
     - Academy
-    - Wit's End
     - SolitudeMC
     - Battle Ecliptica II
-    - Hot Dam Mini
+    - 'Hot Dam: Mini'
     - Pharaoh's Catacombs
     - BoomBox
     - Empire
     - Sunrise Over Paradise
     - Banana Split
+    - Hyral Skylands
     - Desert Cataract
     - 9.5th Law
     - Facility
@@ -47,7 +47,7 @@ pools:
     - Woolirium
     - Tanker TNT
     - Deepwind Jungle
-    - Tree of Life Mini
+    - 'Tree of Life: Mini'
     - Downforce
     - The Fenland
     - Circus DTC
@@ -56,13 +56,24 @@ pools:
     - Golden Drought III
     - Monument Valley
     - Two Castles
+    - Streamline
     - Ender Blast
     - A Watery Grave
+    - Levels
+    - Coastline
     - Strongbow
+    - Persisto
     - Boom
     - Airship Aces
     - Antiquis
     - Equinox
+    - Loyality DTM
+    - Fox Mini
+    - Desert Country
+    - Unum Lana
+    - 'Avalanche: Mini'
+    - Rooted
+    - Nightsail
   medium:
     type: voted
     enabled: true
@@ -109,7 +120,7 @@ pools:
     - Cake Day
     - Circus CTW
     - Jungle Beat
-    - Kytriak
+    - Kytriak (TE)
     - Outback
     - PixelMix
     - Mayan Apocalypse
@@ -118,9 +129,15 @@ pools:
     - Retaliation 2
     - Woodwork Harbor
     - Lunar Coliseum
-    - Piston KotH
+    - Piston KoTH
     - The Hill
     - Green Hill Zone
+    - Belcrest
+    - Swamped
+    - Tetrad
+    - Townside
+    - Fox Strife
+    - Mystic Point
   mega:
     type: voted
     enabled: true
@@ -159,10 +176,20 @@ pools:
     - Hydrolock
     - Sky Traffic 2
     - Babylon
-    - Bridge over Troubled Water
+    - Bridge Over Troubled Water
     - Abandoned Zoo
     - Temple Run
     - Corrupted Kingdoms
     - Irongate Harbor
     - Scorched Grove
     - Spaceship Battles II
+    - Totally War II
+    - Astro
+    - Battle of Tenjin 2
+    - Exitium
+    - Hydrolock II
+    - Paradise Isle
+    - Welcome To Wool Square
+    - Ion
+    - Baroque Gardens
+    - Battle of Krehm
