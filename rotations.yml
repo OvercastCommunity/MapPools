@@ -1,4 +1,4 @@
-last_active: mini
+last_active: medium
 pools:
   micro:
     type: ordered
@@ -21,7 +21,7 @@ pools:
     type: ordered
     enabled: true
     players: 1
-    next_map: A Watery Grave
+    next_map: Battle Ecliptica II
     maps:
     - Race for Victory
     - Snowy Wars
