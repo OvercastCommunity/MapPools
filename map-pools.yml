@@ -2,38 +2,35 @@ last_active: medium
 pools:
   micro:
     type: ordered
-    enabled: false
+    enabled: true
     players: 1
     next_map: Dynamo
     maps:
     - Mini Drought
     - Academy
     - Dynamo
+    - Rage Quit 5x5
     - Downforce
     - The Grove
     - Battle Ecliptica II
+    - Limbo II
     - BalloonsDTM
+    - Government 5x5
     - Balloon Archipelago
     - SolitudeMC
+    - Acear I
     - 'Hot Dam: Mini'
     - Cake Wars
+    - Divided
   mini:
     type: ordered
     enabled: true
-    players: 1
+    players: 16
     next_map: Battle Ecliptica II
     maps:
     - Race for Victory
     - Snowy Wars
-    - Dynamo
-    - The Grove
-    - BalloonsDTM
     - Cloud Nine
-    - Balloon Archipelago
-    - Academy
-    - SolitudeMC
-    - Battle Ecliptica II
-    - 'Hot Dam: Mini'
     - Pharaoh's Catacombs
     - BoomBox
     - Empire
@@ -43,12 +40,10 @@ pools:
     - Desert Cataract
     - 9.5th Law
     - Facility
-    - Cake Wars
     - Woolirium
     - Tanker TNT
     - Deepwind Jungle
     - 'Tree of Life: Mini'
-    - Downforce
     - The Fenland
     - Circus DTC
     - Cargo
@@ -67,7 +62,7 @@ pools:
     - Airship Aces
     - Antiquis
     - Equinox
-    - Loyality DTM
+    - Loyalty DTM
     - Fox Mini
     - Desert Country
     - Unum Lana
