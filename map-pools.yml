@@ -1,10 +1,10 @@
-last_active: medium
+last_active: mega
 pools:
   micro:
     type: ordered
     enabled: true
     players: 1
-    next_map: Dynamo
+    next_map: BalloonsDTM
     maps:
     - Mini Drought
     - Academy
@@ -13,7 +13,6 @@ pools:
     - Downforce
     - The Grove
     - Battle Ecliptica II
-    - Limbo II
     - BalloonsDTM
     - Government 5x5
     - Balloon Archipelago
@@ -22,24 +21,44 @@ pools:
     - 'Hot Dam: Mini'
     - Cake Wars
     - Divided
+    - Infernal Shadow
+    - Unity
+    - Dawnskirr
+    - Cairn
+    - Greecia
+    - Polylith
+    - Tatakai
+    - Atromix
+    - Molendinis
+    - Lilypad
   mini:
     type: ordered
     enabled: true
     players: 16
-    next_map: Battle Ecliptica II
+    next_map: Tanker TNT
     maps:
     - Race for Victory
+    - Riverbank
     - Snowy Wars
+    - Pirates Den
     - Cloud Nine
+    - Lava Dew
     - Pharaoh's Catacombs
+    - Iris DTM
     - BoomBox
     - Empire
     - Sunrise Over Paradise
     - Banana Split
     - Hyral Skylands
+    - Thunderstorm
     - Desert Cataract
+    - Diversity
+    - Demaroo
     - 9.5th Law
+    - Boletu
     - Facility
+    - Underpass
+    - Greecia II
     - Woolirium
     - Tanker TNT
     - Deepwind Jungle
@@ -47,6 +66,8 @@ pools:
     - The Fenland
     - Circus DTC
     - Cargo
+    - Oakspell
+    - Drastic Change
     - Warlock
     - Golden Drought III
     - Monument Valley
@@ -54,9 +75,13 @@ pools:
     - Streamline
     - Ender Blast
     - A Watery Grave
+    - Lemuria
     - Levels
     - Coastline
+    - Ouroboros
+    - Aerobellum
     - Strongbow
+    - Parabola
     - Persisto
     - Boom
     - Airship Aces
@@ -67,7 +92,10 @@ pools:
     - Desert Country
     - Unum Lana
     - 'Avalanche: Mini'
+    - The Complex CTF
+    - Hyperspace
     - Rooted
+    - Mutiny
     - Nightsail
   medium:
     type: voted
@@ -133,6 +161,24 @@ pools:
     - Townside
     - Fox Strife
     - Mystic Point
+    - Equus
+    - Golden Drought IV
+    - Gridlock II
+    - Oaken Meadow
+    - Pipe Palace
+    - Araxa
+    - Tenebrous
+    - Winter Wakening
+    - Xi
+    - Xion
+    - Aquealibrius
+    - DDay
+    - Inheritance
+    - Nivalis
+    - Streamline II
+    - Barr
+    - Muddy Paths
+    - Siloe
   mega:
     type: voted
     enabled: true
@@ -188,3 +234,11 @@ pools:
     - Ion
     - Baroque Gardens
     - Battle of Krehm
+    - Argon
+    - Arctic Dusk
+    - Nuclear Winter
+    - Glacial Impact 2
+    - Pavage
+    - Riverside
+    - Sandbox
+    - Northlands
