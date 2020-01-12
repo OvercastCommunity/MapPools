@@ -21,9 +21,11 @@ pools:
     - Cairn
     - Justice
     - Dawnskirr
+    - Abudor
     - BalloonsDTM
     - Government
     - Balloon Archipelago
+    - Ascendance
     - SolitudeMC
     - Aureola
     - AstroGEN
@@ -33,14 +35,17 @@ pools:
     - Tatakai
     - Cake Wars
     - Divided
+    - Sunburn
     - Battle Ecliptica CTF
     - Polylith
     - Rage Quit FFA
     - Unity
+    - Artext
     - Atromix
     - Molendinis
     - Assault
     - Chimeric
+    - Blizz
   mini:
     type: ordered
     enabled: true
@@ -55,10 +60,13 @@ pools:
     - Lava Dew
     - Pharaoh's Catacombs
     - Iris DTM
+    - Discipline
     - BoomBox
     - Empire
     - Sunrise Over Paradise
+    - Abudor II
     - Banana Split
+    - Limbo
     - Hyral Skylands
     - Thunderstorm
     - Desert Cataract
@@ -72,6 +80,7 @@ pools:
     - Greecia II
     - Woolirium
     - Tanker TNT
+    - Aaeros
     - Deepwind Jungle
     - 'Tree of Life: Mini'
     - The Fenland
@@ -85,10 +94,12 @@ pools:
     - Two Castles
     - Streamline
     - Ender Blast
+    - Ascension
     - A Watery Grave
     - Nightlife TDM
     - Lemuria
     - Levels
+    - Brisked
     - Concourse
     - Coastline
     - Ouroboros
@@ -206,6 +217,8 @@ pools:
     - Longshot
     - Palace CTF
     - 'cos(tnt)'
+    - Cabin Fever
+    - Diablo
   mega:
     type: voted
     enabled: true
