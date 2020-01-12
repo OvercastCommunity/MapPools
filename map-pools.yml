@@ -1,4 +1,4 @@
-last_active: mega
+last_active: medium
 pools:
   micro:
     type: ordered
@@ -9,33 +9,42 @@ pools:
     - Mini Drought
     - Academy
     - Dynamo
-    - Rage Quit 5x5
+    - Greecia
     - Downforce
     - The Grove
     - Battle Ecliptica II
+    - Ubos CTF
+    - Khaba
+    - Lilypad
+    - Infernal Shadow
+    - Cairn
+    - Justice
+    - Dawnskirr
     - BalloonsDTM
-    - Government 5x5
+    - Government
     - Balloon Archipelago
     - SolitudeMC
+    - Aureola
+    - AstroGEN
     - Acear I
     - 'Hot Dam: Mini'
+    - Dust
+    - Tatakai
     - Cake Wars
     - Divided
-    - Infernal Shadow
-    - Unity
-    - Dawnskirr
-    - Cairn
-    - Greecia
+    - Battle Ecliptica CTF
     - Polylith
-    - Tatakai
+    - Rage Quit FFA
+    - Unity
     - Atromix
     - Molendinis
-    - Lilypad
+    - Assault
+    - Chimeric
   mini:
     type: ordered
     enabled: true
     players: 16
-    next_map: Tanker TNT
+    next_map: Circus DTC
     maps:
     - Race for Victory
     - Riverbank
@@ -55,7 +64,7 @@ pools:
     - Diversity
     - Demaroo
     - 9.5th Law
-    - Boletu
+    - Boletum
     - Facility
     - Underpass
     - Greecia II
@@ -75,6 +84,7 @@ pools:
     - Streamline
     - Ender Blast
     - A Watery Grave
+    - Nightlife TDM
     - Lemuria
     - Levels
     - Coastline
@@ -97,6 +107,8 @@ pools:
     - Rooted
     - Mutiny
     - Nightsail
+    - Atom
+    - Aqueous Remnants
   medium:
     type: voted
     enabled: true
@@ -163,7 +175,7 @@ pools:
     - Mystic Point
     - Equus
     - Golden Drought IV
-    - Gridlock II
+    - Gridlock 2
     - Oaken Meadow
     - Pipe Palace
     - Araxa
@@ -171,14 +183,23 @@ pools:
     - Winter Wakening
     - Xi
     - Xion
-    - Aquealibrius
-    - DDay
+    - Aquelibrius
+    - D-Day
     - Inheritance
     - Nivalis
     - Streamline II
-    - Barr
+    - Barr DTC
     - Muddy Paths
-    - Siloe
+    - 'Siloë'
+    - 101 Rooms TDM
+    - Cairo TDM
+    - Stampede
+    - Tebulas
+    - U-Boat TDM
+    - Arch
+    - Relic
+    - Sky of Ruins
+    - Beauty to Ashes
   mega:
     type: voted
     enabled: true
@@ -242,3 +263,10 @@ pools:
     - Riverside
     - Sandbox
     - Northlands
+    - Icebliss
+    - Scrap Mettle 2
+    - The Archives
+    - Zoo
+    - Battle of Tenjin III
+    - Synergy
+    - Bastion Hill CTF
