@@ -15,7 +15,6 @@ pools:
     - The Grove
     - Battle Ecliptica II
     - Ubos CTF
-    - Khaba
     - Lilypad
     - Infernal Shadow
     - Cairn
@@ -26,7 +25,6 @@ pools:
     - Government
     - Balloon Archipelago
     - Ascendance
-    - SolitudeMC
     - Aureola
     - AstroGEN
     - Acear I
@@ -35,17 +33,15 @@ pools:
     - Tatakai
     - Cake Wars
     - Divided
-    - Sunburn
     - Battle Ecliptica CTF
     - Polylith
     - Rage Quit FFA
-    - Unity
-    - Artext
-    - Atromix
-    - Molendinis
     - Assault
     - Chimeric
     - Blizz
+    - 101 Rooms TDM
+    - Persisto
+    - Snowy Wars
   mini:
     type: ordered
     enabled: true
@@ -53,8 +49,6 @@ pools:
     next_map: Lemuria
     maps:
     - Race for Victory
-    - Riverbank
-    - Snowy Wars
     - Pirates Den
     - Cloud Nine
     - Lava Dew
@@ -67,14 +61,11 @@ pools:
     - Abudor II
     - Banana Split
     - Limbo
-    - Hyral Skylands
-    - Thunderstorm
     - Desert Cataract
     - Diversity
     - Demaroo
     - 9.5th Law
     - Desert Sanctuary
-    - Boletum
     - Facility
     - Underpass
     - Greecia II
@@ -104,10 +95,7 @@ pools:
     - Concourse
     - Coastline
     - Ouroboros
-    - Aerobellum
     - Strongbow
-    - Parabola
-    - Persisto
     - Boom
     - Airship Aces
     - Antiquis
@@ -117,12 +105,18 @@ pools:
     - Unum Lana
     - 'Avalanche: Mini'
     - The Complex CTF
-    - Hyperspace
     - Rooted
     - Mutiny
     - Nightsail
     - Atom
     - Aqueous Remnants
+    - Artext
+    - Atromix
+    - Khaba
+    - Molendinis
+    - SolitudeMC
+    - Sunburn
+    - Unity
   medium:
     type: voted
     enabled: true
@@ -148,7 +142,6 @@ pools:
     - Mushroom Gorge
     - Athirk
     - Urban Jungle
-    - Bamboo Valley
     - Fort Wars
     - Battle of Tenjin
     - Wooly Woods
@@ -156,7 +149,6 @@ pools:
     - Bessemer's Process
     - Shroom Trip
     - 'Fairy Tales 2: A Tale or Two'
-    - Black Gold
     - Fractal Descent
     - Utopia
     - Retaliation
@@ -164,31 +156,24 @@ pools:
     - Two Tier
     - Avalanche
     - Escensio
-    - Avalon Funland
     - The Complex TDM
     - Cake Day
     - Circus CTW
     - Jungle Beat
     - Kytriak (TE)
-    - Outback
-    - PixelMix
     - Mayan Apocalypse
     - Royal Garden DTC
-    - Bamboo Valley III
     - Retaliation 2
-    - Woodwork Harbor
     - Lunar Coliseum
     - Piston KoTH
     - The Hill
     - Green Hill Zone
     - Belcrest
-    - Swamped
     - Tetrad
     - Townside
     - Fox Strife
     - Mystic Point
     - Equus
-    - Golden Drought IV
     - Gridlock 2
     - Oaken Meadow
     - Pipe Palace
@@ -205,7 +190,6 @@ pools:
     - Barr DTC
     - Muddy Paths
     - 'Siloë'
-    - 101 Rooms TDM
     - Cairo TDM
     - Stampede
     - Tebulas
@@ -213,13 +197,20 @@ pools:
     - Arch
     - Relic
     - Sky of Ruins
-    - Beauty to Ashes
     - Longshot
     - Palace CTF
     - 'cos(tnt)'
     - Cabin Fever
     - Diablo
+    - Aerobellum
+    - Boletum
+    - Coral Reef
+    - Hyperspace
+    - Hyral Skylands
     - Monument Valley
+    - Parabola
+    - Riverbank
+    - Thunderstorm
   mega:
     type: voted
     enabled: true
@@ -238,7 +229,6 @@ pools:
     - Viridun
     - Anathema
     - Soviet Mills
-    - Coral Reef
     - Venice TDM
     - Runes of Ruin
     - Battle of Lyndanisse
@@ -292,3 +282,13 @@ pools:
     - Bastion Hill CTF
     - Twilight Zone
     - Funerea
+    - Avalon Funland
+    - Bamboo Valley
+    - Bamboo Valley III
+    - Beauty to Ashes
+    - Black Gold
+    - Golden Drought IV
+    - Outback
+    - PixelMix
+    - Swamped
+    - Woodwork Harbor
