@@ -9,6 +9,7 @@ pools:
     - Mini Drought
     - Academy
     - Dynamo
+    - Directrix
     - Greecia
     - Downforce
     - The Grove
@@ -64,6 +65,7 @@ pools:
     - Diversity
     - Demaroo
     - 9.5th Law
+    - Desert Sanctuary
     - Boletum
     - Facility
     - Underpass
@@ -87,6 +89,7 @@ pools:
     - Nightlife TDM
     - Lemuria
     - Levels
+    - Concourse
     - Coastline
     - Ouroboros
     - Aerobellum
@@ -200,6 +203,9 @@ pools:
     - Relic
     - Sky of Ruins
     - Beauty to Ashes
+    - Longshot
+    - Palace CTF
+    - 'cos(tnt)'
   mega:
     type: voted
     enabled: true
@@ -270,3 +276,5 @@ pools:
     - Battle of Tenjin III
     - Synergy
     - Bastion Hill CTF
+    - Twilight Zone
+    - Funerea
