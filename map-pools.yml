@@ -1,10 +1,10 @@
-last_active: medium
+last_active: mega
 pools:
   micro:
     type: ordered
     enabled: true
     players: 1
-    next_map: BalloonsDTM
+    next_map: Dynamo
     maps:
     - Mini Drought
     - Academy
@@ -50,7 +50,7 @@ pools:
     type: ordered
     enabled: true
     players: 16
-    next_map: Circus DTC
+    next_map: Lemuria
     maps:
     - Race for Victory
     - Riverbank
@@ -90,12 +90,13 @@ pools:
     - Drastic Change
     - Warlock
     - Golden Drought III
-    - Monument Valley
+    - Desert Country
     - Two Castles
     - Streamline
     - Ender Blast
     - Ascension
     - A Watery Grave
+    - Citadel
     - Nightlife TDM
     - Lemuria
     - Levels
@@ -113,7 +114,6 @@ pools:
     - Equinox
     - Loyalty DTM
     - Fox Mini
-    - Desert Country
     - Unum Lana
     - 'Avalanche: Mini'
     - The Complex CTF
@@ -219,6 +219,7 @@ pools:
     - 'cos(tnt)'
     - Cabin Fever
     - Diablo
+    - Monument Valley
   mega:
     type: voted
     enabled: true
