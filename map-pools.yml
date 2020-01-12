@@ -1,4 +1,4 @@
-last_active: mega
+last_active: medium
 pools:
   micro:
     type: ordered
@@ -13,26 +13,25 @@ pools:
     - Greecia
     - Downforce
     - The Grove
+    - AstroGEN
     - Battle Ecliptica II
     - Ubos CTF
     - Lilypad
     - Infernal Shadow
     - Cairn
+    - Aureola
     - Justice
     - Dawnskirr
     - Abudor
     - BalloonsDTM
+    - 'Hot Dam: Mini'
+    - Divided
     - Government
     - Balloon Archipelago
     - Ascendance
-    - Aureola
-    - AstroGEN
     - Acear I
-    - 'Hot Dam: Mini'
-    - Dust
-    - Tatakai
     - Cake Wars
-    - Divided
+    - Dust
     - Battle Ecliptica CTF
     - Polylith
     - Rage Quit FFA
@@ -42,6 +41,7 @@ pools:
     - 101 Rooms TDM
     - Persisto
     - Snowy Wars
+    - Tatakai
   mini:
     type: ordered
     enabled: true
@@ -58,33 +58,35 @@ pools:
     - BoomBox
     - Empire
     - Sunrise Over Paradise
-    - Abudor II
     - Banana Split
     - Limbo
     - Desert Cataract
+    - Boom
     - Diversity
     - Demaroo
     - 9.5th Law
     - Desert Sanctuary
+    - Streamline
     - Facility
+    - Antiquis
     - Underpass
     - Greecia II
     - Woolirium
-    - Tanker TNT
+    - Ender Blast
     - Aaeros
     - Deepwind Jungle
     - 'Tree of Life: Mini'
+    - Desert Country
     - The Fenland
     - Circus DTC
     - Cargo
+    - Abudor II
     - Oakspell
     - Drastic Change
     - Warlock
     - Golden Drought III
-    - Desert Country
     - Two Castles
-    - Streamline
-    - Ender Blast
+    - Tanker TNT
     - Ascension
     - A Watery Grave
     - Citadel
@@ -96,18 +98,16 @@ pools:
     - Coastline
     - Ouroboros
     - Strongbow
-    - Boom
     - Airship Aces
-    - Antiquis
     - Equinox
     - Loyalty DTM
-    - Fox Mini
     - Unum Lana
     - 'Avalanche: Mini'
     - The Complex CTF
     - Rooted
     - Mutiny
     - Nightsail
+    - Fox Mini
     - Atom
     - Aqueous Remnants
     - Artext
@@ -188,7 +188,6 @@ pools:
     - Nivalis
     - Streamline II
     - Barr DTC
-    - Muddy Paths
     - 'Siloë'
     - Cairo TDM
     - Stampede
