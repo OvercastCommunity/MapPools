@@ -1,4 +1,4 @@
-last_active: medium
+last_active: mega
 pools:
   micro:
     type: ordered
@@ -186,7 +186,7 @@ pools:
     - Nivalis
     - Streamline II
     - Barr DTC
-    - 'Siloë'
+    - Siloë
     - Cairo TDM
     - Stampede
     - Tebulas
