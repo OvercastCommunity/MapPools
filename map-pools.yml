@@ -14,34 +14,41 @@ pools:
     - Directrix
     - Greecia
     - Downforce
-    - The Grove
-    - AstroGEN
     - Battle Ecliptica II
     - Ubos CTF
     - Lilypad
-    - Infernal Shadow
     - Cairn
+    - Government
+    - Ascendance
+    - Acear I
+    - Divided
+    - Polylith
+    - Rage Quit FFA
+    - Assault
+  nano:
+    type: ordered
+    enabled: true
+    players: 17
+    next_map: The Grove
+    maps:
+    - The Grove
+    - AstroGEN
+    - Infernal Shadow
     - Aureola
     - Justice
     - Dawnskirr
     - Abudor
     - BalloonsDTM
     - 'Hot Dam: Mini'
-    - Divided
-    - Government
     - Balloon Archipelago
-    - Ascendance
-    - Acear I
     - Cake Wars
     - Dust
     - Battle Ecliptica CTF
-    - Polylith
-    - Rage Quit FFA
-    - Assault
     - Chimeric
     - Blizz
     - 101 Rooms TDM
     - Persisto
+    - CotBot
     - Snowy Wars
     - Tatakai
   micro:
@@ -122,7 +129,7 @@ pools:
   centi:
     type: voted
     enabled: true
-    players: 45
+    players: 30
     maps:
     - Fortress Battles
     - Sand Wars
@@ -160,7 +167,7 @@ pools:
   hecto:
     type: voted
     enabled: true
-    players: 50
+    players: 40
     maps:
     - Smog
     - Fallencrests
@@ -221,7 +228,7 @@ pools:
   mega:
     type: voted
     enabled: true
-    players: 65
+    players: 64
     maps:
     - Royal Garden CTW
     - Hadron
@@ -263,7 +270,7 @@ pools:
   giga:
     type: voted
     enabled: true
-    players: 75
+    players: 100
     maps:
     - The Nile
     - The Arena
