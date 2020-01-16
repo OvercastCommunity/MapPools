@@ -28,7 +28,7 @@ pools:
   nano:
     type: ordered
     enabled: true
-    players: 17
+    players: 10
     next_map: The Grove
     maps:
     - The Grove
@@ -54,7 +54,7 @@ pools:
   micro:
     type: ordered
     enabled: true
-    players: 25
+    players: 17
     next_map: Sunburn
     maps:
     - Race for Victory
@@ -129,7 +129,7 @@ pools:
   centi:
     type: voted
     enabled: true
-    players: 30
+    players: 25
     maps:
     - Fortress Battles
     - Sand Wars
