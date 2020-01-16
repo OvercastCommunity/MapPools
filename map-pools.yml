@@ -1,6 +1,8 @@
+#
+# Rotations sample configuration
 last_active: mega
 pools:
-  micro:
+  pico:
     type: ordered
     enabled: true
     players: 1
@@ -42,10 +44,10 @@ pools:
     - Persisto
     - Snowy Wars
     - Tatakai
-  mini:
+  micro:
     type: ordered
     enabled: true
-    players: 16
+    players: 25
     next_map: Sunburn
     maps:
     - Race for Victory
@@ -117,14 +119,49 @@ pools:
     - SolitudeMC
     - Sunburn
     - Unity
-  medium:
+  centi:
     type: voted
     enabled: true
-    players: 24
+    players: 45
     maps:
     - Fortress Battles
     - Sand Wars
     - Medieval Warfare
+    - Spaceship Battles
+    - Iris DTC
+    - Urban Jungle
+    - Retaliation
+    - Escensio
+    - The Hill
+    - Townside
+    - Equus
+    - Gridlock 2
+    - Oaken Meadow
+    - Xion
+    - Streamline II
+    - Barr DTC
+    - Siloë
+    - Stampede
+    - Tebulas
+    - U-Boat TDM
+    - Arch
+    - Sky of Ruins
+    - Long Shot
+    - Palace CTF
+    - cos(tnt)
+    - Aerobellum
+    - Boletum
+    - Hyperspace
+    - Hyral Skylands
+    - Monument Valley
+    - Parabola
+    - Riverbank
+    - Thunderstorm
+  hecto:
+    type: voted
+    enabled: true
+    players: 50
+    maps:
     - Smog
     - Fallencrests
     - Fourchette
@@ -132,16 +169,13 @@ pools:
     - 9th Law
     - Sky Traffic
     - Race for Victory 2
-    - Spaceship Battles
     - Battle Ecliptica III
-    - Iris DTC
     - Turf Wars
     - BlockBlock
     - Blocks CTW
     - Interitus
     - Mushroom Gorge
     - Athirk
-    - Urban Jungle
     - Fort Wars
     - Battle of Tenjin
     - Wooly Woods
@@ -151,11 +185,9 @@ pools:
     - 'Fairy Tales 2: A Tale or Two'
     - Fractal Descent
     - Utopia
-    - Retaliation
     - Cat's Cradle
     - Two Tier
     - Avalanche
-    - Escensio
     - The Complex TDM
     - Cake Day
     - Circus CTW
@@ -166,120 +198,55 @@ pools:
     - Retaliation 2
     - Lunar Coliseum
     - Piston KoTH
-    - The Hill
     - Green Hill Zone
     - Belcrest
     - Tetrad
-    - Townside
     - Fox Strife
     - Mystic Point
-    - Equus
-    - Gridlock 2
-    - Oaken Meadow
     - Pipe Palace
     - Araxa
     - Tenebrous
     - Winter Wakening
     - Xi
-    - Xion
     - Aequabilis
     - D-Day
     - Inheritance
     - Nivalis
-    - Streamline II
-    - Barr DTC
-    - Siloë
     - Cairo TDM
-    - Stampede
-    - Tebulas
-    - U-Boat TDM
-    - Arch
     - Relic
-    - Sky of Ruins
-    - Long Shot
-    - Palace CTF
-    - cos(tnt)
     - Cabin Fever
     - Diablo
-    - Aerobellum
-    - Boletum
     - Coral Reef
-    - Hyperspace
-    - Hyral Skylands
-    - Monument Valley
-    - Parabola
-    - Riverbank
-    - Thunderstorm
     - A New Day
   mega:
     type: voted
     enabled: true
-    players: 64
+    players: 65
     maps:
-    - The Nile
     - Royal Garden CTW
-    - The Arena
-    - Temple Valley
     - Hadron
     - Midnight Train
-    - Harb
-    - Total War
-    - Modern Cityscape
     - Blocks DTC
     - Viridun
-    - Anathema
-    - Soviet Mills
-    - Venice TDM
     - Runes of Ruin
-    - Battle of Lyndanisse
     - Hot Dam
     - Golden Drought
-    - Full Salvo
-    - Airship Battle
-    - Broken Unity
     - Wildwood Crevice
     - Race for Victory 3
     - Scrap Mettle
     - Golden Drought II
-    - Trench Warfare 2
     - Glacial Impact
     - Twisted
-    - Tree of Life
-    - Hydrolock
-    - Sky Traffic 2
     - Babylon
-    - Bridge Over Troubled Water
-    - Abandoned Zoo
-    - Temple Run
-    - Corrupted Kingdoms
-    - Irongate Harbor
-    - Scorched Grove
-    - Spaceship Battles II
-    - Totally War II
     - Astro
-    - Battle of Tenjin 2
     - Exitium
-    - Hydrolock II
-    - Paradise Isle
-    - Welcome To Wool Square
     - Ion
-    - Baroque Gardens
     - Battle of Krehm
-    - Argon
-    - Arctic Dusk
     - Nuclear Winter
-    - Glacial Impact 2
     - Pavage
-    - Riverside
-    - Sandbox
-    - Northlands
-    - Icebliss
-    - Scrap Mettle 2
     - The Archives
-    - Zoo
     - Battle of Tenjin III
     - Synergy
-    - Bastion Hill CTF
     - Twilight Zone
     - Funerea
     - Avalon Funland
@@ -293,3 +260,48 @@ pools:
     - Swamped
     - Woodwork Harbor
     - Ozone
+  giga:
+    type: voted
+    enabled: true
+    players: 75
+    maps:
+    - The Nile
+    - The Arena
+    - Temple Valley
+    - Harb
+    - Total War
+    - Modern Cityscape
+    - Anathema
+    - Soviet Mills
+    - Venice TDM
+    - Battle of Lyndanisse
+    - Full Salvo
+    - Airship Battle
+    - Broken Unity
+    - Trench Warfare 2
+    - Tree of Life
+    - Hydrolock
+    - Sky Traffic 2
+    - Bridge Over Troubled Water
+    - Abandoned Zoo
+    - Temple Run
+    - Corrupted Kingdoms
+    - Irongate Harbor
+    - Scorched Grove
+    - Spaceship Battles II
+    - Totally War II
+    - Battle of Tenjin 2
+    - Hydrolock II
+    - Paradise Isle
+    - Welcome To Wool Square
+    - Baroque Gardens
+    - Argon
+    - Arctic Dusk
+    - Glacial Impact 2
+    - Riverside
+    - Sandbox
+    - Northlands
+    - Icebliss
+    - Scrap Mettle 2
+    - Zoo
+    - Bastion Hill CTF
