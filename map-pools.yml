@@ -284,6 +284,7 @@ pools:
     - Twisted
     - Viridun
     - Wildwood Crevice
+    - Ozone
   giga:
     type: voted
     enabled: true
