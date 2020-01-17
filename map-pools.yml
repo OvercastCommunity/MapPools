@@ -31,7 +31,7 @@ pools:
     - Under The Sea
     - Castellum
     - Decay
-    - Carulean Cave
+    - Cerulean Cave
   nano:
     type: ordered
     enabled: true
