@@ -129,6 +129,7 @@ pools:
     - Underpass
     - Unum Lana
     - Woolirium
+    - Citadel
   hecto:
     type: voted
     enabled: true
