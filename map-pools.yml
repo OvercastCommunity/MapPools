@@ -6,32 +6,32 @@ pools:
     type: ordered
     enabled: true
     players: 1
-    next_map: Government
+    next_map: Castellum
     maps:
-    - Government
-    - Rage Quit FFA
-    - 5man
-    - Alien
-    - Retro KotF
-    - Destiny
-    - Festive
-    - Frontier
-    - Geiran
-    - Geometric
-    - Hillside Mini
-    - Frozen Market
-    - Overgrown Valley
-    - Pirate Cove
-    - Pompeii
-    - Snowy Frontier
-    - Stagnant Waters
-    - Stonehenge
-    - The Snowmelt Mines
-    - Toss Up
-    - Under The Sea
     - Castellum
-    - Decay
+    - Geometric
+    - Alien
     - Cerulean Cave
+    - Rage Quit FFA
+    - Government
+    - Toss Up
+    - Festive
+    - The Snowmelt Mines
+    - Pirate Cove
+    - Hillside Mini
+    - Frontier
+    - Destiny
+    - 5man
+    - Decay
+    - Snowy Frontier
+    - Overgrown Valley
+    - Pompeii
+    - Stonehenge
+    - Under The Sea
+    - Retro KotF
+    - Frozen Market
+    - Geiran
+    - Stagnant Waters
   nano:
     type: ordered
     enabled: true
