@@ -53,6 +53,7 @@ pools:
     - Divided
     - Downforce
     - Polylith
+    - Limbo II
   micro:
     type: voted
     enabled: true
