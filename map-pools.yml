@@ -54,10 +54,9 @@ pools:
     - Downforce
     - Polylith
   micro:
-    type: ordered
+    type: voted
     enabled: true
     players: 18
-    next_map: Sunburn
     maps:
     - Chimeric
     - 101 Rooms TDM
