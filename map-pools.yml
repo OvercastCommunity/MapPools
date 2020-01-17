@@ -1,6 +1,6 @@
 #
 # Rotations sample configuration
-last_active: mega
+last_active: hecto
 pools:
   pico:
     type: ordered
@@ -14,21 +14,16 @@ pools:
     - Cerulean Cave
     - Rage Quit FFA
     - Government
-    - Toss Up
     - Festive
     - The Snowmelt Mines
     - Pirate Cove
-    - Hillside Mini
     - Frontier
     - Destiny
     - 5man
     - Decay
-    - Snowy Frontier
     - Overgrown Valley
     - Pompeii
-    - Stonehenge
     - Under The Sea
-    - Retro KotF
     - Frozen Market
     - Geiran
     - Stagnant Waters
@@ -85,7 +80,7 @@ pools:
     - Khaba
     - Loyalty DTM
     - Molendinis
-    - Pharaoh’s Catacombs
+    - Pharaoh's Catacombs
     - SolitudeMC
     - Strongbow
     - Sunburn
@@ -177,7 +172,6 @@ pools:
     - Urban Jungle
     - Escensio
     - Long Shot
-    - Muddy Paths
     - Riverbank
     - Siloë
     - Streamline II
@@ -205,13 +199,13 @@ pools:
     - Avalanche
     - Battle of Tenjin
     - Belcrest
-    - Bessemer’s Process
+    - Bessemer's Process
     - BlockBlock
     - Blocks CTW
     - Cabin Fever
     - Cairo TDM
     - Cake Day
-    - Cat’s Cradle
+    - Cat's Cradle
     - Circus CTW
     - Coral Reef
     - D-Day
