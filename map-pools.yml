@@ -31,7 +31,7 @@ pools:
     type: ordered
     enabled: true
     players: 6
-    next_map: Greecia
+    next_map: Polylith
     maps:
     - Lilypad
     - Mini Drought
@@ -94,7 +94,6 @@ pools:
     - 9.5th Law
     - A Watery Grave
     - Antiquis
-    - Atom
     - 'Avalanche: Mini'
     - Banana Split
     - Boom
@@ -151,7 +150,6 @@ pools:
     - Race for Victory
     - The Complex CTF
     - The Fenland
-    - Two Castles
     - Warlock
     - Aerobellum
     - Arch
