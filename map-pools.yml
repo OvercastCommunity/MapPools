@@ -33,6 +33,7 @@ pools:
     players: 6
     next_map: Dynamo
     maps:
+    - Race for Victory
     - Lilypad
     - Mini Drought
     - Ubos CTF
@@ -48,6 +49,7 @@ pools:
     - Polylith
     - Limbo II
     - Divided
+    - Warlock
   micro:
     type: voted
     enabled: true
@@ -85,6 +87,7 @@ pools:
     - Sunburn
     - Sunrise Over Paradise
     - Unity
+    - The Fenland
   centi:
     type: voted
     enabled: true
@@ -124,6 +127,7 @@ pools:
     - Woolirium
     - Citadel
     - Wit's End
+    - Airship Battle
   hecto:
     type: voted
     enabled: true
@@ -147,10 +151,7 @@ pools:
     - Diversity
     - Ender Blast
     - Equinox
-    - Race for Victory
     - The Complex CTF
-    - The Fenland
-    - Warlock
     - Aerobellum
     - Arch
     - Boletum
@@ -278,6 +279,7 @@ pools:
     - Viridun
     - Wildwood Crevice
     - Ozone
+    - Harb
   giga:
     type: voted
     enabled: true
@@ -287,7 +289,6 @@ pools:
     - Funerea
     - Synergy
     - Abandoned Zoo
-    - Airship Battle
     - Anathema
     - Arctic Dusk
     - Argon
@@ -297,7 +298,6 @@ pools:
     - Battle of Tenjin 2
     - Bridge Over Troubled Water
     - Full Salvo
-    - Harb
     - Hydrolock
     - Hydrolock II
     - Icebliss
