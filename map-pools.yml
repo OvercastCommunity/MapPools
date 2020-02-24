@@ -129,6 +129,7 @@ pools:
     - Citadel
     - Wit's End
     - Airship Battle
+    - Trench Warfare
   hecto:
     type: voted
     enabled: true
@@ -177,6 +178,7 @@ pools:
     - Barr DTC
     - Equus
     - Xion
+    - The Vortex
   mega:
     type: voted
     enabled: true
