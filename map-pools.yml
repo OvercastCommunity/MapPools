@@ -37,6 +37,7 @@ pools:
     - Lilypad
     - Mini Drought
     - Ubos CTF
+    - Diversity
     - Academy
     - Greecia
     - Acear I
@@ -89,6 +90,7 @@ pools:
     - Sunrise Over Paradise
     - Unity
     - The Fenland
+    - Desert Country
   centi:
     type: voted
     enabled: true
@@ -148,9 +150,7 @@ pools:
     - Ascension
     - Concourse
     - Demaroo
-    - Desert Country
     - Desert Sanctuary
-    - Diversity
     - Ender Blast
     - Equinox
     - The Complex CTF
