@@ -1,6 +1,6 @@
 #
 # Rotations sample configuration
-last_active: hecto
+last_active: centi
 pools:
   pico:
     type: ordered
@@ -31,7 +31,7 @@ pools:
     type: ordered
     enabled: true
     players: 6
-    next_map: Acear I
+    next_map: Greecia
     maps:
     - Race for Victory
     - Lilypad
