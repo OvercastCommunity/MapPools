@@ -178,7 +178,6 @@ pools:
     - Barr DTC
     - Equus
     - Xion
-    - The Vortex
   mega:
     type: voted
     enabled: true
@@ -329,3 +328,4 @@ pools:
     - Sandbox
     - Scorched Grove
     - Aurimar Rift
+    - The Vortex
