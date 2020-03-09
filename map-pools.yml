@@ -1,6 +1,6 @@
 #
 # Rotations sample configuration
-last_active: nano
+last_active: hecto
 pools:
   pico:
     type: ordered
@@ -58,7 +58,7 @@ pools:
     - CotBot
     - Cake Wars
     - Dust
-    - Hot Dam: Mini
+    - 'Hot Dam: Mini'
     - Justice
     - Snowy Wars
   micro:
@@ -67,7 +67,7 @@ pools:
     players: 20
     maps:
     - Molendinis
-    - Pharaoh’s Catacombs
+    - Pharaoh's Catacombs
     - Strongbow
     - Sunrise Over Paradise
     - The Fenland
@@ -90,7 +90,7 @@ pools:
     - Woolirium
     - Streamline
     - Tanker TNT
-    - Tree of Life: Mini
+    - 'Tree of Life: Mini'
   centi:
     type: voted
     enabled: true
@@ -111,11 +111,8 @@ pools:
     - Spaceship Battles
     - Tebulas
     - Urban Jungle
-    - Wit's End
     - Escensio
-    - Longshot
-    - Muddy Paths
-    - Riverbank
+    - Long Shot
     - Siloë
     - Streamline II
   hecto:
@@ -132,15 +129,15 @@ pools:
     - Athirk
     - Avalanche
     - Battle of Tenjin
-    - Bessemer’s Process
+    - Bessemer's Process
     - BlockBlock
     - Cairo TDM
-    - Cat’s Cradle
+    - Cat's Cradle
     - Circus CTW
     - Coral Reef
     - D-Day
     - Diablo
-    - Fairy Tales 2: A Tale or Two
+    - 'Fairy Tales 2: A Tale or Two'
     - Fallencrests
     - Fort Wars
     - Fourchette
@@ -182,7 +179,6 @@ pools:
     - Battle of Tenjin III
     - Blocks DTC
     - DATAbasin
-    - Exitium
     - Glacial Impact
     - Golden Drought
     - Hadron
