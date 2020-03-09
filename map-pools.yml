@@ -1,12 +1,12 @@
 #
 # Rotations sample configuration
-last_active: centi
+last_active: nano
 pools:
   pico:
     type: ordered
-    enabled: true
+    enabled: false
     players: 1
-    next_map: Frozen Market
+    next_map: Geometric
     maps:
     - Castellum
     - Geometric
@@ -31,24 +31,21 @@ pools:
     type: ordered
     enabled: true
     players: 6
-    next_map: Greecia
+    next_map: Ubos CTF
     maps:
     - Race for Victory
     - Lilypad
     - Mini Drought
     - Ubos CTF
-    - Diversity
-    - Academy
-    - Greecia
-    - Acear I
     - Battle Ecliptica II
-    - Directrix
-    - Dynamo
+    - Academy
     - Cairn
+    - Rage Quit
+    - Dynamo
+    - DATAbase
     - Assault
     - Downforce
     - Polylith
-    - Placid Spring
     - Limbo II
     - Divided
     - Warlock
@@ -57,40 +54,23 @@ pools:
     enabled: true
     players: 18
     maps:
-    - Chimeric
     - 101 Rooms TDM
-    - Abudor
     - AstroGEN
     - Aureola
     - Balloon Archipelago
     - BalloonsDTM
     - Battle Ecliptica CTF
-    - Blizz
     - Cake Wars
-    - Dawnskirr
     - Dust
     - 'Hot Dam: Mini'
-    - Infernal Shadow
     - Justice
-    - Persisto
     - Snowy Wars
-    - Tatakai
-    - The Grove
     - CotBot
-    - Artext
-    - Atromix
-    - Facility
-    - Khaba
-    - Loyalty DTM
     - Molendinis
     - Pharaoh's Catacombs
-    - SolitudeMC
     - Strongbow
-    - Sunburn
     - Sunrise Over Paradise
-    - Unity
     - The Fenland
-    - Desert Country
   centi:
     type: voted
     enabled: true
@@ -99,37 +79,20 @@ pools:
     - Airship Aces
     - 9.5th Law
     - A Watery Grave
-    - Antiquis
-    - 'Avalanche: Mini'
-    - Banana Split
     - Boom
-    - Brisked
     - Cargo
     - Circus DTC
     - Cloud Nine
     - Coastline
     - Deepwind Jungle
     - Desert Cataract
-    - Discipline
-    - Drastic Change
     - Empire
-    - Fox Mini
     - Golden Drought III
-    - Greecia II
-    - Iris DTM
-    - Lava Dew
-    - Lemuria
-    - Levels
     - Limbo
     - Nightlife TDM
     - Nightsail
-    - Ouroboros
-    - Rooted
-    - Underpass
-    - Unum Lana
     - Woolirium
     - Citadel
-    - Wit's End
     - Airship Battle
     - Trench Warfare
   hecto:
@@ -137,74 +100,42 @@ pools:
     enabled: true
     players: 30
     maps:
-    - BoomBox
-    - Mutiny
-    - Oakspell
-    - Pirates Den
     - Streamline
     - Tanker TNT
     - 'Tree of Life: Mini'
-    - Aaeros
-    - Abudor II
-    - Aqueous Remnants
-    - Ascension
-    - Concourse
-    - Demaroo
-    - Desert Sanctuary
-    - Ender Blast
-    - Equinox
     - The Complex CTF
     - Aerobellum
-    - Arch
     - Boletum
     - cos(tnt)
     - Fortress Battles
     - Hyperspace
-    - Hyral Skylands
     - Iris DTC
     - Medieval Warfare
     - Palace CTF
-    - Parabola
     - Sand Wars
     - Spaceship Battles
     - Tebulas
-    - Thunderstorm
-    - U-Boat TDM
     - Urban Jungle
     - Escensio
     - Long Shot
     - Siloë
     - Streamline II
-    - Barr DTC
-    - Equus
-    - Xion
   mega:
     type: voted
     enabled: true
     players: 50
     maps:
     - Battle Ecliptica III
-    - Gridlock 2
     - Monument Valley
-    - Oaken Meadow
     - Retaliation
-    - Stampede
     - The Hill
-    - Townside
-    - Sky of Ruins
     - 9th Law
-    - Aequabilis
-    - Araxa
     - Athirk
     - Avalanche
     - Battle of Tenjin
-    - Belcrest
     - Bessemer's Process
     - BlockBlock
-    - Blocks CTW
-    - Cabin Fever
     - Cairo TDM
-    - Cake Day
     - Cat's Cradle
     - Circus CTW
     - Coral Reef
@@ -217,43 +148,28 @@ pools:
     - Fox Strife
     - Fractal Descent
     - Green Hill Zone
-    - Inheritance
     - Interitus
     - Jungle Beat
-    - Kytriak (TE)
     - Lunar Coliseum
     - Mayan Apocalypse
     - Mushroom Gorge
     - Mystic Point
     - Nivalis
-    - Pipe Palace
     - Piston KoTH
     - Race for Victory 2
-    - Relic
-    - Retaliation 2
     - Ring Race
     - Royal Garden DTC
     - Shroom Trip
     - Sky Traffic
-    - Smog
-    - Storm
     - Tenebrous
     - Tetrad
     - The Complex TDM
-    - Turf Wars
     - Two Tier
-    - Utopia
-    - Winter Wakening
     - Wooly Woods
-    - Xi
     - A New Day
     - Bamboo Valley
     - Bamboo Valley III
-    - Black Gold
     - Woodwork Harbor
-    - Beauty to Ashes
-    - Golden Drought IV
-    - Outback
     - PixelMix
     - Swamped
     - Runes of Ruin
@@ -262,37 +178,28 @@ pools:
     - Babylon
     - Battle of Tenjin III
     - Blocks DTC
-    - Exitium
     - Glacial Impact
     - Golden Drought
-    - Golden Drought II
     - Hadron
     - Hot Dam
     - Ion
-    - Midnight Train
     - Nuclear Winter
-    - Pavage
     - Race for Victory 3
-    - Royal Garden CTW
     - Scrap Mettle
     - The Archives
-    - Twilight Zone
     - Twisted
     - Viridun
     - Wildwood Crevice
-    - Ozone
     - Harb
+    - DATAbasin
   giga:
     type: voted
     enabled: true
     players: 70
     maps:
     - Battle of Krehm
-    - Funerea
     - Synergy
-    - Abandoned Zoo
     - Anathema
-    - Arctic Dusk
     - Argon
     - Baroque Gardens
     - Bastion Hill CTF
@@ -300,15 +207,12 @@ pools:
     - Battle of Tenjin 2
     - Bridge Over Troubled Water
     - Full Salvo
-    - Hydrolock
-    - Hydrolock II
     - Icebliss
     - Irongate Harbor
     - Modern Cityscape
     - Northlands
     - Paradise Isle
     - Riverside
-    - Scrap Mettle 2
     - Sky Traffic 2
     - Soviet Mills
     - Spaceship Battles II
@@ -325,7 +229,10 @@ pools:
     - Corrupted Kingdoms
     - Broken Unity
     - Glacial Impact 2
-    - Sandbox
     - Scorched Grove
     - Aurimar Rift
     - The Vortex
+    - Golden Drought II
+    - Royal Garden CTW
+    - Midnight Train
+    - Ozone
