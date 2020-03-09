@@ -35,53 +35,49 @@ pools:
     maps:
     - Race for Victory
     - Lilypad
+    - 101 Rooms TDM
     - Mini Drought
     - Ubos CTF
-    - Battle Ecliptica II
     - Academy
-    - Cairn
-    - Rage Quit
+    - Battle Ecliptica II
     - Dynamo
-    - DATAbase
+    - Cairn
     - Assault
     - Downforce
     - Polylith
     - Limbo II
     - Divided
     - Warlock
+    - Rage Quit
+    - DATAbase
+    - Aureola
+    - Balloon Archipelago
+    - AstroGEN
+    - Battle Ecliptica CTF
+    - BalloonsDTM
+    - CotBot
+    - Cake Wars
+    - Dust
+    - Hot Dam: Mini
+    - Justice
+    - Snowy Wars
   micro:
     type: voted
     enabled: true
-    players: 18
+    players: 20
     maps:
-    - 101 Rooms TDM
-    - AstroGEN
-    - Aureola
-    - Balloon Archipelago
-    - BalloonsDTM
-    - Battle Ecliptica CTF
-    - Cake Wars
-    - Dust
-    - 'Hot Dam: Mini'
-    - Justice
-    - Snowy Wars
-    - CotBot
     - Molendinis
-    - Pharaoh's Catacombs
+    - Pharaoh’s Catacombs
     - Strongbow
     - Sunrise Over Paradise
     - The Fenland
-  centi:
-    type: voted
-    enabled: true
-    players: 24
-    maps:
     - Airship Aces
     - 9.5th Law
     - A Watery Grave
     - Boom
     - Cargo
     - Circus DTC
+    - Citadel
     - Cloud Nine
     - Coastline
     - Deepwind Jungle
@@ -92,19 +88,18 @@ pools:
     - Nightlife TDM
     - Nightsail
     - Woolirium
-    - Citadel
-    - Airship Battle
-    - Trench Warfare
-  hecto:
-    type: voted
-    enabled: true
-    players: 30
-    maps:
     - Streamline
     - Tanker TNT
-    - 'Tree of Life: Mini'
+    - Tree of Life: Mini
+  centi:
+    type: voted
+    enabled: true
+    players: 32
+    maps:
     - The Complex CTF
+    - Trench Warfare
     - Aerobellum
+    - Airship Battle
     - Boletum
     - cos(tnt)
     - Fortress Battles
@@ -116,32 +111,36 @@ pools:
     - Spaceship Battles
     - Tebulas
     - Urban Jungle
+    - Wit's End
     - Escensio
-    - Long Shot
+    - Longshot
+    - Muddy Paths
+    - Riverbank
     - Siloë
     - Streamline II
-  mega:
+  hecto:
     type: voted
     enabled: true
-    players: 50
+    players: 48
     maps:
     - Battle Ecliptica III
     - Monument Valley
     - Retaliation
     - The Hill
     - 9th Law
+    - A New Day
     - Athirk
     - Avalanche
     - Battle of Tenjin
-    - Bessemer's Process
+    - Bessemer’s Process
     - BlockBlock
     - Cairo TDM
-    - Cat's Cradle
+    - Cat’s Cradle
     - Circus CTW
     - Coral Reef
     - D-Day
     - Diablo
-    - 'Fairy Tales 2: A Tale or Two'
+    - Fairy Tales 2: A Tale or Two
     - Fallencrests
     - Fort Wars
     - Fourchette
@@ -166,21 +165,28 @@ pools:
     - The Complex TDM
     - Two Tier
     - Wooly Woods
-    - A New Day
     - Bamboo Valley
     - Bamboo Valley III
     - Woodwork Harbor
     - PixelMix
     - Swamped
     - Runes of Ruin
+  mega:
+    type: voted
+    enabled: true
+    players: 64
+    maps:
     - Astro
     - Avalon Funland
     - Babylon
     - Battle of Tenjin III
     - Blocks DTC
+    - DATAbasin
+    - Exitium
     - Glacial Impact
     - Golden Drought
     - Hadron
+    - Harb
     - Hot Dam
     - Ion
     - Nuclear Winter
@@ -190,34 +196,38 @@ pools:
     - Twisted
     - Viridun
     - Wildwood Crevice
-    - Harb
-    - DATAbasin
+    - Battle of Krehm
+    - Synergy
   giga:
     type: voted
     enabled: true
-    players: 70
+    players: 80
     maps:
-    - Battle of Krehm
-    - Synergy
     - Anathema
     - Argon
+    - Aurimar Rift
     - Baroque Gardens
     - Bastion Hill CTF
     - Battle of Lyndanisse
     - Battle of Tenjin 2
     - Bridge Over Troubled Water
     - Full Salvo
+    - Golden Drought II
     - Icebliss
     - Irongate Harbor
+    - Midnight Train
     - Modern Cityscape
     - Northlands
+    - Ozone
     - Paradise Isle
     - Riverside
+    - Royal Garden CTW
     - Sky Traffic 2
     - Soviet Mills
     - Spaceship Battles II
     - The Arena
     - The Nile
+    - The Vortex
     - Total War
     - Totally War II
     - Tree of Life
@@ -230,9 +240,3 @@ pools:
     - Broken Unity
     - Glacial Impact 2
     - Scorched Grove
-    - Aurimar Rift
-    - The Vortex
-    - Golden Drought II
-    - Royal Garden CTW
-    - Midnight Train
-    - Ozone
