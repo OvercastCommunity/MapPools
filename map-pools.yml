@@ -66,6 +66,7 @@ pools:
     enabled: true
     players: 20
     maps:
+    - Facility
     - Molendinis
     - Pharaoh's Catacombs
     - Strongbow
@@ -116,6 +117,7 @@ pools:
     - Wit's End
     - Escensio
     - Long Shot
+    - Shock Wave
     - Siloë
     - Streamline II
   hecto:
