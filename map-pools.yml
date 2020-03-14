@@ -1,6 +1,6 @@
 #
 # Rotations sample configuration
-last_active: hecto
+last_active: centi
 pools:
   pico:
     type: ordered
@@ -97,6 +97,7 @@ pools:
     enabled: true
     players: 32
     maps:
+    - Concourse
     - Desert Sanctuary
     - Equinox
     - The Complex CTF
@@ -128,6 +129,7 @@ pools:
     - Battle Ecliptica III
     - Monument Valley
     - Retaliation
+    - Stampede
     - The Hill
     - 9th Law
     - A New Day
