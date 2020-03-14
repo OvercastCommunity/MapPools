@@ -1,9 +1,9 @@
 Set Next
 -------
 
-> Fun maps that are loaded but not in any pool because they don't really fit
+> Maps that are loaded but not in any pool because they don't really fit. Can be set next.
 
-# Maps
+# List of Maps
 
 | Map Name              | Players   | Teams     | Pool      |
 | --------------------- |:---------:|:---------:| --------- |
