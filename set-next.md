@@ -6,7 +6,7 @@ Set Next
 # Maps
 
 | Map Name              | Players   | Teams     | Pool      |
-| --------------------- | --------- | --------- | --------- |
+| --------------------- |:---------:|:---------:| --------- |
 | Pursuit of Happiness  | 60        | 30 vs 30  | `hecto`   |
 | Twilight Zone         | 80        | 40 vs 40  | `mega`    |
 | Funerea               | 90        | 45 vs 45  | `mega`    |
