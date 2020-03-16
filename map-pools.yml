@@ -1,6 +1,6 @@
 #
 # Rotations sample configuration
-last_active: centi
+last_active: giga
 pools:
   pico:
     type: ordered
@@ -31,7 +31,7 @@ pools:
     type: ordered
     enabled: true
     players: 6
-    next_map: Balloon Archipelago
+    next_map: Race for Victory
     maps:
     - Race for Victory
     - Lilypad
@@ -75,6 +75,7 @@ pools:
     - Airship Aces
     - 9.5th Law
     - A Watery Grave
+    - Banana Split
     - Boom
     - Cargo
     - Circus DTC
