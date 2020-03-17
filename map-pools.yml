@@ -1,7 +1,7 @@
 #
 # Map pool sample configuration
 #
-last_active: giga
+last_active: hecto
 pools:
   pico:
     type: ordered
@@ -32,7 +32,7 @@ pools:
     type: ordered
     enabled: true
     players: 6
-    next_map: Race for Victory
+    next_map: Limbo
     maps:
     - Race for Victory
     - Lilypad
