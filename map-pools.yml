@@ -1,5 +1,6 @@
 #
-# Rotations sample configuration
+# Map pool sample configuration
+#
 last_active: giga
 pools:
   pico:
