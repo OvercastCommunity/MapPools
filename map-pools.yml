@@ -1,7 +1,6 @@
 #
 # Map pool sample configuration
-#
-last_active: hecto
+last_active: mega
 pools:
   pico:
     type: ordered
@@ -32,7 +31,7 @@ pools:
     type: ordered
     enabled: true
     players: 6
-    next_map: Limbo
+    next_map: DATAbase
     maps:
     - Race for Victory
     - Lilypad
@@ -161,7 +160,6 @@ pools:
     - Mushroom Gorge
     - Mystic Point
     - Nivalis
-    - Piston KoTH
     - Race for Victory 2
     - Ring Race
     - Royal Garden DTC
