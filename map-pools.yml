@@ -115,6 +115,7 @@ pools:
     - Palace CTF
     - Sand Wars
     - Spaceship Battles
+    - Stampede
     - Tebulas
     - Urban Jungle
     - Wit's End
@@ -131,12 +132,11 @@ pools:
     - Battle Ecliptica III
     - Monument Valley
     - Retaliation
-    - Stampede
-    - The Hill
     - 9th Law
     - A New Day
     - Athirk
     - Avalanche
+    - Babylon
     - Battle of Tenjin
     - Bessemer's Process
     - BlockBlock
@@ -152,26 +152,25 @@ pools:
     - Fox Strife
     - Fractal Descent
     - Green Hill Zone
+    - Inheritance
     - Interitus
     - Jungle Beat
     - Lunar Coliseum
     - Mayan Apocalypse
-    - Mushroom Gorge
     - Mystic Point
-    - Nivalis
     - Race for Victory 2
     - Ring Race
     - Royal Garden DTC
     - Shroom Trip
     - Sky Traffic
+    - Storm
     - Tenebrous
     - Tetrad
     - The Complex TDM
     - Two Tier
     - Wooly Woods
-    - Bamboo Valley
+    - Zoo
     - Bamboo Valley III
-    - Woodwork Harbor
     - PixelMix
     - Swamped
     - Runes of Ruin
@@ -182,23 +181,33 @@ pools:
     maps:
     - Astro
     - Avalon Funland
-    - Babylon
+    - Bamboo Valley
     - Battle of Tenjin III
     - Blocks DTC
     - DATAbasin
+    - Enchanted Woods
+    - Fallencrests 2
+    - Full Salvo
     - Glacial Impact
     - Golden Drought
+    - Golden Drought IV
     - Hadron
     - Harb
     - Hot Dam
     - Ion
+    - Lunar Coliseum
+    - Mushroom Gorge
+    - Nivalis
     - Nuclear Winter
     - Race for Victory 3
     - Scrap Mettle
     - The Archives
+    - The Hill
+    - Totally War II
     - Twisted
     - Viridun
     - Wildwood Crevice
+    - Woodwork Harbor
     - Battle of Krehm
     - Synergy
   giga:
@@ -213,8 +222,10 @@ pools:
     - Bastion Hill CTF
     - Battle of Lyndanisse
     - Battle of Tenjin 2
+    - Below Zero
     - Bridge Over Troubled Water
-    - Full Salvo
+    - Crater of Secrets
+    - Galactic War
     - Golden Drought II
     - Icebliss
     - Irongate Harbor
@@ -231,9 +242,10 @@ pools:
     - The Arena
     - The Nile
     - The Vortex
+    - Titan
     - Total War
     - Tree of Life
-    - Zoo
+    - The 4th Law
     - Temple Run
     - Temple Valley
     - Venice TDM
