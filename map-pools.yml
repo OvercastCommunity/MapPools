@@ -1,6 +1,6 @@
 #
 # Map pool sample configuration
-last_active: mega
+last_active: centi
 pools:
   pico:
     type: ordered
@@ -31,7 +31,7 @@ pools:
     type: ordered
     enabled: true
     players: 6
-    next_map: DATAbase
+    next_map: Ubos CTF
     maps:
     - Race for Victory
     - Lilypad
