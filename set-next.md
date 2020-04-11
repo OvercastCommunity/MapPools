@@ -12,3 +12,4 @@ Set Next
 | Twilight Zone         | 80        | 40 vs 40  | `mega`    |
 | Funerea               | 90        | 45 vs 45  | `mega`    |
 | Parallax              | 100       | 50 vs 50  | `giga`    |
+| Cannon Duel           | 2         | 1 vs 1    | `nano`    |
