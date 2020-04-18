@@ -58,6 +58,9 @@ pools:
     - 'Hot Dam: Mini'
     - Justice
     - Snowy Wars
+    - Dwyer Hill
+    - The High Road
+    - Chimeric
   micro:
     type: voted
     enabled: true
@@ -90,6 +93,8 @@ pools:
     - Streamline
     - Tanker TNT
     - 'Tree of Life: Mini'
+    - SolitudeMC
+    - Canopy
   centi:
     type: voted
     enabled: true
@@ -100,7 +105,6 @@ pools:
     - Equinox
     - The Complex CTF
     - Trench Warfare
-    - Two Castles
     - Aerobellum
     - Airship Battle
     - Boletum
@@ -121,6 +125,8 @@ pools:
     - Shock Wave
     - Siloë
     - Streamline II
+    - Hyral Skylands
+    - Donut Wars
   hecto:
     type: voted
     enabled: true
@@ -128,7 +134,6 @@ pools:
     maps:
     - Battle Ecliptica III
     - Monument Valley
-    - Retaliation
     - 9th Law
     - A New Day
     - Athirk
@@ -137,7 +142,6 @@ pools:
     - Battle of Tenjin
     - Bessemer's Process
     - BlockBlock
-    - Cairo TDM
     - Cat's Cradle
     - Coral Reef
     - D-Day
@@ -160,7 +164,6 @@ pools:
     - Shroom Trip
     - Sky Traffic
     - Storm
-    - Tenebrous
     - Tetrad
     - The Complex TDM
     - Two Tier
@@ -170,6 +173,9 @@ pools:
     - PixelMix
     - Swamped
     - Runes of Ruin
+    - Retaliation 2
+    - DK Crossovers DTE
+    - Belcrest
   mega:
     type: voted
     enabled: true
@@ -206,6 +212,7 @@ pools:
     - Woodwork Harbor
     - Battle of Krehm
     - Synergy
+    - Moonlight Summit
   giga:
     type: voted
     enabled: true
