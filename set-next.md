@@ -8,6 +8,7 @@ Set Next
 | Map Name              | Players   | Teams     | Pool      |
 | --------------------- |:---------:|:---------:| --------- |
 | Cannon Duel           | 2         | 1 vs 1    | `nano`    |
+| Two Castles           | 40        | 20 vs 20  | `centi`   |
 | Pursuit of Happiness  | 60        | 30 vs 30  | `hecto`   |
 | Exitium               | 80        | 40 vs 40  | `mega`    |
 | Twilight Zone         | 80        | 40 vs 40  | `mega`    |
