@@ -8,7 +8,6 @@ Set Next
 | Map Name              | Players   | Teams     | Pool      |
 | --------------------- |:---------:|:---------:| --------- |
 | Cannon Duel           | 2         | 1 vs 1    | `nano`    |
-| Crossfire             | 29        | 25 vs 4   | `micro`   |
 | Pixel Run             | 29        | 25 vs 4   | `micro`   |
 | Rush Wars             | 29        | 25 vs 4   | `micro`   |
 | Shave                 | 16        | 8 vs 8    | `nano`    |

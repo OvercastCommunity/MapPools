@@ -95,6 +95,7 @@ pools:
     - 'Tree of Life: Mini'
     - SolitudeMC
     - Canopy
+    - Boombox
   centi:
     type: voted
     enabled: true
@@ -177,6 +178,8 @@ pools:
     - Retaliation 2
     - DK Crossovers DTE
     - Belcrest
+    - CannonCube
+    - 'Zap: Cubist Remix'
   mega:
     type: voted
     enabled: true
