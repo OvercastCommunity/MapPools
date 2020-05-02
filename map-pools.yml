@@ -261,3 +261,26 @@ pools:
     - Broken Unity
     - Glacial Impact 2
     - Scorched Grove
+  fun: # Please note this is a fun/test pool
+    type: voted
+    enabled: true
+    dynamic: false
+    players: 1
+    maps:
+      - cos(tnt)
+      - Concourse
+      - Desert Sanctuary
+      - Spaceship Battles
+      - Sand Wars
+      - Equinox
+      - Water Drop Extreme
+      - Rage Quit
+      - 101 Rooms TDM
+      - Race For Victory
+      - Boombox
+      - Fortress Battles
+      - Cannon Duel
+      - Sand Wars InvisiPEARLBow Rage KOTH Grenades Extreme
+      - Mini Drought
+      - AstroGEN
+      - The Nile
