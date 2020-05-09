@@ -290,16 +290,17 @@ pools:
     dynamic: false
     players: 1
     maps:
-      - Fortress Battles
-      - Medieval Warfare
-      - Harb
-      - Sky Traffic
-      - Spaceship Battles
-      - Sand Wars
-      - A Watery Grave
-      - Race for Victory
-      - Cake Wars
-      - Urban Jungle
-      - Airship Battle
-      - Shroom Trip
-      - Avalanche
+    - Fortress Battles
+    - Medieval Warfare
+    - Harb
+    - Sky Traffic
+    - Spaceship Battles
+    - Sand Wars
+    - A Watery Grave
+    - Race for Victory
+    - Cake Wars
+    - Fort Wars
+    - Urban Jungle
+    - Airship Battle
+    - Shroom Trip
+    - Avalanche
