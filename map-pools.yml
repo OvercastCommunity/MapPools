@@ -284,6 +284,9 @@ pools:
       - Mini Drought
       - AstroGEN
       - The Nile
+      - Molendinis
+      - Gleon
+      - Cathedral
   nostalgia:
     type: ordered
     enabled: true
