@@ -11,6 +11,7 @@ Set Next
 | Pixel Run             | 29        | 25 vs 4   | `micro`   |
 | Rush Wars             | 29        | 25 vs 4   | `micro`   |
 | Shave                 | 16        | 8 vs 8    | `nano`    |
+| Rage Quit             | 40        | 20 vs 20  | `centi`   |
 | Two Castles           | 40        | 20 vs 20  | `centi`   |
 | Sand Wars EXTREME     | 40        | 24 vs 24  | `centi`   |
 | Red Agony             | 50        | 50 ffa    | `centi`   |
