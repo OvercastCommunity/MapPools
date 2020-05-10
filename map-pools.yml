@@ -287,6 +287,7 @@ pools:
       - Molendinis
       - Gleon
       - Cathedral
+      - Ski Trip to Blizzardtown
   nostalgia:
     type: ordered
     enabled: true
