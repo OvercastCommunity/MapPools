@@ -261,7 +261,27 @@ pools:
     - Broken Unity
     - Glacial Impact 2
     - Scorched Grove
-  fun: # Please note this is a fun/test pool
+  testing: # Please note this is a pool for testing maps
+    type: voted
+    enabled: true
+    dynamic: false
+    players: 1
+    maps:
+      - Molendinis
+      - Boletum
+      - Aurimar Rift
+      - Citadel
+      - Coral Reef
+      - Crater of Secrets
+      - D-Day
+      - DK Crossovers DTE
+      - Enchanted Woods
+      - Exitium
+      - Festive
+      - Shave
+      - Gleon
+      - Ski Trip to Blizzardtown
+  fun: # Please note this is a fun pool
     type: voted
     enabled: true
     dynamic: false
@@ -284,10 +304,7 @@ pools:
       - Mini Drought
       - AstroGEN
       - The Nile
-      - Molendinis
-      - Gleon
-      - Cathedral
-      - Ski Trip to Blizzardtown
+      - Shave
   nostalgia:
     type: ordered
     enabled: true
