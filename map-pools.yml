@@ -305,6 +305,52 @@ pools:
       - AstroGEN
       - The Nile
       - Shave
+  sns: # Crazy's SNS pool
+    type: voted
+    enabled: true
+    dynamic: false
+    players: 1
+    maps:
+      - 4K
+      - Airship Ascendance
+      - Aird Crossroads
+      - Barf Box
+      - Battle Ecliptica II Blitz
+      - BipBetaMC
+      - Cacti Panic
+      - "CannonQuad+"
+      - Cathedral EndeRAFE
+      - Checkmate
+      - Cloud Nine PearlBow RAGE
+      - cos^2(tnt)
+      - "Crazy's Wool Run"
+      - Fallen Courtyard
+      - Firesand Survival
+      - Foxtrot Rage
+      - Gooseberry
+      - Juggernaut Hall
+      - Nostlgia
+      - Oculo
+      - Penguin Persuit
+      - Pixel Run
+      - Plus Side
+      - Project Chromozone
+      - Prototype
+      - Rage Quit
+      - Rainbow Road
+      - Red Agony
+      - Rush Wars Tournament 2 Attack of the Defenders
+      - Save Apple
+      - Scala
+      - Serengeti
+      - Spaceship Battles Blitz
+      - Swarthmoor
+      - The 6th Law
+      - The Complex
+      - The Wonders of The World
+      - Twilight Zone
+      - Water Drop Extreme
+      - Wooly Woods RAGE
   nostalgia:
     type: ordered
     enabled: true
