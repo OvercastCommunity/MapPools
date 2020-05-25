@@ -133,6 +133,7 @@ pools:
     - Hyral Skylands
     - Donut Wars
     - BlockRAGE
+    - DATAstation
   hecto:
     type: voted
     enabled: true
