@@ -377,3 +377,83 @@ pools:
     - Airship Battle
     - Shroom Trip
     - Avalanche
+  rage:
+    type: voted
+    enabled: true
+    dynamic: false
+    players: 1
+    maps:
+    - 100 Rooms
+    - 101 Rooms
+    - Arid Crossroads
+    - Arx Rage
+    - Atlantis
+    - Aureola Rage
+    - BipBetaMC
+    - "Bliss: Rage"
+    - Blossom
+    - Bouncy Stadium
+    - BVC
+    - Chinatown
+    - "Christmas Eve: Rage"
+    - Cubed
+    - Dead Town
+    - Deschutes
+    - Drandion
+    - Dry Wound
+    - Fallen Courtyard
+    - Fallen Empire
+    - Foxtrot
+    - Gone Camping
+    - Gooseberry
+    - Gravestone
+    - Grimsnes
+    - Hand of Golden
+    - Hanging Garden
+    - Ieats Hall
+    - Immortal
+    - Infinite
+    - Into The Jungle
+    - Java
+    - Lush
+    - Magnolia Creek
+    - Milky Way
+    - Mushrooms of Oblivion
+    - Netherrage
+    - Network
+    - New Way
+    - Oculo
+    - Overgrown Rage
+    - Palude
+    - Permeac
+    - Plus Side
+    - Pride
+    - Proelium
+    - Pyradic
+    - Quavilla
+    - "Radiant Castles: Rage"
+    - Rage Maze
+    - Rage Quit
+    - Rig
+    - Rubik's Rage
+    - Sandstone Temples
+    - Sand Wall
+    - Secluded Oasis
+    - Secluded Palace
+    - Secluded Wharf
+    - Sentio
+    - Snowfall
+    - Snow Globe
+    - Swarthmoor
+    - Sweet Tooth
+    - Sylvan
+    - The 6th Law
+    - The Dome
+    - The End
+    - Together
+    - Trinity
+    - Vinebay
+    - Wintry Way
+    - Wonderland
+    - Yukon
+    - Zen
