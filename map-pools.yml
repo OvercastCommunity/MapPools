@@ -41,12 +41,15 @@ pools:
     - Dynamo
     - Cairn
     - Assault
+    - Persisto
     - Downforce
     - Limbo
     - Polylith
     - Divided
+    - Infernal Shadow
     - Warlock
     - Rage Quit TDM
+    - Aleppo
     - DATAbase
     - Aureola
     - Balloon Archipelago
@@ -99,6 +102,7 @@ pools:
     - SolitudeMC
     - Canopy
     - Boombox
+    - Khaba
   centi:
     type: voted
     enabled: true
