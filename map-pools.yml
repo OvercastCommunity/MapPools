@@ -37,30 +37,24 @@ pools:
     - Ubos CTF
     - Academy
     - Battle Ecliptica II
-    - Directrix
     - Dynamo
     - Cairn
     - Assault
-    - Persisto
     - Downforce
     - Limbo
     - Polylith
     - Divided
     - Infernal Shadow
-    - Warlock
     - Rage Quit TDM
     - Aleppo
     - DATAbase
-    - Aureola
     - Balloon Archipelago
     - AstroGEN
     - Battle Ecliptica CTF
-    - BalloonsDTM
     - CotBot
     - Cake Wars
     - Dust
     - 'Hot Dam: Mini'
-    - Justice
     - Snowy Wars
     - Dwyer Hill
     - The High Road
@@ -103,6 +97,12 @@ pools:
     - Canopy
     - Boombox
     - Khaba
+    - Aureola
+    - BalloonsDTM
+    - Directrix
+    - Justice
+    - Persisto
+    - Warlock
   centi:
     type: voted
     enabled: true
