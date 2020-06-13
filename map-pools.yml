@@ -191,6 +191,7 @@ pools:
     - Belcrest
     - CannonCube
     - 'Zap: Cubist Remix'
+    - Turf Wars
   mega:
     type: voted
     enabled: true
