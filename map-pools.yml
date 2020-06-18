@@ -326,41 +326,44 @@ pools:
     players: 1
     maps:
       - 4K
-      - Airship Ascendance
+      - A Journey Through History
       - Arid Crossroads
-      - Barf Box
       - Battle Ecliptica II Blitz
+      - "Battle of Lyndanisse: Mortar"
       - BipBetaMC
+      - BlitzMiners
       - Cacti Panic
       - "CannonQuad+"
       - Cathedral EndeRAGE
       - Checkmate
-      - Cloud Nine PearlBow RAGE
-      - "Crazy's Wool Run"
+      - Creep Slap
       - Fallen Courtyard
       - Firesand Survival
+      - Flappy Bird
       - Foxtrot
       - Gooseberry
       - Juggernaut Hall
       - Oculo
+      - Parabola
       - Penguin Pursuit
       - Pixel Run
       - Plus Side
       - Project Chromozome
       - Rage Quit
-      - Rainbow Road
       - Red Agony
       - Rush Wars Tournament 2 Attack of the Defenders
+      - Sand Box
       - Sandstone Temples
-      - Save MonsieurApple
       - Serengeti
       - Spaceship Battles Blitz
+      - Spooktober
+      - Sugar Cane Valley
       - Swarthmoor
       - The 6th Law
       - The Complex
-      - The Wonders of The World
       - Twilight Zone
       - Water Drop Extreme
+      - Wind Waker
       - Wooly Woods RAGE
   nostalgia:
     type: ordered
