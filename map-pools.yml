@@ -138,6 +138,7 @@ pools:
     - Donut Wars
     - BlockRAGE
     - DATAstation
+    - Thunder
   hecto:
     type: voted
     enabled: true
