@@ -31,9 +31,7 @@ pools:
     players: 6
     maps:
     - Race for Victory
-    - Lilypad
     - 101 Rooms TDM
-    - Mini Drought
     - Ubos CTF
     - Academy
     - Battle Ecliptica II
@@ -59,6 +57,8 @@ pools:
     - Dwyer Hill
     - The High Road
     - Chimeric
+    - The Grove
+    - "TF2: Badlands CTF"
   micro:
     type: voted
     enabled: true
@@ -103,6 +103,9 @@ pools:
     - Justice
     - Persisto
     - Warlock
+    - Ximorta
+    - Ouroboros
+    - Larnia
   centi:
     type: voted
     enabled: true
@@ -139,6 +142,13 @@ pools:
     - BlockRAGE
     - DATAstation
     - Thunder
+    - "UBaot König"
+    - Valley of the Dead
+    - Dangerous Cargo
+    - Drow's Crevice II
+    - The Last Sunset
+    - Smog
+    - Xi
   hecto:
     type: voted
     enabled: true
@@ -157,7 +167,6 @@ pools:
     - Cat's Cradle
     - Coral Reef
     - D-Day
-    - Diablo
     - 'Fairy Tales 2: A Tale or Two'
     - Fallencrests
     - Fort Wars
@@ -187,12 +196,16 @@ pools:
     - Bamboo Valley III
     - PixelMix
     - Swamped
-    - Runes of Ruin
     - Retaliation 2
     - Belcrest
     - CannonCube
     - 'Zap: Cubist Remix'
     - Turf Wars
+    - State of Decay II
+    - Battleship Halberd
+    - Icebound
+    - Wrath Altar
+    - Cake Day
   mega:
     type: voted
     enabled: true
@@ -231,6 +244,9 @@ pools:
     - Battle of Krehm
     - Synergy
     - Moonlight Summit
+    - Masarin II
+    - Wintery Cabin
+    - Lights Out
   giga:
     type: voted
     enabled: true
