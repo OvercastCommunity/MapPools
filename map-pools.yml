@@ -213,6 +213,7 @@ pools:
     - Icebound
     - Wrath Altar
     - Cake Day
+    - Xion
   mega:
     type: voted
     enabled: true
