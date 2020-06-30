@@ -59,6 +59,7 @@ pools:
     - Chimeric
     - The Grove
     - "TF2: Badlands CTF"
+    - Serengeti
   micro:
     type: voted
     enabled: true
@@ -106,6 +107,9 @@ pools:
     - Ximorta
     - Ouroboros
     - Larnia
+    - Kryta
+    - Immitis
+    - Cuboid Fairways
   centi:
     type: voted
     enabled: true
@@ -149,6 +153,9 @@ pools:
     - The Last Sunset
     - Smog
     - Xi
+    - Drandion
+    - Gleon
+    - Jyngli
   hecto:
     type: voted
     enabled: true
