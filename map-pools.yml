@@ -109,7 +109,7 @@ pools:
     - Larnia
     - Kryta
     - Immitis
-    - Cuboid Fairways
+    - Cuboid Fairway
   centi:
     type: voted
     enabled: true
