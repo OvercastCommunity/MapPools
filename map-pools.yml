@@ -214,6 +214,7 @@ pools:
     - Wrath Altar
     - Cake Day
     - Xion
+    - Ski Trip to Blizzardtown
   mega:
     type: voted
     enabled: true
