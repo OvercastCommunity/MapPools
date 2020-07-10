@@ -215,6 +215,7 @@ pools:
     - Cake Day
     - 'Ski Trip to Blizzardtown'
     - Xion
+    - Aeliegra
   mega:
     type: voted
     enabled: true
