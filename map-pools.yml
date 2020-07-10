@@ -213,8 +213,8 @@ pools:
     - Icebound
     - Wrath Altar
     - Cake Day
-    - Xion
     - Ski Trip to Blizzardtown
+    - Xion
   mega:
     type: voted
     enabled: true
