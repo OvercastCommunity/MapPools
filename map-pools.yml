@@ -344,6 +344,7 @@ pools:
       - AstroGEN
       - The Nile
       - Shave
+      - Ozone
   sns: # Crazy's SNS pool
     type: voted
     enabled: true
