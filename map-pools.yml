@@ -110,6 +110,8 @@ pools:
     - Kryta
     - Immitis
     - Cuboid Fairway
+    - 'Drandion: TDM'
+    - Cyril
   centi:
     type: voted
     enabled: true
@@ -156,6 +158,9 @@ pools:
     - 'Drandion: TDM'
     - Gleon
     - Jyngli
+    - Kryta
+    - Cyril
+    - Ouroboros
   hecto:
     type: voted
     enabled: true
@@ -215,6 +220,7 @@ pools:
     - Cake Day
     - 'Ski Trip to Blizzardtown'
     - Xion
+    - Woodwork Harbor
   mega:
     type: voted
     enabled: true
@@ -256,6 +262,8 @@ pools:
     - Masarin II
     - Wintery Cabin
     - Lights Out
+    - Bastion Hill CTF
+    - Bastion Hill
   giga:
     type: voted
     enabled: true
@@ -300,6 +308,7 @@ pools:
     - Broken Unity
     - Glacial Impact 2
     - Scorched Grove
+    - Bastion Hill
   testing: # Please note this is a pool for testing maps
     type: voted
     enabled: true
