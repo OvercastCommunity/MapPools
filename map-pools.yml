@@ -161,6 +161,7 @@ pools:
     - Kryta
     - Cyril
     - Ouroboros
+    - 'Kryta: One Shot'
   hecto:
     type: voted
     enabled: true
@@ -221,6 +222,8 @@ pools:
     - 'Ski Trip to Blizzardtown'
     - Xion
     - Woodwork Harbor
+    - 'Kryta: One Shot'
+    - Kryta
   mega:
     type: voted
     enabled: true
