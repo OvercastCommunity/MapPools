@@ -224,6 +224,7 @@ pools:
     - Woodwork Harbor
     - 'Kryta: One Shot'
     - Kryta
+    - Artholis
   mega:
     type: voted
     enabled: true
