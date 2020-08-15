@@ -353,7 +353,6 @@ pools:
     dynamic: false
     players: 1
     maps:
-      - 4K
       - A Journey Through History
       - Arid Crossroads
       - "Battle of Lyndanisse: Mortar"
@@ -362,35 +361,25 @@ pools:
       - Cacti Panic
       - "CannonQuad+"
       - Cathedral EndeRAGE
-      - Checkmate
-      - Creep Slap
-      - Fallen Courtyard
       - Firesand Survival
-      - Flappy Bird
       - Foxtrot
       - Gooseberry
-      - Juggernaut Hall
       - Oculo
-      - Parabola
       - Penguin Pursuit
       - Pixel Run
       - Plus Side
-      - Project Chromozome
       - Rage Quit
       - Red Agony
       - Rush Wars Tournament 2 Attack of the Defenders
       - Sand Box
       - Sandstone Temples
-      - Scribble Isle
-      - Serengeti
-      - Spaceship Battles Blitz
-      - Spooktober
       - Sugar Cane Valley
       - Swarthmoor
       - The 6th Law
-      - The Complex
-      - Twilight Zone
+      - "Water Drop: Ender Blast"
       - Water Drop Extreme
+      - "Water Drop: Limbo II"
+      - "Water Drop: Sunrise Over Paradise"
       - Wind Waker
       - Wooly Woods RAGE
   nostalgia:
