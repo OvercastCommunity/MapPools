@@ -112,6 +112,7 @@ pools:
     - Cuboid Fairway
     - 'Drandion: TDM'
     - Cyril
+    - SuperPRISM
   centi:
     type: voted
     enabled: true
@@ -320,6 +321,7 @@ pools:
     players: 1
     maps:
       - Viridun CTF
+      - Smoke CTF
   fun: # Please note this is a fun pool
     type: voted
     enabled: true
