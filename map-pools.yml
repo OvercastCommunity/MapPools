@@ -113,6 +113,8 @@ pools:
     - 'Drandion: TDM'
     - Cyril
     - SuperPRISM
+    - Medieval Warfare
+    - "Medieval Warfare:DTE"
   centi:
     type: voted
     enabled: true
@@ -132,6 +134,7 @@ pools:
     - Hyperspace
     - Iris DTC
     - Medieval Warfare
+    - "Medieval Warfare:DTE"
     - Palace CTF
     - "Sand Wars: DTE"
     - Spaceship Battles
@@ -163,6 +166,8 @@ pools:
     - Cyril
     - Ouroboros
     - 'Kryta: One Shot'
+    - 'Ski Trip to Blizzardtown'
+    - Fractal Descent
   hecto:
     type: voted
     enabled: true
