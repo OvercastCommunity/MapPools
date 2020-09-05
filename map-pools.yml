@@ -185,7 +185,6 @@ pools:
     - BlockBlock
     - Cat's Cradle
     - Coral Reef
-    - D-Day
     - 'Fairy Tales 2: A Tale or Two'
     - Fallencrests
     - Fort Wars
@@ -319,6 +318,7 @@ pools:
     - Glacial Impact 2
     - Scorched Grove
     - Bastion Hill
+    - D-Day
   testing: # Please note this is a pool for testing maps
     type: voted
     enabled: true
