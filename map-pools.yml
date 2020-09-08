@@ -114,7 +114,6 @@ pools:
     - Cyril
     - SuperPRISM
     - Medieval Warfare
-    - "Medieval Warfare:DTE"
   centi:
     type: voted
     enabled: true
@@ -134,7 +133,6 @@ pools:
     - Hyperspace
     - Iris DTC
     - Medieval Warfare
-    - "Medieval Warfare:DTE"
     - Palace CTF
     - "Sand Wars: DTE"
     - Spaceship Battles
