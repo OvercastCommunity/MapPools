@@ -356,6 +356,7 @@ pools:
     dynamic: false
     players: 1
     maps:
+      - "2014: Rage FFA"
       - A Journey Through History
       - Arid Crossroads
       - "Battle of Lyndanisse: Mortar"
