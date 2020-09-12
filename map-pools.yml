@@ -160,7 +160,6 @@ pools:
     - 'Drandion: TDM'
     - Gleon
     - Jyngli
-    - Kryta
     - Cyril
     - Ouroboros
     - 'Kryta: One Shot'
@@ -228,6 +227,7 @@ pools:
     - 'Kryta: One Shot'
     - Kryta
     - Artholis
+    - Sky Traffic 2
   mega:
     type: voted
     enabled: true
