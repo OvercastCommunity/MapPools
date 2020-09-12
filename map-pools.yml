@@ -164,7 +164,6 @@ pools:
     - Cyril
     - Ouroboros
     - 'Kryta: One Shot'
-    - 'Ski Trip to Blizzardtown'
     - Fractal Descent
   hecto:
     type: voted
@@ -201,6 +200,7 @@ pools:
     - Ring Race
     - Royal Garden DTC
     - Shroom Trip
+    - 'Ski Trip to Blizzardtown'
     - Sky Traffic
     - Storm
     - Tenebrous
