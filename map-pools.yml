@@ -165,6 +165,8 @@ pools:
     - Ouroboros
     - 'Kryta: One Shot'
     - Fractal Descent
+    - Wanna Fly
+    - Enchanted
   hecto:
     type: voted
     enabled: true
@@ -228,6 +230,7 @@ pools:
     - Kryta
     - Artholis
     - Sky Traffic 2
+    - Summertime at Brown's Farms
   mega:
     type: voted
     enabled: true
