@@ -363,11 +363,13 @@ pools:
       - A Journey Through History
       - Arid Crossroads
       - "Battle of Lyndanisse: Mortar"
+      - Bedrock Fortress Battles
       - BipBetaMC
       - BlitzMiners
       - Cacti Panic
       - "CannonQuad+"
       - Cathedral EndeRAGE
+      - Creeper Return
       - Firesand Survival
       - Foxtrot
       - Gooseberry
@@ -375,20 +377,50 @@ pools:
       - Penguin Pursuit
       - Pixel Run
       - Plus Side
+      - "Race: Circuit"
+      - "Race: Drought"
+      - "Race: Ender"
+      - "Race: Pebble Creek"
       - Rage Quit
       - Red Agony
       - Rush Wars Tournament 2 Attack of the Defenders
       - Sand Box
       - Sandstone Temples
+      - Skyfall
       - Sugar Cane Valley
       - Swarthmoor
       - The 6th Law
-      - "Water Drop: Ender Blast"
+      - TNT Spleef
       - Water Drop Extreme
-      - "Water Drop: Limbo II"
       - "Water Drop: Sunrise Over Paradise"
       - Wind Waker
-      - Wooly Woods RAGE
+  warwars:
+    type: voted
+    enabled: true
+    dynamic: false
+    players: 1
+    maps:
+      - "War Wars: 2Tall4Me"
+      - "War Wars: Wait what?"
+      - Battle Battles
+      - "War Wars: The Wall Pt 2"
+      - "War Wars: Classic"
+      - "War Wars: False Alarm"
+      - "War Wars: Baby's First Build"
+      - "War Wars: Ice to Meet You"
+      - "War Wars: Ironforge"
+      - "War Wars: Minimalist"
+      - "War Wars: Null and Void"
+      - "War Wars: Peaceful Meadows"
+      - "War Wars: Portals"
+      - "War Wars: Prime Time"
+      - "War Wars: Sand Wars 2"
+      - "War Wars: Slippery Slope"
+      - "War Wars: Spongecake"
+      - "War Wars: Sticky Situation"
+      - "War Wars: Torment"
+      - "War Wars: Tree Hugger"
+      - "War Wars: ɹɐʍɹɐʍ"
   nostalgia:
     type: ordered
     enabled: true
