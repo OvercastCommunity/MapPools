@@ -60,6 +60,7 @@ pools:
     - The Grove
     - "TF2: Badlands CTF"
     - Serengeti
+    - Rotten Slopes
   micro:
     type: voted
     enabled: true
@@ -114,6 +115,11 @@ pools:
     - Cyril
     - SuperPRISM
     - Medieval Warfare
+    - Tired
+    - Sunburn
+    - Mutiny
+    - Chocolate Diamonds
+    - Hallows
   centi:
     type: voted
     enabled: true
@@ -135,7 +141,7 @@ pools:
     - Iris DTC
     - Medieval Warfare
     - Palace CTF
-    - "Sand Wars: DTE"
+    - Sand Wars
     - Spaceship Battles
     - Stampede
     - Tebulas
@@ -167,6 +173,11 @@ pools:
     - Fractal Descent
     - Wanna Fly
     - Enchanted
+    - Paradiso
+    - Icy Peaks TDM
+    - Cavum
+    - Zao
+    - Harvest
   hecto:
     type: voted
     enabled: true
@@ -231,6 +242,8 @@ pools:
     - Artholis
     - Sky Traffic 2
     - Summertime at Brown's Farms
+    - Lump
+    - Last Overcastian
   mega:
     type: voted
     enabled: true
@@ -367,10 +380,10 @@ pools:
       - BlitzMiners
       - Cacti Panic
       - "CannonQuad+"
-      - Cathedral EndeRAGE
       - Firesand Survival
       - Foxtrot
       - Gooseberry
+      - Halfway Home
       - Mega Cacti Terror
       - Oculo
       - Penguin Pursuit
@@ -383,6 +396,7 @@ pools:
       - Rage Quit
       - Red Agony
       - Rush Wars Tournament 2 Attack of the Defenders
+      - Salvo
       - Sand Box
       - Sandstone Temples
       - Skyfall
@@ -390,10 +404,10 @@ pools:
       - Swarthmoor
       - The 6th Law
       - TNT Spleef
-      - "War Wars: Baby's First Build"
-      - "War Wars: Classic"
-      - "War Wars: Null and Void"
-      - "War Wars: ɹɐʍɹɐʍ"
+      - "War Wars: Ice to Meet You"
+      - "War Wars: Torment"
+      - "War Wars: Ironforge"
+      - "War Wars: Peaceful Meadows"
       - Water Drop Extreme
       - "Water Drop: Sunrise Over Paradise"
       - Wind Waker
