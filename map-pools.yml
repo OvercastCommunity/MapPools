@@ -178,6 +178,7 @@ pools:
     - Cavum
     - Zao
     - Harvest
+    - "2014: Rage FFA"
   hecto:
     type: voted
     enabled: true
