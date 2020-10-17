@@ -373,6 +373,7 @@ pools:
     dynamic: false
     players: 1
     maps:
+      - "2014: Rage FFA"
       - A Journey Through History
       - Arid Crossroads
       - "Battle of Lyndanisse: Mortar"
@@ -397,6 +398,7 @@ pools:
       - Red Agony
       - Rush Wars Tournament 2 Attack of the Defenders
       - Salvo
+      - Sand Box
       - Sandstone Temples
       - Skyfall
       - Sugar Cane Valley
