@@ -384,6 +384,7 @@ pools:
       - Foxtrot
       - Gooseberry
       - Halfway Home
+      - Humble Jungle
       - Mega Cacti Terror
       - Oculo
       - Penguin Pursuit
@@ -410,6 +411,7 @@ pools:
       - Water Drop Extreme
       - "Water Drop: Sunrise Over Paradise"
       - Wind Waker
+      - Wool Story Bro
   warwars:
     type: voted
     enabled: true
