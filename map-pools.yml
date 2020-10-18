@@ -247,6 +247,7 @@ pools:
     - Lump
     - Last Overcastian
     - Celestial Twilight
+    - Retaliation
   mega:
     type: voted
     enabled: true
