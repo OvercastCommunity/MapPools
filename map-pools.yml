@@ -35,7 +35,7 @@ pools:
     - Ubos CTF
     - Academy
     - Battle Ecliptica II
-    - Dynamo
+    - DynaboOo
     - Cairn
     - Assault
     - Downforce
@@ -53,10 +53,10 @@ pools:
     - Cake Wars
     - Dust
     - 'Hot Dam: Mini'
-    - Snowy Wars
+    - Snowy Wars Halloween
     - Dwyer Hill
     - The High Road
-    - Chimeric
+    - Chimeric Horror
     - The Grove
     - "TF2: Badlands CTF"
     - Serengeti
@@ -79,13 +79,13 @@ pools:
     - "Blitzkrieg: CTF"
     - Boom
     - Cargo
-    - Circus DTC
+    - "Circus DTC: Halloween"
     - Citadel
     - Cloud Nine
     - Coastline
     - Deepwind Jungle
     - Desert Cataract
-    - Empire
+    - Empire in Ruins
     - Golden Drought III
     - Levels
     - Limbo II
@@ -95,15 +95,15 @@ pools:
     - Streamline
     - Tanker TNT
     - 'Tree of Life: Mini'
-    - SolitudeMC
+    - SolitudeMC Halloween
     - Canopy
     - Boombox
     - Khaba
     - Aureola
-    - BalloonsDTM
+    - "BalloonsDTM: Halloween"
     - Directrix
     - Justice
-    - Persisto
+    - Perspookysto
     - Warlock
     - Ximorta
     - Ouroboros
@@ -113,12 +113,12 @@ pools:
     - Cuboid Fairway
     - 'Drandion: TDM'
     - Cyril
-    - SuperPRISM
+    - SuperHALLOW
     - Medieval Warfare
     - Tired
     - Sunburn
     - Mutiny
-    - Chocolate Diamonds
+    - SpOOky Diamonds
     - Hallows
   centi:
     type: voted
@@ -126,7 +126,7 @@ pools:
     players: 32
     maps:
     - Concourse
-    - Desert Sanctuary
+    - Deserted Sanctuary
     - Equinox
     - The Complex CTF
     - Trench Warfare
@@ -142,7 +142,7 @@ pools:
     - Medieval Warfare
     - Palace CTF
     - Sand Wars
-    - Spaceship Battles
+    - SSB Halloween
     - Stampede
     - Tebulas
     - Urban Jungle
@@ -161,8 +161,8 @@ pools:
     - Valley of the Dead
     - Dangerous Cargo
     - Drow's Crevice II
-    - The Last Sunset
-    - Smog
+    - A SpOOky Sunset
+    - Spooky Smog
     - Xi
     - 'Drandion: TDM'
     - Gleon
@@ -179,6 +179,7 @@ pools:
     - Zao
     - Harvest
     - "2014: Rage FFA"
+    - Spooky Country
   hecto:
     type: voted
     enabled: true
@@ -197,22 +198,22 @@ pools:
     - Cat's Cradle
     - Coral Reef
     - 'Fairy Tales 2: A Tale or Two'
-    - Fallencrests
+    - "Fallencrests: Halloween"
     - Fort Wars
-    - Fourchette
+    - Bloody Trident
     - Fox Strife
     - Fractal Descent
     - Green Hill Zone
     - Gridlock 2
     - Inheritance
     - Interitus
-    - Jungle Beat
+    - Jungle Spook
     - Mayan Apocalypse
     - Mystic Point
     - NextGen
     - Race for Victory 2
-    - Ring Race
-    - Royal Garden DTC
+    - Haunted Rings
+    - Spooky Garden DTC
     - Shroom Trip
     - 'Ski Trip to Blizzardtown'
     - Sky Traffic
@@ -224,7 +225,7 @@ pools:
     - Wooly Woods
     - Zoo
     - Bamboo Valley III
-    - PixelMix
+    - PixelMissing
     - Swamped
     - Retaliation 2
     - Belcrest
@@ -245,6 +246,7 @@ pools:
     - Summertime at Brown's Farms
     - Lump
     - Last Overcastian
+    - Celestial Twilight
   mega:
     type: voted
     enabled: true
@@ -252,10 +254,10 @@ pools:
     maps:
     - Astro
     - Avalon Funland
-    - Bamboo Valley
+    - Bam-BOO Valley
     - Battle of Tenjin III
     - "Blocks: Destroy the Dynamite"
-    - Blocks DTC
+    - Haunted Blocks
     - DATAbasin
     - Enchanted Woods
     - Fallencrests 2
@@ -264,14 +266,14 @@ pools:
     - Golden Drought
     - Golden Drought IV
     - Hadron
-    - Harb
+    - Hallowed Harb
     - Hot Dam
     - Hydrolock
     - Ion
     - Lunar Coliseum
     - Mushroom Gorge
     - Nivalis
-    - Nuclear Winter
+    - Nuclear Halloween
     - Race for Victory 3
     - Scrap Mettle
     - The Archives
@@ -298,7 +300,7 @@ pools:
     - Aurimar Rift
     - Baroque Gardens
     - Bastion Hill CTF
-    - Battle of Lyndanisse
+    - Spooky Lyndanisse
     - Battle of Tenjin 2
     - Below Zero
     - Bridge Over Troubled Water
@@ -307,7 +309,7 @@ pools:
     - Golden Drought II
     - Icebliss
     - Irongate Harbor
-    - Midnight Train
+    - Halloween Train
     - Modern Cityscape
     - Northlands
     - Ozone
@@ -315,7 +317,7 @@ pools:
     - Riverside
     - Royal Garden CTW
     - Sky Traffic 2
-    - Soviet Mills
+    - Soviet Chills
     - Spaceship Battles II
     - The Arena
     - The Nile
