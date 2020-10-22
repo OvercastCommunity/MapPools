@@ -180,6 +180,8 @@ pools:
     - Harvest
     - "2014: Rage FFA"
     - Spooky Country
+    - Firestone Lake Research Facility
+    - Zipline
   hecto:
     type: voted
     enabled: true
@@ -248,6 +250,7 @@ pools:
     - Last Overcastian
     - Celestial Twilight
     - Retaliation
+    - Zombie Defense
   mega:
     type: voted
     enabled: true
