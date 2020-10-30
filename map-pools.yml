@@ -547,3 +547,44 @@ pools:
     - Wonderland
     - Yukon
     - Zen
+  halloween:
+    type: voted
+    enabled: true
+    dynamic: false
+    players: 1
+    maps:
+    - A SpOOky Sunset
+    - Abudracula
+    - "BalloonsDTM: Halloween"
+    - Bam-BOO Valley
+    - Bloody Trident
+    - Celestial Twilight
+    - Chimeric Horror
+    - "Circus DTC: Halloween"
+    - Deserted Sanctuary
+    - DynaboOo
+    - Empire in Ruins
+    - "Fallencrests: Halloween"
+    - Hallowed Harb
+    - Halloween Train
+    - Haunted Blocks
+    - Haunted Rings
+    - Jungle Spook
+    - Nuclear Halloween
+    - BackSPOOK
+    - Perspookysto
+    - PixelMissing
+    - Pumpkin Madness
+    - SSB Halloween
+    - Scareros
+    - Snowy Wars Halloween
+    - SolitudeMC Halloween
+    - Soviet Chills
+    - SpOOky Diamonds
+    - Spooky Country
+    - Spooky Garden DTC
+    - Spooky Lyndanisse
+    - Spooky Smog
+    - SuperHALLOW
+    - Ware-Haunted-House
+    
