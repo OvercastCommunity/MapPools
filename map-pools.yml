@@ -35,7 +35,7 @@ pools:
     - Ubos CTF
     - Academy
     - Battle Ecliptica II
-    - DynaboOo
+    - Dynamo
     - Cairn
     - Assault
     - Downforce
@@ -53,10 +53,10 @@ pools:
     - Cake Wars
     - Dust
     - 'Hot Dam: Mini'
-    - Snowy Wars Halloween
+    - Snowy Wars
     - Dwyer Hill
     - The High Road
-    - Chimeric Horror
+    - Chimeric
     - The Grove
     - "TF2: Badlands CTF"
     - Serengeti
@@ -70,7 +70,7 @@ pools:
     - Molendinis
     - Pharaoh's Catacombs
     - Strongbow
-    - Sunrise Over Lava
+    - Sunrise Over Paradise
     - The Fenland
     - Airship Aces
     - 9.5th Law
@@ -79,13 +79,13 @@ pools:
     - "Blitzkrieg: CTF"
     - Boom
     - Cargo
-    - "Circus DTC: Halloween"
+    - Circus DTC
     - Citadel
     - Cloud Nine
     - Coastline
     - Deepwind Jungle
     - Desert Cataract
-    - Empire in Ruins
+    - Empire
     - Golden Drought III
     - Levels
     - Limbo II
@@ -95,15 +95,15 @@ pools:
     - Streamline
     - Tanker TNT
     - 'Tree of Life: Mini'
-    - SolitudeMC Halloween
+    - SolitudeMC
     - Canopy
     - Boombox
     - Khaba
     - Aureola
-    - "BalloonsDTM: Halloween"
+    - BalloonsDTM
     - Directrix
     - Justice
-    - Perspookysto
+    - Persisto
     - Warlock
     - Ximorta
     - Ouroboros
@@ -113,12 +113,12 @@ pools:
     - Cuboid Fairway
     - 'Drandion: TDM'
     - Cyril
-    - SuperHALLOW
+    - SuperPRISM
     - Medieval Warfare
     - Tired
     - Sunburn
     - Mutiny
-    - SpOOky Diamonds
+    - Chocolate Diamonds
     - Hallows
   centi:
     type: voted
@@ -126,7 +126,7 @@ pools:
     players: 32
     maps:
     - Concourse
-    - Deserted Sanctuary
+    - Desert Sanctuary
     - Equinox
     - The Complex CTF
     - Trench Warfare
@@ -142,7 +142,7 @@ pools:
     - Medieval Warfare
     - Palace CTF
     - Sand Wars
-    - SSB Halloween
+    - Spaceship Battles
     - Stampede
     - Tebulas
     - Urban Jungle
@@ -161,8 +161,8 @@ pools:
     - Valley of the Dead
     - Dangerous Cargo
     - Drow's Crevice II
-    - A SpOOky Sunset
-    - Spooky Smog
+    - The Last Sunset
+    - Smog
     - Xi
     - 'Drandion: TDM'
     - Gleon
@@ -200,16 +200,16 @@ pools:
     - Cat's Cradle
     - Coral Reef
     - 'Fairy Tales 2: A Tale or Two'
-    - "Fallencrests: Halloween"
+    - Fallencrests
     - Fort Wars
-    - Bloody Trident
+    - Fourchette
     - Fox Strife
     - Fractal Descent
     - Green Hill Zone
     - Gridlock 2
     - Inheritance
     - Interitus
-    - Jungle Spook
+    - Jungle Beat
     - Mayan Apocalypse
     - Mystic Point
     - NextGen
@@ -225,9 +225,9 @@ pools:
     - The Complex TDM
     - Two Tier
     - Wooly Woods
-    - Abandoned Zoo
+    - Zoo
     - Bamboo Valley III
-    - PixelMissing
+    - PixelMix
     - Swamped
     - Retaliation 2
     - Belcrest
@@ -248,7 +248,6 @@ pools:
     - Summertime at Brown's Farms
     - Lump
     - Last Overcastian
-    - Celestial Twilight
     - Retaliation
     - Zombie Defense
   mega:
@@ -258,10 +257,10 @@ pools:
     maps:
     - Astro
     - Avalon Funland
-    - Bam-BOO Valley
+    - Bamboo Valley
     - Battle of Tenjin III
     - "Blocks: Destroy the Dynamite"
-    - Haunted Blocks
+    - Blocks DTC
     - DATAbasin
     - Enchanted Woods
     - Fallencrests 2
@@ -270,14 +269,14 @@ pools:
     - Golden Drought
     - Golden Drought IV
     - Hadron
-    - Hallowed Harb
+    - Harb
     - Hot Dam
     - Hydrolock
     - Ion
     - Lunar Coliseum
     - Mushroom Gorge
     - Nivalis
-    - Nuclear Halloween
+    - Nuclear Winter
     - Race for Victory 3
     - Scrap Mettle
     - The Archives
@@ -304,7 +303,7 @@ pools:
     - Aurimar Rift
     - Baroque Gardens
     - Bastion Hill CTF
-    - Spooky Lyndanisse
+    - Battle of Lyndanisse
     - Battle of Tenjin 2
     - Below Zero
     - Bridge Over Troubled Water
@@ -313,7 +312,7 @@ pools:
     - Golden Drought II
     - Icebliss
     - Irongate Harbor
-    - Halloween Train
+    - Midnight Train
     - Modern Cityscape
     - Northlands
     - Ozone
@@ -321,7 +320,7 @@ pools:
     - Riverside
     - Royal Garden CTW
     - Sky Traffic 2
-    - Soviet Chills
+    - Soviet Mills
     - Spaceship Battles II
     - The Arena
     - The Nile
@@ -549,7 +548,7 @@ pools:
     - Zen
   halloween:
     type: voted
-    enabled: true
+    enabled: false
     dynamic: false
     players: 1
     maps:
