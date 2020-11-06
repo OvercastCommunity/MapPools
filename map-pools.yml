@@ -114,12 +114,12 @@ pools:
     - 'Drandion: TDM'
     - Cyril
     - SuperPRISM
-    - Medieval Warfare
     - Tired
     - Sunburn
     - Mutiny
     - Chocolate Diamonds
     - Hallows
+    - Placid Spring
   centi:
     type: voted
     enabled: true
@@ -131,13 +131,11 @@ pools:
     - The Complex CTF
     - Trench Warfare
     - Aerobellum
-    - Airship Battle
     - Airship Ascendance
     - Autunno
     - Boletum
     - cos(tnt)
     - Fortress Battles
-    - Hyperspace
     - Iris DTC
     - Medieval Warfare
     - Palace CTF
@@ -162,7 +160,6 @@ pools:
     - Dangerous Cargo
     - Drow's Crevice II
     - The Last Sunset
-    - Smog
     - Xi
     - 'Drandion: TDM'
     - Gleon
@@ -182,27 +179,24 @@ pools:
     - Spooky Country
     - Firestone Lake Research Facility
     - Zipline
+    - "Canyon: TDM"
+    - Thornwood
   hecto:
     type: voted
     enabled: true
     players: 48
     maps:
-    - Battle Ecliptica III
-    - Monument Valley
-    - 9th Law
     - A New Day
     - Athirk
     - Avalanche
     - Babylon
     - Battle of Tenjin
-    - Bessemer's Process
     - BlockBlock
     - Cat's Cradle
     - Coral Reef
     - 'Fairy Tales 2: A Tale or Two'
     - Fallencrests
     - Fort Wars
-    - Fourchette
     - Fox Strife
     - Fractal Descent
     - Green Hill Zone
@@ -212,13 +206,10 @@ pools:
     - Jungle Beat
     - Mayan Apocalypse
     - Mystic Point
-    - NextGen
     - Race for Victory 2
     - Haunted Rings
     - Spooky Garden DTC
-    - Shroom Trip
     - 'Ski Trip to Blizzardtown'
-    - Sky Traffic
     - Storm
     - Tenebrous
     - Tetrad
@@ -250,6 +241,11 @@ pools:
     - Last Overcastian
     - Retaliation
     - Zombie Defense
+    - Roar
+    - Relic
+    - Sinuous
+    - Diablo
+    - Mistforge
   mega:
     type: voted
     enabled: true
@@ -257,7 +253,6 @@ pools:
     maps:
     - Astro
     - Avalon Funland
-    - Bamboo Valley
     - Battle of Tenjin III
     - "Blocks: Destroy the Dynamite"
     - Blocks DTC
@@ -267,7 +262,6 @@ pools:
     - Full Salvo
     - Glacial Impact
     - Golden Drought
-    - Golden Drought IV
     - Hadron
     - Harb
     - Hot Dam
@@ -339,6 +333,7 @@ pools:
     - Scorched Grove
     - Bastion Hill
     - D-Day
+    - Sugar Rush
   testing: # Please note this is a pool for testing maps
     type: voted
     enabled: true
