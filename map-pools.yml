@@ -120,6 +120,7 @@ pools:
     - Chocolate Diamonds
     - Hallows
     - Placid Spring
+    - Anvil
   centi:
     type: voted
     enabled: true
