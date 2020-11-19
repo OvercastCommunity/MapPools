@@ -378,10 +378,8 @@ pools:
       - A Journey Through History
       - Arid Crossroads
       - "Bill's Town Blitz"
-      - Biomes
       - BipBetaMC
       - Bliss
-      - Bounce
       - "CannonQuad+"
       - Dead Heat
       - Dry Wound
@@ -404,7 +402,7 @@ pools:
       - Rage Quit
       - Rage Maze
       - Red Agony
-      - Redwoods
+      - Rush Wars Tournament 2 Attack of the Defenders
       - Rooted Frontier
       - Salvo
       - Sandstone Temples
@@ -412,16 +410,19 @@ pools:
       - Sugar Cane Valley
       - Swarthmoor
       - Sweet Tooth
+      - "Team Parkour: Ice"
       - "Team Parkour: Jungle"
       - The 6th Law
+      - The Dropper
       - The Wonders of The World
       - TNT Spleef
-      - "War Wars: Portals"
-      - "War Wars: False Alarm"
-      - "War Wars: Prime Time"
-      - "War Wars: Tree Hugger"
+      - "War Wars: Classic"
+      - "War Wars: Peaceful Meadows"
+      - "War Wars: Slippery Slope"
+      - "War Wars: Minimalist"
       - Water Drop Extreme
       - "Water Drop: Sunrise Over Paradise"
+      - Wonderland
       - Wool Story Bro
   warwars:
     type: voted
