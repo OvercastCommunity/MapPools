@@ -121,6 +121,10 @@ pools:
     - Hallows
     - Placid Spring
     - Anvil
+    - Dorreak
+    - Green
+    - Temple
+    - Verlate
   centi:
     type: voted
     enabled: true
@@ -182,6 +186,9 @@ pools:
     - Zipline
     - "Canyon: TDM"
     - Thornwood
+    - Azure
+    - Grub
+    - Clearcut
   hecto:
     type: voted
     enabled: true
@@ -247,6 +254,7 @@ pools:
     - Sinuous
     - Diablo
     - Mistforge
+    - Battle Ecliptica IV
   mega:
     type: voted
     enabled: true
