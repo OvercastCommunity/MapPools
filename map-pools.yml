@@ -255,6 +255,7 @@ pools:
     - Diablo
     - Mistforge
     - Battle Ecliptica IV
+    - Outback
   mega:
     type: voted
     enabled: true
