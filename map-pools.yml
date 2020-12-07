@@ -25,6 +25,7 @@ pools:
     - Frozen Market
     - Geiran
     - Stagnant Waters
+    - Acear I
   nano:
     type: ordered
     enabled: true
@@ -136,7 +137,6 @@ pools:
     - The Complex CTF
     - Trench Warfare
     - Aerobellum
-    - Airship Ascendance
     - Autunno
     - Boletum
     - cos(tnt)
@@ -165,7 +165,6 @@ pools:
     - Dangerous Cargo
     - Drow's Crevice II
     - The Last Sunset
-    - Xi
     - 'Drandion: TDM'
     - Gleon
     - Jyngli
@@ -189,6 +188,10 @@ pools:
     - Azure
     - Grub
     - Clearcut
+    - "Sand Wars: DTE"
+    - Airship Battles
+    - The Last Sunset II
+    - Acear II
   hecto:
     type: voted
     enabled: true
@@ -232,7 +235,6 @@ pools:
     - Belcrest
     - CannonCube
     - 'Zap: Cubist Remix'
-    - Turf Wars
     - State of Decay II
     - Battleship Halberd
     - Icebound
