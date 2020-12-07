@@ -352,8 +352,16 @@ pools:
     dynamic: false
     players: 1
     maps:
-      - Viridun CTF
-      - Smoke CTF
+      - Formorgar 1
+      - Frostbite
+      - Halcyon
+      - Justice 1
+      - Justice 2
+      - Rendezvous Redux
+      - Senex
+      - Senex 2
+      - Ternio
+      - Yellowstone
   fun: # Please note this is a fun pool
     type: voted
     enabled: true
