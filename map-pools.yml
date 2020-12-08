@@ -393,7 +393,6 @@ pools:
     dynamic: false
     players: 1
     maps:
-      - 101 Rooms
       - A Journey Through History
       - Arid Crossroads
       - "Bill's Town Blitz"
