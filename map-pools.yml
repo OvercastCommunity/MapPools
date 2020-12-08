@@ -101,7 +101,7 @@ pools:
     - Boombox
     - Khaba
     - Aureola
-    - BalloonsDTM
+    - "BalloonsDTM: Christmas"
     - Directrix
     - Justice
     - Persisto
@@ -118,7 +118,7 @@ pools:
     - Tired
     - Sunburn
     - Mutiny
-    - Chocolate Diamonds
+    - Snowy Diamonds
     - Hallows
     - Placid Spring
     - Anvil
@@ -126,13 +126,18 @@ pools:
     - Green
     - Temple
     - Verlate
+    - An Overcast Christmas
+    - Blizz Christmas
+    - Snow
+    - Snowy Wars Christmas
+    - "SolitudeMC: Christmas"
   centi:
     type: voted
     enabled: true
     players: 32
     maps:
-    - Concourse
-    - Desert Sanctuary
+    - "Concourse: Christmas"
+    - Christmas Sanctuary
     - Equinox
     - The Complex CTF
     - Trench Warfare
@@ -180,7 +185,7 @@ pools:
     - Zao
     - Harvest
     - "2014: Rage FFA"
-    - Desert Country
+    - Christmas Country
     - Firestone Lake Research Facility
     - Zipline
     - "Canyon: TDM"
@@ -192,6 +197,8 @@ pools:
     - Airship Battles
     - The Last Sunset II
     - Acear II
+    - AaerHoHoHos
+    - "Abudor: Christmas"
   hecto:
     type: voted
     enabled: true
@@ -225,7 +232,7 @@ pools:
     - Tenebrous
     - Tetrad
     - The Complex TDM
-    - Two Tier
+    - Two Trees
     - Wooly Woods
     - Zoo
     - Bamboo Valley III
@@ -258,6 +265,7 @@ pools:
     - Mistforge
     - Battle Ecliptica IV
     - Outback
+    - Snowback
   mega:
     type: voted
     enabled: true
@@ -267,13 +275,13 @@ pools:
     - Avalon Funland
     - Battle of Tenjin III
     - "Blocks: Destroy the Dynamite"
-    - Blocks DTC
+    - Holiday Blocks
     - DATAbasin
     - Enchanted Woods
     - Fallencrests 2
     - Full Salvo
     - Glacial Impact
-    - Golden Drought
+    - Merry Drought
     - Hadron
     - Harb
     - Hot Dam
@@ -309,7 +317,7 @@ pools:
     - Aurimar Rift
     - Baroque Gardens
     - Bastion Hill CTF
-    - Battle of Lyndanisse
+    - "Battle of Lyndanisse: Snowmen"
     - Battle of Tenjin 2
     - Below Zero
     - Bridge Over Troubled Water
@@ -337,7 +345,7 @@ pools:
     - The 4th Law
     - Temple Run
     - Temple Valley
-    - Venice TDM
+    - Festive Venice
     - Trench Warfare 2
     - Corrupted Kingdoms
     - Broken Unity
