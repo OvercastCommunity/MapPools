@@ -131,6 +131,7 @@ pools:
     - Snow
     - Snowy Wars Christmas
     - "SolitudeMC: Christmas"
+    - Candy Cane Valley
   centi:
     type: voted
     enabled: true
