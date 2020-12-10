@@ -131,7 +131,6 @@ pools:
     - Snow
     - Snowy Wars Christmas
     - "SolitudeMC: Christmas"
-    - Candy Cane Valley
   centi:
     type: voted
     enabled: true
@@ -200,6 +199,7 @@ pools:
     - Acear II
     - AaerHoHoHos
     - "Abudor: Christmas"
+    - Candy Cane Valley
   hecto:
     type: voted
     enabled: true
