@@ -198,7 +198,6 @@ pools:
     - Acear II
     - AaerHoHoHos
     - "Abudor: Christmas"
-    - Candy Cane Valley
   hecto:
     type: voted
     enabled: true
@@ -265,6 +264,7 @@ pools:
     - Mistforge
     - Battle Ecliptica IV
     - Snowback
+    - Candy Cane Valley
   mega:
     type: voted
     enabled: true
