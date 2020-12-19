@@ -51,10 +51,7 @@ pools:
     - AstroGEN
     - Battle Ecliptica CTF
     - CotBot
-    - Cake Wars
-    - Dust
     - 'Hot Dam: Mini'
-    - Snowy Wars
     - Dwyer Hill
     - The High Road
     - Chimeric
@@ -62,6 +59,8 @@ pools:
     - "TF2: Badlands CTF"
     - Serengeti
     - Rotten Slopes
+    - "Grenouille de l’armée"
+    - Xi II
   micro:
     type: voted
     enabled: true
@@ -72,7 +71,7 @@ pools:
     - Pharaoh's Catacombs
     - Strongbow
     - Sunrise Over Paradise
-    - The Fenland
+    - The Fenland CTF
     - Airship Aces
     - 9.5th Law
     - A Watery Grave
@@ -103,7 +102,7 @@ pools:
     - DirectriXmas
     - Justice
     - Persisto
-    - Warlock
+    - Warlock CTF
     - Ximorta
     - Ouroboros
     - Larnia
@@ -129,6 +128,10 @@ pools:
     - Snow
     - Snowy Wars Christmas
     - "SolitudeMC: Christmas"
+    - Snowy Wars
+    - Dust
+    - Cake Wars
+    - "Fairy Tales: Metamorphose"
   centi:
     type: voted
     enabled: true
