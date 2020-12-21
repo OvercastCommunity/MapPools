@@ -20,7 +20,7 @@ pools:
     - 5man
     - Decay
     - Overgrown Valley
-    - Pompeii
+    - Pompeii 5x5
     - Under The Sea
     - Frozen Market
     - Geiran
@@ -61,6 +61,7 @@ pools:
     - Rotten Slopes
     - "Grenouille de l’armée"
     - Xi II
+    - Trigo
   micro:
     type: voted
     enabled: true
@@ -131,6 +132,7 @@ pools:
     - Cake Wars
     - "Fairy Tales: Metamorphose"
     - Miner Sixty Niner
+    - Clutter
   centi:
     type: voted
     enabled: true
@@ -198,6 +200,7 @@ pools:
     - Acear II
     - AaerHoHoHos
     - "Abudor: Christmas"
+    - Pompeii
   hecto:
     type: voted
     enabled: true
@@ -265,6 +268,8 @@ pools:
     - Battle Ecliptica IV
     - Snowback
     - Candy Cane Valley
+    - Cabin Fever
+    - Cabin Fever II
   mega:
     type: voted
     enabled: true
@@ -308,6 +313,11 @@ pools:
     - Bastion Hill
     - Hillside
     - Runes of Ruin
+    - State of Decay
+    - Precipice
+    - Golden Drought CTF
+    - Emerald Canopy
+    - Beauty to Ashes
   giga:
     type: voted
     enabled: true
@@ -356,6 +366,8 @@ pools:
     - D-Day
     - Sugar Rush
     - Venice TDM
+    - Metro
+    - Glacial Conquest
   testing: # Please note this is a pool for testing maps
     type: voted
     enabled: true
