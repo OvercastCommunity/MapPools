@@ -131,6 +131,7 @@ pools:
     - Dust
     - Cake Wars
     - "Fairy Tales: Metamorphose"
+    - Miner Sixty Niner
   centi:
     type: voted
     enabled: true
