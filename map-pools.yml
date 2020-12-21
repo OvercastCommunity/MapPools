@@ -103,7 +103,6 @@ pools:
     - Justice
     - Persisto
     - Warlock CTF
-    - Ximorta
     - Ouroboros
     - Larnia
     - Kryta
@@ -307,6 +306,8 @@ pools:
     - Lights Out
     - Bastion Hill CTF
     - Bastion Hill
+    - Hillside
+    - Runes of Ruin
   giga:
     type: voted
     enabled: true
@@ -354,6 +355,7 @@ pools:
     - Bastion Hill
     - D-Day
     - Sugar Rush
+    - Venice TDM
   testing: # Please note this is a pool for testing maps
     type: voted
     enabled: true
