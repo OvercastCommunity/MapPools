@@ -99,8 +99,8 @@ pools:
     - Boombox
     - Khaba
     - Aureola
-    - "BalloonsDTM: Christmas"
-    - DirectriXmas
+    - BalloonsDTM
+    - Directrix
     - Justice
     - Persisto
     - Warlock CTF
@@ -115,19 +115,19 @@ pools:
     - Tired
     - Sunburn
     - Mutiny
-    - Snowy Diamonds
+    - Chocolate Diamonds
     - Hallows
     - Placid Spring
     - Anvil
     - Dorreak
-    - White
+    - Green
     - Temple
     - Verlate
     - An Overcast Christmas
     - Blizz Christmas
     - Snow
-    - Snowy Wars Christmas
-    - "SolitudeMC: Christmas"
+    - Snowy Wars
+    - SolitudeMC
     - Dust
     - Cake Wars
     - "Fairy Tales: Metamorphose"
@@ -138,8 +138,8 @@ pools:
     enabled: true
     players: 32
     maps:
-    - "Concourse: Christmas"
-    - Christmas Sanctuary
+    - Concourse
+    - Desert Sanctuary
     - Equinox
     - The Complex CTF
     - Trench Warfare
@@ -155,7 +155,7 @@ pools:
     - Stampede
     - Tebulas
     - Urban Jungle
-    - "Wit's End: Christmas"
+    - Wit's End
     - Escensio
     - Long Shot
     - Shock Wave
@@ -186,20 +186,18 @@ pools:
     - Zao
     - Harvest
     - "2014: Rage FFA"
-    - Christmas Country
+    - Desert Country
     - Firestone Lake Research Facility
-    - Zipmas
+    - Zipline
     - "Canyon: TDM"
     - Thornwood
-    - "Azure: Christmas"
+    - Azure
     - Grub
-    - Coldcut
+    - Clearcut
     - "Sand Wars: DTE"
     - Airship Battles
     - The Last Sunset II
     - Acear II
-    - AaerHoHoHos
-    - "Abudor: Christmas"
     - Pompeii RAGE
   hecto:
     type: voted
@@ -228,13 +226,13 @@ pools:
     - Mystic Point
     - Race for Victory 2
     - Ring Race
-    - Royal Christmas DTC
+    - Royal Garden DTC
     - 'Ski Trip to Blizzardtown'
     - Storm
     - Tenebrous
     - Tetrad
     - The Complex TDM
-    - Two Trees
+    - Two Tier
     - Wooly Woods
     - Zoo
     - Bamboo Valley III
@@ -266,8 +264,7 @@ pools:
     - Diablo
     - Mistforge
     - Battle Ecliptica IV
-    - Snowback
-    - Candy Cane Valley
+    - Outback
     - Cabin Fever
     - Cabin Fever II
   mega:
@@ -279,13 +276,13 @@ pools:
     - Avalon Funland
     - Battle of Tenjin III
     - "Blocks: Destroy the Dynamite"
-    - Holiday Blocks
+    - Blocks DTC
     - DATAbasin
     - Enchanted Woods
     - Fallencrests 2
     - Full Salvo
     - Glacial Impact
-    - Merry Drought
+    - Golden Drought
     - Hadron
     - Harb
     - Hot Dam
@@ -328,7 +325,7 @@ pools:
     - Aurimar Rift
     - Baroque Gardens
     - Bastion Hill CTF
-    - "Battle of Lyndanisse: Snowmen"
+    - Battle of Lyndanisse
     - Battle of Tenjin 2
     - Below Zero
     - Bridge Over Troubled Water
@@ -356,7 +353,6 @@ pools:
     - The 4th Law
     - Temple Run
     - Temple Valley
-    - Festive Venice
     - Trench Warfare 2
     - Corrupted Kingdoms
     - Broken Unity
