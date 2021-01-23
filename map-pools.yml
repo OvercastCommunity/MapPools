@@ -62,6 +62,7 @@ pools:
     - Xi II
     - Trigo
     - "Grenouille de l’armée"
+    - Xyth CTF
   micro:
     type: voted
     enabled: true
@@ -72,7 +73,7 @@ pools:
     - Pharaoh's Catacombs
     - Strongbow
     - Sunrise Over Paradise
-    - The Fenland CTF
+    - The Fenland
     - Airship Aces
     - 9.5th Law
     - A Watery Grave
@@ -130,6 +131,9 @@ pools:
     - "Fairy Tales: Metamorphose"
     - Miner Sixty Niner
     - Clutter
+    - Halcyon
+    - Antiquis
+    - Atromix
   centi:
     type: voted
     enabled: true
@@ -196,6 +200,7 @@ pools:
     - The Last Sunset II
     - Acear II
     - Pompeii RAGE
+    - Ender Hill
   hecto:
     type: voted
     enabled: true
@@ -302,7 +307,6 @@ pools:
     - Masarin II
     - Wintery Cabin
     - Lights Out
-    - Bastion Hill CTF
     - Bastion Hill
     - Hillside
     - Runes of Ruin
