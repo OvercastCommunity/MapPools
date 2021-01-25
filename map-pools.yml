@@ -629,4 +629,38 @@ pools:
     - Spooky Smog
     - SuperHALLOW
     - Ware-Haunted-House
-    
+   christmas:
+    type: voted
+    enabled: false
+    dynamic: false
+    players: 1
+    maps:
+    - AaerHoHoHos
+    - "Abudor: Christmas"
+    - An Overcast Christmas
+    - "Azure: Christmas"
+    - "BalloonsDTM: Christmas"
+    - "Battle of Lyndanisse: Snowmen"
+    - Blizz Christmas
+    - Candy Cane Valley
+    - Christmas Country
+    - "Christmas Eve: Rage"
+    - Christmas Sanctuary
+    - ColdCut
+    - "Concourse: Christmas"
+    - Connected Christmas
+    - DirectriXmas
+    - Festive Venice
+    - Holiday Blocks
+    - Merry Drought
+    - Royal Christmas DTC
+    - Shave Santa
+    - Snow
+    - Snowback
+    - Snowy Diamonds
+    - Snowy Wars Christmas
+    - "SolitudeMC: Christmas"
+    - Two Trees
+    - White
+    - "Wit's End: Christmas"
+    - Zipmas
