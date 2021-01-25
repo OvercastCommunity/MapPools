@@ -629,7 +629,7 @@ pools:
     - Spooky Smog
     - SuperHALLOW
     - Ware-Haunted-House
-   christmas:
+  christmas:
     type: voted
     enabled: false
     dynamic: false
