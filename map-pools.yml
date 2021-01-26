@@ -63,6 +63,7 @@ pools:
     - Trigo
     - "Grenouille de l’armée"
     - Xyth CTF
+    - SuperCUBE
   micro:
     type: voted
     enabled: true
