@@ -269,7 +269,6 @@ pools:
     - Outback
     - Cabin Fever
     - Cabin Fever II
-    - Green Gem CTW
   mega:
     type: voted
     enabled: true
@@ -317,6 +316,7 @@ pools:
     - Golden Drought CTF
     - Emerald Canopy
     - Beauty to Ashes
+    - Green Gem CTW
   giga:
     type: voted
     enabled: true
