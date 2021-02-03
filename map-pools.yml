@@ -269,6 +269,10 @@ pools:
     - Outback
     - Cabin Fever
     - Cabin Fever II
+    - Monument Valley
+    - Fourchette
+    - Bessemer's Process
+    - Sky Traffic
   mega:
     type: voted
     enabled: true
@@ -304,7 +308,6 @@ pools:
     - Woodwork Harbor
     - Battle of Krehm
     - Synergy
-    - Moonlight Summit
     - Masarin II
     - Wintery Cabin
     - Lights Out
@@ -317,6 +320,10 @@ pools:
     - Emerald Canopy
     - Beauty to Ashes
     - Green Gem CTW
+    - Blocks II
+    - Bamboo Valley
+    - Golden Drought IV
+    - Titan
   giga:
     type: voted
     enabled: true
@@ -349,7 +356,6 @@ pools:
     - The Arena
     - The Nile
     - The Vortex
-    - Titan
     - Total War
     - Tree of Life
     - The 4th Law
