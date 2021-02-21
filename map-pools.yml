@@ -131,7 +131,6 @@ pools:
     - "Fairy Tales: Metamorphose"
     - Miner Sixty Niner
     - Clutter
-    - Halcyon
     - Antiquis
     - Atromix
   centi:
@@ -377,7 +376,6 @@ pools:
     maps:
       - Formorgar 1
       - Frostbite
-      - Halcyon
       - Justice 1
       - Justice 2
       - Rendezvous Redux
