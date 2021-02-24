@@ -273,7 +273,7 @@ pools:
     - Oaken Meadow
     - No Man's Land
     - Far Fetched
-    - Yggrasil
+    - Yggdrasil
     - Pipe Palace
   mega:
     type: voted
@@ -325,7 +325,7 @@ pools:
     - Bamboo Valley
     - Golden Drought IV
     - Titan
-    - Alphine Mining
+    - Alpine Mining
   giga:
     type: voted
     enabled: true
