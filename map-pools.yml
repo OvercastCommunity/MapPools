@@ -64,6 +64,12 @@ pools:
     - "Grenouille de l’armée"
     - Xyth CTF
     - SuperCUBE
+    - Toss Up
+    - Tatakai
+    - Stonehaven
+    - Royal
+    - Fallout
+    - Fruhling
   micro:
     type: voted
     enabled: true
@@ -77,8 +83,6 @@ pools:
     - The Fenland
     - Airship Aces
     - 9.5th Law
-    - A Watery Grave
-    - "Blitzkrieg: CTF"
     - Boom
     - Cargo
     - Circus DTC
@@ -96,7 +100,6 @@ pools:
     - Woolirium
     - Streamline
     - Tanker TNT
-    - 'Tree of Life: Mini'
     - Canopy
     - Boombox
     - Khaba
@@ -106,7 +109,6 @@ pools:
     - Justice
     - Persisto
     - Warlock CTF
-    - Ouroboros
     - Larnia
     - Kryta
     - Immitis
@@ -116,7 +118,6 @@ pools:
     - SuperPRISM
     - Sunburn
     - Mutiny
-    - Chocolate Diamonds
     - Hallows
     - Placid Spring
     - Anvil
@@ -126,13 +127,17 @@ pools:
     - Verlate
     - Snowy Wars
     - SolitudeMC
-    - Dust
+    - Dust CTF
     - Cake Wars
     - "Fairy Tales: Metamorphose"
     - Miner Sixty Niner
     - Clutter
-    - Antiquis
     - Atromix
+    - Dawnskirr
+    - Downtown
+    - Discipline
+    - Oakspell
+    - Everlasting
   centi:
     type: voted
     enabled: true
@@ -143,7 +148,6 @@ pools:
     - Equinox
     - The Complex CTF
     - Trench Warfare
-    - Aerobellum
     - Autunno
     - Boletum
     - cos(tnt)
@@ -160,8 +164,6 @@ pools:
     - Long Shot
     - Shock Wave
     - Siloë
-    - Streamline II
-    - Hyral Skylands
     - Donut Wars
     - BlockRAGE
     - DATAstation
@@ -180,7 +182,6 @@ pools:
     - Fractal Descent
     - Wanna Fly
     - Enchanted
-    - Paradiso
     - Icy Peaks TDM
     - Cavum
     - Zao
@@ -198,14 +199,15 @@ pools:
     - Airship Battles
     - The Last Sunset II
     - Acear II
-    - Pompeii RAGE
     - Ender Hill
+    - Coniferous Forest
+    - Lunar Crescent
+    - Winsray Forest
   hecto:
     type: voted
     enabled: true
     players: 48
     maps:
-    - A New Day
     - Athirk
     - Avalanche
     - Babylon
@@ -230,9 +232,7 @@ pools:
     - Royal Garden DTC
     - 'Ski Trip to Blizzardtown'
     - Storm
-    - Tenebrous
     - Tetrad
-    - The Complex TDM
     - Two Tier
     - Wooly Woods
     - Zoo
@@ -242,18 +242,13 @@ pools:
     - Retaliation 2
     - Belcrest
     - CannonCube
-    - 'Zap: Cubist Remix'
     - State of Decay II
-    - Battleship Halberd
     - Icebound
     - Wrath Altar
     - Cake Day
     - Xion
     - Woodwork Harbor
-    - 'Kryta: One Shot'
-    - Kryta
     - Artholis
-    - Sky Traffic 2
     - Summertime at Brown's Farms
     - Last Overcastian
     - Retaliation
@@ -270,6 +265,16 @@ pools:
     - Fourchette
     - Bessemer's Process
     - Sky Traffic
+    - Opal
+    - Townside
+    - Anirniit
+    - Battle for Amaterasu
+    - Crippled Divide
+    - Oaken Meadow
+    - No Man's Land
+    - Far Fetched
+    - Yggrasil
+    - Pipe Palace
   mega:
     type: voted
     enabled: true
@@ -320,6 +325,7 @@ pools:
     - Bamboo Valley
     - Golden Drought IV
     - Titan
+    - Alphine Mining
   giga:
     type: voted
     enabled: true
