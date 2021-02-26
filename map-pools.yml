@@ -175,7 +175,6 @@ pools:
     - The Last Sunset
     - 'Drandion: TDM'
     - Gleon
-    - Jyngli
     - Cyril
     - Ouroboros
     - 'Kryta: One Shot'
@@ -275,6 +274,7 @@ pools:
     - Far Fetched
     - Yggdrasil
     - Pipe Palace
+    - Jyngli
   mega:
     type: voted
     enabled: true
