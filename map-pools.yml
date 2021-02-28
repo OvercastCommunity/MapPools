@@ -136,7 +136,6 @@ pools:
     - Dawnskirr
     - Downtown
     - Discipline
-    - Oakspell
     - Everlasting
   centi:
     type: voted
