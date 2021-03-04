@@ -200,7 +200,8 @@ pools:
     - Ender Hill
     - Coniferous Forest
     - Lunar Crescent
-    - Winsray Forest
+    - Winsray Fields
+    - Canyon II
   hecto:
     type: voted
     enabled: true
