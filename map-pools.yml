@@ -99,7 +99,6 @@ pools:
     - Nightsail
     - Woolirium
     - Streamline
-    - Tanker TNT
     - Canopy
     - Boombox
     - Khaba
@@ -202,6 +201,7 @@ pools:
     - Lunar Crescent
     - Winsray Fields
     - Canyon II
+    - Tanker TNT
   hecto:
     type: voted
     enabled: true
