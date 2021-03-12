@@ -274,6 +274,7 @@ pools:
     - Far Fetched
     - Yggdrasil
     - Jyngli
+    - Tridente
   mega:
     type: voted
     enabled: true
