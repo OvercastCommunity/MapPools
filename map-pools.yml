@@ -276,6 +276,7 @@ pools:
     - Yggdrasil
     - Jyngli
     - Tridente
+    - Drow's Crevice III
   mega:
     type: voted
     enabled: true
