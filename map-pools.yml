@@ -273,7 +273,6 @@ pools:
     - Crippled Divide
     - Oaken Meadow
     - No Man's Land
-    - Far Fetched
     - Yggdrasil
     - Jyngli
     - Tridente
@@ -329,6 +328,7 @@ pools:
     - Golden Drought IV
     - Titan
     - Alpine Mining
+    - Far Fetched
   giga:
     type: voted
     enabled: true
