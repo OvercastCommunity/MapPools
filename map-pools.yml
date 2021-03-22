@@ -53,7 +53,6 @@ pools:
     - CotBot
     - 'Hot Dam: Mini'
     - Dwyer Hill
-    - The High Road
     - Chimeric
     - The Grove
     - "TF2: Badlands CTF"
@@ -137,6 +136,7 @@ pools:
     - Discipline
     - Everlasting
     - Battlefloat
+    - The High Road
   centi:
     type: voted
     enabled: true
