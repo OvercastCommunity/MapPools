@@ -270,7 +270,6 @@ pools:
     - Townside
     - Anirniit
     - Battle for Amaterasu
-    - Crippled Divide
     - Oaken Meadow
     - No Man's Land
     - Yggdrasil
@@ -329,6 +328,7 @@ pools:
     - Titan
     - Alpine Mining
     - Far Fetched
+    - Crippled Divide
   giga:
     type: voted
     enabled: true
