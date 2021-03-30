@@ -377,6 +377,7 @@ pools:
     - Venice TDM
     - Metro
     - Glacial Conquest
+    - Tempest
   testing: # Please note this is a pool for testing maps
     type: voted
     enabled: true
