@@ -41,7 +41,6 @@ pools:
     - Assault
     - Downforce
     - Limbo
-    - Polylith
     - Divided
     - Infernal Shadow
     - Rage Quit TDM
@@ -69,6 +68,7 @@ pools:
     - Royal
     - Fallout
     - Fruhling
+    - Tranquility
   micro:
     type: voted
     enabled: true
@@ -314,7 +314,6 @@ pools:
     - Masarin II
     - Wintery Cabin
     - Lights Out
-    - Bastion Hill CTF
     - Hillside
     - Runes of Ruin
     - State of Decay
