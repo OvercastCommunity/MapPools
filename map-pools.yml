@@ -478,6 +478,9 @@ pools:
       - "Water Drop: Sunrise Over Paradise"
       - Wonderland
       - Wool Story Bro
+      - Ballot Box
+      - Charge
+      - "Zipline: Moar Gunz Edition"
   warwars:
     type: voted
     enabled: true
