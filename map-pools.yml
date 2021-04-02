@@ -424,10 +424,12 @@ pools:
     maps:
       - A Journey Through History
       - Arid Crossroads
+      - Ballot Box
       - "Bill's Town Blitz"
       - BipBetaMC
       - Bliss
       - "CannonQuad+"
+      - Charge
       - Dead Heat
       - Dry Wound
       - Fallen Courtyard
@@ -478,8 +480,6 @@ pools:
       - "Water Drop: Sunrise Over Paradise"
       - Wonderland
       - Wool Story Bro
-      - Ballot Box
-      - Charge
       - "Zipline: Moar Gunz Edition"
   warwars:
     type: voted
