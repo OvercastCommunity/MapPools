@@ -90,7 +90,6 @@ pools:
     - Clutter
     - Coastline
     - Cuboid Fairway
-    - Cyril
     - Dawnskirr
     - Deepwind Jungle
     - Desert Cataract
@@ -115,6 +114,7 @@ pools:
     - Larnia
     - Levels
     - Limbo II
+    - Maple Syrup
     - Miner Sixty Niner
     - Molendinis
     - Mutiny
@@ -245,6 +245,7 @@ pools:
     - Mistforge
     - Monument Valley
     - Mystic Point
+    - A New Day
     - No Man's Land
     - Oaken Meadow
     - Opal
