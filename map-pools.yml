@@ -1,339 +1,338 @@
-#
-# Map pool sample configuration
 pools:
   pico:
     type: ordered
     enabled: false
     players: 1
     maps:
-    - Castellum
-    - Geometric
-    - Alien
-    - Cerulean Cave
-    - Rage Quit FFA
     - Government
-    - Festive
-    - The Snowmelt Mines
-    - Pirate Cove
     - Frontier
-    - Destiny
-    - 5man
-    - Decay
-    - Overgrown Valley
-    - Pompeii 5x5
-    - Under The Sea
-    - Frozen Market
     - Geiran
-    - Stagnant Waters
+    - Geometric
+    - The Snowmelt Mines
     - Acear I
+    - Pirate Cove
+    - Destiny
+    - Cerulean Cave
+    - Festive
+    - Under The Sea
+    - Rage Quit FFA
+    - Decay
+    - Castellum
+    - 5man
+    - Stagnant Waters
+    - Alien
+    - Overgrown Valley
+    - Frozen Market
+    - Pompeii 5x5
   nano:
     type: ordered
     enabled: true
     players: 6
     maps:
-    - Race for Victory
-    - 101 Rooms TDM
-    - Ubos CTF
-    - Academy
-    - Battle Ecliptica II
-    - Dynamo
-    - Cairn
-    - Assault
-    - Downforce
-    - Limbo
-    - Divided
-    - Infernal Shadow
-    - Rage Quit TDM
-    - Aleppo
-    - DATAbase
-    - Balloon Archipelago
-    - AstroGEN
-    - Battle Ecliptica CTF
-    - CotBot
-    - 'Hot Dam: Mini'
     - Dwyer Hill
-    - Chimeric
-    - The Grove
+    - Battle Ecliptica CTF
+    - Rage Quit TDM
     - "TF2: Badlands CTF"
-    - Serengeti
-    - Rotten Slopes
-    - Xi II
-    - Trigo
+    - Limbo
     - "Grenouille de l’armée"
-    - Xyth CTF
-    - SuperCUBE
-    - Toss Up
-    - Tatakai
-    - Stonehaven
-    - Royal
-    - Fallout
     - Fruhling
+    - The Grove
+    - Xyth CTF
+    - Trigo
+    - Chimeric
+    - Fallout
+    - Tatakai
+    - Assault
+    - Academy
+    - Toss Up
+    - SuperCUBE
+    - Cairn
+    - Aleppo
+    - "Hot Dam: Mini"
+    - Balloon Archipelago
+    - Ubos CTF
+    - Downforce
+    - DATAbase
+    - Race for Victory
+    - Battle Ecliptica II
     - Tranquility
+    - Serengeti
+    - CotBot
+    - Royal
+    - Dynamo
+    - Divided
+    - AstroGEN
+    - Infernal Shadow
+    - 101 Rooms TDM
+    - Rotten Slopes
+    - Stonehaven
+    - Xi II
   micro:
     type: voted
     enabled: true
     players: 20
     maps:
-    - Facility
-    - Molendinis
-    - Pharaoh's Catacombs
-    - Strongbow
-    - Sunrise Over Paradise
-    - The Fenland
-    - Airship Aces
     - 9.5th Law
+    - Airship Aces
+    - Anvil
+    - Atromix
+    - Aureola
+    - BalloonsDTM
+    - Battlefloat
     - Boom
+    - Boombox
+    - Cake Wars
+    - Canopy
     - Cargo
     - Circus DTC
     - Citadel
     - Cloud Nine
+    - Clutter
     - Coastline
+    - Cuboid Fairway
+    - Cyril
+    - Dawnskirr
     - Deepwind Jungle
     - Desert Cataract
+    - Directrix
+    - Discipline
+    - Dorreak
+    - Downtown
+    - Dust
     - Empire
+    - Everlasting
+    - Facility
+    - "Fairy Tales: Metamorphose"
+    - The Fenland
     - Golden Drought III
+    - Green
+    - Hallows
+    - The High Road
+    - Immitis
+    - Justice
+    - Khaba
+    - Kryta
+    - Larnia
     - Levels
     - Limbo II
+    - Miner Sixty Niner
+    - Molendinis
+    - Mutiny
     - Nightlife TDM
     - Nightsail
-    - Woolirium
-    - Streamline
-    - Canopy
-    - Boombox
-    - Khaba
-    - Aureola
-    - BalloonsDTM
-    - Directrix
-    - Justice
     - Persisto
-    - Warlock CTF
-    - Larnia
-    - Kryta
-    - Immitis
-    - Cuboid Fairway
-    - 'Drandion: TDM'
-    - Cyril
-    - SuperPRISM
-    - Sunburn
-    - Mutiny
-    - Hallows
+    - Pharaoh's Catacombs
     - Placid Spring
-    - Anvil
-    - Dorreak
-    - Green
-    - Temple
-    - Verlate
     - Snowy Wars
     - SolitudeMC
-    - Dust
-    - Cake Wars
-    - "Fairy Tales: Metamorphose"
-    - Miner Sixty Niner
-    - Clutter
-    - Atromix
-    - Dawnskirr
-    - Downtown
-    - Discipline
-    - Everlasting
-    - Battlefloat
-    - The High Road
+    - Streamline
+    - Strongbow
+    - Sunburn
+    - Sunrise Over Paradise
+    - SuperPRISM
+    - Temple
+    - Verlate
+    - Warlock CTF
+    - Woolirium
   centi:
     type: voted
     enabled: true
     players: 32
     maps:
-    - Concourse
-    - Desert Sanctuary
-    - Equinox
-    - The Complex CTF
-    - Trench Warfare
+    - "2014: Rage FFA"
+    - Acear II
+    - Airship Battles
     - Autunno
+    - Azure
+    - Beach Battles
+    - BlockRAGE
     - Boletum
+    - Canyon II
+    - "Canyon: TDM"
+    - Cavum
+    - Clearcut
+    - The Complex CTF
+    - Concourse
+    - Coniferous Forest
     - cos(tnt)
-    - Fortress Battles
-    - Iris DTC
-    - Medieval Warfare
-    - Palace CTF
-    - Spaceship Battles
-    - Stampede
-    - Tebulas
-    - Urban Jungle
-    - Wit's End
+    - Cyril
+    - Dangerous Cargo
+    - DATAstation
+    - Desert Country
+    - Desert Sanctuary
+    - Donut Wars
+    - "Drandion: TDM"
+    - Drow's Crevice II
+    - Enchanted
+    - Ender Hill
+    - Equinox
     - Escensio
+    - Firestone Lake Research Facility
+    - Fortress Battles
+    - Fractal Descent
+    - Gleon
+    - Grub
+    - Harvest
+    - Icy Peaks TDM
+    - Iris DTC
+    - "Kryta: One Shot"
+    - The Last Sunset
+    - The Last Sunset II
     - Long Shot
+    - Lunar Crescent
+    - Medieval Warfare
+    - Ouroboros
+    - Palace CTF
+    - "Sand Wars: DTE"
     - Shock Wave
     - Siloë
-    - Donut Wars
-    - BlockRAGE
-    - DATAstation
-    - Thunder
-    - "UBoat König"
-    - Valley of the Dead
-    - Dangerous Cargo
-    - Drow's Crevice II
-    - The Last Sunset
-    - 'Drandion: TDM'
-    - Gleon
-    - Cyril
-    - Ouroboros
-    - 'Kryta: One Shot'
-    - Fractal Descent
-    - Wanna Fly
-    - Enchanted
-    - Icy Peaks TDM
-    - Cavum
-    - Zao
-    - Harvest
-    - "2014: Rage FFA"
-    - Desert Country
-    - Firestone Lake Research Facility
-    - Zipline
-    - "Canyon: TDM"
-    - Thornwood
-    - Azure
-    - Grub
-    - Clearcut
-    - "Sand Wars: DTE"
-    - Airship Battles
-    - The Last Sunset II
-    - Acear II
-    - Ender Hill
-    - Coniferous Forest
-    - Lunar Crescent
-    - Winsray Fields
-    - Canyon II
+    - Spaceship Battles
+    - Stampede
     - Tanker TNT
-    - Beach Battles
+    - Tebulas
+    - Thornwood
+    - Thunder
+    - Trench Warfare
+    - "UBoat König"
+    - Urban Jungle
+    - Valley of the Dead
+    - Wanna Fly
+    - Winsray Fields
+    - Wit's End
+    - Zao
+    - Zipline
   hecto:
     type: voted
     enabled: true
     players: 48
     maps:
+    - Anirniit
+    - Artholis
     - Athirk
     - Avalanche
     - Babylon
+    - Bamboo Valley III
+    - Battle Ecliptica IV
+    - Battle for Amaterasu
     - Battle of Tenjin
+    - Belcrest
+    - Bessemer's Process
     - BlockBlock
+    - Cabin Fever
+    - Cake Day
+    - CannonCube
     - Cat's Cradle
     - Coral Reef
-    - 'Fairy Tales 2: A Tale or Two'
+    - Diablo
+    - Drow's Crevice III
+    - "Fairy Tales 2: A Tale or Two"
     - Fallencrests
     - Fort Wars
+    - Fourchette
     - Fox Strife
     - Fractal Descent
     - Green Hill Zone
     - Gridlock 2
+    - Icebound
     - Inheritance
     - Interitus
     - Jungle Beat
-    - Mayan Apocalypse
-    - Mystic Point
-    - Race for Victory 2
-    - Ring Race
-    - Royal Garden DTC
-    - 'Ski Trip to Blizzardtown'
-    - Storm
-    - Tetrad
-    - Two Tier
-    - Wooly Woods
-    - Zoo
-    - Bamboo Valley III
-    - PixelMix
-    - Swamped
-    - Retaliation 2
-    - Belcrest
-    - CannonCube
-    - State of Decay II
-    - Icebound
-    - Wrath Altar
-    - Cake Day
-    - Xion
-    - Woodwork Harbor
-    - Artholis
-    - Summertime at Brown's Farms
-    - Last Overcastian
-    - Retaliation
-    - Zombie Defense
-    - Roar
-    - Relic
-    - Sinuous
-    - Diablo
-    - Mistforge
-    - Battle Ecliptica IV
-    - Outback
-    - Cabin Fever
-    - Monument Valley
-    - Fourchette
-    - Bessemer's Process
-    - Sky Traffic
-    - Opal
-    - Townside
-    - Anirniit
-    - Battle for Amaterasu
-    - Oaken Meadow
-    - No Man's Land
-    - Yggdrasil
     - Jyngli
+    - Last Overcastian
+    - Mayan Apocalypse
+    - Mistforge
+    - Monument Valley
+    - Mystic Point
+    - No Man's Land
+    - Oaken Meadow
+    - Opal
+    - Outback
+    - PixelMix
+    - Race for Victory 2
+    - Relic
+    - Retaliation
+    - Retaliation 2
+    - Ring Race
+    - Roar
+    - Royal Garden DTC
+    - Sinuous
+    - "Ski Trip to Blizzardtown"
+    - Sky Traffic
+    - State of Decay II
+    - Storm
+    - Summertime at Brown's Farms
+    - Swamped
+    - Tetrad
+    - Townside
     - Tridente
-    - Drow's Crevice III
+    - Two Tier
+    - Woodwork Harbor
+    - Wooly Woods
+    - Wrath Altar
+    - Xion
+    - Yggdrasil
+    - Zombie Defense
+    - Zoo
   mega:
     type: voted
     enabled: true
     players: 64
     maps:
+    - Alpine Mining
+    - The Archives
     - Astro
     - Avalon Funland
+    - Bamboo Valley
+    - Battle of Krehm
     - Battle of Tenjin III
+    - Beauty to Ashes
     - "Blocks: Destroy the Dynamite"
     - Blocks DTC
+    - Blocks II
+    - Crippled Divide
     - DATAbasin
+    - Emerald Canopy
     - Enchanted Woods
     - Fallencrests 2
+    - Far Fetched
     - Full Salvo
     - Glacial Impact
     - Golden Drought
+    - Golden Drought IV
+    - Green Gem CTW
     - Hadron
     - Harb
+    - The Hill
+    - Hillside
     - Hot Dam
     - Hydrolock
     - Ion
+    - Lights Out
     - Lunar Coliseum
+    - Masarin II
     - Mushroom Gorge
     - Nivalis
     - Nuclear Winter
+    - Precipice
     - Race for Victory 3
+    - Runes of Ruin
     - Scrap Mettle
-    - The Archives
-    - The Hill
+    - State of Decay
+    - Synergy
+    - Titan
     - Totally War II
     - Viridun
     - Wildwood Crevice
-    - Woodwork Harbor
-    - Battle of Krehm
-    - Synergy
-    - Masarin II
     - Wintery Cabin
-    - Lights Out
-    - Hillside
-    - Runes of Ruin
-    - State of Decay
-    - Precipice
-    - Emerald Canopy
-    - Beauty to Ashes
-    - Green Gem CTW
-    - Blocks II
-    - Bamboo Valley
-    - Golden Drought IV
-    - Titan
-    - Alpine Mining
-    - Far Fetched
-    - Crippled Divide
+    - Woodwork Harbor
   giga:
     type: voted
     enabled: true
     players: 80
     maps:
+    - The 4th Law
     - Anathema
+    - The Arena
     - Argon
     - Aurimar Rift
     - Baroque Gardens
@@ -342,80 +341,78 @@ pools:
     - Battle of Tenjin 2
     - Below Zero
     - Bridge Over Troubled Water
+    - Broken Unity
+    - Corrupted Kingdoms
     - Crater of Secrets
+    - D-Day
     - Galactic War
+    - Glacial Conquest
+    - Glacial Impact 2
     - Golden Drought II
     - Icebliss
     - Irongate Harbor
+    - Metro
     - Midnight Train
     - Modern Cityscape
+    - The Nile
     - Northlands
     - Ozone
     - Paradise Isle
     - Riverside
     - Royal Garden CTW
+    - Scorched Grove
     - Sky Traffic 2
     - Soviet Mills
     - Spaceship Battles II
-    - The Arena
-    - The Nile
-    - The Vortex
-    - Total War
-    - Tree of Life
-    - The 4th Law
+    - Sugar Rush
+    - Tempest
     - Temple Run
     - Temple Valley
+    - Total War
+    - Tree of Life
     - Trench Warfare 2
-    - Corrupted Kingdoms
-    - Broken Unity
-    - Glacial Impact 2
-    - Scorched Grove
-    - D-Day
-    - Sugar Rush
     - Venice TDM
-    - Metro
-    - Glacial Conquest
-    - Tempest
+    - The Vortex
   testing: # Please note this is a pool for testing maps
     type: voted
     enabled: true
     dynamic: false
     players: 1
     maps:
-      - Formorgar 1
-      - Frostbite
-      - Justice 1
-      - Justice 2
-      - Rendezvous Redux
-      - Senex 1
-      - Senex 2
-      - Ternio
-      - Yellowstone
+    - Formorgar 1
+    - Frostbite
+    - Justice 1
+    - Justice 2
+    - Rendezvous Redux
+    - Senex 1
+    - Senex 2
+    - Ternio
+    - Yellowstone
   fun: # Please note this is a fun pool
     type: voted
     enabled: true
     dynamic: false
     players: 1
     maps:
-      - cos(tnt)
-      - Concourse
-      - Desert Sanctuary
-      - Spaceship Battles
-      - Sand Wars
-      - Equinox
-      - Water Drop Extreme
-      - Rage Quit
-      - 101 Rooms TDM
-      - Race For Victory
-      - Boombox
-      - Fortress Battles
-      - Cannon Duel
-      - Sand Wars InvisiPEARLBow Rage KOTH Grenades Extreme
-      - Mini Drought
-      - AstroGEN
-      - The Nile
-      - Shave
-      - Ozone
+    - 101 Rooms TDM
+    - AstroGEN
+    - Boombox
+    - Cannon Duel
+    - Concourse
+    - cos(tnt)
+    - Desert Sanctuary
+    - Equinox
+    - Fortress Battles
+    - Mini Drought
+    - The Nile
+    - Ozone
+    - Race For Victory
+    - Rage Quit
+    - Sand Wars
+    - Sand Wars InvisiPEARLBow Rage KOTH Grenades Extreme
+    - Shave
+    - Spaceship Battles
+    - Water Drop Extreme
   sns: # Crazy's SNS pool
     type: voted
     enabled: true
@@ -488,11 +485,9 @@ pools:
     players: 1
     maps:
       - "War Wars: 2Tall4Me"
-      - "War Wars: Wait what?"
-      - "War Wars: The Wall Pt 2"
+      - "War Wars: Baby's First Build"
       - "War Wars: Classic"
       - "War Wars: False Alarm"
-      - "War Wars: Baby's First Build"
       - "War Wars: Ice to Meet You"
       - "War Wars: Ironforge"
       - "War Wars: Minimalist"
@@ -504,8 +499,10 @@ pools:
       - "War Wars: Slippery Slope"
       - "War Wars: Spongecake"
       - "War Wars: Sticky Situation"
+      - "War Wars: The Wall Pt 2"
       - "War Wars: Torment"
       - "War Wars: Tree Hugger"
+      - "War Wars: Wait what?"
       - "War Wars: ɹɐʍɹɐʍ"
   nostalgia:
     type: ordered
@@ -513,20 +510,20 @@ pools:
     dynamic: false
     players: 1
     maps:
-    - Fortress Battles
-    - Medieval Warfare
     - Harb
+    - Urban Jungle
+    - Fortress Battles
+    - Race for Victory
+    - A Watery Grave
+    - Medieval Warfare
+    - Cake Wars
+    - Sand Wars
     - Sky Traffic
     - Spaceship Battles
-    - Sand Wars
-    - A Watery Grave
-    - Race for Victory
-    - Cake Wars
-    - Fort Wars
-    - Urban Jungle
     - Airship Battle
-    - Shroom Trip
     - Avalanche
+    - Shroom Trip
+    - Fort Wars
   rage:
     type: voted
     enabled: true
