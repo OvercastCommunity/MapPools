@@ -132,7 +132,7 @@ pools:
     - SuperPRISM
     - Temple
     - Verlate
-    - Warlock CTF
+    - Warlock
     - Woolirium
   centi:
     type: voted
@@ -158,7 +158,6 @@ pools:
     - Cyril
     - Dangerous Cargo
     - DATAstation
-    - Desert Country
     - Desert Sanctuary
     - Donut Wars
     - "Drandion: TDM"
@@ -178,6 +177,7 @@ pools:
     - "Kryta: One Shot"
     - The Last Sunset
     - The Last Sunset II
+    - Library DTE
     - Long Shot
     - Lunar Crescent
     - Medieval Warfare
@@ -206,6 +206,7 @@ pools:
     enabled: true
     players: 48
     maps:
+    - 9th Law
     - Anirniit
     - Artholis
     - Athirk
@@ -321,6 +322,7 @@ pools:
     - Synergy
     - Titan
     - Totally War II
+    - Twisted
     - Viridun
     - Wildwood Crevice
     - Wintery Cabin
@@ -344,7 +346,6 @@ pools:
     - Broken Unity
     - Corrupted Kingdoms
     - Crater of Secrets
-    - D-Day
     - Galactic War
     - Glacial Conquest
     - Glacial Impact 2
@@ -358,13 +359,13 @@ pools:
     - Northlands
     - Ozone
     - Paradise Isle
+    - Rift
     - Riverside
     - Royal Garden CTW
     - Scorched Grove
     - Sky Traffic 2
     - Soviet Mills
     - Spaceship Battles II
-    - Sugar Rush
     - Tempest
     - Temple Run
     - Temple Valley
