@@ -149,7 +149,6 @@ pools:
     - Boletum
     - Canyon II
     - "Canyon: TDM"
-    - Cavum
     - Clearcut
     - The Complex CTF
     - Concourse
@@ -180,7 +179,6 @@ pools:
     - Library DTE
     - Long Shot
     - Lunar Crescent
-    - Maple Syrup
     - Medieval Warfare
     - Ouroboros
     - Palace CTF
@@ -224,6 +222,7 @@ pools:
     - Cake Day
     - CannonCube
     - Cat's Cradle
+    - Cavum
     - Coral Reef
     - Diablo
     - Drow's Crevice III
@@ -241,6 +240,7 @@ pools:
     - Jungle Beat
     - Jyngli
     - Last Overcastian
+    - Maple Syrup
     - Mayan Apocalypse
     - Mistforge
     - Monument Valley
@@ -269,7 +269,6 @@ pools:
     - Townside
     - Tridente
     - Two Tier
-    - Woodwork Harbor
     - Wooly Woods
     - Wrath Altar
     - Xion
