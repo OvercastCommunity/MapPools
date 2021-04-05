@@ -72,7 +72,6 @@ pools:
     enabled: true
     players: 20
     maps:
-    - 9.5th Law
     - Airship Aces
     - Anvil
     - Arabia
@@ -116,7 +115,6 @@ pools:
     - Levels
     - Limbo II
     - Miner Sixty Niner
-    - Molendinis
     - Mutiny
     - Nightlife TDM
     - Nightsail
@@ -181,6 +179,7 @@ pools:
     - Lunar Crescent
     - Maple Syrup
     - Medieval Warfare
+    - Molendinis
     - Ouroboros
     - Palace CTF
     - "Sand Wars: DTE"
