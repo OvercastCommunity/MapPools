@@ -139,6 +139,7 @@ pools:
     maps:
     - "2014: Rage FFA"
     - Acear II
+    - Afflicted
     - Airship Battles
     - Autunno
     - Azure
@@ -166,7 +167,7 @@ pools:
     - Escensio
     - Firestone Lake Research Facility
     - Fortress Battles
-    - Gleon
+    - Gleon CTF
     - Grub
     - Harvest
     - Icy Peaks TDM
@@ -180,8 +181,9 @@ pools:
     - Maple Syrup
     - Medieval Warfare
     - Molendinis
-    - Ouroboros
     - Palace CTF
+    - Pinnacle
+    - Pompeii RAGE
     - "Sand Wars: DTE"
     - Shock Wave
     - Siloë
@@ -280,6 +282,7 @@ pools:
     players: 64
     maps:
     - Alpine Mining
+    - Araxa
     - The Archives
     - Astro
     - Avalon Funland
@@ -304,7 +307,6 @@ pools:
     - Hadron
     - Harb
     - The Hill
-    - Hillside
     - Hot Dam
     - Hydrolock
     - Ion
