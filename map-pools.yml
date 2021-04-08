@@ -9,7 +9,6 @@ pools:
     - Geiran
     - Geometric
     - The Snowmelt Mines
-    - Acear I
     - Pirate Cove
     - Destiny
     - Cerulean Cave
@@ -18,14 +17,12 @@ pools:
     - Rage Quit FFA
     - Decay
     - Castellum
-    - Danagal Valley DTM
     - 5man
     - Stagnant Waters
     - Alien
     - Overgrown Valley
     - Frozen Market
     - Pompeii 5x5
-    - Diramu Valley DTM
   nano:
     type: ordered
     enabled: true
@@ -55,11 +52,12 @@ pools:
     - Ubos CTF
     - Downforce
     - DATAbase
+    - Acear I
     - Race for Victory
     - Battle Ecliptica II
     - Tranquility
     - Serengeti
-    - CotBot
+    - Danagal Valley DTM
     - Royal
     - Dynamo
     - Divided
@@ -69,6 +67,7 @@ pools:
     - Rotten Slopes
     - Stonehaven
     - Xi II
+    - Diramu Valley DTM
   micro:
     type: voted
     enabled: true
