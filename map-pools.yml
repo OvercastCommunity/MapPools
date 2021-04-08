@@ -18,12 +18,14 @@ pools:
     - Rage Quit FFA
     - Decay
     - Castellum
+    - Danagal Valley DTM
     - 5man
     - Stagnant Waters
     - Alien
     - Overgrown Valley
     - Frozen Market
     - Pompeii 5x5
+    - Diramu Valley DTM
   nano:
     type: ordered
     enabled: true
@@ -83,12 +85,12 @@ pools:
     - Boombox
     - Cake Wars
     - Canopy
-    - Cargo
+    - Cargo Redux
     - Circus DTC
     - Citadel
     - Cloud Nine
     - Clutter
-    - Coastline
+    - Coastline Redux
     - Cuboid Fairway
     - Dawnskirr
     - Deepwind Jungle
@@ -147,7 +149,6 @@ pools:
     - BlockRAGE
     - Boletum
     - Canyon II
-    - "Canyon: TDM"
     - Clearcut
     - The Complex CTF
     - Concourse
@@ -162,6 +163,7 @@ pools:
     - "Drandion: TDM"
     - Drow's Crevice II
     - Enchanted
+    - Ender Blast
     - Ender Hill
     - Equinox
     - Escensio
@@ -176,7 +178,6 @@ pools:
     - The Last Sunset
     - The Last Sunset II
     - Library DTE
-    - Long Shot
     - Lunar Crescent
     - Maple Syrup
     - Medieval Warfare
@@ -184,11 +185,11 @@ pools:
     - Palace CTF
     - Pinnacle
     - Pompeii RAGE
+    - The President's Cottage
     - "Sand Wars: DTE"
     - Shock Wave
     - Siloë
     - Spaceship Battles
-    - Stampede
     - Tanker TNT
     - Tebulas
     - Thornwood
