@@ -84,6 +84,7 @@ pools:
     - Cake Wars
     - Canopy
     - Cargo Redux
+    - Catacomb
     - Circus DTC
     - Citadel
     - Cloud Nine
@@ -162,12 +163,10 @@ pools:
     - Drow's Crevice II
     - Enchanted
     - Ender Blast
-    - Ender Hill
     - Equinox
     - Escensio
     - Firestone Lake Research Facility
     - Fortress Battles
-    - Gleon CTF
     - Grub
     - Harvest
     - Icy Peaks TDM
@@ -193,7 +192,7 @@ pools:
     - Thornwood
     - Thunder
     - Trench Warfare
-    - "UBoat König"
+    - UBoat König
     - Urban Jungle
     - Valley of the Dead
     - Wanna Fly
@@ -208,6 +207,7 @@ pools:
     maps:
     - 9th Law
     - Anirniit
+    - Araxa
     - Artholis
     - Athirk
     - Avalanche
@@ -218,10 +218,9 @@ pools:
     - Battle of Tenjin
     - Belcrest
     - Bessemer's Process
+    - BlockBlock
     - Cabin Fever
     - Cairo TDM
-    - Cake Day
-    - CannonCube
     - Cat's Cradle
     - Cavum
     - Coral Reef
@@ -233,20 +232,20 @@ pools:
     - Fourchette
     - Fox Strife
     - Fractal Descent
+    - "Gleon: CTF"
     - Green Hill Zone
     - Gridlock 2
-    - Icebound
     - Inheritance
     - Interitus
     - Jungle Beat
     - Jyngli
+    - Kytriak TE
     - Last Overcastian
     - Mayan Apocalypse
     - Mistforge
     - Monument Valley
     - Mystic Point
     - A New Day
-    - No Man's Land
     - Oaken Meadow
     - Opal
     - Outback
@@ -259,7 +258,7 @@ pools:
     - Roar
     - Royal Garden DTC
     - Sinuous
-    - "Ski Trip to Blizzardtown"
+    - Ski Trip to Blizzardtown
     - Sky Traffic
     - State of Decay II
     - Storm
@@ -281,7 +280,6 @@ pools:
     players: 64
     maps:
     - Alpine Mining
-    - Araxa
     - The Archives
     - Astro
     - Avalon Funland
