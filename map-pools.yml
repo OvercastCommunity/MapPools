@@ -80,7 +80,6 @@ pools:
     - BalloonsDTM
     - Battlefloat
     - Boom
-    - Boombox
     - Cake Wars
     - Canopy
     - Cargo Redux
@@ -147,6 +146,7 @@ pools:
     - Beach Battles
     - BlockRAGE
     - Boletum
+    - BoomBox
     - Cairo TDM
     - Canyon II
     - Clearcut
