@@ -29,7 +29,7 @@ pools:
     players: 6
     maps:
     - Dwyer Hill
-    - Battle Ecliptica CTF
+    - Lasa
     - Rage Quit TDM
     - "TF2: Badlands CTF"
     - Limbo
@@ -39,7 +39,7 @@ pools:
     - Xyth CTF
     - Trigo
     - Chimeric
-    - Fallout
+    - Grassy Mound CTF
     - Tatakai
     - Assault
     - Academy
@@ -60,13 +60,15 @@ pools:
     - Royal
     - Dynamo
     - Divided
-    - AstroGEN
+    - Abudor
     - Infernal Shadow
     - 101 Rooms TDM
-    - Rotten Slopes
+    - Insanihe
     - Stonehaven
     - Xi II
     - Diramu Valley DTM
+    - Jurassic Mini
+    - Fracture DTM
   micro:
     type: voted
     enabled: true
