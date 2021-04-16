@@ -88,7 +88,7 @@ pools:
     - Citadel
     - Cloud Nine
     - Clutter
-    - Coastline
+    - Coastline Redux
     - Cuboid Fairway
     - Dawnskirr
     - Deepwind Jungle
@@ -424,91 +424,92 @@ pools:
     dynamic: false
     players: 1
     maps:
-      - A Journey Through History
-      - Arid Crossroads
-      - Ballot Box
-      - "Bill's Town Blitz"
-      - BipBetaMC
-      - Bliss
-      - "CannonQuad+"
-      - Charge
-      - Dead Heat
-      - Dry Wound
-      - Fallen Courtyard
-      - Foxtrot
-      - Gooseberry
-      - "Hide n' Seek"
-      - Homebound
-      - Humble Jungle
-      - Into The Jungle
-      - "Juggernaut's Hall"
-      - "King's Conquest: Apocalypse Ensues"
-      - "King's Conquest: Proelium"
-      - "King's Conquest: Rage Quit"
-      - "King's Conquest: Rooted Frontier"
-      - Mega Cacti Terror
-      - Metallicus
-      - Oculo
-      - Pixel Run
-      - Plus Side
-      - "Puddin' Pops"
-      - "Race: Circuit"
-      - "Race: Drought"
-      - "Race: Ender"
-      - "Race: Pebble Creek"
-      - Rage Quit
-      - Rage Maze
-      - Red Agony
-      - Rush Wars Tournament 2 Attack of the Defenders
-      - Rooted Frontier
-      - Salvo
-      - Sandstone Temples
-      - Skyfall
-      - Sugar Cane Valley
-      - Swarthmoor
-      - Sweet Tooth
-      - "Team Parkour: Ice"
-      - "Team Parkour: Jungle"
-      - The 6th Law
-      - The Dropper
-      - The Hopper
-      - The Wonders of The World
-      - TNT Spleef
-      - "War Wars: Classic"
-      - "War Wars: Peaceful Meadows"
-      - "War Wars: Slippery Slope"
-      - "War Wars: Minimalist"
-      - Water Drop Extreme
-      - "Water Drop: Sunrise Over Paradise"
-      - Wonderland
-      - Wool Story Bro
-      - "Zipline: Moar Gunz Edition"
+    - A Journey Through History
+    - Arid Crossroads
+    - Ballot Box
+    - "Bill's Town Blitz"
+    - BipBetaMC
+    - Bliss
+    - "CannonQuad+"
+    - Charge
+    - Dead Heat
+    - Dry Wound
+    - Fallen Courtyard
+    - Foxtrot
+    - Gooseberry
+    - "Hide n' Seek"
+    - Homebound
+    - Humble Jungle
+    - Into The Jungle
+    - "Juggernaut's Hall"
+    - "King's Conquest: Apocalypse Ensues"
+    - "King's Conquest: Proelium"
+    - "King's Conquest: Rage Quit"
+    - "King's Conquest: Rooted Frontier
+    - King Ranch"
+    - Mega Cacti Terror
+    - Metallicus
+    - Oculo
+    - Pixel Run
+    - Plus Side
+    - "Puddin' Pops"
+    - "Race: Circuit"
+    - "Race: Drought"
+    - "Race: Ender"
+    - "Race: Pebble Creek"
+    - Rage Quit
+    - Rage Maze
+    - Red Agony
+    - Rush Wars Tournament 2 Attack of the Defenders
+    - Rooted Frontier
+    - Salvo
+    - Sandstone Temples
+    - Skyfall
+    - Sugar Cane Valley
+    - Swarthmoor
+    - Sweet Tooth
+    - "Team Parkour: Ice"
+    - "Team Parkour: Jungle"
+    - The 6th Law
+    - The Dropper
+    - The Hopper
+    - The Wonders of The World
+    - TNT Spleef
+    - "War Wars: Classic"
+    - "War Wars: Peaceful Meadows"
+    - "War Wars: Slippery Slope"
+    - "War Wars: Minimalist"
+    - Water Drop Extreme
+    - "Water Drop: Sunrise Over Paradise"
+    - Wonderland
+    - Wool Story Bro
+    - "Zipline: Moar Gunz Edition"
   warwars:
     type: voted
     enabled: true
     dynamic: false
     players: 1
     maps:
-      - "War Wars: 2Tall4Me"
-      - "War Wars: Baby's First Build"
-      - "War Wars: Classic"
-      - "War Wars: False Alarm"
-      - "War Wars: Ice to Meet You"
-      - "War Wars: Ironforge"
-      - "War Wars: Minimalist"
-      - "War Wars: Null and Void"
-      - "War Wars: Peaceful Meadows"
-      - "War Wars: Portals"
-      - "War Wars: Prime Time"
-      - "War Wars: Sand Wars 2"
-      - "War Wars: Slippery Slope"
-      - "War Wars: Spongecake"
-      - "War Wars: Sticky Situation"
-      - "War Wars: The Wall Pt 2"
-      - "War Wars: Torment"
-      - "War Wars: Tree Hugger"
-      - "War Wars: Wait what?"
-      - "War Wars: ɹɐʍɹɐʍ"
+    - "War Wars: 2Tall4Me"
+    - "War Wars: Baby's First Build"
+    - "War Wars: Classic"
+    - "War Wars: False Alarm"
+    - "War Wars: Ice to Meet You"
+    - "War Wars: Ironforge"
+    - "War Wars: Minimalist"
+    - "War Wars: Null and Void"
+    - "War Wars: Peaceful Meadows"
+    - "War Wars: Portals"
+    - "War Wars: Prime Time"
+    - "War Wars: Sand Wars 2"
+    - "War Wars: Slippery Slope"
+    - "War Wars: Spongecake"
+    - "War Wars: Sticky Situation"
+    - "War Wars: The Wall Pt 2"
+    - "War Wars: Torment"
+    - "War Wars: Tree Hugger"
+    - "War Wars: Wait what?"
+    - "War Wars: ɹɐʍɹɐʍ"
   nostalgia:
     type: ordered
     enabled: true
@@ -614,10 +615,11 @@ pools:
     - Zen
   halloween:
     type: voted
-    enabled: false
+    enabled: true
     dynamic: false
     players: 1
     maps:
+    - 101 Pumpkins
     - A SpOOky Sunset
     - Abudracula
     - "BalloonsDTM: Halloween"
@@ -654,7 +656,7 @@ pools:
     - Ware-Haunted-House
   christmas:
     type: voted
-    enabled: false
+    enabled: true
     dynamic: false
     players: 1
     maps:
@@ -673,6 +675,7 @@ pools:
     - "Concourse: Christmas"
     - Connected Christmas
     - DirectriXmas
+    - "Downtown: Christmas Eve"
     - Festive Venice
     - Holiday Blocks
     - Merry Drought
