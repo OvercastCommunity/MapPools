@@ -209,6 +209,7 @@ pools:
     players: 48
     maps:
     - 9th Law
+    - Amazon Kingdom DTC
     - Anirniit
     - Araxa
     - Artholis
@@ -255,7 +256,6 @@ pools:
     - Retaliation
     - Retaliation 2
     - Ring Race
-    - Roar
     - Royal Garden DTC
     - Sinuous
     - Ski Trip to Blizzardtown
