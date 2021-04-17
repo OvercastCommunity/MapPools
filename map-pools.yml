@@ -621,40 +621,48 @@ pools:
     dynamic: false
     players: 1
     maps:
-    - 101 Pumpkins
-    - A SpOOky Sunset
-    - Abudracula
-    - "BalloonsDTM: Halloween"
-    - Bam-BOO Valley
-    - Bloody Trident
+    - 101 Pumpkins #101 Rooms
+    - Abandoned Zoo #Zoo
+    - Abudracula #Abudor
+    - AlepBOO! #Aleppo
+    - BackSPOOK #Outback
+    - "BalloonsDTM: Halloween" #BalloonsDTM
+    - Bam-BOO Valley #Bamboo Valley
+    - Bloody Trident #Fourchette
     - Celestial Twilight
-    - Chimeric Horror
-    - "Circus DTC: Halloween"
-    - Deserted Sanctuary
-    - DynaboOo
-    - Empire in Ruins
-    - "Fallencrests: Halloween"
-    - Hallowed Harb
-    - Halloween Train
-    - Haunted Blocks
-    - Haunted Rings
-    - Jungle Spook
-    - Nuclear Halloween
-    - BackSPOOK
-    - Perspookysto
-    - PixelMissing
+    - Chimeric Horror #Chimeric
+    - "Circus DTC: Halloween" #Circus DTC
+    - Deserted Sanctuary #Desert Sanctuary
+    - DynaboOo #Dynamo
+    - Empire in Ruins #Empire
+    - "Fallencrests: Halloween" #Fallencrests
+    - Ghostline Redux #Coastline Redux, also Ghostline Redux Emerald -> Coastline Redux Emerald
+    - Hallow Side #Plus Side
+    - Hallowed Harb #Harb
+    - Halloween Train #Midnight Train
+    - Haunted Blocks #Blocks DTC
+    - Haunted Cargo Redux #Cargo Redux
+    - Haunted Rings #Ring Race
+    - Jungle Spook #Jungle Beat
+    - "The Lobby: Halloween" #2014: Rage FFA
+    - Nuclear Halloween #Nuclear winter
+    - Perspookysto #Persisto
+    - PixelMissing #PixelMix
     - Pumpkin Madness
-    - SSB Halloween
-    - Scareros
-    - Snowy Wars Halloween
-    - SolitudeMC Halloween
-    - Soviet Chills
-    - SpOOky Diamonds
-    - Spooky Country
-    - Spooky Garden DTC
-    - Spooky Lyndanisse
-    - Spooky Smog
-    - SuperHALLOW
+    - SSB Halloween #Spaceship Battles
+    - Scareros #Aaeros
+    - Snowy Wars Halloween #Snowy Wars
+    - SolitudeMC Halloween #SolitudeMC
+    - Soviet Chills #Soviet Mills
+    - Spooktober
+    - SpOOky Diamonds #Chocolate Diamonds
+    - Spooky Country #Desert Country
+    - Spooky Garden DTC #Royal Garden DTC
+    - Spooky Lyndanisse #Battle of Lyndanisse
+    - Spooky Smog #Smog
+    - A SpOOky Sunset #The Last Sunset II
+    - Sunrise Over Lava #Sunrise Over Paradise
+    - SuperHALLOW #SuperPRISM
     - Ware-Haunted-House
   christmas:
     type: voted
