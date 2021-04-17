@@ -645,11 +645,11 @@ pools:
     - Haunted Rings #Ring Race
     - Jungle Spook #Jungle Beat
     - "The Lobby: Halloween" #2014: Rage FFA
-    - Nuclear Halloween #Nuclear winter
+    - Nuclear Halloween #Nuclear Winter
     - Perspookysto #Persisto
     - PixelMissing #PixelMix
     - Pumpkin Madness
-    - SSB Halloween #Spaceship Battles
+    - "Spaceship Battles: Halloween" #Spaceship Battles
     - Scareros #Aaeros
     - Snowy Wars Halloween #Snowy Wars
     - SolitudeMC Halloween #SolitudeMC
@@ -670,33 +670,35 @@ pools:
     dynamic: false
     players: 1
     maps:
-    - AaerHoHoHos
-    - "Abudor: Christmas"
+    - AaerHoHoHos #Aaeros
+    - "Abudor: Christmas" #Abudor
     - An Overcast Christmas
-    - "Azure: Christmas"
-    - "BalloonsDTM: Christmas"
-    - "Battle of Lyndanisse: Snowmen"
-    - Blizz Christmas
-    - Candy Cane Valley
-    - Christmas Country
+    - "Azure: Christmas" #Azure
+    - "BalloonsDTM: Christmas" #BalloonsDTM
+    - "Battle of Lyndanisse: Snowmen" #Battle of Lyndanisse
+    - Blizz Christmas #Blizz
+    - Candy Cane Valley #Bamboo Balley
+    - Christmas Country #Desert Country
     - "Christmas Eve: Rage"
-    - Christmas Sanctuary
-    - ColdCut
-    - "Concourse: Christmas"
-    - Connected Christmas
-    - DirectriXmas
-    - "Downtown: Christmas Eve"
-    - Festive Venice
-    - Holiday Blocks
-    - Merry Drought
-    - Royal Christmas DTC
-    - Shave Santa
-    - Snow
-    - Snowback
-    - Snowy Diamonds
-    - Snowy Wars Christmas
-    - "SolitudeMC: Christmas"
-    - Two Trees
-    - White
-    - "Wit's End: Christmas"
-    - Zipmas
+    - Christmas Sanctuary #Desert Sanctuary
+    - ColdCut #Clearcut
+    - "Concourse: Christmas" #Concourse
+    - Connected Christmas #Connected
+    - Danagal Valley DTM #Diramu Valley DTM
+    - DirectriXmas #Directrix
+    - "Downtown: Christmas Eve" #Downtown
+    - Festive Venice #Venice TDM
+    - Holiday Blocks #Blocks DTC
+    - Merry Drought #Golden Drought
+    - Royal Christmas DTC #Royal Garden DTC
+    - Shave Santa #Shave
+    - Snow #Dust
+    - Snowback #Outback
+    - Snowy Diamonds #Chocolate Diamonds
+    - Snowy Wars Christmas #Snowy Wars
+    - "SolitudeMC: Christmas" #SolitudeMC
+    - Two Trees #Two Tier
+    - White #Green
+    - Whiteout
+    - "Wit's End: Christmas" 
+    - Zipmas #Zipline
