@@ -74,11 +74,11 @@ pools:
     enabled: true
     players: 20
     maps:
-    - Airship Aces
+    - Agrostid
     - Anvil
     - Arabia
     - Atromix
-    - Aureola
+    - Aureola KotF
     - BalloonsDTM
     - Battlefloat
     - Boom
