@@ -3,6 +3,7 @@ pools:
     type: ordered
     enabled: false
     players: 1
+    display-name: "pico"
     maps:
     - Government
     - Frontier
@@ -27,6 +28,7 @@ pools:
     type: ordered
     enabled: true
     players: 6
+    display-name: "nano"
     maps:
     - Dwyer Hill
     - Lasa
@@ -73,6 +75,7 @@ pools:
     type: voted
     enabled: true
     players: 20
+    display-name: "micro"
     maps:
     - Agrostid
     - Anvil
@@ -137,6 +140,7 @@ pools:
     type: voted
     enabled: true
     players: 32
+    display-name: "centi"
     maps:
     - "2014: Rage FFA"
     - Acear II
@@ -208,6 +212,7 @@ pools:
     type: voted
     enabled: true
     players: 48
+    display-name: "hecto"
     maps:
     - 9th Law
     - Amazon Kingdom DTC
@@ -278,6 +283,7 @@ pools:
     type: voted
     enabled: true
     players: 64
+    display-name: "mega"
     maps:
     - Alpine Mining
     - The Archives
@@ -332,6 +338,7 @@ pools:
     type: voted
     enabled: true
     players: 80
+    display-name: "giga"
     maps:
     - The 4th Law
     - Anathema
@@ -380,6 +387,7 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    display-name: "testing"
     maps:
     - Bleened Rings
     - Formorgar 1
@@ -400,6 +408,7 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    display-name: "fun"
     maps:
     - 101 Rooms TDM
     - AstroGEN
@@ -425,6 +434,7 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    display-name: "sns"
     maps:
     - A Journey Through History
     - Arid Crossroads
@@ -491,6 +501,7 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    display-name: "warwars"
     maps:
     - "War Wars: 2Tall4Me"
     - "War Wars: Baby's First Build"
@@ -517,6 +528,7 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    display-name: "nostalgia"
     maps:
     - Harb
     - Urban Jungle
@@ -537,6 +549,7 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    display-name: "rage"
     maps:
     - 100 Rooms
     - 101 Rooms
@@ -620,6 +633,7 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    display-name: "halloween"
     maps:
     - 101 Pumpkins #101 Rooms
     - Abandoned Zoo #Zoo
@@ -669,6 +683,7 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    display-name: "christmas"
     maps:
     - AaerHoHoHos #Aaeros
     - "Abudor: Christmas" #Abudor
