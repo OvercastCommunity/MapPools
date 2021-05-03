@@ -38,7 +38,7 @@ pools:
     - "Grenouille de l'armée"
     - Fruhling
     - The Grove
-    - Xyth CTF
+    - Xyth KotF
     - Trigo
     - Chimeric
     - Grassy Mound CTF
@@ -70,7 +70,6 @@ pools:
     - Xi II
     - Diramu Valley DTM
     - Jurassic Mini
-    - Fracture DTM
   micro:
     type: voted
     enabled: true
