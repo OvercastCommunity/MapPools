@@ -83,6 +83,7 @@ pools:
     - Aureola KotF
     - BalloonsDTM
     - Battlefloat
+    - Blitzkrieg CTF
     - Boom
     - Cake Wars
     - Canopy
@@ -94,7 +95,6 @@ pools:
     - Clutter
     - Coastline Redux
     - Cuboid Fairway
-    - Dawnskirr
     - Deepwind Jungle
     - Desert Cataract
     - Directrix
@@ -128,7 +128,6 @@ pools:
     - SolitudeMC
     - Streamline
     - Strongbow
-    - Sunburn
     - Sunrise Over Paradise
     - SuperPRISM
     - Temple
@@ -143,8 +142,7 @@ pools:
     maps:
     - "2014: Rage FFA"
     - Acear II
-    - Afflicted
-    - Airship Battle
+    - Airship Ascendance
     - Araxa
     - Autunno
     - Azure
@@ -152,7 +150,6 @@ pools:
     - BlockRAGE
     - Boletum
     - BoomBox
-    - Cairo TDM
     - Canyon II
     - Clearcut
     - The Complex CTF
@@ -165,7 +162,6 @@ pools:
     - Demaroo
     - Desert Sanctuary
     - Donut Wars
-    - "Drandion: TDM"
     - Drow's Crevice II
     - Enchanted
     - Ender Blast
@@ -179,19 +175,19 @@ pools:
     - Iris DTC
     - Kryta
     - The Last Sunset
-    - The Last Sunset II
     - Library DTE
     - Lunar Crescent
     - Maple Syrup
     - Medieval Warfare
     - Molendinis
     - Palace CTF
+    - Parabola
     - Pompeii RAGE
     - The President's Cottage
     - "Sand Wars: DTE"
-    - Shock Wave
     - Siloë
     - Spaceship Battles
+    - Streamline II
     - Tanker TNT
     - Tebulas
     - Thornwood
@@ -215,26 +211,21 @@ pools:
     - 9th Law
     - Amazon Kingdom DTC
     - Anirniit
-    - Artholis
     - Athirk
     - Avalanche
-    - Babylon
     - Bamboo Valley III
     - Battle Ecliptica IV
     - Battle for Amaterasu
     - Battle of Tenjin
     - Belcrest
-    - Bessemer's Process
     - BlockBlock
     - Cabin Fever
     - Cat's Cradle
     - Cavum
     - Coral Reef
-    - Diablo
     - Drow's Crevice III
     - "Fairy Tales 2: A Tale or Two"
     - Fallencrests
-    - Fort Wars
     - Fourchette
     - Fox Strife
     - Fractal Descent
@@ -248,7 +239,6 @@ pools:
     - Kytriak
     - Last Overcastian
     - Mayan Apocalypse
-    - Mistforge
     - Monument Valley
     - Mystic Point
     - A New Day
@@ -275,6 +265,7 @@ pools:
     - Wrath Altar
     - Xion
     - Yggdrasil
+    - "Zap: Cubist Remix"
     - Zombie Defense
     - Zoo
   mega:
@@ -283,7 +274,7 @@ pools:
     players: 64
     display-name: "mega"
     maps:
-    - Alpine Mining
+    - The 4th Law
     - The Archives
     - Astro
     - Avalon Funland
@@ -338,7 +329,7 @@ pools:
     players: 80
     display-name: "giga"
     maps:
-    - The 4th Law
+    - Alpine Mining
     - Anathema
     - The Arena
     - Argon
