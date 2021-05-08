@@ -144,7 +144,7 @@ pools:
     maps:
     - "2014: Rage FFA"
     - Acear II
-    - Airship Ascendance
+    - Airship Battle
     - Araxa
     - Autunno
     - Azure
@@ -223,6 +223,7 @@ pools:
     - Cat's Cradle
     - Cavum
     - Coral Reef
+    - Diablo
     - Drow's Crevice III
     - "Fairy Tales 2: A Tale or Two"
     - Fallencrests
@@ -244,6 +245,7 @@ pools:
     - A New Day
     - Oaken Meadow
     - Outback
+    - Pinnacle
     - Race for Victory 2
     - Relic
     - Retaliation
@@ -265,7 +267,6 @@ pools:
     - Wrath Altar
     - Xion
     - Yggdrasil
-    - "Zap: Cubist Remix"
     - Zombie Defense
     - Zoo
   mega:
@@ -279,7 +280,7 @@ pools:
     - Astro
     - Avalon Funland
     - Bamboo Valley
-    - Battle of Krehm
+    - Battle for Amaterasu
     - Battle of Tenjin III
     - Beauty to Ashes
     - "Blocks: Destroy the Dynamite"
@@ -312,6 +313,7 @@ pools:
     - Precipice
     - Race for Victory 3
     - Rift II
+    - Riverside
     - Runes of Ruin
     - Scrap Mettle
     - State of Decay
@@ -323,6 +325,7 @@ pools:
     - Wildwood Crevice
     - Wintery Cabin
     - Woodwork Harbor
+    - "Zap: Cubist Remix"
   giga:
     type: voted
     enabled: true
@@ -357,7 +360,6 @@ pools:
     - Ozone
     - Paradise Isle
     - Rift
-    - Riverside
     - Royal Garden CTW
     - Scorched Grove
     - Sky Traffic 2
