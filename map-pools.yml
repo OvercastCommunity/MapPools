@@ -322,7 +322,7 @@ pools:
     - Wildwood Crevice
     - Wintery Cabin
     - Woodwork Harbor
-    - "Zap: Cubist Remix"
+    - "Zap: Remix"
   giga:
     type: voted
     enabled: true
