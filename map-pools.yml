@@ -122,6 +122,7 @@ pools:
     - Mutiny
     - Nightlife TDM
     - Nightsail
+    - Paradiso
     - Persisto
     - Pharaoh's Catacombs
     - Placid Spring
@@ -143,6 +144,7 @@ pools:
     maps:
     - "2014: Rage FFA"
     - Acear II
+    - Afflicted
     - Airship Battle
     - Arabia
     - Araxa
@@ -173,7 +175,6 @@ pools:
     - Grub
     - Harvest
     - Iris DTC
-    - Kryta
     - The Last Sunset
     - Library DTE
     - Lunar Crescent
@@ -218,7 +219,6 @@ pools:
     - Battle of Tenjin
     - Beehive
     - Belcrest
-    - BlockBlock
     - Cabin Fever
     - Cake Day
     - Cat's Cradle
@@ -237,6 +237,7 @@ pools:
     - Interitus
     - Jungle Beat
     - Jyngli
+    - Kryta
     - Kytriak
     - Last Overcastian
     - Mayan Apocalypse
