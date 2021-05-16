@@ -77,8 +77,8 @@ pools:
     display-name: "micro"
     maps:
     - Agrostid
+    - Antiquis
     - Anvil
-    - Arabia
     - Arabian Nightmare
     - Atromix
     - Aureola KotF
@@ -86,10 +86,10 @@ pools:
     - BalloonsDTM
     - Blitzkrieg CTF
     - Boom
-    - Cake Wars
     - Canopy
     - Cargo Redux
     - Catacomb
+    - Chocolate Diamonds
     - Circus DTC
     - Citadel
     - Cloud Nine
@@ -144,6 +144,7 @@ pools:
     - "2014: Rage FFA"
     - Acear II
     - Airship Battle
+    - Arabia
     - Araxa
     - Autunno
     - Azure
@@ -180,7 +181,6 @@ pools:
     - Medieval Warfare
     - Molendinis
     - Palace CTF
-    - Parabola
     - Pompeii RAGE
     - The President's Cottage
     - "Sand Wars: DTE"
@@ -702,5 +702,5 @@ pools:
     - Two Trees #Two Tier
     - White #Green
     - Whiteout
-    - "Wit's End: Christmas" 
+    - "Wit's End: Christmas"
     - Zipmas #Zipline
