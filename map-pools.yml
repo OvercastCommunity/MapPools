@@ -208,7 +208,7 @@ pools:
     players: 48
     display-name: "hecto"
     maps:
-    - 9th Law
+    - The 9th Law
     - Amazon Kingdom DTC
     - Anirniit
     - Athirk
@@ -305,6 +305,7 @@ pools:
     - Lunar Coliseum
     - Masarin II
     - Mushroom Gorge
+    - Necro
     - Nivalis
     - Nuclear Winter
     - Opal
