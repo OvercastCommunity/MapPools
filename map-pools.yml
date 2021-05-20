@@ -70,6 +70,7 @@ pools:
     - Xi II
     - Diramu Valley DTM
     - Jurassic Mini
+    - Seven
   micro:
     type: voted
     enabled: true
