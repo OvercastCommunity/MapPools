@@ -428,9 +428,8 @@ pools:
     maps:
     - A Journey Through History
     - Arid Crossroads
-    - Ballot Box
     - "Bill's Town Blitz"
-    - BipBetaMC
+    - "BipBetaMC: TDM"
     - Bliss
     - "CannonQuad+"
     - Charge
@@ -448,12 +447,11 @@ pools:
     - "King's Conquest: Proelium"
     - "King's Conquest: Rage Quit"
     - "King's Conquest: Rooted Frontier"
-    - King Ranch
     - Mega Cacti Terror
-    - Metallicus
     - Oculo
     - Pixel Run
     - Plus Side
+    - Proelium
     - "Puddin' Pops"
     - "Race: Circuit"
     - "Race: Drought"
@@ -473,18 +471,17 @@ pools:
     - "Team Parkour: Ice"
     - "Team Parkour: Jungle"
     - The 6th Law
-    - The Dropper
     - The Hopper
-    - The Wonders of The World
     - TNT Spleef
     - "War Wars: Classic"
-    - "War Wars: Peaceful Meadows"
-    - "War Wars: Slippery Slope"
-    - "War Wars: Minimalist"
+    - "War Wars: 2Tall4Me"
+    - "War Wars: Sand Wars 2"
+    - "War Wars: Spongecake"
     - Water Drop Extreme
     - "Water Drop: Sunrise Over Paradise"
-    - Wonderland
+    - "Water Drop: Limbo II"
     - Wool Story Bro
+    - Zen
     - "Zipline: Moar Gunz Edition"
   warwars:
     type: voted
