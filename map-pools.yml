@@ -331,7 +331,6 @@ pools:
     players: 80
     display-name: "giga"
     maps:
-    - Alpine Mining
     - Anathema
     - The Arena
     - Argon
