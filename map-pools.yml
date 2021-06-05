@@ -49,6 +49,7 @@ pools:
     - SuperCUBE
     - Cairn
     - Aleppo
+    - Ruins of the User
     - Hot Dam Mini
     - Balloon Archipelago
     - Ubos CTF
@@ -98,7 +99,6 @@ pools:
     - Coastline Redux
     - Cuboid Fairway
     - Deepwind Jungle
-    - Desert Cataract
     - Directrix
     - Discipline
     - Dorreak
@@ -125,7 +125,6 @@ pools:
     - Nightsail
     - Paradiso
     - Persisto
-    - Pharaoh's Catacombs
     - Placid Spring
     - Snowy Wars
     - SolitudeMC
@@ -164,12 +163,12 @@ pools:
     - Cyril
     - DATAstation
     - Demaroo
+    - Desert Cataract
     - Desert Sanctuary
     - Donut Wars
     - Drow's Crevice II
     - Enchanted
     - Ender Blast
-    - Ender Hill
     - Escensio
     - Firestone Lake Research Facility
     - Fortress Battles
@@ -196,10 +195,8 @@ pools:
     - Totem
     - Trench Warfare
     - UBoat König
-    - Urban Jungle
     - Valley of the Dead
     - Wanna Fly
-    - Winsray Fields
     - Wit's End
     - Zao
     - Zipline
@@ -214,18 +211,17 @@ pools:
     - Anirniit
     - Athirk
     - Avalanche
-    - Bamboo Valley III
+    - Babylon
     - Battle Ecliptica IV
-    - Battle for Amaterasu
     - Battle of Tenjin
     - Beehive
     - Belcrest
+    - BlockBlock
     - Cabin Fever
     - Cake Day
     - Cat's Cradle
     - Cavum
     - Coral Reef
-    - Diablo
     - Drow's Crevice III
     - "Fairy Tales 2: A Tale or Two"
     - Fourchette
@@ -244,17 +240,15 @@ pools:
     - Mayan Apocalypse
     - Mystic Point
     - A New Day
+    - No Man's Land
     - Oaken Meadow
     - Outback
-    - Pinnacle
+    - PixelMix
     - Race for Victory 2
-    - Retaliation
     - Retaliation 2
     - Ring Race
-    - Royal Garden DTC
     - Sinuous
     - Ski Trip to Blizzardtown
-    - Sky Traffic
     - State of Decay II
     - Storm
     - Summertime at Brown's Farms
@@ -263,6 +257,7 @@ pools:
     - Townside
     - Tridente
     - Two Tier
+    - Winsray Fields
     - Wooly Woods
     - Wrath Altar
     - Xion
@@ -281,6 +276,7 @@ pools:
     - Astro
     - Avalon Funland
     - Bamboo Valley
+    - Battle for Amaterasu
     - Battle of Tenjin III
     - Beauty to Ashes
     - "Blocks: Destroy the Dynamite"
@@ -311,7 +307,6 @@ pools:
     - Nivalis
     - Nuclear Winter
     - Opal
-    - Precipice
     - Race for Victory 3
     - Riverside
     - Runes of Ruin
