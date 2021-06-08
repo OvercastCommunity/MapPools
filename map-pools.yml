@@ -98,6 +98,7 @@ pools:
     - Clutter
     - Coastline Redux
     - Cuboid Fairway
+    - DATAcenter
     - Deepwind Jungle
     - Directrix
     - Discipline
@@ -123,7 +124,6 @@ pools:
     - Mutiny
     - Nightlife TDM
     - Nightsail
-    - Paradiso
     - Persisto
     - Placid Spring
     - Snowy Wars
@@ -166,7 +166,6 @@ pools:
     - Desert Cataract
     - Desert Sanctuary
     - Donut Wars
-    - Drow's Crevice II
     - Enchanted
     - Ender Blast
     - Escensio
@@ -181,6 +180,7 @@ pools:
     - Maple Syrup
     - Medieval Warfare
     - Molendinis
+    - Paradiso
     - Palace CTF
     - Pompeii RAGE
     - The President's Cottage
@@ -207,6 +207,7 @@ pools:
     display-name: "hecto"
     maps:
     - The 9th Law
+    - Aequabilis
     - Amazon Kingdom DTC
     - Anirniit
     - Athirk
@@ -240,13 +241,12 @@ pools:
     - Mayan Apocalypse
     - Mystic Point
     - A New Day
-    - No Man's Land
     - Oaken Meadow
     - Outback
-    - PixelMix
     - Race for Victory 2
     - Retaliation 2
     - Ring Race
+    - Riverside
     - Sinuous
     - Ski Trip to Blizzardtown
     - State of Decay II
@@ -308,7 +308,6 @@ pools:
     - Nuclear Winter
     - Opal
     - Race for Victory 3
-    - Riverside
     - Runes of Ruin
     - Scrap Mettle
     - State of Decay
