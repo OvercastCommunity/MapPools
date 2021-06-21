@@ -414,7 +414,7 @@ pools:
     - Water Drop Extreme
   sns: # Crazy's SNS pool
     type: voted
-    cycle-time: 20s
+    cycle-time: 25s
     enabled: true
     dynamic: false
     players: 1
