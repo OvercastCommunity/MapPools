@@ -26,6 +26,7 @@ pools:
     - Pompeii 5x5
   nano:
     type: ordered
+    cycle-time: 15s
     enabled: true
     players: 6
     display-name: "nano"
