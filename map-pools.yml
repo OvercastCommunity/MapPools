@@ -14,7 +14,7 @@ pools:
     - Destiny
     - Cerulean Cave
     - Festive
-    - Under The Sea
+    - Under the Sea
     - Rage Quit FFA
     - Decay
     - Castellum
@@ -436,7 +436,7 @@ pools:
     - "Hide n' Seek"
     - Homebound
     - Humble Jungle
-    - Into The Jungle
+    - Into the Jungle
     - "Juggernaut's Hall"
     - "King's Conquest: Apocalypse Ensues"
     - "King's Conquest: Proelium"
@@ -477,7 +477,6 @@ pools:
     - "Water Drop: Limbo II"
     - Wool Story Bro
     - Zen
-    - "Zipline: Moar Gunz Edition"
   warwars:
     type: voted
     enabled: true
@@ -565,7 +564,7 @@ pools:
     - Ieats Hall
     - Immortal
     - Infinite
-    - Into The Jungle
+    - Into the Jungle
     - Java
     - Lush
     - Magnolia Creek
