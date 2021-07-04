@@ -367,12 +367,26 @@ pools:
     - Trench Warfare 2
     - Venice TDM
     - The Vortex
-  testing: # Please note this is a pool for testing maps
+  testing: #New testing pool for actual map tests
     type: voted
     enabled: true
     dynamic: false
     players: 1
-    display-name: "testing"
+    display-name: "map testing"
+    maps:
+        - Black Gold
+        - Callorbus
+        - Chemical Reaction
+        - Embankment
+        - Haunted Corridors
+        - Mystic Gully
+        - Strike
+  avicus: # Just some of your throwback avicus maps
+    type: voted
+    enabled: true
+    dynamic: false
+    players: 1
+    display-name: "avicus"
     maps:
     - Bleened Rings
     - Formorgar 1
