@@ -372,11 +372,12 @@ pools:
     enabled: true
     dynamic: false
     players: 1
-    display-name: "map testing"
+    display-name: "testing"
     maps:
         - Black Gold
         - Callorbus
         - Chemical Reaction
+        - Donut Spleef
         - Haunted Corridors
         - Mystic Gully
         - Strike
