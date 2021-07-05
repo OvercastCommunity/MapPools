@@ -375,11 +375,9 @@ pools:
     display-name: "testing"
     maps:
         - Black Gold
-        - Callorbus
         - Chemical Reaction
         - Donut Spleef
         - Haunted Corridors
-        - Mystic Gully
         - Strike
   avicus: # Just some of your throwback avicus maps
     type: voted
