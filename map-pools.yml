@@ -5,25 +5,25 @@ pools:
     players: 1
     display-name: "pico"
     maps:
-    - 5man
-    - Alien
-    - Castellum
-    - Cerulean Cave
-    - Decay
-    - Destiny
-    - Festive
+    - Government
     - Frontier
-    - Frozen Market
     - Geiran
     - Geometric
-    - Government
-    - Overgrown Valley
-    - Pirate Cove
-    - Pompeii 5x5
-    - Rage Quit FFA
-    - Stagnant Waters
     - The Snowmelt Mines
+    - Pirate Cove
+    - Destiny
+    - Cerulean Cave
+    - Festive
     - Under the Sea
+    - Rage Quit FFA
+    - Decay
+    - Castellum
+    - 5man
+    - Stagnant Waters
+    - Alien
+    - Overgrown Valley
+    - Frozen Market
+    - Pompeii 5x5
   nano:
     type: ordered
     cycle-time: 15s
@@ -31,48 +31,48 @@ pools:
     players: 6
     display-name: "nano"
     maps:
-    - 101 Rooms TDM
-    - Abudor
-    - Academy
-    - Acear I
-    - Aleppo
-    - Assault
-    - Balloon Archipelago
-    - Battle Ecliptica II
-    - Cairn
-    - Chimeric
-    - DATAbase
-    - Diramu Valley DTM
-    - Divided
-    - Downforce
     - Dwyer Hill
-    - Dynamo
-    - Fruhling
-    - Grassy Mound CTF
-    - "Grenouille de l'armée"
-    - Hot Dam Mini
-    - Infernal Shadow
-    - Insanihe
-    - Jurassic Mini
     - Lasa
-    - Limbo
-    - Race for Victory
     - Rage Quit TDM
-    - Royal
-    - Ruins of the User
-    - Serengeti
-    - Seven
-    - Stonehaven
-    - SuperCUBE
-    - Tatakai
     - "TF2: Badlands CTF"
+    - Limbo
+    - "Grenouille de l'armée"
+    - Fruhling
     - The Grove
-    - Toss Up
-    - Tranquility
-    - Trigo
-    - Ubos CTF
-    - Xi II
     - Xyth KotF
+    - Trigo
+    - Chimeric
+    - Grassy Mound CTF
+    - Tatakai
+    - Assault
+    - Academy
+    - Toss Up
+    - SuperCUBE
+    - Cairn
+    - Aleppo
+    - Ruins of the User
+    - Hot Dam Mini
+    - Balloon Archipelago
+    - Ubos CTF
+    - Downforce
+    - DATAbase
+    - Acear I
+    - Race for Victory
+    - Battle Ecliptica II
+    - Tranquility
+    - Serengeti
+    - Royal
+    - Dynamo
+    - Divided
+    - Abudor
+    - Infernal Shadow
+    - 101 Rooms TDM
+    - Insanihe
+    - Stonehaven
+    - Xi II
+    - Diramu Valley DTM
+    - Jurassic Mini
+    - Seven
   micro:
     type: voted
     enabled: true
