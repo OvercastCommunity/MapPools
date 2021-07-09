@@ -5,25 +5,25 @@ pools:
     players: 1
     display-name: "pico"
     maps:
-    - Government
+    - 5man
+    - Alien
+    - Castellum
+    - Cerulean Cave
+    - Decay
+    - Destiny
+    - Festive
     - Frontier
+    - Frozen Market
     - Geiran
     - Geometric
-    - The Snowmelt Mines
-    - Pirate Cove
-    - Destiny
-    - Cerulean Cave
-    - Festive
-    - Under the Sea
-    - Rage Quit FFA
-    - Decay
-    - Castellum
-    - 5man
-    - Stagnant Waters
-    - Alien
+    - Government
     - Overgrown Valley
-    - Frozen Market
+    - Pirate Cove
     - Pompeii 5x5
+    - Rage Quit FFA
+    - Stagnant Waters
+    - The Snowmelt Mines
+    - Under the Sea
   nano:
     type: ordered
     cycle-time: 15s
@@ -31,48 +31,48 @@ pools:
     players: 6
     display-name: "nano"
     maps:
-    - Dwyer Hill
-    - Lasa
-    - Rage Quit TDM
-    - "TF2: Badlands CTF"
-    - Limbo
-    - "Grenouille de l'armée"
-    - Fruhling
-    - The Grove
-    - Xyth KotF
-    - Trigo
-    - Chimeric
-    - Grassy Mound CTF
-    - Tatakai
-    - Assault
-    - Academy
-    - Toss Up
-    - SuperCUBE
-    - Cairn
-    - Aleppo
-    - Ruins of the User
-    - Hot Dam Mini
-    - Balloon Archipelago
-    - Ubos CTF
-    - Downforce
-    - DATAbase
-    - Acear I
-    - Race for Victory
-    - Battle Ecliptica II
-    - Tranquility
-    - Serengeti
-    - Royal
-    - Dynamo
-    - Divided
-    - Abudor
-    - Infernal Shadow
     - 101 Rooms TDM
-    - Insanihe
-    - Stonehaven
-    - Xi II
+    - Abudor
+    - Academy
+    - Acear I
+    - Aleppo
+    - Assault
+    - Balloon Archipelago
+    - Battle Ecliptica II
+    - Cairn
+    - Chimeric
+    - DATAbase
     - Diramu Valley DTM
+    - Divided
+    - Downforce
+    - Dwyer Hill
+    - Dynamo
+    - Fruhling
+    - Grassy Mound CTF
+    - "Grenouille de l'armée"
+    - Hot Dam Mini
+    - Infernal Shadow
+    - Insanihe
     - Jurassic Mini
+    - Lasa
+    - Limbo
+    - Race for Victory
+    - Rage Quit TDM
+    - Royal
+    - Ruins of the User
+    - Serengeti
     - Seven
+    - Stonehaven
+    - SuperCUBE
+    - Tatakai
+    - "TF2: Badlands CTF"
+    - The Grove
+    - Toss Up
+    - Tranquility
+    - Trigo
+    - Ubos CTF
+    - Xi II
+    - Xyth KotF
   micro:
     type: voted
     enabled: true
@@ -110,11 +110,9 @@ pools:
     - Everlasting
     - Facility
     - "Fairy Tales: Metamorphose"
-    - The Fenland
     - Golden Drought III
     - Green
     - Hallows
-    - The High Road
     - Immitis
     - Justice
     - Khaba
@@ -134,6 +132,8 @@ pools:
     - Sunrise Over Paradise
     - SuperPRISM
     - Temple
+    - The Fenland
+    - The High Road
     - Verlate
     - Warlock
     - Woolirium
@@ -157,7 +157,6 @@ pools:
     - BoomBox
     - Canyon II
     - Clearcut
-    - The Complex CTF
     - Concourse
     - Coniferous Forest
     - cos(tnt)
@@ -175,16 +174,14 @@ pools:
     - Grub
     - Harvest
     - Iris DTC
-    - The Last Sunset
     - Library DTE
     - Lunar Crescent
     - Maple Syrup
     - Medieval Warfare
     - Molendinis
-    - Paradiso
     - Palace CTF
+    - Paradiso
     - Pompeii RAGE
-    - The President's Cottage
     - Runes of Ruin
     - "Sand Wars: DTE"
     - Siloë
@@ -193,6 +190,9 @@ pools:
     - Streamline II
     - Tanker TNT
     - Tebulas
+    - The Complex CTF
+    - The Last Sunset
+    - The President's Cottage
     - Thunder
     - Totem
     - Trench Warfare
@@ -208,7 +208,7 @@ pools:
     players: 48
     display-name: "hecto"
     maps:
-    - The 9th Law
+    - A New Day
     - Aequabilis
     - Amazon Kingdom DTC
     - Anirniit
@@ -241,7 +241,6 @@ pools:
     - Last Overcastian
     - Mayan Apocalypse
     - Mystic Point
-    - A New Day
     - Oaken Meadow
     - Outback
     - Race for Victory 2
@@ -255,6 +254,7 @@ pools:
     - Summertime at Brown's Farms
     - Swamped
     - Tetrad
+    - The 9th Law
     - Thornwood
     - Townside
     - Tridente
@@ -272,9 +272,7 @@ pools:
     players: 64
     display-name: "mega"
     maps:
-    - The 4th Law
     - Alpine Mining II
-    - The Archives
     - Astro
     - Avalon Funland
     - Bamboo Valley
@@ -297,7 +295,6 @@ pools:
     - Green Gem CTW
     - Hadron
     - Harb
-    - The Hill
     - Hot Dam
     - Hydrolock
     - Ion
@@ -313,6 +310,9 @@ pools:
     - Scrap Mettle
     - State of Decay
     - Synergy
+    - The 4th Law
+    - The Archives
+    - The Hill
     - Titan
     - Totally War II
     - Twisted
@@ -328,7 +328,6 @@ pools:
     display-name: "giga"
     maps:
     - Anathema
-    - The Arena
     - Argon
     - Aurimar Rift
     - Baroque Gardens
@@ -349,7 +348,6 @@ pools:
     - Metro
     - Midnight Train
     - Modern Cityscape
-    - The Nile
     - Northlands
     - Ozone
     - Paradise Isle
@@ -362,11 +360,13 @@ pools:
     - Tempest
     - Temple Run
     - Temple Valley
+    - The Arena
+    - The Nile
+    - The Vortex
     - Total War
     - Tree of Life
     - Trench Warfare 2
     - Venice TDM
-    - The Vortex
   testing: #New testing pool for actual map tests
     type: voted
     enabled: true
