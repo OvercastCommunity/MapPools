@@ -183,12 +183,12 @@ pools:
     - OutCast 2
     - Palace CTF
     - Paradiso
-    - Pompeii RAGE
     - Runes of Ruin
     - "Sand Wars: DTE"
     - Siloë
     - Smog
     - Spaceship Battles
+    - State of Decay
     - Streamline II
     - Tanker TNT
     - Tebulas
@@ -234,6 +234,7 @@ pools:
     - Gleon KotF
     - Green Hill Zone
     - Gridlock 2
+    - Harb
     - Inheritance
     - Interitus
     - Jungle Beat
@@ -245,6 +246,7 @@ pools:
     - Mystic Point
     - Oaken Meadow
     - Outback
+    - Pompeii RAGE
     - Race for Victory 2
     - Retaliation 2
     - Ring Race
@@ -296,7 +298,6 @@ pools:
     - Golden Drought IV
     - Green Gem CTW
     - Hadron
-    - Harb
     - Hot Dam
     - Hydrolock
     - Ion
@@ -307,13 +308,12 @@ pools:
     - Necro
     - Nivalis
     - Nuclear Winter
-    - Opal
     - Race for Victory 3
     - Scrap Mettle
-    - State of Decay
     - Synergy
     - The 4th Law
     - The Archives
+    - The Arena
     - The Hill
     - Titan
     - Totally War II
@@ -345,12 +345,12 @@ pools:
     - Glacial Conquest
     - Glacial Impact 2
     - Golden Drought II
-    - Icebliss
     - Irongate Harbor
     - Metro
     - Midnight Train
     - Modern Cityscape
     - Northlands
+    - Opal
     - Ozone
     - Paradise Isle
     - Rift
@@ -362,7 +362,6 @@ pools:
     - Tempest
     - Temple Run
     - Temple Valley
-    - The Arena
     - The Nile
     - The Vortex
     - Total War
