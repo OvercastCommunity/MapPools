@@ -161,8 +161,6 @@ pools:
     - Coniferous Forest
     - cos(tnt)
     - Cyril
-    - DATAstation
-    - Demaroo
     - Desert Cataract
     - Desert Sanctuary
     - Diversity
@@ -175,6 +173,7 @@ pools:
     - Grub
     - Harvest
     - Iris DTC
+    - Long Shot
     - Lunar Crescent
     - Maple Syrup
     - Medieval Warfare
@@ -248,7 +247,7 @@ pools:
     - Outback
     - Pandemonium
     - Pompeii RAGE
-    - Retaliation 2
+    - Retaliation
     - Ring Race
     - Riverside
     - Sinuous
@@ -374,10 +373,10 @@ pools:
     players: 1
     display-name: "testing"
     maps:
-        - Black Gold
-        - Chemical Reaction
-        - Haunted Corridors
-        - Strike
+      - Black Gold
+      - Chemical Reaction
+      - Haunted Corridors
+      - Strike
   avicus: # Just some of your throwback avicus maps
     type: voted
     enabled: true
