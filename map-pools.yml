@@ -443,7 +443,6 @@ pools:
     - Foxtrot
     - Gooseberry
     - "Hide n' Seek"
-    - Homebound
     - Humble Jungle
     - Into the Jungle
     - "Juggernaut's Hall"
@@ -453,6 +452,7 @@ pools:
     - "King's Conquest: Rooted Frontier"
     - Mega Cacti Terror
     - Oculo
+    - Ping Bomb II
     - Pixel Run
     - Plus Side
     - Proelium
@@ -483,8 +483,9 @@ pools:
     - "War Wars: Sand Wars 2"
     - "War Wars: Spongecake"
     - Water Drop Extreme
-    - "Water Drop: Sunrise Over Paradise"
+    - "Water Drop: II"
     - "Water Drop: Limbo II"
+    - "Water Drop: Original"
     - Wool Story Bro
     - Zen
   warwars:
