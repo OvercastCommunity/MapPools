@@ -79,6 +79,7 @@ pools:
     players: 20
     display-name: "micro"
     maps:
+    - Acear II
     - Agrostid
     - Antiquis
     - Anvil
@@ -144,7 +145,6 @@ pools:
     display-name: "centi"
     maps:
     - "2014: Rage FFA"
-    - Acear II
     - Afflicted
     - Airship Battle
     - Arabia
