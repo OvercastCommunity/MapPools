@@ -73,6 +73,7 @@ pools:
     - Diramu Valley DTM
     - Jurassic Mini
     - Seven
+    - Mini Drought
   micro:
     type: voted
     enabled: true
@@ -90,6 +91,7 @@ pools:
     - BalloonsDTM
     - Blitzkrieg CTF
     - Boom
+    - Cake Wars
     - Canopy
     - Cargo Redux
     - Catacomb
@@ -135,6 +137,7 @@ pools:
     - Temple
     - The Fenland
     - The High Road
+    - "Tree of Life: Mini"
     - Verlate
     - Warlock
     - Woolirium
@@ -145,6 +148,7 @@ pools:
     display-name: "centi"
     maps:
     - "2014: Rage FFA"
+    - Aerobellum
     - Afflicted
     - Airship Battle
     - Arabia
@@ -172,12 +176,14 @@ pools:
     - Grub
     - Harvest
     - Iris DTC
+    - "Kryta: One Shot"
     - Long Shot
     - Lunar Crescent
     - Maple Syrup
     - Medieval Warfare
     - Metropolis
     - Molendinis
+    - Ouroboros
     - OutCast 2
     - Palace CTF
     - Paradiso
@@ -218,6 +224,7 @@ pools:
     - Battle Ecliptica III
     - Beehive
     - Below Zero
+    - Bessemer's Process
     - BlockBlock
     - Cabin Fever
     - Cat's Cradle
@@ -240,6 +247,7 @@ pools:
     - Kryta
     - Last Overcastian
     - Mayan Apocalypse
+    - Monument Valley
     - Mystic Point
     - Oaken Meadow
     - Outback
@@ -254,6 +262,7 @@ pools:
     - Storm
     - Summertime at Brown's Farms
     - Swamped
+    - Tenebrous
     - Tetrad
     - The 9th Law
     - Thornwood
