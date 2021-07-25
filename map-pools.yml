@@ -148,6 +148,7 @@ pools:
     display-name: "centi"
     maps:
     - "2014: Rage FFA"
+    - Aerobellum
     - Afflicted
     - Airship Battle
     - Arabia
