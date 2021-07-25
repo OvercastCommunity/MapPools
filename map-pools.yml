@@ -148,10 +148,10 @@ pools:
     display-name: "centi"
     maps:
     - "2014: Rage FFA"
-    - Aerobellum
     - Afflicted
     - Airship Battle
     - Arabia
+    - Araxa
     - Autunno
     - Azure
     - Beach Battles
@@ -222,11 +222,9 @@ pools:
     - Battle Ecliptica III
     - Beehive
     - Below Zero
-    - Bessemer's Process
     - BlockBlock
     - Cabin Fever
     - Cat's Cradle
-    - Cavum
     - Coral Reef
     - Drow's Crevice III
     - Exiled KotF
@@ -235,13 +233,11 @@ pools:
     - Fourchette
     - Fox Strife
     - Fractal Descent
-    - Green Hill Zone
     - Gridlock 2
     - Harb
     - Inheritance
     - Interitus
     - Jungle Beat
-    - Jyngli
     - Kryta
     - Last Overcastian
     - Mayan Apocalypse
@@ -271,7 +267,6 @@ pools:
     - Wooly Woods
     - Wrath Altar
     - Xion
-    - Yggdrasil
     - Zombie Defense
     - Zoo
   mega:
@@ -293,9 +288,7 @@ pools:
     - Cake Day
     - Crippled Divide
     - DATAbasin
-    - Emerald Canopy
     - Enchanted Woods
-    - Fallencrests 2
     - Far Fetched
     - Full Salvo
     - Glacial Impact
@@ -327,6 +320,7 @@ pools:
     - Wildwood Crevice
     - Wintery Cabin
     - Woodwork Harbor
+    - Yggdrasil
     - "Zap: Remix"
   giga:
     type: voted
