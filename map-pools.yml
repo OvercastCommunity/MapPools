@@ -140,7 +140,6 @@ pools:
     - "Tree of Life: Mini"
     - Verlate
     - Warlock
-    - Woolirium
   centi:
     type: voted
     enabled: true
@@ -152,7 +151,6 @@ pools:
     - Afflicted
     - Airship Battle
     - Arabia
-    - Araxa
     - Autunno
     - Azure
     - Beach Battles
@@ -206,6 +204,7 @@ pools:
     - Valley of the Dead
     - Wanna Fly
     - Wit's End
+    - Woolirium
     - Zao
     - Zipline
   hecto:
