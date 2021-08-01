@@ -32,48 +32,44 @@ pools:
     display-name: "nano"
     maps:
     - Dwyer Hill
+    - Stonehaven
+    - Xi II
     - Lasa
+    - Seven
+    - Mini Drought
     - Rage Quit TDM
+    - The Grove
     - "TF2: Badlands CTF"
     - Limbo
     - "Grenouille de l'armée"
     - Fruhling
-    - The Grove
     - Xyth KotF
     - Trigo
     - Chimeric
     - Grassy Mound CTF
     - Tatakai
     - Assault
-    - Academy
+    - Downforce
+    - Acear I
     - Toss Up
     - SuperCUBE
-    - Cairn
     - Aleppo
     - Ruins of the User
     - Hot Dam Mini
     - Balloon Archipelago
     - Ubos CTF
-    - Downforce
-    - DATAbase
-    - Acear I
     - Race for Victory
-    - Battle Ecliptica II
     - Tranquility
     - Serengeti
+    - Battle Ecliptica II
+    - Insanihe
     - Royal
     - Dynamo
     - Divided
     - Abudor
     - Infernal Shadow
-    - 101 Rooms TDM
-    - Insanihe
-    - Stonehaven
-    - Xi II
     - Diramu Valley DTM
     - Jurassic Mini
-    - Seven
-    - Mini Drought
   micro:
     type: voted
     enabled: true
