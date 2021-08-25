@@ -457,6 +457,7 @@ pools:
     - "The Dropper: Community Edition"
     - Water Drop Extreme
     - "Water Drop: Sunrise Over Paradise"
+    - "Zipline: Moar Gunz Edition"
   sns: # Crazy's SNS pool
     type: voted
     cycle-time: 25s
