@@ -404,6 +404,7 @@ pools:
     - Ternio
     - Yellowstone
   fun: # Please note this is a fun pool
+    # For fun maps that play longer than maps in the sns pool
     type: voted
     enabled: true
     dynamic: false
@@ -412,23 +413,50 @@ pools:
     maps:
     - 101 Rooms TDM
     - AstroGEN
+    - Ballot Box
+    - Banana Split
+    - Barf Box
+    - Beach Battles
+    - BlitzMiners
+    - "Blocks: Destroy the Dynamite"
+    - Bomber Guys
     - Boombox
+    - BoomBoxx
+    - CannonCube
     - Cannon Duel
-    - Concourse
-    - cos(tnt)
-    - Desert Sanctuary
-    - Equinox
+    - "CannonQuad+"
+    - DATAbasin
+    - Directrix
+    - DK Crossovers DTE
+    - Ender Blast
+    - Fairy Tales
     - Fortress Battles
+    - "Hide n' Seek"
+    - "Hide n' Seek: Shaheedieni Edition"
+    - Ieats Hall
+    - King Ranch
+    - Ladderp II
+    - Medieval Warfare DTE
+    - Mega Cacti Terror
     - Mini Drought
-    - The Nile
-    - Ozone
-    - Race For Victory
+    - "Paint Can't Wait"
+    - "Race: Circuit"
+    - "Race: Drought"
+    - "Race: Ender"
+    - "Race: Pebble Creek"
     - Rage Quit
-    - Sand Wars
+    - Rage Quit TDM
+    - Sand Wars DTE
     - Sand Wars InvisiPEARLBow Rage KOTH Grenades Extreme
     - Shave
+    - Shave Vice
+    - Sky Traffic
     - Spaceship Battles
+    - Stop the Boats
+    - The Dropper
+    - "The Dropper: Community Edition"
     - Water Drop Extreme
+    - "Water Drop: Sunrise Over Paradise"
   sns: # Crazy's SNS pool
     type: voted
     cycle-time: 25s
@@ -463,10 +491,6 @@ pools:
     - Plus Side
     - Proelium
     - "Puddin' Pops"
-    - "Race: Circuit"
-    - "Race: Drought"
-    - "Race: Ender"
-    - "Race: Pebble Creek"
     - Rage Quit
     - Rage Maze
     - Red Agony
@@ -481,7 +505,6 @@ pools:
     - "Team Parkour: Ice"
     - "Team Parkour: Jungle"
     - The 6th Law
-    - "The Dropper: Community Edition"
     - The Hopper
     - TNT Spleef
     - "War Wars: Classic"
