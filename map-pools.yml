@@ -34,7 +34,6 @@ pools:
     - Dwyer Hill
     - Stonehaven
     - Xi II
-    - Lasa
     - Seven
     - Mini Drought
     - Rage Quit TDM
@@ -45,7 +44,6 @@ pools:
     - Fruhling
     - Xyth KotF
     - Trigo
-    - Chimeric
     - Grassy Mound CTF
     - Tatakai
     - Assault
@@ -56,6 +54,7 @@ pools:
     - Aleppo
     - Ruins of the User
     - Hot Dam Mini
+    - King Neptune
     - Balloon Archipelago
     - Ubos CTF
     - Race for Victory
@@ -82,7 +81,6 @@ pools:
     - Anvil
     - Arabian Nightmare
     - Atromix
-    - Aureola KotF
     - Avalanche Mini
     - BalloonsDTM
     - Blitzkrieg CTF
@@ -98,7 +96,6 @@ pools:
     - Clutter
     - Coastline Redux
     - Cuboid Fairway
-    - DATAcenter
     - Deepwind Jungle
     - Directrix
     - Discipline
@@ -114,21 +111,21 @@ pools:
     - Hallows
     - Immitis
     - Justice
-    - Khaba
     - Larnia
     - Levels
     - Limbo II
     - Miner Sixty Niner
     - Mutiny
-    - Nightlife TDM
-    - Nightsail
+    - Natsukashii
     - Persisto
     - Placid Spring
+    - Rotten
+    - Smoke KotH
     - Snowy Wars
     - SolitudeMC
+    - Spaced Out
     - Streamline
     - Strongbow
-    - Sunrise Over Paradise
     - SuperPRISM
     - Temple
     - The Fenland
@@ -146,21 +143,20 @@ pools:
     - Aerobellum
     - Afflicted
     - Airship Battle
+    - Arabia
     - Autunno
     - Azure
     - Beach Battles
-    - BlockRAGE
     - Boletum
-    - BoomBox
+    - Bookshelf x64
+    - BoomBox Redux
     - Canyon II
     - Clearcut
     - Concourse
-    - Coniferous Forest
-    - cos(tnt)
+    - Coral Reef II
     - Cyril
     - Desert Cataract
     - Desert Sanctuary
-    - Diversity
     - Donut Wars
     - Enchanted
     - Ender Blast
@@ -188,6 +184,7 @@ pools:
     - Spaceship Battles
     - State of Decay
     - Streamline II
+    - Sunrise Over Paradise Redux
     - Tanker TNT
     - Tebulas
     - The Complex CTF
@@ -217,17 +214,19 @@ pools:
     - Battle Ecliptica III
     - Beehive
     - Below Zero
-    - BlockBlock
+    - BlockRAGE
     - Cabin Fever
     - Cat's Cradle
+    - csc(tnt)
+    - Columbia CTW
     - Coniferous Forest
     - Coral Reef
     - Drow's Crevice III
     - Exiled KotF
+    - Factorio Mainbus
     - "Fairy Tales 2: A Tale or Two"
     - Fallencrests
     - Fourchette
-    - Fox Strife
     - Fractal Descent
     - Gridlock 2
     - Harb
@@ -245,13 +244,14 @@ pools:
     - Outback
     - Pandemonium
     - Pompeii RAGE
+    - "Re: The End Kingdom"
     - Retaliation
     - Ring Race
     - Riverside
     - Sinuous
     - Ski Trip to Blizzardtown
     - State of Decay II
-    - Storm
+    - Storm Redux
     - Summertime at Brown's Farms
     - Swamped
     - Tenebrous
@@ -282,7 +282,7 @@ pools:
     - Battle of Tenjin III
     - Beauty to Ashes
     - "Blocks: Destroy the Dynamite"
-    - Blocks DTC TNT
+    - Blocks DTC
     - Blocks II
     - Cake Day
     - "Chle's Great Wall"
@@ -294,7 +294,6 @@ pools:
     - Full Salvo
     - Glacial Impact
     - Golden Drought
-    - Golden Drought IV
     - Green Gem CTW
     - Hadron
     - Harbor CTW
@@ -324,6 +323,7 @@ pools:
     - Viridun
     - Wildwood Crevice
     - Wintery Cabin
+    - Woodlands
     - Woodwork Harbor
     - Yggdrasil
     - "Zap: Remix"
@@ -355,6 +355,7 @@ pools:
     - Metro
     - Midnight Train
     - Modern Cityscape
+    - Moonlight Summit
     - Northlands
     - Opal
     - Ozone
@@ -450,6 +451,7 @@ pools:
     - "Race: Pebble Creek"
     - Rage Quit
     - Rage Quit TDM
+    - Rallypoint Delta
     - Sand Wars DTE
     - Sand Wars InvisiPEARLBow Rage KOTH Grenades Extreme
     - Shave
@@ -732,6 +734,7 @@ pools:
     - Holiday Blocks #Blocks DTC
     - Merry Drought #Golden Drought
     - Royal Christmas DTC #Royal Garden DTC
+    - Santa Clauses
     - Shave Santa #Shave
     - Snow #Dust
     - Snowback #Outback
