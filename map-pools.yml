@@ -1,7 +1,7 @@
 pools:
   pico:
     type: ordered
-    enabled: false
+    enabled: true
     players: 1
     display-name: "pico"
     maps:
