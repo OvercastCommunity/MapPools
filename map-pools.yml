@@ -1,6 +1,6 @@
 pools:
   pico:
-    type: ordered
+    type: shuffled
     enabled: true
     players: 1
     display-name: "pico"
@@ -25,7 +25,7 @@ pools:
     - Frozen Market
     - Pompeii 5x5
   nano:
-    type: ordered
+    type: shuffled
     cycle-time: 15s
     enabled: true
     players: 6
@@ -67,7 +67,7 @@ pools:
     - Diramu Valley DTM
     - Jurassic Mini
   micro:
-    type: voted
+    type: shuffled
     enabled: true
     players: 20
     display-name: "micro"
