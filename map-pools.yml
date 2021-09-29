@@ -67,8 +67,7 @@ pools:
     - Diramu Valley DTM
     - Jurassic Mini
   micro:
-    type: shuffled
-    cycle-time: 15s
+    type: voted
     enabled: true
     players: 20
     display-name: "micro"
