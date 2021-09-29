@@ -1,6 +1,7 @@
 pools:
   pico:
     type: shuffled
+    cycle-time: 15s
     enabled: true
     players: 1
     display-name: "pico"
@@ -67,6 +68,7 @@ pools:
     - Jurassic Mini
   micro:
     type: shuffled
+    cycle-time: 15s
     enabled: true
     players: 20
     display-name: "micro"
