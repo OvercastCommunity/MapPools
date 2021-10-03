@@ -160,6 +160,7 @@ pools:
     - Fortress Battles
     - Grub
     - Harvest
+    - Hollow Lines
     - Iris DTC
     - Long Shot
     - Lunar Crescent
@@ -194,7 +195,6 @@ pools:
     - Wit's End
     - Woolirium
     - Zao
-    - Zipline
   hecto:
     type: voted
     enabled: true
@@ -279,7 +279,6 @@ pools:
     - Battle of Tenjin III
     - Beauty to Ashes
     - "Blocks: Destroy the Dynamite"
-    - Blocks DTC
     - Blocks II
     - Cake Day
     - "Chle's Great Wall"
@@ -294,6 +293,7 @@ pools:
     - Green Gem CTW
     - Hadron
     - Harbor CTW
+    - Haunted Blocks
     - Hot Dam
     - Hotel at Midnight
     - Hydrolock
