@@ -258,7 +258,7 @@ pools:
     - The President's Cottage
     - Thornwood
     - Thunderbolt
-    - Townside
+    - TownSPOOK
     - Tridente
     - Two Tier
     - Valley of the Dead
@@ -707,6 +707,7 @@ pools:
     - Spooky Smog #Smog
     - A SpOOky Sunset #The Last Sunset II
     - SuperHALLOW #SuperPRISM
+    - TownSPOOK
     - Ware-Haunted-House
   christmas:
     type: voted
