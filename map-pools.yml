@@ -48,7 +48,7 @@ pools:
     - Downforce
     - Acear I
     - SuperCUBE
-    - AlepBOO!
+    - Aleppo
     - Ruins of the User
     - Hot Dam Mini
     - King Neptune
@@ -59,9 +59,9 @@ pools:
     - Serengeti
     - Battle Ecliptica II
     - Royal
-    - DynaboOo
+    - Dynamo
     - Divided
-    - Abudracula
+    - Abudor
     - Infernal Shadow
     - Diramu Valley DTM
     - Jurassic Mini
@@ -77,57 +77,48 @@ pools:
     - Anvil
     - Arabian Nightmare
     - Atromix
-    - Avalanche Mini
-    - "BalloonsDTM: Halloween"
+    - BalloonsDTM
     - Blitzkrieg CTF
     - Boom
-    - Cake Wars
     - Canopy
-    - Catacomb
-    - "Circus DTC: Halloween"
+    - Circus DTC
     - Citadel
     - Cloud Nine
     - Clutter
-    - Ghostline Redux
+    - Coastline Redux
     - Cuboid Fairway
-    - Deepwind Horror
-    - DirecTricks
+    - Deepwind Jungle
+    - Directrix
     - Discipline
     - Dorreak
-    - Downtown
     - Dust
-    - Empire in Ruins
+    - Empire
+    - Equinox
     - Everlasting
     - Facility
     - "Fairy Tales: Metamorphose"
+    - Green
     - Hallows
-    - Haunted Cargo
-    - Immitis
     - Justice
     - Larnia
     - Levels
-    - Limbo II
+    - Mush
     - Mutiny
     - Natsukashii
-    - Orange
-    - PerSpookySto
+    - Persisto
+    - Piorun
     - Placid Spring
     - Rotten
     - Smoke KotH
-    - Snowy Wars Halloween
-    - SolitudeMC Halloween
+    - Snowy Wars
+    - SolitudeMC
     - Spaced Out
-    - SpOOky Diamonds
-    - Spooky Drought III
     - Streamline
-    - Strongbow
-    - SuperHALLOW
+    - SuperPRISM
     - Temple
     - The Fenland
     - The High Road
     - "Tree of Life: Mini"
-    - Verlate
-    - Ware-Haunted-House
     - Warlock
   centi:
     type: voted
@@ -135,138 +126,107 @@ pools:
     players: 32
     display-name: "centi"
     maps:
-    - A SpOOky Sunset
     - Aerobellum
     - Afflicted
-    - Airship Battle
-    - AraBOOia
+    - Airship Ascendance
+    - Arabia
     - Autunno
     - Azure
-    - Beach Battles
-    - Bewitched
+    - Bizarre Bazaar
     - Boletum
-    - Bookshelf x64
     - BoomBox Redux
     - Canyon II
+    - Cargo
     - Clearcut
-    - Concursed
-    - Coral Reef II
-    - Cyril
     - Desert Cataract
-    - Deserted Sanctuary
-    - Die Noon
-    - Donut Wars
+    - Enchanted
     - Ender Blast
     - Fortress Battles
+    - Golden Drought III
     - Grub
-    - Halloween Over Paradise Redux
     - Harvest
-    - Hollow Lines
     - Iris DTC
     - Long Shot
     - Lunar Crescent
     - Maple Syrup
-    - Medieval Warfare
     - Metropolis
+    - Miner Sixty Niner
     - Molendinis
     - NewGen
     - Nutrient
-    - Ouroboros
-    - OutCast 2
     - Palace CTF
     - Paradiso
     - Race for Victory 2
-    - Runes of Ruin
-    - "Sand Wars: DTE"
     - Siloë
-    - "Spaceship Battles: Halloween"
-    - Spooky Country
-    - State of Decay
+    - Spaceship Battles
+    - Sunrise Over Paradise Redux
     - Tanker TNT
     - Tebulas
     - The Complex CTF
-    - "The Lobby: Halloween"
+    - The Last Sunset II
     - Thunder
-    - Totem
-    - Trench Warfare
     - UBoat König
-    - Wanna Fly
+    - Vesuvius
     - Wholething
     - Wit's End
     - Woolirium
-    - Zao
+    - Zipline
+    - Zoo
   hecto:
     type: voted
     enabled: true
     players: 48
     display-name: "hecto"
     maps:
-    - A New Day
-    - Abandoned Zoo
     - Aequabilis
-    - Athirk
     - Avalanche
-    - BackSPOOK
-    - Bam-BOOO Valley III
-    - Battle Ecliptica III
+    - Bamboo Valley III
+    - Battle Ecliptica IV
     - Beehive
-    - Below Zero
     - BlockRAGE
-    - Bloody Trident
     - Cabin Fever
     - Cat's Cradle
-    - csc(tnt)
     - Columbia CTW
     - Coral Reef
+    - cos(tnt)
     - Drow's Crevice III
     - Exiled KotF
     - Factorio Mainbus
-    - "Fairy Tales 2: A Tale or Two"
-    - "Fallencrests: Halloween"
-    - Fractal Descent
-    - Gridlock 2
-    - Hallowed Harb
-    - Haunted Corridors
-    - Haunted Rings
+    - Fractal Descent Classic
+    - Harb
     - Inheritance
-    - Interitus
-    - Jungle Spook
+    - Jungle Beat
     - Keipha CTW
-    - "Kryta: Rage"
+    - Kryta
     - Last Overcastian
     - Lupa
-    - Mayan Apocalypse
     - Monument Valley
     - Mystic Point
     - Oaken Meadow
+    - Outback
     - Pandemonium
     - PixelMix
     - Pompeii RAGE
     - Quadrival
-    - Retaliation
+    - Retaliation 2
+    - Ring Race
     - Riverside
+    - Royal Garden DTC
     - Sinuous
-    - Ski Trip to Blizzardtown
-    - Spooky Garden DTC
     - State of Decay II
     - Storm Redux
     - Summertime at Brown's Farms
-    - Swamped
     - Tenebrous
     - Tetrad
-    - The President's Cottage
     - Thornwood
     - Thunderbolt
-    - TownSPOOK
-    - Tridente
+    - Townside
     - Turf Wars
     - Two Tier
     - Valley of the Dead
+    - Wild Isle
     - Winsray Fields
-    - Witchy Woods
-    - Wrath Altar
-    - Xion
-    - Zombie Defense
+    - Wooly Woods
   mega:
     type: voted
     enabled: true
@@ -274,44 +234,41 @@ pools:
     display-name: "mega"
     maps:
     - Alpine Mining II
-    - Astro
     - Avalon Funland
-    - Bam-BOOO Valley
+    - Bamboo Valley
     - Battle for Amaterasu
+    - Battle of Tenjin II
     - Battle of Tenjin III
     - Beauty to Ashes
     - "Blocks: Destroy the Dynamite"
+    - Blocks DTC
     - Blocks II
     - Cake Day
     - Corrupted Paradise CTW
     - "Chle's Great Wall"
-    - Crippled Divide
     - DATAbasin
-    - Enchanted Woods
+    - Dragon's Hearth
     - Far Fetched
     - Frost
-    - Full Salvo
     - Glacial Impact
     - Golden Drought
     - Green Gem CTW
     - Hadron
     - Harbor CTW
-    - Haunted Blocks
     - Hot Dam
-    - Hotel at Midnight
+    - Hotel Overcast
     - Hydrolock
     - Ion
     - Lights Out
     - Lunar Coliseum
     - Masarin II
     - Mushroom Gorge
-    - Necro
     - Nivalis
-    - Nuclear Halloween
+    - Nuclear Winter
+    - Opal
     - Race for Victory 3
     - Road Trip to Sunset Town
     - Scrap Mettle
-    - Synergy
     - The 4th Law
     - The Archives
     - The Arena
@@ -319,14 +276,11 @@ pools:
     - Titan
     - Totally War II
     - Tumbleweed
-    - Twisted
     - Viridun
     - Wildwood Crevice
     - Wintery Cabin
-    - Woodlands
     - Woodwork Harbor
     - Yggdrasil
-    - "Zap: Remix"
   giga:
     type: voted
     enabled: true
@@ -335,16 +289,13 @@ pools:
     maps:
     - Anathema
     - Argon
-    - Aurimar Rift
     - Baroque Gardens
     - Bastion Hill CTF
     - Battle of Lyndanisse
-    - Battle of Tenjin 2
     - Bridge Over Troubled Water
     - Broken Unity
     - Corrupted Kingdoms
     - Crater of Secrets
-    - Dragon's Hearth
     - Galactic War
     - Glacial Conquest
     - Glacial Impact 2
@@ -352,18 +303,17 @@ pools:
     - Irongate Harbor
     - Lost Haven
     - Metro
-    - Halloween Train
+    - Midnight Train
     - Modern Cityscape
     - Moonlight Summit
     - Northlands
-    - Opal
     - Ozone
     - Paradise Isle
     - Rift
     - Royal Garden CTW
     - Scorched Grove
     - Sky Traffic 2
-    - Soviet Chills
+    - Soviet Mills
     - Spaceship Battles II
     - Tempest
     - Temple Run
@@ -414,7 +364,7 @@ pools:
     players: 1
     display-name: "fun"
     maps:
-    - 101 Pumpkins
+    - 101 Rooms TDM
     - AstroGEN
     - Ballot Box
     - Banana Split
@@ -495,7 +445,7 @@ pools:
     - Oculo
     - Ping Bomb II
     - Pixel Run
-    - Hallow Side
+    - Plus Side
     - Proelium
     - "Puddin' Pops"
     - Rage Quit
@@ -624,7 +574,7 @@ pools:
     - Overgrown Rage
     - Palude
     - Permeac
-    - Hallow Side
+    - Plus Side
     - Pride
     - Proelium
     - Pyradic
@@ -670,10 +620,13 @@ pools:
     - BackSPOOK #Outback
     - "BalloonsDTM: Halloween" #BalloonsDTM
     - Bam-BOO Valley #Bamboo Valley
+    - Bewitched #Enchanted
     - Bloody Trident #Fourchette
     - Celestial Twilight
     - Chimeric Horror #Chimeric
     - "Circus DTC: Halloween" #Circus DTC
+    - Concursed #Concourse
+    - Deepwind Horror #Deepwind Jungle
     - Deserted Sanctuary #Desert Sanctuary
     - Die Noon #Miner Sixty Niner
     - DynaboOo #Dynamo
@@ -691,6 +644,7 @@ pools:
     - Jungle Spook #Jungle Beat
     - "The Lobby: Halloween" #2014: Rage FFA
     - Nuclear Halloween #Nuclear Winter
+    - Orange #Green
     - PerSpookySto #Persisto
     - PixelMissing #PixelMix
     - Pumpkin Madness
@@ -702,13 +656,15 @@ pools:
     - Spooktober
     - SpOOky Diamonds #Chocolate Diamonds
     - Spooky Country #Desert Country
+    - Spooky Drought III #Golden Drought III
     - Spooky Garden DTC #Royal Garden DTC
     - Spooky Lyndanisse #Battle of Lyndanisse
     - Spooky Smog #Smog
     - A SpOOky Sunset #The Last Sunset II
     - SuperHALLOW #SuperPRISM
-    - TownSPOOK
-    - Ware-Haunted-House
+    - TownSPOOK #Townside
+    - Ware-Haunted-House #Warehouse
+    - Witchy Woods #Wooly Woods
   christmas:
     type: voted
     enabled: true
