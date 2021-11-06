@@ -32,6 +32,8 @@ pools:
     players: 6
     display-name: "nano"
     maps:
+    - Arctic Ruins
+    - Chestnut
     - Dwyer Hill
     - Stonehaven
     - Xi II
