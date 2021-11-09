@@ -66,6 +66,48 @@ pools:
     - Infernal Shadow
     - Diramu Valley DTM
     - Jurassic Mini
+  votednano:
+    type: voted
+    cycle-time: 30s
+    enabled: true
+    dynamic: false
+    players: 6
+    display-name: "nano (voted)"
+    maps:
+    - Arctic Ruins
+    - Chestnut
+    - Dwyer Hill
+    - Stonehaven
+    - Xi II
+    - Seven
+    - Mini Drought
+    - Rage Quit TDM
+    - The Grove
+    - Limbo
+    - Fruhling
+    - Trigo
+    - Grassy Mound CTF
+    - Tatakai
+    - Assault
+    - Downforce
+    - Acear I
+    - SuperCUBE
+    - Aleppo
+    - Ruins of the User
+    - Hot Dam Mini
+    - King Neptune
+    - Balloon Archipelago
+    - Ubos CTF
+    - Race for Victory
+    - Tranquility
+    - Battle Ecliptica II
+    - Royal
+    - Dynamo
+    - Divided
+    - Abudor
+    - Infernal Shadow
+    - Diramu Valley DTM
+    - Jurassic Mini
   micro:
     type: voted
     enabled: true
