@@ -64,7 +64,7 @@ pools:
     - Divided
     - Abudor
     - Infernal Shadow
-    - Diramu Valley DTM
+    - Danagal Valley DTM
     - Jurassic Mini
   votednano:
     type: voted
@@ -106,7 +106,7 @@ pools:
     - Divided
     - Abudor
     - Infernal Shadow
-    - Diramu Valley DTM
+    - Danagal Valley DTM
     - Jurassic Mini
   micro:
     type: voted
@@ -126,43 +126,45 @@ pools:
     - Canopy
     - Cargo
     - Circus DTC
-    - Citadel
     - Cloud Nine
     - Clutter
-    - Coastline Redux
     - Cuboid Fairway
     - Deepwind Jungle
-    - Directrix
+    - DirectriXmas
     - Discipline
     - Dorreak
-    - Dust
+    - "Downtown: Christmas Eve"
     - Empire
     - Equinox
     - Everlasting
     - Facility
     - "Fairy Tales: Metamorphose"
-    - Green
     - Hallows
     - Justice
     - Larnia
+    - La Piazza
     - Levels
     - Mush
     - Mutiny
     - Natsukashii
     - Persisto
     - Placid Spring
+    - Polus FFA
+    - Pokemon Arena
     - Rotten
     - Smoke KotH
-    - Snowy Wars
-    - SolitudeMC
-    - Spaced Out
+    - Snow
+    - Snowline Redux
+    - "Snowy Wars: Christmas"
+    - "SolitudeMC: Christmas"
     - Streamline
-    - SuperPRISM
-    - Temple
+    - Tahiti
+    - The Campgrounds
     - The Fenland
     - The High Road
     - "Tree of Life: Mini"
     - Warlock
+    - White
   centi:
     type: voted
     enabled: true
@@ -170,49 +172,47 @@ pools:
     display-name: "centi"
     maps:
     - Aerobellum
-    - Afflicted
     - Airship Battle
-    - Arabia
-    - Autunno
-    - Azure
-    - Bizarre Bazaar
+    - "Azure: Christmas"
+    - Badlands
     - Boletum
     - BoomBox Redux
     - Canyon II
-    - Clearcut
-    - Desert Cataract
-    - Enchanted
-    - Ender Blast
+    - Christmas Sanctuary
+    - Coldcut
+    - "Concourse: Christmas"
+    - Cyril
+    - "Enchanted: Christmas"
     - Fortress Battles
     - Golden Drought III
     - Grub
-    - Harvest
     - Iris DTC
+    - Jurassic Attack FFA
+    - L'Automne
     - Long Shot
     - Lunar Crescent
-    - Maple Syrup
     - Metropolis
-    - Miner Sixty Niner
-    - Molendinis
     - NewGen
     - Nutrient
+    - OutCast 2
     - Palace CTF
-    - Paradiso
     - Race for Victory 2
+    - Shave Santa
     - Siloë
+    - Space Base
     - Spaceship Battles
     - Sunrise Over Paradise Redux
     - Tanker TNT
     - Tebulas
-    - The Complex CTF
-    - The Last Sunset II
-    - Thunder
+    - The City
+    - The Last Sunset
+    - Thundersnow
     - UBoat König
     - Vesuvius
     - Wholething
-    - Wit's End
+    - "Wit's End: Christmas"
     - Woolirium
-    - Zipline
+    - Zipmas
     - Zoo
   hecto:
     type: voted
@@ -223,51 +223,52 @@ pools:
     - Aequabilis
     - Avalanche
     - Bamboo Valley III
-    - Beehive
+    - Below Zero
     - BlockRAGE
     - Cabin Fever
     - Cat's Cradle
     - Columbia CTW
     - Coral Reef
-    - cos(tnt)
+    - Desert Eclipse
     - Drow's Crevice III
     - Exiled KotF
     - Factorio Mainbus
-    - Fractal Descent Classic
+    - Fractal Descent
+    - Golden Fever
     - Harb
     - Inheritance
+    - Interitus
     - Jungle Beat
     - Keipha CTW
-    - Kryta
     - Last Overcastian
     - Lupa
     - Monument Valley
     - Mystic Point
     - Oaken Meadow
     - Outback
+    - Ozone FFA
     - Pandemonium
     - PixelMix
     - Pompeii RAGE
     - Quadrival
     - Retaliation 2
-    - Ring Race
+    - Ring Run
     - Riverside
-    - Royal Garden DTC
+    - Royal Garden DTC #Royal Christmas DTC when it's fixed
     - Sinuous
+    - Snowy Isle
     - State of Decay II
     - Storm Redux
     - Summertime at Brown's Farms
-    - Tenebrous
     - Tetrad
     - Thornwood
     - Thunderbolt
     - Townside
     - Turf Wars
-    - Two Tier
+    - Two Trees
     - Valley of the Dead
-    - Wild Isle
+    - Viridun FFA
     - Winsray Fields
-    - Wooly Woods
   mega:
     type: voted
     enabled: true
@@ -276,15 +277,14 @@ pools:
     maps:
     - Alpine Mining II
     - Avalon Funland
-    - Bamboo Valley
     - Battle for Amaterasu
     - Battle of Tenjin II
     - Battle of Tenjin III
     - Beauty to Ashes
     - "Blocks: Destroy the Dynamite"
-    - Blocks DTC
     - Blocks II
     - Cake Day
+    - Candy Cane Valley
     - Corrupted Paradise CTW
     - "Chle's Great Wall"
     - DATAbasin
@@ -293,14 +293,13 @@ pools:
     - Frost
     - Glacial Impact
     - Golden Drought
-    - Green Gem CTW
     - Hadron
     - Harbor CTW
+    - Holiday Blocks
     - Hot Dam
     - Hotel Overcast
     - Hydrolock
     - Ion
-    - Lights Out
     - Lunar Coliseum
     - Masarin II
     - Mushroom Gorge
@@ -309,16 +308,18 @@ pools:
     - Opal
     - Race for Victory 3
     - Road Trip to Sunset Town
-    - Scrap Mettle
+    - Snow Run FFA
     - The 4th Law
     - The Archives
     - The Arena
     - The Hill Redux
+    - The Pipes
     - Titan
     - Totally War II
     - Tumbleweed
-    - Viridun
+    - Wedgesome
     - Wildwood Crevice
+    - Winter Gem CTW
     - Wintery Cabin
     - Woodwork Harbor
     - Yggdrasil
@@ -332,11 +333,12 @@ pools:
     - Argon
     - Baroque Gardens
     - Bastion Hill CTF
-    - Battle of Lyndanisse
+    - Battle of Lyndanisse Snowmen
     - Bridge Over Troubled Water
     - Broken Unity
     - Corrupted Kingdoms
     - Crater of Secrets
+    - Festive Venice
     - Galactic War
     - Glacial Conquest
     - Glacial Impact 2
@@ -364,7 +366,6 @@ pools:
     - Total War
     - Tree of Life
     - Trench Warfare 2
-    - Venice TDM
   testing: #New testing pool for actual map tests
     type: voted
     enabled: true
