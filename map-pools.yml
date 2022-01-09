@@ -365,6 +365,45 @@ pools:
     - Tree of Life
     - Trench Warfare 2
     - Venice TDM
+  micro-contest:
+    type: voted
+    enabled: true
+    dynamic: false
+    players: 1
+    display-name: "micro-contest"
+    maps:
+      - Blossom
+      - Brittlebush
+      - Ciudad Costera
+      - Dominion
+      - Duality
+      - Edo
+      - Emergency Meeting
+      - Flavortown
+      - Fungi Grove
+      - Huanxiang
+      - Hirap
+      - Icecream Sandwiched
+      - Kahilyo
+      - Kanto
+      - Keeper
+      - Kuusepuu
+      - Lupain
+      - Mbanza
+      - Mushroom Monuments
+      - Oumuamua
+      - Patulog CTW
+      - Pineium
+      - Quadrosphere CTW
+      - Snow Level
+      - Summer Sadness
+      - Super Mario Warp Zone
+      - Teokalli
+      - Tulog
+      - Thunderrush
+      - Villa
+      - Waterwood
+      - When Men Cried
   testing: #New testing pool for actual map tests
     type: voted
     enabled: true
