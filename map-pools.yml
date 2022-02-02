@@ -5,6 +5,7 @@ pools:
     enabled: false
     players: 1
     display-name: "pico"
+    maps:
     - "5man"
     - "Alien"
     - "Castellum"
@@ -30,6 +31,7 @@ pools:
     enabled: true
     players: 6
     display-name: "nano"
+    maps:
     - "Acear I"
     - "Arctic Ruins"
     - "Battle Ecliptica II"
@@ -59,6 +61,7 @@ pools:
     enabled: true
     players: 12
     display-name: "micro"
+    maps:
     - "Aleppo"
     - "Assault"
     - "BalloonsDTM"
@@ -104,6 +107,7 @@ pools:
     enabled: true
     players: 20
     display-name: "milli"
+    maps:
     - "Acear II"
     - "Agrostid"
     - "Anvil"
@@ -165,8 +169,8 @@ pools:
     enabled: true
     players: 28
     display-name: "centi"
+    maps:
     - "Aerobellum"
-    - "Airclay Battle"
     - "Airship Battle"
     - "Arabia"
     - "Azure"
@@ -223,6 +227,7 @@ pools:
     enabled: true
     players: 40
     display-name: "hecto"
+    maps:
     - "A New Day"
     - "Agrorythe"
     - "Avalanche"
@@ -280,6 +285,7 @@ pools:
     enabled: true
     players: 56
     display-name: "mega"
+    maps:
     - "Alpine Mining II"
     - "Annealing II"
     - "Avalon Funland"
@@ -336,6 +342,7 @@ pools:
     enabled: true
     players: 70
     display-name: "giga"
+    maps:
     - "Anathema"
     - "Annealing II"
     - "Argon"
