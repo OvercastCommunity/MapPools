@@ -59,7 +59,7 @@ pools:
     type: voted
     cycle-time: 30s
     enabled: true
-    players: 12
+    players: 13
     display-name: "micro"
     maps:
     - "Aleppo"
@@ -80,7 +80,6 @@ pools:
     - "Huanxiang"
     - "Infernal Shadow"
     - "Limbo"
-    - "Mushroom Monuments"
     - "Oumuamua"
     - "Pineium"
     - "Placid Spring"
@@ -88,8 +87,6 @@ pools:
     - "Rage Quit TDM"
     - "Royal"
     - "Seven"
-    - "Smoke KotH"
-    - "SolitudeMC"
     - "Stonehaven"
     - "Summer Sadness"
     - "SuperCUBE"
@@ -148,14 +145,17 @@ pools:
     - "Limbo II"
     - "Lupain"
     - "Mush"
+    - "Mushroom Monuments"
     - "Mutiny"
     - "Persisto"
     - "Pokemon Arena"
     - "Polus FFA"
     - "Quadrosphere CTW"
     - "Rotten"
+    - "Smoke KotH"
     - "Snow Level"
     - "Snowy Wars"
+    - "SolitudeMC"
     - "Streamline"
     - "Tahiti"
     - "Temple"
@@ -167,7 +167,7 @@ pools:
     type: voted
     cycle-time: 30s
     enabled: true
-    players: 28
+    players: 30
     display-name: "centi"
     maps:
     - "Aerobellum"
@@ -225,7 +225,7 @@ pools:
     type: voted
     cycle-time: 35s
     enabled: true
-    players: 40
+    players: 42
     display-name: "hecto"
     maps:
     - "A New Day"
@@ -287,7 +287,6 @@ pools:
     display-name: "mega"
     maps:
     - "Alpine Mining II"
-    - "Annealing II"
     - "Avalon Funland"
     - "Bamboo Valley"
     - "Battle for Amaterasu"
@@ -336,11 +335,13 @@ pools:
     - "Wildwood Crevice"
     - "Wintery Cabin"
     - "Woodwork Harbor"
+    # manual
+    - "Annealing II"
   giga:
     type: voted
     cycle-time: 35s
     enabled: true
-    players: 70
+    players: 75
     display-name: "giga"
     maps:
     - "Anathema"
