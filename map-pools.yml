@@ -2,369 +2,376 @@ pools:
   pico:
     type: shuffled
     cycle-time: 15s
-    enabled: true
+    enabled: false
     players: 1
     display-name: "pico"
-    maps:
-    - Government
-    - Frontier
-    - Geiran
-    - Geometric
-    - The Snowmelt Mines
-    - Pirate Cove
-    - Destiny
-    - Cerulean Cave
-    - Festive
-    - Under the Sea
-    - Rage Quit FFA
-    - Decay
-    - Castellum
-    - 5man
-    - Stagnant Waters
-    - Alien
-    - Overgrown Valley
-    - Frozen Market
-    - Pompeii 5x5
+    - "5man"
+    - "Alien"
+    - "Castellum"
+    - "Cerulean Cave"
+    - "Decay"
+    - "Destiny"
+    - "Festive"
+    - "Frontier"
+    - "Frozen Market"
+    - "Geiran"
+    - "Geometric"
+    - "Government"
+    - "Overgrown Valley"
+    - "Pirate Cove"
+    - "Pompeii 5x5"
+    - "Rage Quit FFA"
+    - "Stagnant Waters"
+    - "The Snowmelt Mines"
+    - "Under the Sea"
   nano:
     type: shuffled
     cycle-time: 15s
     enabled: true
     players: 6
     display-name: "nano"
-    maps:
-    - Arctic Ruins
-    - Chestnut
-    - Dwyer Hill
-    - Stonehaven
-    - Xi II
-    - Seven
-    - Mini Drought
-    - Rage Quit TDM
-    - The Grove
-    - Limbo
-    - Fruhling
-    - Trigo
-    - Grassy Mound CTF
-    - Tatakai
-    - Assault
-    - Downforce
-    - Acear I
-    - SuperCUBE
-    - Aleppo
-    - Hot Dam Mini
-    - King Neptune
-    - Balloon Archipelago
-    - Ubos CTF
-    - Race for Victory
-    - Tranquility
-    - Battle Ecliptica II
-    - Royal
-    - Dynamo
-    - Divided
-    - Infernal Shadow
-    - Diramu Valley DTM
-    - Jurassic Mini
-  votednano:
+    - "Acear I"
+    - "Arctic Ruins"
+    - "Battle Ecliptica II"
+    - "Chestnut"
+    - "Coreo"
+    - "Cursed Library"
+    - "Diramu Valley DTM"
+    - "Dynamo"
+    - "Greecia"
+    - "King Neptune"
+    - "Mini Drought"
+    - "Pompeii 5x5"
+    - "Sarc"
+    - "Seaside Plaza"
+    - "Ubos CTF"
+    - "Vertex"
+    # everything manual below this point
+    - "Puddin' Pops"
+    - "Wool Story Bro"
+    - "Flappy Bird"
+    - "Thin Ice"
+    - "Parkour: Debris"
+    - "Infection: Kraken"
+  micro:
     type: voted
     cycle-time: 30s
     enabled: true
-    dynamic: false
-    players: 6
-    display-name: "nano (voted)"
-    maps:
-    - Arctic Ruins
-    - Chestnut
-    - Dwyer Hill
-    - Stonehaven
-    - Xi II
-    - Seven
-    - Mini Drought
-    - Rage Quit TDM
-    - The Grove
-    - Limbo
-    - Fruhling
-    - Trigo
-    - Grassy Mound CTF
-    - Tatakai
-    - Assault
-    - Downforce
-    - Acear I
-    - SuperCUBE
-    - Aleppo
-    - Ruins of the User
-    - Hot Dam Mini
-    - King Neptune
-    - Balloon Archipelago
-    - Ubos CTF
-    - Race for Victory
-    - Tranquility
-    - Battle Ecliptica II
-    - Royal
-    - Dynamo
-    - Divided
-    - Abudor
-    - Infernal Shadow
-    - Diramu Valley DTM
-    - Jurassic Mini
-  micro:
+    players: 12
+    display-name: "micro"
+    - "Aleppo"
+    - "Assault"
+    - "BalloonsDTM"
+    - "Cake Wars"
+    - "Directrix"
+    - "Divided"
+    - "Dorreak"
+    - "Downforce"
+    - "Dust"
+    - "Dwyer Hill"
+    - "Exit"
+    - "Fairy Tales 2: Mini"
+    - "Fruhling"
+    - "Grassy Mound CTF"
+    - "Hot Dam Mini"
+    - "Huanxiang"
+    - "Infernal Shadow"
+    - "Limbo"
+    - "Mushroom Monuments"
+    - "Oumuamua"
+    - "Pineium"
+    - "Placid Spring"
+    - "Race for Victory"
+    - "Rage Quit TDM"
+    - "Royal"
+    - "Seven"
+    - "Smoke KotH"
+    - "SolitudeMC"
+    - "Stonehaven"
+    - "Summer Sadness"
+    - "SuperCUBE"
+    - "Tatakai"
+    - "The Grove"
+    - "The High Road"
+    - "Thunderrush"
+    - "Tranquility"
+    - "Trigo"
+    - "Warlock"
+    - "Xi II"
+  milli:
     type: voted
+    cycle-time: 30s
     enabled: true
     players: 20
-    display-name: "micro"
-    maps:
-    - Acear II
-    - Agrostid
-    - Antiquis
-    - Anvil
-    - Atromix
-    - BalloonsDTM
-    - Blitzkrieg CTF
-    - Boom
-    - Cake Wars
-    - Canopy
-    - Cargo
-    - Circus DTC
-    - Clutter
-    - Cuboid Fairway
-    - Deepwind Jungle
-    - Directrix
-    - Discipline
-    - Dorreak
-    - Dust
-    - Empire
-    - Equinox
-    - Everlasting
-    - Facility
+    display-name: "milli"
+    - "Acear II"
+    - "Agrostid"
+    - "Anvil"
+    - "Balloon Archipelago"
+    - "Blitzkrieg CTF"
+    - "Blossom CTW"
+    - "Boom"
+    - "Brittlebush"
+    - "Canopy"
+    - "Cargo"
+    - "Circus DTC"
+    - "Ciudad Costera"
+    - "Clutter"
+    - "Coastline Redux"
+    - "Coconut Mald"
+    - "Deepwind Jungle"
+    - "Discipline"
+    - "Downtown"
+    - "Edo"
+    - "Empire"
+    - "Equinox"
+    - "Everlasting"
+    - "Facility"
     - "Fairy Tales: Metamorphose"
-    - Green
-    - Hallows
-    - Justice
-    - Kahoy
-    - Larnia
-    - La Piazza
-    - Levels
-    - Mush
-    - Mutiny
-    - Persisto
-    - Placid Spring
-    - Polus FFA
-    - Pokemon Arena
-    - Rotten
-    - Smoke KotH
-    - Snowline Redux
-    - Snowy Wars
-    - SolitudeMC
-    - Streamline
-    - Tahiti
-    - The Fenland
-    - The High Road
-    - Warlock
+    - "Green"
+    - "Hallows"
+    - "Hirap"
+    - "Justice"
+    - "Kahilyo"
+    - "Kahoy"
+    - "Kanto"
+    - "Keeper"
+    - "Kuusepuu"
+    - "Kyoto"
+    - "La Piazza"
+    - "Larnia"
+    - "Levels"
+    - "Limbo II"
+    - "Lupain"
+    - "Mush"
+    - "Mutiny"
+    - "Persisto"
+    - "Pokemon Arena"
+    - "Polus FFA"
+    - "Quadrosphere CTW"
+    - "Rotten"
+    - "Snow Level"
+    - "Snowy Wars"
+    - "Streamline"
+    - "Tahiti"
+    - "Temple"
+    - "Teokalli"
+    - "Townside Mini"
+    - "Villa"
+    - "Waterwood"
   centi:
     type: voted
+    cycle-time: 30s
     enabled: true
-    players: 32
+    players: 28
     display-name: "centi"
-    maps:
-    - Aerobellum
-    - Airship Battle
-    - Arabia
-    - Azure
-    - Badlands
+    - "Aerobellum"
+    - "Airclay Battle"
+    - "Airship Battle"
+    - "Arabia"
+    - "Azure"
+    - "Badlands"
     - "Boletum: Remix"
-    - Canyon II
-    - Desert Sanctuary
-    - Ender Blast
-    - Clearcut
-    - Cyril
-    - Discount Fortress
-    - Enchanted
-    - Fallencrests
-    - Fortress Battles
-    - Golden Drought III
-    - Grub
-    - Iris DTC
-    - Jurassic Attack RAGE
-    - L'Automne
-    - Long Shot
-    - Lunar Crescent
-    - Maple Syrup
-    - Metropolis
-    - NewGen
-    - Nutrient
-    - OutCast 2
-    - Palace CTF
-    - Race for Victory 2
-    - Siloë
-    - Space Base
-    - Spaceship Battles
-    - Sunrise Over Paradise Redux
-    - Tanker TNT
-    - Tebulas
-    - The City
-    - The Last Sunset
-    - Thunder
-    - Totem
-    - UBoat König
-    - Vesuvius
-    - Wholething
-    - Wit's End
-    - Woolirium
+    - "Calico"
+    - "Canyon II"
+    - "Clearcut"
+    - "Cuboid Fairway"
+    - "Cyril"
+    - "Desert Cataract"
+    - "Desert Sanctuary"
+    - "Discount Fortress"
+    - "Dominion"
+    - "Duality"
+    - "Enchanted"
+    - "Ender Blast"
+    - "Fortress Battles"
+    - "Fungi Grove"
+    - "Golden Drought III"
+    - "Grub"
+    - "Iris DTC"
+    - "Jurassic Attack RAGE"
+    - "L'Automne"
+    - "Long Shot"
+    - "Lunar Crescent"
+    - "Maple Syrup"
+    - "Metropolis"
+    - "NewGen"
+    - "Nutrient"
+    - "OutCast 2"
+    - "Palace CTF"
+    - "Pompeii DTC"
+    - "Race for Victory 2"
+    - "Runes of Ruin"
+    - "Siloë"
+    - "Spaceship Battles"
+    - "Sunrise Over Paradise Redux"
+    - "Tanker TNT"
+    - "Tebulas"
+    - "The City"
+    - "The Last Sunset"
+    - "Thunder"
+    - "Totem"
+    - "UBoat König"
+    - "Vesuvius"
+    - "When Men Cried"
+    - "Wholething"
+    - "Wit's End"
+    - "Woolirium"
   hecto:
     type: voted
+    cycle-time: 35s
     enabled: true
-    players: 48
+    players: 40
     display-name: "hecto"
-    maps:
-    - Agrorythe
-    - Avalanche
-    - Bamboo Valley III
-    - Beehive
-    - BlockRAGE
-    - Cabin Fever
-    - CannonCube
-    - Cat's Cradle
-    - Columbia CTW
-    - Coral Reef
-    - Desert Eclipse
-    - Drow's Crevice III
-    - Exiled KotF
+    - "A New Day"
+    - "Agrorythe"
+    - "Avalanche"
+    - "Bamboo Valley III"
+    - "Beehive"
+    - "BlockRAGE"
+    - "Cabin Fever"
+    - "CannonCube"
+    - "Cat's Cradle"
+    - "Columbia CTW"
+    - "Coral Reef"
+    - "Desert Eclipse"
+    - "Drow's Crevice III"
+    - "Exiled KotF"
     - "Fairy Tales 2: A Tale or Two"
-    - Fractal Descent
-    - Golden Fever
-    - Harb
-    - Inheritance
-    - Interitus
-    - Jungle Beat
-    - Keipha CTW
-    - Last Overcastian
-    - Lupa
-    - Monument Valley
-    - Mystic Point
-    - Oaken Meadow
-    - Outback
-    - Ozone FFA
-    - Pandemonium
-    - Parabola
-    - PixelMix
-    - Pompeii RAGE
-    - Quadrival
-    - Retaliation 2
-    - Ring Run
-    - Royal Garden DTC
-    - Sinuous
-    - State of Decay II
-    - Storm Redux
-    - Summertime at Brown's Farms
-    - Tetrad
-    - Thornwood
-    - Thunderbolt
-    - Townside
-    - Turf Wars
-    - Two Tier
-    - Valley of the Dead
-    - Viridun FFA
-    - We Sell Mushrooms CTF
-    - Wild Isle
-    - Winsray Fields
-    - Wooly Woods
+    - "Golden Fever"
+    - "Harb"
+    - "Inheritance"
+    - "Interitus"
+    - "Jungle Beat"
+    - "Keipha CTW"
+    - "Kryta: Rage"
+    - "Last Overcastian"
+    - "Lupa"
+    - "Mystic Point"
+    - "Oaken Meadow"
+    - "Outback"
+    - "Pandemonium"
+    - "Parabola"
+    - "PixelMix"
+    - "Pompeii RAGE"
+    - "Quadrival"
+    - "Retaliation 2"
+    - "Ring Run"
+    - "Royal Garden DTC"
+    - "Sinuous"
+    - "Space Base"
+    - "State of Decay II"
+    - "Storm Redux"
+    - "Summertime at Brown's Farms"
+    - "Thornwood"
+    - "Thunderbolt"
+    - "Townside"
+    - "Turf Wars"
+    - "Two Tier"
+    - "Valley of the Dead"
+    - "Viridun FFA"
+    - "We Sell Mushrooms CTF"
+    - "Wild Isle"
+    - "Winsray Fields"
+    - "Wooly Woods"
   mega:
     type: voted
+    cycle-time: 35s
     enabled: true
-    players: 64
+    players: 56
     display-name: "mega"
-    maps:
-    - Alpine Mining II
-    - Avalon Funland
-    - Battle for Amaterasu
-    - Battle of Tenjin II
-    - Battle of Tenjin III
-    - Beauty to Ashes
+    - "Alpine Mining II"
+    - "Annealing II"
+    - "Avalon Funland"
+    - "Bamboo Valley"
+    - "Battle for Amaterasu"
+    - "Battle of Tenjin II"
+    - "Battle of Tenjin III"
+    - "Beauty to Ashes"
+    - "Blocks DTC"
+    - "Blocks II"
     - "Blocks: Destroy the Dynamite"
-    - Blocks II
-    - Cake Day
-    - Bamboo Valley
-    - Blocks DTC
-    - Corrupted Paradise CTW
+    - "Cake Day"
     - "Chle's Great Wall"
-    - DATAbasin
-    - Far Fetched
-    - Frost
-    - Glacial Impact
-    - Goo Lagoon
-    - Golden Drought
-    - Green Gem CTW
-    - Hadron
-    - Harbor CTW
-    - Hot Dam
-    - Hotel Overcast
-    - Hydrolock
-    - Ion
-    - Lunar Coliseum
-    - Masarin II
-    - Moonlight Summit
-    - Mushroom Gorge
-    - Nivalis
-    - Nuclear Winter
-    - Race for Victory 3
-    - Road Trip to Sunset Town
-    - Snow Run FFA
-    - The 4th Law
-    - The Archives
-    - The Arena
-    - The Hill Redux
-    - The Pipes
-    - Titan
-    - Totally War II
-    - Tumbleweed
-    - Wedgesome
-    - Wildwood Crevice
-    - Wintery Cabin
-    - Woodwork Harbor
-    - Yggdrasil
+    - "Corrupted Paradise CTW"
+    - "DATAbasin"
+    - "Dragon's Hearth"
+    - "Far Fetched"
+    - "Frost"
+    - "Glacial Impact"
+    - "Golden Drought"
+    - "Goo Lagoon"
+    - "Green Gem CTW"
+    - "Hadron"
+    - "Harbor CTW"
+    - "Hot Dam"
+    - "Hotel Overcast"
+    - "Hydrolock"
+    - "Ion"
+    - "Lunar Coliseum"
+    - "Masarin II"
+    - "Moonlight Summit"
+    - "Mushroom Gorge"
+    - "Nivalis"
+    - "Nuclear Winter"
+    - "Opal"
+    - "Ozone FFA"
+    - "Race for Victory 3"
+    - "Road Trip to Sunset Town"
+    - "Snow Run FFA"
+    - "The 4th Law"
+    - "The Archives"
+    - "The Arena"
+    - "The Hill Redux"
+    - "The Pipes"
+    - "Totally War II"
+    - "Tumbleweed"
+    - "Wedgesome"
+    - "Wildwood Crevice"
+    - "Wintery Cabin"
+    - "Woodwork Harbor"
   giga:
     type: voted
+    cycle-time: 35s
     enabled: true
-    players: 80
+    players: 70
     display-name: "giga"
-    maps:
-    - Anathema
-    - Argon
-    - Baroque Gardens
-    - Bastion Hill CTF
-    - Battle of Lyndanisse
-    - Bridge Over Troubled Water
-    - Broken Unity
-    - Corrupted Kingdoms
-    - Crater of Secrets
-    - Dragon's Hearth
-    - Galactic War
-    - Glacial Conquest
-    - Glacial Impact 2
-    - Golden Drought II
-    - Irongate Harbor
-    - Lost Haven
-    - Metro
-    - Midnight Train
-    - Modern Cityscape
-    - Northlands
-    - Old Life CTW
-    - Ozone
-    - Paradise Isle
-    - Rift
-    - Royal Garden CTW
-    - Scorched Grove
-    - Sky Traffic 2
-    - Soviet Mills
-    - Spaceship Battles II
-    - Tempest
-    - Temple Run
-    - Temple Valley
-    - The Nile
-    - The Vortex
-    - Total War
-    - Tree of Life
-    - Trench Warfare 2
-    - Venice TDM
+    - "Anathema"
+    - "Annealing II"
+    - "Argon"
+    - "Baroque Gardens"
+    - "Bastion Hill CTF"
+    - "Battle of Lyndanisse"
+    - "Bridge Over Troubled Water"
+    - "Broken Unity"
+    - "Corrupted Kingdoms"
+    - "Crater of Secrets"
+    - "Galactic War"
+    - "Glacial Conquest"
+    - "Glacial Impact 2"
+    - "Golden Drought II"
+    - "Irongate Harbor"
+    - "Lost Haven"
+    - "Metro"
+    - "Midnight Train"
+    - "Modern Cityscape"
+    - "Northlands"
+    - "Old Life CTW"
+    - "Ozone"
+    - "Paradise Isle"
+    - "Rift"
+    - "Royal Garden CTW"
+    - "Soviet Mills"
+    - "Spaceship Battles II"
+    - "Tempest"
+    - "Temple Run"
+    - "Temple Valley"
+    - "The Nile"
+    - "The Vortex"
+    - "Total War"
+    - "Tree of Life"
+    - "Trench Warfare 2"
+    - "Venice TDM"
   testing: #New testing pool for actual map tests
     type: voted
     enabled: true
@@ -372,10 +379,10 @@ pools:
     players: 1
     display-name: "testing"
     maps:
-      - Black Gold
-      - Chemical Reaction
-      - Haunted Corridors
-      - Strike
+    - Black Gold
+    - Chemical Reaction
+    - Haunted Corridors
+    - Strike
   avicus: # Just some of your throwback avicus maps
     type: voted
     enabled: true
