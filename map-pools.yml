@@ -176,6 +176,7 @@ pools:
     - "Azure"
     - "Badlands"
     - "Boletum: Remix"
+    - "BoomBox Redux"
     - "Calico"
     - "Canyon II"
     - "Clearcut"
@@ -225,7 +226,7 @@ pools:
     type: voted
     cycle-time: 35s
     enabled: true
-    players: 44
+    players: 48
     display-name: "hecto"
     maps:
     - "A New Day"
@@ -284,7 +285,7 @@ pools:
     type: voted
     cycle-time: 35s
     enabled: true
-    players: 60
+    players: 64
     display-name: "mega"
     maps:
     - "Alpine Mining II"
@@ -319,6 +320,7 @@ pools:
     - "Mushroom Gorge"
     - "Nivalis"
     - "Nuclear Winter"
+    - "Opal"
     - "Ozone FFA"
     - "Race for Victory 3"
     - "Road Trip to Sunset Town"
