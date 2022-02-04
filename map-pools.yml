@@ -53,7 +53,6 @@ pools:
     - "Flappy Bird"
     - "Thin Ice"
     - "Parkour: Debris"
-    - "Infection: Kraken"
   micro:
     type: voted
     cycle-time: 30s
@@ -198,6 +197,7 @@ pools:
     - "L'Automne"
     - "Long Shot"
     - "Lunar Crescent"
+    - "Malupa"
     - "Maple Syrup"
     - "Metropolis"
     - "NewGen"
