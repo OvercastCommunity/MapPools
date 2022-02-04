@@ -58,7 +58,7 @@ pools:
     type: voted
     cycle-time: 30s
     enabled: true
-    players: 13
+    players: 14
     display-name: "micro"
     maps:
     - "Aleppo"
@@ -86,6 +86,7 @@ pools:
     - "Rage Quit TDM"
     - "Royal"
     - "Seven"
+    - "Splinter"
     - "Stonehaven"
     - "Summer Sadness"
     - "SuperCUBE"
@@ -101,7 +102,7 @@ pools:
     type: voted
     cycle-time: 30s
     enabled: true
-    players: 20
+    players: 22
     display-name: "milli"
     maps:
     - "Acear II"
@@ -166,7 +167,7 @@ pools:
     type: voted
     cycle-time: 30s
     enabled: true
-    players: 30
+    players: 32
     display-name: "centi"
     maps:
     - "Aerobellum"
@@ -224,7 +225,7 @@ pools:
     type: voted
     cycle-time: 35s
     enabled: true
-    players: 42
+    players: 44
     display-name: "hecto"
     maps:
     - "A New Day"
@@ -242,6 +243,7 @@ pools:
     - "Drow's Crevice III"
     - "Exiled KotF"
     - "Fairy Tales 2: A Tale or Two"
+    - "Fractal Descent Classic"
     - "Golden Fever"
     - "Harb"
     - "Inheritance"
@@ -282,7 +284,7 @@ pools:
     type: voted
     cycle-time: 35s
     enabled: true
-    players: 56
+    players: 60
     display-name: "mega"
     maps:
     - "Alpine Mining II"
@@ -338,7 +340,7 @@ pools:
     type: voted
     cycle-time: 35s
     enabled: true
-    players: 75
+    players: 78
     display-name: "giga"
     maps:
     - "Anathema"
