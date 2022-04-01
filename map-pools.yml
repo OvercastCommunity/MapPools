@@ -230,7 +230,7 @@ pools:
     - "Wholething"
     - "Wit's End"
     - "Woolirium"
-    - "Zipline"
+    - "Zipline: Moar Gunz Edition"
   hecto:
     type: voted
     cycle-time: 35s
