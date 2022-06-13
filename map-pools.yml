@@ -1,422 +1,454 @@
 pools:
-  pico:
-    type: shuffled
-    cycle-time: 15s
-    enabled: false
+  default:
+    type: voted
+    enabled: true
+    dynamic: true
     players: 1
-    display-name: "pico"
+    cycle-time: "30s"
+
+    # Voted pools support modifiers which come in the form of formulas (does not affect any other type of pool).
+    #
+    # The parameters for all formulas can be either:
+    #   - a constant, eg: 1.5
+    #   - a variable, eg: score
+    #   - a formula, eg:
+    #                  type: bound
+    #                  min: 5 ...
+    #
+    # Available formulas and their params, if ended in ?, they're optional:
+    #  - sum: a, b, c?, d? -> a + b + c + d
+    #  - sub: a, b -> a - b
+    #  - mul: a, b, c?, d? -> a * b * c * d
+    #  - pow: a, b -> a ^ b
+    #  - bound: value, min, max -> value, but limited to be between min and max
+    #  - linear: value, slope? offset? -> slope * value + offset
+    #  - quadratic: value, arc?, slope? offset? -> arc * value ^ 2 + slope * value + offset
+    #  - tanh: value -> applies tanh
+    #
+    # Available variables:
+    #  - score: the maps' score, determined by percentage of players who voted for it, or a default
+    #  - same_gamemode: amount of other maps of the same gamemode already picked for the vote
+    #  - mapsize: the size for this map in total players (sum of all team counts)
+    #  - players: amount of active players online (eg: obs count as half)
+    modifier:
+      # weight = weighted_score ^ 2
+      type: pow
+      exponent: 2
+      value:
+        # weighted_score = score * gamemode_bias * playercount_bias
+        type: mul
+        a: score # The maps score itself
+        b:
+          # gamemode_bias = 1 - (0.2 * same_gamemode)
+          type: bound
+          min: 0.2
+          max: 1
+          value:
+            type: sub
+            a: 1.0
+            b:
+              type: mul
+              a: 0.2
+              b: same_gamemode
+        c:
+          # playercount_bias = bound(min=0, max=1, (lower_bound - upper_bound) * 0.5)
+          type: "bound"
+          min: 0.0
+          max: 1
+          value:
+            type: mul
+            a: 0.5
+            b:
+              type: sub
+              a: # lower_bound = tanh(lower_steep(players) * (mapsize - lower_value(players))
+                type: tanh
+                value:
+                  type: mul
+                  a: # lower_steep(players) = bound(0.2, 1, -0.0025 * players + 0.5)
+                    type: bound
+                    min: 0.2
+                    max: 1
+                    value:
+                      type: linear
+                      value: players
+                      slope: -0.0025
+                      offset: 0.5
+                  b: # mapsize - lower_value(players)
+                    type: sub
+                    a: mapsize
+                    b: # lower_value(players) = bound(0, 100, players * 1.05)
+                      type: bound
+                      min: 0
+                      max: 100
+                      value:
+                        type: linear
+                        value: players
+                        slope: 1.05
+              b: # upper_bound = tanh(upper_steep(players) * (mapsize - upper_value(players))
+                type: tanh
+                value:
+                  type: mul
+                  a: # upper_steep(players) = bound(0.2, 1, -0.0025 * players + 0.5)
+                    type: bound
+                    min: 0.2
+                    max: 1
+                    value:
+                      type: linear
+                      value: players
+                      slope: -0.0025
+                      offset: 0.5
+                  b:
+                    type: sub
+                    a: mapsize
+                    b: # upper_value(players) = bound(10, 150, 0.005 * players ^ 2 + 0.95 * players + 5)
+                      type: bound
+                      min: 10
+                      max: 150
+                      value:
+                        type: quadratic
+                        value: players
+                        arc: 0.005
+                        slope: 0.95
+                        offset: 5
+
     maps:
-    - "5man"
-    - "Alien"
-    - "Castellum"
-    - "Cerulean Cave"
-    - "Decay"
-    - "Destiny"
-    - "Festive"
-    - "Frontier"
-    - "Frozen Market"
-    - "Geiran"
-    - "Geometric"
-    - "Government"
-    - "Overgrown Valley"
-    - "Pirate Cove"
-    - "Rage Quit FFA"
-    - "Stagnant Waters"
-    - "The Snowmelt Mines"
-    - "Under the Sea"
-  nano:
-    type: shuffled
-    cycle-time: 15s
-    enabled: true
-    players: 6
-    display-name: "nano"
-    maps:
-    - "Aquatica"
-    - "Arctic Ruins"
-    - "Battle Ecliptica II"
-    - "Chestnut"
-    - "Coreo"
-    - "Cursed Library"
-    - "DATAbase"
-    - "DATAcenter"
-    - "Diramu Valley DTM"
-    - "Dynamo"
-    - "Exogrid"
-    - "Flag Football: Iceblade"
-    - "Flag Football: Kraken"
-    - "Flag Football: Longhorn"
-    - "Greecia"
-    - "Ingwaz"
-    - "King Neptune"
-    - "Mini Drought"
-    - "Pompeii 5x5"
-    - "Royal Rumble II"
-    - "Sarc"
-    - "Seaside Plaza"
-    - "Sunset Glaze"
-    - "Tsuba CTF"
-    - "Ubos CTF"
-    - "Vertex"
-    - "Voltage"
-    # everything manual below this point
-    - "Puddin' Pops"
-    - "Wool Story Bro"
-    - "Flappy Bird"
-    - "Thin Ice"
-    - "Parkour: Debris"
-    - "Red Agony"
-  micro:
-    type: voted
-    cycle-time: 30s
-    enabled: true
-    players: 14
-    display-name: "micro"
-    maps:
-    - "Aleppo"
-    - "Assault"
-    - "BalloonsDTM"
-    - "Directredux"
-    - "Divided"
-    - "Dorreak"
-    - "Downforce"
-    - "Dust"
-    - "Dwyer Hill"
-    - "Exit"
-    - "Fairy Tales 2: Mini"
-    - "Fruhling"
-    - "Grassy Mound CTF"
-    - "Hot Dam Mini"
-    - "Huanxiang"
-    - "Infernal Shadow"
-    - "Iti Mo'ai"
-    - "Limbo"
-    - "Oumuamua"
-    - "Pineium DTM"
-    - "Placid Spring"
-    - "Pyramid Scheme"
-    - "Rage Quit TDM"
-    - "Royal"
-    - "Seven"
-    - "Splinter"
-    - "Summer Sadness"
-    - "SuperCUBE"
-    - "Tatakai"
-    - "The Grove"
-    - "The High Road"
-    - "Thunderrush"
-    - "Tranquility"
-    - "Warlock"
-    - "Wrath Tor RAGE"
-    - "Xi II"
-  milli:
-    type: voted
-    cycle-time: 30s
-    enabled: true
-    players: 22
-    display-name: "milli"
-    maps:
-    - "Acear II"
-    - "Agrostid"
-    - "Annealing"
-    - "Antiquis"
-    - "Anvil"
-    - "Arabia"
-    - "Atromix"
-    - "Biotech"
-    - "Blitzkrieg CTF"
-    - "Blossom CTW"
-    - "Boom"
-    - "Brittlebush"
-    - "Canopy"
-    - "Cargo"
-    - "Circus DTC"
-    - "Ciudad Costera"
-    - "Clutter"
-    - "Coastline Redux"
-    - "Coconut Mald"
-    - "Deepwind Jungle"
-    - "Discipline"
-    - "Downtown"
-    - "Edo"
-    - "Empire"
-    - "Equinox"
-    - "Everlasting"
-    - "Facility"
-    - "Green"
-    - "Hallows"
-    - "Hirap"
-    - "Justice"
-    - "Kahilyo"
-    - "Kahoy"
-    - "Kanto"
-    - "Keeper"
-    - "Kuusepuu"
-    - "La Piazza"
-    - "Larnia"
-    - "Levels"
-    - "Limbo II"
-    - "Little China"
-    - "Lupain"
-    - "Mush"
-    - "Mushroom Monuments"
-    - "Mutiny"
-    - "Persisto"
-    - "Pokemon Arena"
-    - "Polus FFA"
-    - "Quadrosphere Rage"
-    - "Rattlesnake"
-    - "Rotten"
-    - "Snow Level"
-    - "Snowy Wars"
-    - "SolitudeMC"
-    - "Stratosphere Rage"
-    - "Streamline"
-    - "Tahiti"
-    - "Temple"
-    - "Teokalli"
-    - "Townside Mini"
-    - "Tulog"
-    - "Villa"
-    - "Waterwood"
-  centi:
-    type: voted
-    cycle-time: 30s
-    enabled: true
-    players: 32
-    display-name: "centi"
-    maps:
-    - "Aerobellum Redux"
-    - "Airship Battle"
-    - "Appalachia"
-    - "Azure"
-    - "Bamboo Valley V"
-    - "Beach Battles"
-    - "Belvedere"
-    - "Bob-Omb Battlefield"
-    - "Boletum: Remix"
-    - "Calico"
-    - "Canyon II"
-    - "cos(tnt)"
-    - "Cuboid Fairway"
-    - "Desert Cataract"
-    - "Desert Sanctuary"
-    - "Discount Fortress"
-    - "Dominion"
-    - "Duality"
-    - "Enchanted"
-    - "Fairy Tales: Metamorphose"
-    - "Forge Ignea"
-    - "Fortress Battles"
-    - "Fungi Grove"
-    - "Golden Drought III"
-    - "Grub"
-    - "Iris DTC"
-    - "Java II"
-    - "L'Automne"
-    - "Long Shot"
-    - "Mahatma"
-    - "Maple Syrup"
-    - "Mbanza"
-    - "Metropolis"
-    - "Mushdoom"
-    - "Nutrient"
-    - "Oceano CTW"
-    - "Ouroboros"
-    - "Palace CTF"
-    - "Runes of Ruin"
-    - "Scorched"
-    - "Siloë"
-    - "Spaceship Battles"
-    - "Sunrise Over Paradise Redux"
-    - "Tanker TNT"
-    - "Tebulas"
-    - "The Big Dig"
-    - "The City"
-    - "The Last Sunset II"
-    - "Thunder"
-    - "Totem"
-    - "Vesuvius"
-    - "When Men Cried"
-    - "Wit's End"
-    - "Woolirium"
-    - "Zipline"
-  hecto:
-    type: voted
-    cycle-time: 35s
-    enabled: true
-    players: 48
-    display-name: "hecto"
-    maps:
-    - "Aequabilis"
-    - "Avalanche"
-    - "Bamboo Valley III"
-    - "Battle Ecliptica III"
-    - "Battle of Tenjin"
-    - "Cabin Fever"
-    - "Cat's Cradle"
-    - "Columbia CTW"
-    - "Coral Reef"
-    - "Desert Eclipse"
-    - "Drow's Crevice III"
-    - "Exiled KotF"
-    - "Factorio Mainbus"
-    - "Fairy Tales 2: A Tale or Two"
-    - "Fourchette"
-    - "Fractal Descent"
-    - "Gobi"
-    - "Golden Fever"
-    - "Harb"
-    - "Hillside Daydream"
-    - "Inheritance"
-    - "Interitus"
-    - "Jungle Beat"
-    - "Jurassic"
-    - "Keipha CTW"
-    - "Kryta: Rage"
-    - "Kusa"
-    - "Last Overcastian"
-    - "Lupa"
-    - "Mo'ai"
-    - "Monument Valley"
-    - "Mystic Point"
-    - "Mythical Marsh"
-    - "Nether War CTW"
-    - "Niflheim"
-    - "Oaken Meadow"
-    - "Outback"
-    - "Pandemonium"
-    - "Parabola"
-    - "Pineium CTW"
-    - "PixelMix"
-    - "Pompeii RAGE"
-    - "Quadrival"
-    - "Ranch"
-    - "Retaliation"
-    - "Ring Run"
-    - "Riverside"
-    - "Royal Garden DTC"
-    - "Ruffland"
-    - "Sakura Garden"
-    - "Sinuous"
-    - "Space Base"
-    - "State of Decay II"
-    - "Storm Redux"
-    - "Summertime at Brown's Farms"
-    - "Supheriox"
-    - "Tetrad"
-    - "Townside"
-    - "Turf Wars"
-    - "Two Tier"
-    - "Valley of the Dead"
-    - "Viridun FFA"
-    - "We Sell Mushrooms CTF"
-    - "Wild Isle"
-    - "Winsray Fields"
-    - "Wooly Woods"
-    - "Wrath Altar"
-    - "Xunkohtli"
-    - "Zombie Defense"
-  mega:
-    type: voted
-    cycle-time: 35s
-    enabled: true
-    players: 64
-    display-name: "mega"
-    maps:
-    - "Alpine Mining II"
-    - "Annealing II"
-    - "Avalon Funland"
-    - "Bamboo Valley"
-    - "Battle for Amaterasu"
-    - "Battle of Tenjin II"
-    - "Battle of Tenjin III"
-    - "Beauty to Ashes"
-    - "Blocks DTC"
-    - "Blocks II"
-    - "Blocks: Destroy the Dynamite"
-    - "Cake Day"
-    - "Chle's Great Wall"
-    - "Corrupted Paradise CTW"
-    - "DATAbasin"
-    - "Far Fetched"
-    - "Frost"
-    - "Glacial Impact"
-    - "Golden Drought"
-    - "Goo Lagoon"
-    - "Green Gem CTW"
-    - "Hadron"
-    - "Harbor CTW"
-    - "Hot Dam"
-    - "Hotel Overcast"
-    - "Hydrolock"
-    - "Ion"
-    - "Lunar Coliseum"
-    - "Masarin II"
-    - "Moonlight Summit"
-    - "Mushroom Gorge"
-    - "Nivalis"
-    - "Nuclear Winter"
-    - "Opal"
-    - "Ozone FFA"
-    - "Race for Victory 3"
-    - "Road Trip to Sunset Town"
-    - "Snow Run FFA"
-    - "The 4th Law"
-    - "The Archives"
-    - "The Arena"
-    - "The Hill Redux"
-    - "The Pipes"
-    - "Totally War II"
-    - "Tumbleweed"
-    - "Wedgesome"
-    - "Wildwood Crevice"
-    - "Wintery Cabin"
-    - "Woodwork Harbor"
-  giga:
-    type: voted
-    cycle-time: 35s
-    enabled: true
-    players: 80
-    display-name: "giga"
-    maps:
-    - "Anathema"
-    - "Argon"
-    - "Baroque Gardens"
-    - "Bastion Hill CTF"
-    - "Battle of Lyndanisse"
-    - "Bridge Over Troubled Water"
-    - "Broken Unity"
-    - "Corrupted Kingdoms"
-    - "Crater of Secrets"
-    - "Dragon's Hearth"
-    - "Galactic War"
-    - "Glacial Conquest"
-    - "Glacial Impact 2"
-    - "Golden Drought II"
-    - "Irongate Harbor"
-    - "Lost Haven"
-    - "Metro"
-    - "Midnight Train"
-    - "Modern Cityscape"
-    - "Northlands"
-    - "Old Life CTW"
-    - "Ozone"
-    - "Paradise Isle"
-    - "Rift"
-    - "Royal Garden CTW"
-    - "Scorched Grove"
-    - "Sky Traffic 2"
-    - "Soviet Mills"
-    - "Spaceship Battles II"
-    - "Tempest"
-    - "Temple Run"
-    - "Temple Valley"
-    - "The Nile"
-    - "The Vortex"
-    - "Total War"
-    - "Tree of Life"
-    - "Trench Warfare 2"
-    - "Venice TDM"
+      - "Acear II"
+      - "Aequabilis"
+      - "Aerobellum Redux"
+      - "Agrostid"
+      - "Airship Battle"
+      - "Aleppo"
+      - "Alpine Mining II"
+      - "Anathema"
+      - "Annealing II"
+      - "Annealing"
+      - "Antiquis"
+      - "Anvil"
+      - "Appalachia"
+      - "Aquatica"
+      - "Arabia"
+      - "Arctic Ruins"
+      - "Argon"
+      - "Assault"
+      - "Atromix"
+      - "Avalanche"
+      - "Avalon Funland"
+      - "Azure"
+      - "BalloonsDTM"
+      - "Bamboo Valley III"
+      - "Bamboo Valley V"
+      - "Bamboo Valley"
+      - "Baroque Gardens"
+      - "Bastion Hill CTF"
+      - "Battle Ecliptica II"
+      - "Battle Ecliptica III"
+      - "Battle for Amaterasu"
+      - "Battle of Lyndanisse"
+      - "Battle of Tenjin II"
+      - "Battle of Tenjin III"
+      - "Battle of Tenjin"
+      - "Beach Battles"
+      - "Beauty to Ashes"
+      - "Belvedere"
+      - "Biotech"
+      - "Blitzkrieg CTF"
+      - "Blocks DTC"
+      - "Blocks II"
+      - "Blocks: Destroy the Dynamite"
+      - "Blossom CTW"
+      - "Bob-Omb Battlefield"
+      - "Boletum: Remix"
+      - "Boom"
+      - "Bridge Over Troubled Water"
+      - "Brittlebush"
+      - "Broken Unity"
+      - "Cabin Fever"
+      - "Cake Day"
+      - "Calico"
+      - "Canopy"
+      - "Canyon II"
+      - "Cargo"
+      - "Cat's Cradle"
+      - "Chestnut"
+      - "Chle's Great Wall"
+      - "Circus DTC"
+      - "Ciudad Costera"
+      - "Clutter"
+      - "Coastline Redux"
+      - "Coconut Mald"
+      - "Columbia CTW"
+      - "Coral Reef"
+      - "Coreo"
+      - "Corrupted Kingdoms"
+      - "Corrupted Paradise CTW"
+      - "cos(tnt)"
+      - "Crater of Secrets"
+      - "Cuboid Fairway"
+      - "Cursed Library"
+      - "DATAbase"
+      - "DATAbasin"
+      - "DATAcenter"
+      - "Deepwind Jungle"
+      - "Desert Cataract"
+      - "Desert Eclipse"
+      - "Desert Sanctuary"
+      - "Diramu Valley DTM"
+      - "Directredux"
+      - "Discipline"
+      - "Discount Fortress"
+      - "Divided"
+      - "Dominion"
+      - "Dorreak"
+      - "Downforce"
+      - "Downtown"
+      - "Dragon's Hearth"
+      - "Drow's Crevice III"
+      - "Duality"
+      - "Dust"
+      - "Dwyer Hill"
+      - "Dynamo"
+      - "Edo"
+      - "Empire"
+      - "Enchanted"
+      - "Equinox"
+      - "Everlasting"
+      - "Exiled KotF"
+      - "Exit"
+      - "Exogrid"
+      - "Facility"
+      - "Factorio Mainbus"
+      - "Fairy Tales 2: A Tale or Two"
+      - "Fairy Tales 2: Mini"
+      - "Fairy Tales: Metamorphose"
+      - "Far Fetched"
+      - "Flag Football: Iceblade"
+      - "Flag Football: Kraken"
+      - "Flag Football: Longhorn"
+      - "Forge Ignea"
+      - "Fortress Battles"
+      - "Fourchette"
+      - "Fractal Descent"
+      - "Frost"
+      - "Fruhling"
+      - "Fungi Grove"
+      - "Galactic War"
+      - "Glacial Conquest"
+      - "Glacial Impact 2"
+      - "Glacial Impact"
+      - "Gobi"
+      - "Golden Drought II"
+      - "Golden Drought III"
+      - "Golden Drought"
+      - "Golden Fever"
+      - "Goo Lagoon"
+      - "Grassy Mound CTF"
+      - "Greecia"
+      - "Green Gem CTW"
+      - "Green"
+      - "Grub"
+      - "Hadron"
+      - "Hallows"
+      - "Harb"
+      - "Harbor CTW"
+      - "Hillside Daydream"
+      - "Hirap"
+      - "Hot Dam Mini"
+      - "Hot Dam"
+      - "Hotel Overcast"
+      - "Huanxiang"
+      - "Hydrolock"
+      - "Infernal Shadow"
+      - "Ingwaz"
+      - "Inheritance"
+      - "Interitus"
+      - "Ion"
+      - "Iris DTC"
+      - "Irongate Harbor"
+      - "Iti Mo'ai"
+      - "Java II"
+      - "Jungle Beat"
+      - "Jurassic"
+      - "Justice"
+      - "Kahilyo"
+      - "Kahoy"
+      - "Kanto"
+      - "Keeper"
+      - "Keipha CTW"
+      - "King Neptune"
+      - "Kryta: Rage"
+      - "Kusa"
+      - "Kuusepuu"
+      - "L'Automne"
+      - "La Piazza"
+      - "Larnia"
+      - "Last Overcastian"
+      - "Levels"
+      - "Limbo II"
+      - "Limbo"
+      - "Little China"
+      - "Long Shot"
+      - "Lost Haven"
+      - "Lunar Coliseum"
+      - "Lupa"
+      - "Lupain"
+      - "Mahatma"
+      - "Maple Syrup"
+      - "Masarin II"
+      - "Mbanza"
+      - "Metro"
+      - "Metropolis"
+      - "Midnight Train"
+      - "Mini Drought"
+      - "Mo'ai"
+      - "Modern Cityscape"
+      - "Monument Valley"
+      - "Moonlight Summit"
+      - "Mush"
+      - "Mushdoom"
+      - "Mushroom Gorge"
+      - "Mushroom Monuments"
+      - "Mutiny"
+      - "Mystic Point"
+      - "Mythical Marsh"
+      - "Nether War CTW"
+      - "Niflheim"
+      - "Nivalis"
+      - "Northlands"
+      - "Nuclear Winter"
+      - "Nutrient"
+      - "Oaken Meadow"
+      - "Oceano CTW"
+      - "Old Life CTW"
+      - "Opal"
+      - "Oumuamua"
+      - "Ouroboros"
+      - "Outback"
+      - "Ozone FFA"
+      - "Ozone"
+      - "Palace CTF"
+      - "Pandemonium"
+      - "Parabola"
+      - "Paradise Isle"
+      - "Persisto"
+      - "Pineium CTW"
+      - "Pineium DTM"
+      - "PixelMix"
+      - "Placid Spring"
+      - "Pokemon Arena"
+      - "Polus FFA"
+      - "Pompeii 5x5"
+      - "Pompeii RAGE"
+      - "Pyramid Scheme"
+      - "Quadrival"
+      - "Quadrosphere Rage"
+      - "Race for Victory 3"
+      - "Rage Quit TDM"
+      - "Ranch"
+      - "Rattlesnake"
+      - "Retaliation"
+      - "Rift"
+      - "Ring Run"
+      - "Riverside"
+      - "Road Trip to Sunset Town"
+      - "Rotten"
+      - "Royal Garden CTW"
+      - "Royal Garden DTC"
+      - "Royal Rumble II"
+      - "Royal"
+      - "Ruffland"
+      - "Runes of Ruin"
+      - "Sakura Garden"
+      - "Sarc"
+      - "Scorched Grove"
+      - "Scorched"
+      - "Seaside Plaza"
+      - "Seven"
+      - "Siloë"
+      - "Sinuous"
+      - "Sky Traffic 2"
+      - "Snow Level"
+      - "Snow Run FFA"
+      - "Snowy Wars"
+      - "SolitudeMC"
+      - "Soviet Mills"
+      - "Space Base"
+      - "Spaceship Battles II"
+      - "Spaceship Battles"
+      - "Splinter"
+      - "State of Decay II"
+      - "Storm Redux"
+      - "Stratosphere Rage"
+      - "Streamline"
+      - "Summer Sadness"
+      - "Summertime at Brown's Farms"
+      - "Sunrise Over Paradise Redux"
+      - "Sunset Glaze"
+      - "SuperCUBE"
+      - "Supheriox"
+      - "Tahiti"
+      - "Tanker TNT"
+      - "Tatakai"
+      - "Tebulas"
+      - "Tempest"
+      - "Temple Run"
+      - "Temple Valley"
+      - "Temple"
+      - "Teokalli"
+      - "Tetrad"
+      - "The 4th Law"
+      - "The Archives"
+      - "The Arena"
+      - "The Big Dig"
+      - "The City"
+      - "The Grove"
+      - "The High Road"
+      - "The Hill Redux"
+      - "The Last Sunset II"
+      - "The Nile"
+      - "The Pipes"
+      - "The Vortex"
+      - "Thunder"
+      - "Thunderrush"
+      - "Total War"
+      - "Totally War II"
+      - "Totem"
+      - "Townside Mini"
+      - "Townside"
+      - "Tranquility"
+      - "Tree of Life"
+      - "Trench Warfare 2"
+      - "Tsuba CTF"
+      - "Tulog"
+      - "Tumbleweed"
+      - "Turf Wars"
+      - "Two Tier"
+      - "Ubos CTF"
+      - "Valley of the Dead"
+      - "Venice TDM"
+      - "Vertex"
+      - "Vesuvius"
+      - "Villa"
+      - "Viridun FFA"
+      - "Voltage"
+      - "Warlock"
+      - "Waterwood"
+      - "We Sell Mushrooms CTF"
+      - "Wedgesome"
+      - "When Men Cried"
+      - "Wild Isle"
+      - "Wildwood Crevice"
+      - "Winsray Fields"
+      - "Wintery Cabin"
+      - "Wit's End"
+      - "Woodwork Harbor"
+      - "Woolirium"
+      - "Wooly Woods"
+      - "Wrath Altar"
+      - "Wrath Tor RAGE"
+      - "Xi II"
+      - "Xunkohtli"
+      - "Zipline"
+      - "Zombie Defense"
   testing: #New testing pool for actual map tests
     type: voted
     enabled: true
@@ -424,10 +456,10 @@ pools:
     players: 1
     display-name: "testing"
     maps:
-    - Black Gold
-    - Chemical Reaction
-    - Haunted Corridors
-    - Strike
+      - Black Gold
+      - Chemical Reaction
+      - Haunted Corridors
+      - Strike
   avicus: # Just some of your throwback avicus maps
     type: voted
     enabled: true
@@ -435,20 +467,20 @@ pools:
     players: 1
     display-name: "avicus"
     maps:
-    - Bleened Rings
-    - Formorgar 1
-    - Frostbite
-    - Gladiator
-    - Halcyon
-    - Justice 1
-    - Justice 2
-    - Palm Rust
-    - Proelium DTM
-    - Rendezvous Redux
-    - Senex 1
-    - Senex 2
-    - Ternio
-    - Yellowstone
+      - Bleened Rings
+      - Formorgar 1
+      - Frostbite
+      - Gladiator
+      - Halcyon
+      - Justice 1
+      - Justice 2
+      - Palm Rust
+      - Proelium DTM
+      - Rendezvous Redux
+      - Senex 1
+      - Senex 2
+      - Ternio
+      - Yellowstone
   fun: # Please note this is a fun pool
     # For fun maps that play longer than maps in the sns pool
     type: voted
@@ -457,56 +489,56 @@ pools:
     players: 1
     display-name: "fun"
     maps:
-    - 101 Rooms TDM
-    - AstroGEN
-    - Ballot Box
-    - Banana Split
-    - Barf Box
-    - Beach Battles
-    - BlitzMiners
-    - "Blocks: Destroy the Dynamite"
-    - Bomber Guys
-    - Boombox
-    - BoomBoxx
-    - CannonCube
-    - Cannon Duel
-    - "CannonQuad+"
-    - DATAbasin
-    - Directrix
-    - DK Crossovers DTE
-    - Ender Blast
-    - Fairy Tales
-    - Fortress Battles
-    - "Hide n' Seek"
-    - "Hide n' Seek: Shaheedieni Edition"
-    - "Hide n' Seek: Shaheedieni - Zombies Edition"
-    - Ieats Hall
-    - King Ranch
-    - Ladderp II
-    - Medieval Warfare DTE
-    - Mega Cacti Terror
-    - Mini Drought
-    - "Paint Can't Wait"
-    - "Race: Circuit"
-    - "Race: Drought"
-    - "Race: Ender"
-    - "Race: Pebble Creek"
-    - Rage Quit
-    - Rage Quit TDM
-    - Rallypoint Delta
-    - Sand Wars DTE
-    - Sand Wars InvisiPEARLBow Rage KOTH Grenades Extreme
-    - Shave
-    - Shave Vice
-    - Sky Traffic
-    - Spaceship Battles
-    - Spooktober
-    - Stop the Boats
-    - The Dropper
-    - "The Dropper: Community Edition"
-    - Water Drop Extreme
-    - "Water Drop: Sunrise Over Paradise"
-    - "Zipline: Moar Gunz Edition"
+      - 101 Rooms TDM
+      - AstroGEN
+      - Ballot Box
+      - Banana Split
+      - Barf Box
+      - Beach Battles
+      - BlitzMiners
+      - "Blocks: Destroy the Dynamite"
+      - Bomber Guys
+      - Boombox
+      - BoomBoxx
+      - CannonCube
+      - Cannon Duel
+      - "CannonQuad+"
+      - DATAbasin
+      - Directrix
+      - DK Crossovers DTE
+      - Ender Blast
+      - Fairy Tales
+      - Fortress Battles
+      - "Hide n' Seek"
+      - "Hide n' Seek: Shaheedieni Edition"
+      - "Hide n' Seek: Shaheedieni - Zombies Edition"
+      - Ieats Hall
+      - King Ranch
+      - Ladderp II
+      - Medieval Warfare DTE
+      - Mega Cacti Terror
+      - Mini Drought
+      - "Paint Can't Wait"
+      - "Race: Circuit"
+      - "Race: Drought"
+      - "Race: Ender"
+      - "Race: Pebble Creek"
+      - Rage Quit
+      - Rage Quit TDM
+      - Rallypoint Delta
+      - Sand Wars DTE
+      - Sand Wars InvisiPEARLBow Rage KOTH Grenades Extreme
+      - Shave
+      - Shave Vice
+      - Sky Traffic
+      - Spaceship Battles
+      - Spooktober
+      - Stop the Boats
+      - The Dropper
+      - "The Dropper: Community Edition"
+      - Water Drop Extreme
+      - "Water Drop: Sunrise Over Paradise"
+      - "Zipline: Moar Gunz Edition"
   sns: # Crazy's SNS pool
     type: voted
     cycle-time: 25s
@@ -515,58 +547,58 @@ pools:
     players: 1
     display-name: "sns"
     maps:
-    - A Journey Through History
-    - Arid Crossroads
-    - "Bill's Town Blitz"
-    - "BipBetaMC: TDM"
-    - Bliss
-    - Charge
-    - Dead Heat
-    - Dry Wound
-    - Fallen Courtyard
-    - Foxtrot
-    - Gooseberry
-    - "Hide n' Seek"
-    - Humble Jungle
-    - Into the Jungle
-    - "Juggernaut's Hall"
-    - "King's Conquest: Apocalypse Ensues"
-    - "King's Conquest: Proelium"
-    - "King's Conquest: Rage Quit"
-    - "King's Conquest: Rooted Frontier"
-    - Mega Cacti Terror
-    - Oculo
-    - Ping Bomb II
-    - Pixel Run
-    - Plus Side
-    - Proelium
-    - "Puddin' Pops"
-    - Rage Quit
-    - Rage Maze
-    - Red Agony
-    - Rush Wars Tournament 2 Attack of the Defenders
-    - Rooted Frontier
-    - Salvo
-    - Sandstone Temples
-    - Skyfall
-    - Sugar Cane Valley
-    - Swarthmoor
-    - Sweet Tooth
-    - "Team Parkour: Ice"
-    - "Team Parkour: Jungle"
-    - The 6th Law
-    - The Hopper
-    - TNT Spleef
-    - "War Wars: Classic"
-    - "War Wars: 2Tall4Me"
-    - "War Wars: Sand Wars 2"
-    - "War Wars: Spongecake"
-    - Water Drop Extreme
-    - "Water Drop: II"
-    - "Water Drop: Limbo II"
-    - "Water Drop: Original"
-    - Wool Story Bro
-    - Zen
+      - A Journey Through History
+      - Arid Crossroads
+      - "Bill's Town Blitz"
+      - "BipBetaMC: TDM"
+      - Bliss
+      - Charge
+      - Dead Heat
+      - Dry Wound
+      - Fallen Courtyard
+      - Foxtrot
+      - Gooseberry
+      - "Hide n' Seek"
+      - Humble Jungle
+      - Into the Jungle
+      - "Juggernaut's Hall"
+      - "King's Conquest: Apocalypse Ensues"
+      - "King's Conquest: Proelium"
+      - "King's Conquest: Rage Quit"
+      - "King's Conquest: Rooted Frontier"
+      - Mega Cacti Terror
+      - Oculo
+      - Ping Bomb II
+      - Pixel Run
+      - Plus Side
+      - Proelium
+      - "Puddin' Pops"
+      - Rage Quit
+      - Rage Maze
+      - Red Agony
+      - Rush Wars Tournament 2 Attack of the Defenders
+      - Rooted Frontier
+      - Salvo
+      - Sandstone Temples
+      - Skyfall
+      - Sugar Cane Valley
+      - Swarthmoor
+      - Sweet Tooth
+      - "Team Parkour: Ice"
+      - "Team Parkour: Jungle"
+      - The 6th Law
+      - The Hopper
+      - TNT Spleef
+      - "War Wars: Classic"
+      - "War Wars: 2Tall4Me"
+      - "War Wars: Sand Wars 2"
+      - "War Wars: Spongecake"
+      - Water Drop Extreme
+      - "Water Drop: II"
+      - "Water Drop: Limbo II"
+      - "Water Drop: Original"
+      - Wool Story Bro
+      - Zen
   warwars:
     type: voted
     enabled: true
@@ -574,26 +606,26 @@ pools:
     players: 1
     display-name: "warwars"
     maps:
-    - "War Wars: 2Tall4Me"
-    - "War Wars: Baby's First Build"
-    - "War Wars: Classic"
-    - "War Wars: False Alarm"
-    - "War Wars: Ice to Meet You"
-    - "War Wars: Ironforge"
-    - "War Wars: Minimalist"
-    - "War Wars: Null and Void"
-    - "War Wars: Peaceful Meadows"
-    - "War Wars: Portals"
-    - "War Wars: Prime Time"
-    - "War Wars: Sand Wars 2"
-    - "War Wars: Slippery Slope"
-    - "War Wars: Spongecake"
-    - "War Wars: Sticky Situation"
-    - "War Wars: The Wall Pt 2"
-    - "War Wars: Torment"
-    - "War Wars: Tree Hugger"
-    - "War Wars: Wait what?"
-    - "War Wars: ɹɐʍɹɐʍ"
+      - "War Wars: 2Tall4Me"
+      - "War Wars: Baby's First Build"
+      - "War Wars: Classic"
+      - "War Wars: False Alarm"
+      - "War Wars: Ice to Meet You"
+      - "War Wars: Ironforge"
+      - "War Wars: Minimalist"
+      - "War Wars: Null and Void"
+      - "War Wars: Peaceful Meadows"
+      - "War Wars: Portals"
+      - "War Wars: Prime Time"
+      - "War Wars: Sand Wars 2"
+      - "War Wars: Slippery Slope"
+      - "War Wars: Spongecake"
+      - "War Wars: Sticky Situation"
+      - "War Wars: The Wall Pt 2"
+      - "War Wars: Torment"
+      - "War Wars: Tree Hugger"
+      - "War Wars: Wait what?"
+      - "War Wars: ɹɐʍɹɐʍ"
   nostalgia:
     type: ordered
     enabled: true
@@ -601,20 +633,20 @@ pools:
     players: 1
     display-name: "nostalgia"
     maps:
-    - Harb
-    - Urban Jungle
-    - Fortress Battles
-    - Race for Victory
-    - A Watery Grave
-    - Medieval Warfare
-    - Cake Wars
-    - Sand Wars
-    - Sky Traffic
-    - Spaceship Battles
-    - Airship Battle
-    - Avalanche
-    - Shroom Trip
-    - Fort Wars
+      - Harb
+      - Urban Jungle
+      - Fortress Battles
+      - Race for Victory
+      - A Watery Grave
+      - Medieval Warfare
+      - Cake Wars
+      - Sand Wars
+      - Sky Traffic
+      - Spaceship Battles
+      - Airship Battle
+      - Avalanche
+      - Shroom Trip
+      - Fort Wars
   rage:
     type: voted
     enabled: true
@@ -622,83 +654,83 @@ pools:
     players: 1
     display-name: "rage"
     maps:
-    - 100 Rooms
-    - 101 Rooms
-    - Arid Crossroads
-    - Arx Rage
-    - Atlantis
-    - Aureola Rage
-    - BipBetaMC
-    - "Bliss: Rage"
-    - Blossom Blitz
-    - Bouncy Stadium
-    - BVC
-    - Charge
-    - Chinatown
-    - "Christmas Eve: Rage"
-    - Cubed
-    - Dead Town
-    - Deschutes
-    - Drandion
-    - Dry Wound
-    - Fallen Courtyard
-    - Fallen Empire
-    - Foxtrot
-    - Frost Bound Rage
-    - Gone Camping
-    - Gooseberry
-    - Gravestone
-    - Grimsnes
-    - Hand of God
-    - Hanging Garden
-    - Ieats Hall
-    - Immortal
-    - Infinite
-    - Into the Jungle
-    - Java Blitz
-    - Lush
-    - Magnolia Creek
-    - Milky Way
-    - Mushrooms of Oblivion
-    - Netherrage
-    - Network
-    - New Way
-    - Oculo
-    - Overgrown Rage
-    - Palude
-    - Permeac
-    - Plus Side
-    - Pride
-    - Proelium
-    - Pyradic
-    - Quavilla
-    - "Radiant Castles: Rage"
-    - Rage Maze
-    - Rage Quit
-    - Rig
-    - Rubik's Rage
-    - Sandstone Temples
-    - Sand Wall
-    - Secluded Oasis
-    - Secluded Palace
-    - Secluded Wharf
-    - Sentio
-    - Snowfall
-    - Snow Globe
-    - Spooktober
-    - Swarthmoor
-    - Sweet Tooth
-    - Sylvan
-    - The 6th Law
-    - The Dome
-    - The End
-    - Together
-    - Trinity
-    - Vinebay
-    - Wintry Way
-    - Wonderland
-    - Yukon
-    - Zen
+      - 100 Rooms
+      - 101 Rooms
+      - Arid Crossroads
+      - Arx Rage
+      - Atlantis
+      - Aureola Rage
+      - BipBetaMC
+      - "Bliss: Rage"
+      - Blossom Blitz
+      - Bouncy Stadium
+      - BVC
+      - Charge
+      - Chinatown
+      - "Christmas Eve: Rage"
+      - Cubed
+      - Dead Town
+      - Deschutes
+      - Drandion
+      - Dry Wound
+      - Fallen Courtyard
+      - Fallen Empire
+      - Foxtrot
+      - Frost Bound Rage
+      - Gone Camping
+      - Gooseberry
+      - Gravestone
+      - Grimsnes
+      - Hand of God
+      - Hanging Garden
+      - Ieats Hall
+      - Immortal
+      - Infinite
+      - Into the Jungle
+      - Java Blitz
+      - Lush
+      - Magnolia Creek
+      - Milky Way
+      - Mushrooms of Oblivion
+      - Netherrage
+      - Network
+      - New Way
+      - Oculo
+      - Overgrown Rage
+      - Palude
+      - Permeac
+      - Plus Side
+      - Pride
+      - Proelium
+      - Pyradic
+      - Quavilla
+      - "Radiant Castles: Rage"
+      - Rage Maze
+      - Rage Quit
+      - Rig
+      - Rubik's Rage
+      - Sandstone Temples
+      - Sand Wall
+      - Secluded Oasis
+      - Secluded Palace
+      - Secluded Wharf
+      - Sentio
+      - Snowfall
+      - Snow Globe
+      - Spooktober
+      - Swarthmoor
+      - Sweet Tooth
+      - Sylvan
+      - The 6th Law
+      - The Dome
+      - The End
+      - Together
+      - Trinity
+      - Vinebay
+      - Wintry Way
+      - Wonderland
+      - Yukon
+      - Zen
   halloween:
     type: voted
     enabled: true
@@ -706,58 +738,58 @@ pools:
     players: 1
     display-name: "halloween"
     maps:
-    - 101 Pumpkins #101 Rooms
-    - Abandoned Zoo #Zoo
-    - Abudracula #Abudor
-    - AlepBOO! #Aleppo
-    - BackSPOOK #Outback
-    - "BalloonsDTM: Halloween" #BalloonsDTM
-    - Bam-BOO Valley #Bamboo Valley
-    - Bewitched #Enchanted
-    - Bloody Trident #Fourchette
-    - Celestial Twilight
-    - Chimeric Horror #Chimeric
-    - "Circus DTC: Halloween" #Circus DTC
-    - Concursed #Concourse
-    - Deepwind Horror #Deepwind Jungle
-    - Deserted Sanctuary #Desert Sanctuary
-    - Die Noon #Miner Sixty Niner
-    - DynaboOo #Dynamo
-    - Empire in Ruins #Empire
-    - "Fallencrests: Halloween" #Fallencrests
-    - Ghostline Redux #Coastline Redux, also Ghostline Redux Emerald -> Coastline Redux Emerald
-    - Hallow Side #Plus Side
-    - Hallowed Harb #Harb
-    - Halloween Train #Midnight Train
-    - Haunted Blocks #Blocks DTC
-    - Haunted Cargo #Cargo
-    - Hollow Lines #Zipline
-    - Haunted Rings #Ring Race
-    - Hotel at Midnight #Hotel Overcast
-    - Jungle Spook #Jungle Beat
-    - "The Lobby: Halloween" #2014: Rage FFA
-    - Nuclear Halloween #Nuclear Winter
-    - Orange #Green
-    - PerSpookySto #Persisto
-    - PixelMissing #PixelMix
-    - Pumpkin Madness
-    - "Spaceship Battles: Halloween" #Spaceship Battles
-    - Scareros #Aaeros
-    - Snowy Wars Halloween #Snowy Wars
-    - SolitudeMC Halloween #SolitudeMC
-    - Soviet Chills #Soviet Mills
-    - Spooktober
-    - SpOOky Diamonds #Chocolate Diamonds
-    - Spooky Country #Desert Country
-    - Spooky Drought III #Golden Drought III
-    - Spooky Garden DTC #Royal Garden DTC
-    - Spooky Lyndanisse #Battle of Lyndanisse
-    - Spooky Smog #Smog
-    - A SpOOky Sunset #The Last Sunset II
-    - SuperHALLOW #SuperPRISM
-    - TownSPOOK #Townside
-    - Ware-Haunted-House #Warehouse
-    - Witchy Woods #Wooly Woods
+      - 101 Pumpkins #101 Rooms
+      - Abandoned Zoo #Zoo
+      - Abudracula #Abudor
+      - AlepBOO! #Aleppo
+      - BackSPOOK #Outback
+      - "BalloonsDTM: Halloween" #BalloonsDTM
+      - Bam-BOO Valley #Bamboo Valley
+      - Bewitched #Enchanted
+      - Bloody Trident #Fourchette
+      - Celestial Twilight
+      - Chimeric Horror #Chimeric
+      - "Circus DTC: Halloween" #Circus DTC
+      - Concursed #Concourse
+      - Deepwind Horror #Deepwind Jungle
+      - Deserted Sanctuary #Desert Sanctuary
+      - Die Noon #Miner Sixty Niner
+      - DynaboOo #Dynamo
+      - Empire in Ruins #Empire
+      - "Fallencrests: Halloween" #Fallencrests
+      - Ghostline Redux #Coastline Redux, also Ghostline Redux Emerald -> Coastline Redux Emerald
+      - Hallow Side #Plus Side
+      - Hallowed Harb #Harb
+      - Halloween Train #Midnight Train
+      - Haunted Blocks #Blocks DTC
+      - Haunted Cargo #Cargo
+      - Hollow Lines #Zipline
+      - Haunted Rings #Ring Race
+      - Hotel at Midnight #Hotel Overcast
+      - Jungle Spook #Jungle Beat
+      - "The Lobby: Halloween" #2014: Rage FFA
+      - Nuclear Halloween #Nuclear Winter
+      - Orange #Green
+      - PerSpookySto #Persisto
+      - PixelMissing #PixelMix
+      - Pumpkin Madness
+      - "Spaceship Battles: Halloween" #Spaceship Battles
+      - Scareros #Aaeros
+      - Snowy Wars Halloween #Snowy Wars
+      - SolitudeMC Halloween #SolitudeMC
+      - Soviet Chills #Soviet Mills
+      - Spooktober
+      - SpOOky Diamonds #Chocolate Diamonds
+      - Spooky Country #Desert Country
+      - Spooky Drought III #Golden Drought III
+      - Spooky Garden DTC #Royal Garden DTC
+      - Spooky Lyndanisse #Battle of Lyndanisse
+      - Spooky Smog #Smog
+      - A SpOOky Sunset #The Last Sunset II
+      - SuperHALLOW #SuperPRISM
+      - TownSPOOK #Townside
+      - Ware-Haunted-House #Warehouse
+      - Witchy Woods #Wooly Woods
   christmas:
     type: voted
     enabled: true
@@ -765,37 +797,37 @@ pools:
     players: 1
     display-name: "christmas"
     maps:
-    - AaerHoHoHos #Aaeros
-    - "Abudor: Christmas" #Abudor
-    - An Overcast Christmas
-    - "Azure: Christmas" #Azure
-    - "BalloonsDTM: Christmas" #BalloonsDTM
-    - "BalloonsDTM: Xmas" #BalloonsDTM alt edit
-    - "Battle of Lyndanisse: Snowmen" #Battle of Lyndanisse
-    - Blizz Christmas #Blizz
-    - Candy Cane Valley #Bamboo Balley
-    - Christmas Country #Desert Country
-    - "Christmas Eve: Rage"
-    - Christmas Sanctuary #Desert Sanctuary
-    - ColdCut #Clearcut
-    - "Concourse: Christmas" #Concourse
-    - Connected Christmas #Connected
-    - Danagal Valley DTM #Diramu Valley DTM
-    - DirectriXmas #Directrix
-    - "Downtown: Christmas Eve" #Downtown
-    - Festive Venice #Venice TDM
-    - Holiday Blocks #Blocks DTC
-    - Merry Drought #Golden Drought
-    - Royal Christmas DTC #Royal Garden DTC
-    - Santa Clauses
-    - Shave Santa #Shave
-    - Snow #Dust
-    - Snowback #Outback
-    - Snowy Diamonds #Chocolate Diamonds
-    - Snowy Wars Christmas #Snowy Wars
-    - "SolitudeMC: Christmas" #SolitudeMC
-    - Two Trees #Two Tier
-    - White #Green
-    - Whiteout
-    - "Wit's End: Christmas"
-    - Zipmas #Zipline
+      - AaerHoHoHos #Aaeros
+      - "Abudor: Christmas" #Abudor
+      - An Overcast Christmas
+      - "Azure: Christmas" #Azure
+      - "BalloonsDTM: Christmas" #BalloonsDTM
+      - "BalloonsDTM: Xmas" #BalloonsDTM alt edit
+      - "Battle of Lyndanisse: Snowmen" #Battle of Lyndanisse
+      - Blizz Christmas #Blizz
+      - Candy Cane Valley #Bamboo Balley
+      - Christmas Country #Desert Country
+      - "Christmas Eve: Rage"
+      - Christmas Sanctuary #Desert Sanctuary
+      - ColdCut #Clearcut
+      - "Concourse: Christmas" #Concourse
+      - Connected Christmas #Connected
+      - Danagal Valley DTM #Diramu Valley DTM
+      - DirectriXmas #Directrix
+      - "Downtown: Christmas Eve" #Downtown
+      - Festive Venice #Venice TDM
+      - Holiday Blocks #Blocks DTC
+      - Merry Drought #Golden Drought
+      - Royal Christmas DTC #Royal Garden DTC
+      - Santa Clauses
+      - Shave Santa #Shave
+      - Snow #Dust
+      - Snowback #Outback
+      - Snowy Diamonds #Chocolate Diamonds
+      - Snowy Wars Christmas #Snowy Wars
+      - "SolitudeMC: Christmas" #SolitudeMC
+      - Two Trees #Two Tier
+      - White #Green
+      - Whiteout
+      - "Wit's End: Christmas"
+      - Zipmas #Zipline
