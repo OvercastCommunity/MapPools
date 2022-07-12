@@ -35,22 +35,10 @@ pools:
       type: pow
       exponent: 2
       value:
-        # weighted_score = score * gamemode_bias * playercount_bias
+        # weighted_score = score * playercount_bias
         type: mul
         a: score # The maps score itself
         b:
-          # gamemode_bias = 1 - (0.2 * same_gamemode)
-          type: bound
-          min: 0.2
-          max: 1
-          value:
-            type: sub
-            a: 1.0
-            b:
-              type: mul
-              a: 0.2
-              b: same_gamemode
-        c:
           # playercount_bias = bound(min=0, max=1, (lower_bound - upper_bound) * 0.5)
           type: "bound"
           min: 0.0
@@ -159,6 +147,7 @@ pools:
       - "Bob-Omb Battlefield"
       - "Boletum: Remix"
       - "Boom"
+      - "Boulevard"
       - "Bridge Over Troubled Water"
       - "Brittlebush"
       - "Broken Unity"
@@ -222,8 +211,8 @@ pools:
       - "Fairy Tales: Metamorphose"
       - "Far Fetched"
       - "Flag Football: Iceblade"
-      - "Flag Football: Kraken"
-      - "Flag Football: Longhorn"
+      - "Flag Football: Superbowl Sunday"
+      - "Flag Football: Waffle House"
       - "Forge Ignea"
       - "Fortress Battles"
       - "Fourchette"
@@ -295,6 +284,7 @@ pools:
       - "Maple Syrup"
       - "Masarin II"
       - "Mbanza"
+      - "Medieval Village"
       - "Metro"
       - "Metropolis"
       - "Midnight Train"
@@ -441,6 +431,7 @@ pools:
       - "Wildwood Crevice"
       - "Winsray Fields"
       - "Wintery Cabin"
+      - "Witch's Potions"
       - "Wit's End"
       - "Woodwork Harbor"
       - "Woolirium"
