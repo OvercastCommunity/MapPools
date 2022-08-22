@@ -82,11 +82,11 @@ pools:
       - "Blocks DTC"
       - "Blocks II"
       - "Blocks: Destroy the Dynamite"
+      - "BlockRAGE"
       - "Blossom CTW"
       - "Bob-Omb Battlefield"
       - "Boletum: Remix"
       - "Boom"
-      - "BoomBox Redux"
       - "Boulevard"
       - "Bridge Over Troubled Water"
       - "Brittlebush"
@@ -442,8 +442,7 @@ pools:
       - BlitzMiners
       - "Blocks: Destroy the Dynamite"
       - Bomber Guys
-      - Boombox
-      - BoomBoxx
+      - BoomBox Redux
       - CannonCube
       - Cannon Duel
       - "CannonQuad+"
