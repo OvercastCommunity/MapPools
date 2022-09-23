@@ -508,6 +508,8 @@ pools:
     maps:
       - A Journey Through History
       - Arid Crossroads
+      - Arriva
+      - Atlantis
       - "Bill's Town Blitz"
       - "BipBetaMC: TDM"
       - Bliss
@@ -522,18 +524,14 @@ pools:
       - Humble Jungle
       - Into the Jungle
       - "Juggernaut's Hall"
-      - "King's Conquest: Apocalypse Ensues"
       - "King's Conquest: Proelium"
       - "King's Conquest: Rage Quit"
-      - "King's Conquest: Rooted Frontier"
       - Mega Cacti Terror
       - Oculo
       - Ping Bomb II
       - Pixel Run
       - Plus Side
-      - Proelium
       - "Puddin' Pops"
-      - Rage Quit
       - Rage Maze
       - Red Agony
       - Rooted Frontier
@@ -543,6 +541,7 @@ pools:
       - Sugar Cane Valley
       - Swarthmoor
       - Sweet Tooth
+      - Sylvan
       - "Team Parkour: Ice"
       - "Team Parkour: Jungle"
       - The 6th Law
