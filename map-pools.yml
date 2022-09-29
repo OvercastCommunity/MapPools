@@ -702,42 +702,63 @@ pools:
       - Abandoned Zoo #Zoo
       - Abudracula #Abudor
       - AlepBOO! #Aleppo
+      - AraBOOia #Arabia
+      - Auroween #Aurosphere
       - BackSPOOK #Outback
       - "BalloonsDTM: Halloween" #BalloonsDTM
-      - Bam-BOO Valley #Bamboo Valley
+      - Bam-BOOO Valley #Bamboo Valley
+      - Bam-BOOO Valley III #Bamboo Valley III
       - Bewitched #Enchanted
+      - Biohazard #Biotech
+      - Bloody Maple #Maple Falls
       - Bloody Trident #Fourchette
+      - Boo'ai #Mo'ai
+      - Boo Pipes #Pipes and Punters
+      - Booshroom Monuments #Mushroom Monuments
       - Celestial Twilight
       - Chimeric Horror #Chimeric
       - "Circus DTC: Halloween" #Circus DTC
       - Concursed #Concourse
+      - Deciduous Frights #Deciduous Nights
       - Deepwind Horror #Deepwind Jungle
       - Deserted Sanctuary #Desert Sanctuary
       - Die Noon #Miner Sixty Niner
+      - DirecTricks Redux #Directredux
       - DynaboOo #Dynamo
       - Empire in Ruins #Empire
       - "Fallencrests: Halloween" #Fallencrests
       - Ghostline Redux #Coastline Redux, also Ghostline Redux Emerald -> Coastline Redux Emerald
       - Hallow Side #Plus Side
       - Hallowed Harb #Harb
+      - Halloween Over Paradise Redux #Sunrise Over Paradise Redux
       - Halloween Train #Midnight Train
       - Haunted Blocks #Blocks DTC
       - Haunted Cargo #Cargo
+      - Hearts of Hades #Hears of Atlantis
       - Hollow Lines #Zipline
       - Haunted Rings #Ring Race
+      - Haunted Rings Run #Ring Run
       - Hotel at Midnight #Hotel Overcast
+      - Iti Boo'ai #Iti Mo'ai
       - Jungle Spook #Jungle Beat
+      - King Boo's Battlefield #Bob-Omb Battlefield
       - "The Lobby: Halloween" #2014: Rage FFA
+      - Mahellma #Mahatma
       - Nuclear Halloween #Nuclear Winter
       - Orange #Green
       - PerSpookySto #Persisto
       - PixelMissing #PixelMix
       - Pumpkin Madness
+      - Quadroween CTW #Quadrosphere CTW
+      - Quadroween Rage #Quadrosphere Rage
+      - Ringnull #Ringpull
       - "Spaceship Battles: Halloween" #Spaceship Battles
       - Scareros #Aaeros
       - Snowy Wars Halloween #Snowy Wars
+      - Shave Spooky Vice #Shave Vice
       - SolitudeMC Halloween #SolitudeMC
       - Soviet Chills #Soviet Mills
+      - SpOOkality #Duality
       - Spooktober
       - SpOOky Diamonds #Chocolate Diamonds
       - Spooky Country #Desert Country
@@ -746,9 +767,13 @@ pools:
       - Spooky Lyndanisse #Battle of Lyndanisse
       - Spooky Smog #Smog
       - A SpOOky Sunset #The Last Sunset II
+      - Stratoween Rage #Stratosphere Rage
       - SuperHALLOW #SuperPRISM
       - TownSPOOK #Townside
+      - Undead Noon #Dead Noon
+      - Villa Boo #Villa II
       - Ware-Haunted-House #Warehouse
+      - Wild Vile #Wild Isle
       - Witchy Woods #Wooly Woods
   christmas:
     type: voted
