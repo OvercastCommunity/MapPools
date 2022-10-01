@@ -417,7 +417,6 @@ pools:
       - "Abandoned Zoo" #Zoo
       - "Fallencrests: Halloween" #Fallencrests
       - "Haunted Corridors"
-      - Pumpkin Madness
       - "SpOOky Diamonds" #Chocolate Diamonds, could re-add to normal pool later
       - "Ware-Haunted-House" #Warehouse (not actually loaded)
   testing: #New testing pool for actual map tests
