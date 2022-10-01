@@ -309,7 +309,7 @@ pools:
       - "Royal"
       - "Ruffland"
       - "Runes of Ruin"
-      - "Sakura Garden"
+      - "Halloween Garden" #Sakura Garden
       - "Sarc"
       - "Scorched Grove"
       - "Scorched"
@@ -402,7 +402,7 @@ pools:
       - "Wildwood Crevice"
       - "Winsray Fields"
       - "Wintery Cabin"
-      - "Witch's Potions"
+      - "Scary Potions" #Witch's Potions
       - "Wit's End"
       - "Woodwork Harbor"
       - "Woolirium"
@@ -741,6 +741,7 @@ pools:
       - "Ghostline Redux" #Coastline Redux, also Ghostline Redux Emerald -> Coastline Redux Emerald
       - "Hallow Side" #Plus Side
       - "Hallowed Harb" #Harb
+      - "Halloween Garden" #Sakura Garden
       - "Halloween Over Paradise Redux" #Sunrise Over Paradise Redux
       - "Halloween Train" #Midnight Train
       - "Haunted Blocks" #Blocks DTC
@@ -765,6 +766,7 @@ pools:
       - "Ringnull" #Ringpull
       - "Spaceship Battles: Halloween" #Spaceship Battles
       - "Scareros" #Aaeros
+      - "Scary Potions" #Witch's Potions
       - "Snowy Wars Halloween" #Snowy Wars
       - "Shave Spooky Vice" #Shave Vice
       - "SolitudeMC Halloween" #SolitudeMC
