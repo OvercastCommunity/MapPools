@@ -418,7 +418,6 @@ pools:
       - "Abandoned Zoo" #Zoo
       - "Fallencrests: Halloween" #Fallencrests
       - "Haunted Corridors"
-      - "SpOOky Diamonds" #Chocolate Diamonds, could re-add to normal pool later
       - "Ware-Haunted-House" #Warehouse (not actually loaded)
   testing: #New testing pool for actual map tests
     type: voted
@@ -774,7 +773,6 @@ pools:
       - "Soviet Chills" #Soviet Mills
       - "SpOOkality" #Duality
       - "Spooktober"
-      - "SpOOky Diamonds" #Chocolate Diamonds
       - "Spooky Country" #Desert Country
       - "Spooky Drought III" #Golden Drought III
       - "Spooky Garden DTC" #Royal Garden DTC
