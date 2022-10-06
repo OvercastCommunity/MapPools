@@ -573,7 +573,7 @@ pools:
     enabled: true
     dynamic: false
     players: 1
-    display-name: "Funky Friday"
+    display-name: "Funky-Friday"
     maps:
       - "Adabat: Jungle Joyride"
       - "Amusement Park Infection"
