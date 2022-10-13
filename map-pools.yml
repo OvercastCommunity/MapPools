@@ -371,7 +371,7 @@ pools:
       - "Townside Mini"
       - "TownSPOOK" #Townside
       - "Tranquility"
-      - "Transit"
+      - "Transit: Halloween" #Transit
       - "Tree of Life"
       - "Trench Warfare 2"
       - "Tsuba CTF"
@@ -841,6 +841,7 @@ pools:
       - "Stratoween Rage" #Stratosphere Rage
       - "SuperHALLOW" #SuperPRISM
       - "TownSPOOK" #Townside
+      - "Transit: Halloween" #Transit
       - "Undead Noon" #Dead Noon
       - "Villa Boo" #Villa II
       - "Ware-Haunted-House" #Warehouse
