@@ -380,7 +380,7 @@ pools:
       - "Tumbleweed"
       - "Turf Wars"
       - "Tuscany"
-      - "Two Tier"
+      - "Two Tear" #Two Tier
       - "Ubos CTF"
       - "Valley of the Dead"
       - "Veld"
@@ -842,6 +842,7 @@ pools:
       - "SuperHALLOW" #SuperPRISM
       - "TownSPOOK" #Townside
       - "Transit: Halloween" #Transit
+      - "Two Tear" #Two Tier
       - "Undead Noon" #Dead Noon
       - "Villa Boo" #Villa II
       - "Ware-Haunted-House" #Warehouse
