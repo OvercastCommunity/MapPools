@@ -258,7 +258,7 @@ pools:
       - "Nuclear Halloween" #Nuclear Winter
       - "Nutrient"
       - "Oaken Meadow"
-      - "Oasis CTW"
+      - "Oasis CTW Winter" #Oasis CTW
       - "Oceano CTW"
       - "BOOdin" #Odin
       - "Old Life CTW"
@@ -817,6 +817,7 @@ pools:
       - "The Lobby: Halloween" #2014: Rage FFA
       - "Mahellma" #Mahatma
       - "Nuclear Halloween" #Nuclear Winter
+      - "Oasis CTW Winter" #Oasis CTW
       - "Orange" #Green
       - "PerSpookySto" #Persisto
       - "PixelMissing" #PixelMix
@@ -825,6 +826,7 @@ pools:
       - "Quadroween Rage" #Quadrosphere Rage
       - "Ringnull" #Ringpull
       - "Spaceship Battles: Halloween" #Spaceship Battles
+      - "SpOOkatica" #Aquatica
       - "Scareros" #Aaeros
       - "Scary Potions" #Witch's Potions
       - "Snowy Wars Halloween" #Snowy Wars
