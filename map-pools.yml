@@ -44,7 +44,7 @@ pools:
       - "Aerospace"
       - "Agrostid"
       - "Airship Battle"
-      - "AlepBOO!" #Aleppo
+      - "Aleppo"
       - "Alpine Mining II"
       - "Anathema"
       - "Annealing"
@@ -52,40 +52,40 @@ pools:
       - "Antiquis"
       - "Anvil"
       - "Appalachia"
-      - "SpOOkatica" #Aquatica
-      - "AraBOOia" #Arabia
+      - "Aquatica"
+      - "Arabia"
       - "Arctic Ruins"
       - "Argon"
       - "Assault"
       - "Atromix"
-      - "Auroween" #Aurosphere
+      - "Aurosphere"
       - "Avalanche"
       - "Avalon Funland"
       - "Azure"
-      - "BalloonsDTM: Halloween" #BalloonsDTM
-      - "Bam-BOOO Valley" #Bamboo Valley
-      - "Bam-BOOO Valley III" #Bamboo Valley III
+      - "BalloonsDTM"
+      - "Bamboo Valley"
+      - "Bamboo Valley III"
       - "Bamboo Valley V"
       - "Baroque Gardens"
       - "Bastion Hill CTF"
       - "Battle Ecliptica II"
       - "Battle Ecliptica III"
       - "Battle for Amaterasu"
-      - "Spooky Lyndanisse" #Battle of Lyndanisse
+      - "Battle of Lyndanisse"
       - "Battle of Tenjin"
       - "Battle of Tenjin II"
       - "Battle of Tenjin III"
       - "Beach Battles"
       - "Beauty to Ashes"
       - "Belvedere"
-      - "Biohazard" #Biotech
+      - "Biotech"
       - "Blitzkrieg CTF"
-      - "Haunted Blocks" #Blocks DTC
+      - "Blocks DTC"
       - "Blocks II"
       - "Blocks: Destroy the Dynamite"
       - "BlockRAGE"
       - "Blossom CTW"
-      - "King Boo's Battlefield" #Bob-Omb Battlefield
+      - "Bob-Omb Battlefield"
       - "Boletum: Remix"
       - "Boom"
       - "Boulevard"
@@ -96,17 +96,17 @@ pools:
       - "Cake Day"
       - "Calico"
       - "Canyon II"
-      - "Haunted Cargo" #Cargo
+      - "Cargo"
       - "Cat's Cradle"
       - "Chestnut"
       - "Chle's Great Wall"
-      - "Circus DTC: Halloween"
+      - "Circus DTC"
       - "Ciudad Costera"
       - "Clutter"
-      - "Ghostline Redux" #Coastline Redux
+      - "Coastline Redux"
       - "Coconut Mald"
       - "Columbia CTW"
-      - "Concursed" #Concourse
+      - "Concourse"
       - "Coral Reef"
       - "Coreo"
       - "Corrupted Kingdoms"
@@ -119,14 +119,14 @@ pools:
       - "DATAbase"
       - "DATAbasin"
       - "DATAcenter"
-      - "Undead Noon" #Dead Noon
-      - "Deciduous Frights" #Deciduous Nights
-      - "Deepwind Horror" #Deepwind Jungle
+      - "Dead Noon"
+      - "Deciduous Nights"
+      - "Deepwind Jungle"
       - "Desert Cataract"
       - "Desert Eclipse"
-      - "Deserted Sanctuary" #Desert Sanctuary
+      - "Desert Sanctuary"
       - "Diramu Valley DTM"
-      - "DirecTricks Redux" #Directredux
+      - "Directredux"
       - "Discipline"
       - "Discount Fortress"
       - "Disc Wars"
@@ -138,12 +138,12 @@ pools:
       - "Downtown"
       - "Dragon's Hearth"
       - "Drow's Crevice III"
-      - "SpOOkality" #Duality
+      - "Duality"
       - "Dust"
-      - "DynaboOo" #Dynamo
+      - "Dynamo"
       - "Edo"
-      - "Empire in Ruins" #Empire
-      - "Bewitched" #Enchanted
+      - "Empire"
+      - "Enchanted"
       - "Equinox"
       - "Everlasting"
       - "Exiled KotF"
@@ -159,7 +159,7 @@ pools:
       - "Flag Football: Waffle House"
       - "Forge Ignea"
       - "Fortress Battles"
-      - "Bloody Trident" #Fourchette
+      - "Fourchette"
       - "Fractal Descent"
       - "Frost"
       - "Fruhling"
@@ -171,25 +171,25 @@ pools:
       - "Gobi"
       - "Golden Drought"
       - "Golden Drought II"
-      - "Spooky Drought III" #Golden Drought III
+      - "Golden Drought III"
       - "Golden Fever"
       - "Goo Lagoon"
       - "Grassy Mound CTF"
       - "Greecia"
       - "Green Gem CTW"
-      - "Orange" #Green
+      - "Green"
       - "Grub"
       - "Hadron"
       - "Hallows"
-      - "Hallowed Harb" #Harb
+      - "Harb"
       - "Harbor CTW"
-      - "Hearts of Hades" #Hearts of Atlantis
+      - "Hearts of Atlantis"
       - "Hillside Daydream"
       - "Hirap"
       - "Honeycombed"
       - "Hot Dam Mini"
       - "Hot Dam"
-      - "Hotel at Midnight" #Hotel Overcast
+      - "Hotel Overcast"
       - "Huanxiang"
       - "Hydrolock"
       - "Icecream Sandwiched II"
@@ -200,9 +200,9 @@ pools:
       - "Ion"
       - "Iris DTC"
       - "Irongate Harbor"
-      - "Iti Boo'ai" #Iti Mo'ai
+      - "Iti Mo'ai"
       - "Java II"
-      - "Jungle Spook" #Jungle Beat
+      - "Jungle Beat"
       - "Jurassic"
       - "Justice"
       - "Kahilyo"
@@ -229,25 +229,25 @@ pools:
       - "Lunar Coliseum"
       - "Lupa"
       - "Lupain"
-      - "Mahellma" #Mahatma
-      - "Bloody Maple" #Maple Falls
+      - "Mahatma"
+      - "Maple Falls"
       - "Maple Syrup"
       - "Masarin II"
       - "Mbanza"
       - "Medieval Village"
       - "Metro"
       - "Metropolis"
-      - "Halloween Train" #Midnight Train
-      - "Die Noon" #Miner Sixty Niner
+      - "Midnight Train"
+      - "Miner Sixty Niner"
       - "Mini Drought"
-      - "Boo'ai" #Mo'ai
+      - "Mo'ai"
       - "Modern Cityscape"
       - "Monument Valley"
       - "Moonlight Summit"
       - "Mush"
       - "Mushdoom"
       - "Mushroom Gorge"
-      - "Booshroom Monuments" #Mushroom Monuments
+      - "Mushroom Monuments"
       - "Mutiny"
       - "Mystic Point"
       - "Mythical Marsh"
@@ -256,12 +256,12 @@ pools:
       - "Nivalis"
       - "Northlands"
       - "North Winds"
-      - "Nuclear Halloween" #Nuclear Winter
+      - "Nuclear Winter"
       - "Nutrient"
       - "Oaken Meadow"
       - "Oasis CTW"
       - "Oceano CTW"
-      - "BOOdin" #Odin
+      - "Odin"
       - "Old Life CTW"
       - "Opal"
       - "Oumuamua"
@@ -273,12 +273,12 @@ pools:
       - "Pandemonium"
       - "Parabola"
       - "Paradise Isle"
-      - "PerSpookySto"
+      - "Persisto"
       - "Pineium CTW"
       - "Pineium DTM"
-      - "Boo Pipes" #Pipes and Punters
+      - "Pipes and Punters"
       - "Pirates I"
-      - "PixelMissing" #PixelMix
+      - "PixelMix"
       - "Placid Spring"
       - "Pokemon Arena"
       - "Polus FFA"
@@ -286,7 +286,7 @@ pools:
       - "Pompeii RAGE"
       - "Pyramid Scheme"
       - "Quadrival"
-      - "Quadroween Rage" #Quadrosphere Rage
+      - "Quadrosphere Rage"
       - "Race for Victory 3"
       - "Race for Victory 4"
       - "Rage Quit TDM"
@@ -295,20 +295,20 @@ pools:
       - "Rattlesnake"
       - "Retaliation"
       - "Rift"
-      - "Ringnull" #Ringnull
+      - "Ringpull"
       - "Rind Rushers"
-      - "Haunted Rings Run" #Ring Run
+      - "Ring Run"
       - "Riverside"
       - "Road Trip to Sunset Town"
       - "Röntgen"
       - "Rotten"
       - "Royal Garden CTW"
-      - "Spooky Garden DTC" #Royal Garden DTC
+      - "Royal Garden DTC"
       - "Royal Rumble II"
       - "Royal"
       - "Ruffland"
       - "Runes of Ruin"
-      - "Halloween Garden" #Sakura Garden
+      - "Sakura Garden"
       - "Sarc"
       - "Scorched Grove"
       - "Scorched"
@@ -319,24 +319,24 @@ pools:
       - "Sky Traffic 2"
       - "Snow Level"
       - "Snow Run FFA"
-      - "Snowy Wars Halloween" #Snowy Wars
-      - "SolitudeMC Halloween" #SolitudeMC
-      - "Soviet Chills" #Soviet Mills
+      - "Snowy Wars"
+      - "SolitudeMC"
+      - "Soviet Mills"
       - "Space Base"
-      - "Spaceship Battles: Halloween" #Spaceship Battles
+      - "Spaceship Battles"
       - "Spaceship Battles II"
       - "Splinter"
       - "State of Decay II"
       - "Storm Redux"
-      - "Stratoween Rage" #Stratosphere Rage
+      - "Stratosphere Rage"
       - "Streamline"
       - "Summer Sadness"
       - "Summertime at Brown's Farms"
       - "Summit"
-      - "Halloween Over Paradise Redux" #Sunrise Over Paradise Redux
+      - "Sunrise Over Paradise Redux"
       - "Sunset Glaze"
       - "SuperCUBE"
-      - "SuperHALLOW" #SuperPRISM
+      - "SuperPRISM"
       - "Supheriox"
       - "Tahiti"
       - "Take Out"
@@ -358,7 +358,6 @@ pools:
       - "The High Road"
       - "The Hill Redux"
       - "The Last Sunset"
-      - "A SpOOky Sunset" #The Last Sunset II
       - "The Nile"
       - "The Pipes"
       - "The Vortex"
@@ -370,9 +369,9 @@ pools:
       - "Totally War II"
       - "Totem"
       - "Townside Mini"
-      - "TownSPOOK" #Townside
+      - "Townside"
       - "Tranquility"
-      - "Transit: Halloween" #Transit
+      - "Transit"
       - "Tree of Life"
       - "Trench Warfare 2"
       - "Tsuba CTF"
@@ -381,7 +380,7 @@ pools:
       - "Tumbleweed"
       - "Turf Wars"
       - "Tuscany"
-      - "Two Tear" #Two Tier
+      - "Two Tier"
       - "Ubos CTF"
       - "Valley of the Dead"
       - "Veld"
@@ -389,7 +388,7 @@ pools:
       - "Vertex"
       - "Vesuvius"
       - "Villa"
-      - "Villa Boo" #Villa II
+      - "Villa II"
       - "Viridun FFA"
       - "Voltage"
       - "Warlock"
@@ -399,26 +398,21 @@ pools:
       - "West Rider"
       - "When Men Cried"
       - "Wholething"
-      - "Wild Vile" #Wild Isle
+      - "Wild Isle"
       - "Wildwood Crevice"
       - "Winsray Fields"
       - "Wintery Cabin"
-      - "Scary Potions" #Witch's Potions
+      - "Witch's Potions"
       - "Wit's End"
       - "Woodwork Harbor"
       - "Woolirium"
-      - "Witchy Woods" #Wooly Woods
+      - "Wooly Woods"
       - "Wrath Altar"
       - "Wrath Tor RAGE"
       - "Xi II"
       - "Xunkohtli"
-      - "Hollow Lines" #Zipline
+      - "Zipline"
       - "Zombie Defense"
-      # Halloween only maps below this point
-      - "Abandoned Zoo" #Zoo
-      - "Fallencrests: Halloween" #Fallencrests
-      - "Haunted Corridors"
-      - "Ware-Haunted-House" #Warehouse (not actually loaded)
   testing: #New testing pool for actual map tests
     type: voted
     enabled: true
@@ -498,7 +492,7 @@ pools:
       - Sand Wars DTE
       - Sand Wars InvisiPEARLBow Rage KOTH Grenades Extreme
       - Shave
-      - Shave Spooky Vice #Shave Vice
+      - Shave Vice
       - Sky Traffic
       - Spaceship Battles
       - Spooktober
@@ -542,7 +536,7 @@ pools:
       - Oculo
       - Ping Bomb II
       - Pixel Run
-      - Hallow Side #Plus Side
+      - Plus Side
       - "Puddin' Pops"
       - Rage Maze
       - Red Agony
@@ -687,7 +681,7 @@ pools:
     display-name: "rage"
     maps:
       - 100 Rooms
-      - 101 Pumpkins #101 Rooms
+      - 101 Rooms
       - Arid Crossroads
       - Arx Rage
       - Atlantis
@@ -731,7 +725,7 @@ pools:
       - Overgrown Rage
       - Palude
       - Permeac
-      - Hallow Side #Plus Side
+      - Plus Side
       - Pride
       - Proelium
       - Pyradic
