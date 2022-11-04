@@ -572,7 +572,6 @@ pools:
     display-name: "Funky-Friday"
     maps:
       - "Adabat: Jungle Joyride"
-      - "Infection: Amusement Park Halloween Edition"
       - "Arid Crossroads"
       - "Arriva"
       - "Barf Box"
@@ -583,14 +582,16 @@ pools:
       - "Charge 2.0"
       - "Crossfire"
       - "Deathrun: Aperture"
+      - "Dodge Ball"
       - "Fall Guys"
       - "Flappy Bird"
       - "Hide n' Seek"
       - "Hide n' Seek: Community"
       - "Humble Jungle"
+      - "Infection: Amusement Park"
       - "Infection: Boulevard"
+      - "Infection: Cinema Jungle Scenario"
       - "Infection: Cityscape"
-      - "Infection: Riot in Prison"
       - "Juggernaut's Hall"
       - "Ladderp II"
       - "Mega Cacti Terror"
@@ -603,7 +604,6 @@ pools:
       - "Puddin' Pops"
       - "Race: Circuit"
       - "Race: Drought"
-      - "Race: Ender"
       - "Race: Pebble Creek"
       - "Rainbow Race"
       - "Red Agony"
@@ -622,9 +622,7 @@ pools:
       - "War Wars: Spongecake"
       - "Water Drop: II"
       - "Water Drop Extreme"
-      - "Water Drop: Limbo II"
       - "Water Drop: Pride Gamer Edition"
-      - "Water Drop: Sunrise Over Paradise"
   warwars:
     type: voted
     enabled: true
