@@ -42,7 +42,7 @@ pools:
       - "Aequabilis"
       - "Aerobellum Redux"
       - "Aerospace"
-      - "Agrostid"
+      - "AFrostid" #Agrostid
       - "Airship Battle"
       - "Alpine Mining II"
       - "Anathema"
@@ -53,16 +53,16 @@ pools:
       - "Apostle"
       - "Appalachia"
       - "Aquatica"
-      - "Arabia"
+      - "AraBlizzardia" #Arabia
       - "Arctic Ruins"
       - "Argon"
       - "Atromix"
-      - "Aurosphere"
+      - "Auromas" #Aurosphere
       - "Avalanche"
       - "Avalon Funland"
-      - "Azure"
-      - "BalloonsDTM"
-      - "Bamboo Valley"
+      - "Azure: Christmas" #Azure
+      - "BalloonsDTM: Xmas" #BalloonsDTM
+      - "Candy Cane Valley" #Bamboo Valley
       - "Bamboo Valley III"
       - "Bamboo Valley V"
       - "Banana Split"
@@ -71,7 +71,7 @@ pools:
       - "Battle Ecliptica II"
       - "Battle Ecliptica III"
       - "Battle for Amaterasu"
-      - "Battle of Lyndanisse"
+      - "Battle of Lyndanisse: Snowmen" #Battle of Lyndanisse
       - "Battle of Tenjin"
       - "Battle of Tenjin II"
       - "Battle of Tenjin III"
@@ -80,12 +80,12 @@ pools:
       - "Belvedere"
       - "Biotech"
       - "Blitzkrieg CTF"
-      - "Blocks DTC"
+      - "Holiday Blocks" #Blocks DTC
       - "Blocks II"
       - "Blocks: Destroy the Dynamite"
       - "BlockRAGE"
       - "Blossom CTW"
-      - "Bob-Omb Battlefield"
+      - "Chief Chilly's Battlefield" #Bob-Omb Battlefield
       - "Boletum: Remix"
       - "Boom"
       - "Boulevard"
@@ -102,14 +102,14 @@ pools:
       - "Cherno CTF"
       - "Chestnut"
       - "Chle's Great Wall"
-      - "Chocolate Diamonds"
+      - "Snowy Diamonds" #Chocolate Diamonds
       - "Circus DTC"
       - "Ciudad Costera"
-      - "Coastline Redux"
+      - "Snowline Redux" #Coastline Redux
       - "Coconut Mald"
       - "Colorado"
       - "Columbia CTW"
-      - "Concourse"
+      - "Concourse: Christmas" #Concourse
       - "Coral Reef"
       - "Coreo"
       - "Corrupted Kingdoms"
@@ -122,13 +122,13 @@ pools:
       - "DATAbasin"
       - "DATAcenter"
       - "Dead Noon"
-      - "Deciduous Nights"
+      - "Silent Nights" #Deciduous Nights
       - "Deepwind Jungle"
       - "Desert Cataract"
       - "Desert Eclipse"
-      - "Desert Sanctuary"
-      - "Diramu Valley DTM"
-      - "Directredux"
+      - "Christmas Sanctuary" #Desert Sanctuary
+      - "Danagal Valley DTM" #Diramu Valley DTM
+      - "DirectriXmas" #Directredux
       - "Discount Fortress"
       - "Disc Wars"
       - "Disc Wars II"
@@ -143,7 +143,7 @@ pools:
       - "Dynamo"
       - "Edo"
       - "Empire"
-      - "Enchanted"
+      - "Enchanted: Christmas" #Enchanted
       - "Equinox"
       - "Exiled KotF"
       - "Exit"
@@ -177,7 +177,7 @@ pools:
       - "Goo Lagoon"
       - "Grassy Mound CTF"
       - "Green Gem CTW"
-      - "Green"
+      - "White" #Green
       - "Grub"
       - "Hadron"
       - "Hallows"
@@ -189,7 +189,7 @@ pools:
       - "Honeycombed"
       - "Hot Dam Mini"
       - "Hot Dam"
-      - "Hotel Overcast"
+      - "Hotel at Christmas Eve" #Hotel Overcast
       - "Huanxiang"
       - "Hydrolock"
       - "Icecream Sandwiched II"
@@ -202,7 +202,7 @@ pools:
       - "Iris DTC"
       - "Irongate Harbor"
       - "Istana CTW"
-      - "Iti Mo'ai"
+      - "Iti Marshmallow Mo'ai" #Iti Mo'ai
       - "Java II"
       - "Jungle Beat"
       - "Jurassic"
@@ -244,7 +244,7 @@ pools:
       - "Metro"
       - "Metropolis"
       - "Midnight Train"
-      - "Miner Sixty Niner"
+      - "Fistful of Cookies" #Miner Sixty Niner
       - "Mini Drought"
       - "Mo'ai"
       - "Modern Cityscape"
@@ -253,7 +253,7 @@ pools:
       - "Mush"
       - "Mushdoom"
       - "Mushroom Gorge"
-      - "Mushroom Monuments"
+      - "Chillshroom Monuments" #Mushroom Monuments
       - "Mystic Point"
       - "Mythica DTM"
       - "Mythical Marsh"
@@ -266,14 +266,14 @@ pools:
       - "Nuclear Winter"
       - "Nutrient"
       - "Oaken Meadow"
-      - "Oasis CTW"
+      - "Oasis CTW Winter" #Oasis CTW
       - "Oceano CTW"
       - "Odin"
       - "Old Life CTW"
       - "Opal"
       - "Oumuamua"
       - "Ouroboros"
-      - "Outback"
+      - "Snowback" #Outback
       - "Outlyne"
       - "Ozone FFA"
       - "Ozone"
@@ -285,7 +285,7 @@ pools:
       - "Persisto"
       - "Pineium CTW"
       - "Pineium DTM"
-      - "Pipes and Punters"
+      - "Penguins and Punters" #Pipes and Punters
       - "Pirates I"
       - "PixelMix"
       - "Placid Spring"
@@ -294,7 +294,7 @@ pools:
       - "Pompeii RAGE"
       - "Purple Haze"
       - "Quadrival"
-      - "Quadrosphere Rage"
+      - "Quadromas Rage" #Quadrosphere Rage
       - "Race for Victory 3"
       - "Rafiki"
       - "Rage Quit TDM"
@@ -304,16 +304,16 @@ pools:
       - "Research Base"
       - "Retaliation"
       - "Rift"
-      - "Rind Rushers"
+      - "Rednose Rushers" #Rind Rushers
       - "Rind Rushers II"
-      - "Ringpull"
+      - "Crackerpull" #Ringpull
       - "Ring Run"
       - "Riverside"
       - "Road Trip to Sunset Town"
       - "Röntgen"
       - "Rotten"
       - "Royal Garden CTW"
-      - "Royal Garden DTC"
+      - "Royal Christmas DTC" #Royal Garden DTC
       - "Royal Rumble II"
       - "Ruffland"
       - "Runes of Ruin"
@@ -328,14 +328,14 @@ pools:
       - "Sky Traffic 2"
       - "Snow Level"
       - "Snow Run FFA"
-      - "Snowy Wars"
-      - "SolitudeMC"
-      - "Soviet Mills"
+      - "Snowy Wars: Christmas" #Snowy Wars
+      - "SolitudeMC: Christmas" #SolitudeMC
+      - "Soviet Chills" #Soviet Mills
       - "Space Base"
       - "Spaceship Battles"
       - "Spaceship Battles II"
       - "State of Decay II"
-      - "Stratosphere Rage"
+      - "Stratomas Rage" #Stratosphere Rage
       - "Streamline"
       - "Summer Sadness"
       - "Summertime at Brown's Farms"
@@ -368,7 +368,7 @@ pools:
       - "The Pipes"
       - "The Vortex"
       - "Thornwood"
-      - "Thunder"
+      - "Thundersnow" #Thunder
       - "Thunderbolt"
       - "Thunderrush"
       - "Total Beesness"
@@ -376,7 +376,7 @@ pools:
       - "Totally War II"
       - "Totem"
       - "Townside Mini"
-      - "Townside"
+      - "TownFROST" #Townside
       - "Tranquility"
       - "Transit"
       - "Tree of Life"
@@ -390,11 +390,11 @@ pools:
       - "Turf Wars"
       - "Tuscany"
       - "Tuscany Hills"
-      - "Two Tier"
+      - "Two Trees" #Two Tier
       - "Ubos CTF"
       - "Valley of the Dead"
       - "Veld"
-      - "Venice TDM"
+      - "Festive Venice" #Venice
       - "Vertex"
       - "Vesuvius"
       - "Villa"
@@ -408,12 +408,12 @@ pools:
       - "West Rider"
       - "When Men Cried"
       - "Wholething"
-      - "Wild Isle"
+      - "Snowy Isle" #Wild Isle
       - "Wildwood Crevice"
       - "Winsray Fields"
       - "Wintery Cabin"
       - "Witch's Potions"
-      - "Wit's End"
+      - "Wit's End: Christmas" #Wit's End
       - "Woodwork Harbor"
       - "Woolirium"
       - "Wooly Woods"
@@ -421,7 +421,7 @@ pools:
       - "Wrath Tor RAGE"
       - "Xi II"
       - "Xunkohtli"
-      - "Zipline"
+      - "Zipmas" #Zipline
       - "Zipline II"
       - "Zombie Defense"
   testing: #New testing pool for actual map tests
