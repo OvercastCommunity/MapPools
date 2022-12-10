@@ -185,6 +185,7 @@ pools:
       - "Harbor CTW"
       - "Hearts of Atlantis"
       - "Hillside Daydream"
+      - "Chillside Mini" #Hillside Mini
       - "Hirap"
       - "Honeycombed"
       - "Hot Dam Mini"
@@ -239,7 +240,7 @@ pools:
       - "Maple Syrup"
       - "Masarin II"
       - "Mbanza"
-      - "Medieval Village"
+      - "Christmas Village" #Medieval Village
       - "Mele Kalikimaka"
       - "Metro"
       - "Metropolis"
@@ -397,7 +398,7 @@ pools:
       - "Festive Venice" #Venice
       - "Vertex"
       - "Vesuvius"
-      - "Villa"
+      - "Chilla" #Villa
       - "Villa II"
       - "Viridun FFA"
       - "Voltage"
