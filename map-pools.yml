@@ -688,6 +688,15 @@ pools:
     dynamic: true
     players: 1
     display-name: "classic"
+    modifier: >-
+      pow(
+        score * 
+        bound(1 - (0.2 * same_gamemode), 0.2, 1) *
+        bound(0.5 * (
+          tanh(bound(-0.0025 * players + 0.5, 0.2, 1) * (mapsize - bound(players * 1.05, 0, 100))) -
+          tanh(bound(-0.0025 * players + 0.5, 0.2, 1) * (mapsize - bound(0.005 * players ^ 2 + 0.95 * players + 5, 10, 150)))
+        ), 0, 1)
+      , 2)
     maps:
       - A New Day
       - A Watery Grave
