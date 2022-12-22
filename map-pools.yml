@@ -682,6 +682,179 @@ pools:
       - Avalanche
       - Shroom Trip
       - Fort Wars
+  classic:
+    type: voted
+    enabled: true
+    dynamic: true
+    players: 1
+    display-name: "classic"
+    maps:
+      - A New Day
+      - A Watery Grave
+      - Aerobellum
+      - Airship Battle
+      - Anathema
+      - Antiquis
+      - Argon
+      - Astro
+      - Atromix
+      - Avalanche
+      - Avalon Funland
+      - Babylon
+      - Balloon Archipelago
+      - Balloons DTM
+      - Bamboo Valley
+      - Banana Split
+      - Battle Ecliptica III
+      - Battle for Amaterasu
+      - Battle of Krehm
+      - Battle of Lyndanisse
+      - Battle of Tenjin
+      - Battle of Tenjin III
+      - Battle of Tenjin III
+      - "Bessemer's Process"
+      - BlockBlock
+      - Blocks CTW
+      - Blocks DTC
+      - Blocks II
+      - "Blocks: Destroy the Dynamite"
+      - Boom
+      - BoomBox
+      - Bridge Over Troubled Waters
+      - Broken Unity
+      - Cake Day
+      - Cake Wars
+      - Cargo
+      - "Cat's Cradle"
+      - Circus CTW
+      - Circus DTC
+      - Cloud Nine
+      - Coastline
+      - Corrupted Kingdoms
+      - Crater of Secrets
+      - D-Day
+      - DATABasin
+      - DATACenter
+      - Deepwind Jungle
+      - Desert Cataract
+      - Diablo
+      - Discipline
+      - Dust
+      - Dwyer Hill
+      - Dynamo
+      - Empire
+      - Ender Blast
+      - Equinox
+      - Facility
+      - "Fairy Tales 2: A Tale or Two"
+      - "Fairy Tales: Metamorphose"
+      - Fallencrests
+      - Fort Wars
+      - Fortress Battles
+      - Fourchette
+      - Fox Strife
+      - Fractal Descent Classic
+      - "From the Archives: Royal Garden CTW"
+      - Full Salvo
+      - Glacial Impact
+      - Glacial Impact 2
+      - Golden Drought
+      - Golden Drought II
+      - Golden Drought III
+      - Golden Drought IV
+      - Green Hill Zone
+      - Hadron
+      - Harb
+      - Hot Dam
+      - Hot Dam Mini
+      - Hydrolock
+      - Hydrolock II
+      - Infernal Shadow
+      - Inheritance
+      - Interitus
+      - Ion
+      - Iris DTC
+      - Irongate Harbor
+      - Jungle Beat
+      - Kytriak
+      - Levels
+      - Limbo II
+      - Lunar Coliseum
+      - Mayan Apocalypse
+      - Medieval Warfare
+      - Midnight Train
+      - Modern Cityscape
+      - Molendinis
+      - Monument Valley
+      - Moonlight Summit
+      - Mushroom Gorge
+      - Mystic Point
+      - Nightsail
+      - Nivalis
+      - Northlands
+      - Nuclear Winter
+      - Ouroboros
+      - Outback
+      - Ozone
+      - Persisto
+      - PixelMix
+      - Placid Spring
+      - Race for Victory
+      - Race for Victory 2
+      - Race for Victory 3
+      - Retaliation
+      - Retaliation 2
+      - Rift
+      - Ring Race
+      - Runes of Ruin
+      - Sand Wars
+      - Scrap Mettle
+      - Shroom Trip
+      - Sky Traffic
+      - Sky Traffic 2
+      - Smog
+      - Snowy Wars
+      - SolitudeMC
+      - Soviet Mills
+      - Spaceship Battles
+      - Spaceship Battles II
+      - Storm
+      - Streamline
+      - Sunrise Over Paradise
+      - SuperPRISM
+      - Swamped
+      - Tanker TNT
+      - Tebulas
+      - Temple Run
+      - Temple Valley
+      - Tenebrous
+      - The 4th Law
+      - The 8th Law
+      - The 9th Law
+      - The Arena
+      - The Fenland
+      - The Hill
+      - The Nile
+      - Total War
+      - Totally War II
+      - Tree of Life
+      - Trench Warfare
+      - Trench Warfare 2
+      - Turf Wars
+      - Twisted
+      - Two Tier
+      - Urban Jungle
+      - Valley of the Dead
+      - Venice TDM
+      - Viridun
+      - Warlock
+      - Welcome to Wool Square
+      - Wildwood Crevice
+      - "Wit's End"
+      - Woodwork Harbor
+      - Woolirium
+      - Wooly Woods
+      - Zoo
   rage:
     type: voted
     enabled: true
