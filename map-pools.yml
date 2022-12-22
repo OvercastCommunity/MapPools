@@ -3,7 +3,7 @@ pools:
     type: voted
     enabled: true
     dynamic: true
-    players: 1
+    players: 1000
     cycle-time: "30s"
 
     # Voted pools support modifiers which come in the form of a formula (does not affect any other type of pool).
