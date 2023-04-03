@@ -59,6 +59,7 @@ pools:
       - "Argon"
       - "Atromix"
       - "Avalanche"
+      - "Avalon"
       - "Avalon Funland"
       - "Azure"
       - "BalloonsDTM"
@@ -98,11 +99,14 @@ pools:
       - "Canopy"
       - "Canyon II"
       - "Cargo"
+      - "Bridge: Castle"
       - "Cherno CTF"
+      - "Chernot"
       - "Chestnut"
       - "Chle's Great Wall"
       - "Chocolate Diamonds"
       - "Circus DTC"
+      - "Climate"
       - "Coastline Redux"
       - "Coconut Mald"
       - "Columbia CTW"
@@ -112,6 +116,7 @@ pools:
       - "Corrupted Kingdoms"
       - "Corrupted Paradise CTW"
       - "cos(tnt)"
+      - "Crimson"
       - "Cuboid Fairway"
       - "Curly Pride"
       - "DATAbase"
@@ -133,6 +138,8 @@ pools:
       - "Divided"
       - "Dominion"
       - "Dorreak"
+      - "Double Cross"
+      - "Double Take"
       - "Drow's Crevice III"
       - "Duality"
       - "Dynamo"
@@ -227,6 +234,7 @@ pools:
       - "Limbo II"
       - "Limbo"
       - "Limit"
+      - "Limitless"
       - "Little China"
       - "Long Shot"
       - "Long Distance"
@@ -284,6 +292,7 @@ pools:
       - "PixelMix"
       - "Placid Spring"
       - "Pokemon Arena"
+      - "Polders"
       - "Pompeii DTC"
       - "Prisma CTW"
       - "Promenade"
@@ -299,6 +308,7 @@ pools:
       - "Rangi-nui"
       - "Rattlesnake"
       - "Renegade"
+      - "Research"
       - "Research Base"
       - "Retaliation 2"
       - "Rice"
@@ -394,6 +404,7 @@ pools:
       - "Vesuvius"
       - "Villa"
       - "Villa II"
+      - "Vineyard"
       - "Voltage"
       - "Voodoo"
       - "Warlock"
@@ -414,6 +425,7 @@ pools:
       - "Xinx"
       - "Xunkohtli"
       - "Yermo"
+      - "Yonaguni"
       - "Zipline"
       - "Zipline II"
       - "Zombie Defense"
@@ -872,6 +884,7 @@ pools:
       - Deschutes
       - Drandion
       - Dry Wound
+      - Earthborn
       - Fallen Courtyard
       - Fallen Empire
       - Foxtrot
