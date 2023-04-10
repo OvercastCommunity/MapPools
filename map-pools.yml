@@ -39,6 +39,7 @@ pools:
 
     maps:
       - "Acear II"
+      - "Ad Adstra"
       - "Aequabilis"
       - "Aerobellum Redux"
       - "Agrorythe"
@@ -605,6 +606,7 @@ pools:
       - "Conquest: Hide from the Refs"
       - "Deathrun: Aperture"
       - "Dodge Ball"
+      - "Do Not Press The Button For Two Minutes"
       - "Fall Guys"
       - "Flappy Bird"
       - "Hide n' Seek: Community"
