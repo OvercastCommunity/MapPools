@@ -961,6 +961,29 @@ pools:
       - Wonderland
       - Yukon
       - Zen
+  gs:
+    type: voted
+    enabled: true
+    dynamic: false
+    players: 1
+    display-name: "gs"
+    maps:
+      - "Amazon"
+      - "Classic Flame"
+      - "Eldritch"
+      - "Frozen Palace"
+      - "GS: Beholder"
+      - "GS: Chandelier"
+      - "GS: Earthborn"
+      - "GS: Last Frontier FFA"
+      - "GS: Splinter"
+      - "Grassy Knoll"
+      - "Nostalgia"
+      - "Prototype"
+      - "Quartz Mine"
+      - "Royal Garden"
+      - "Tangled"
+      - "Whirlpool"
   halloween:
     type: voted
     enabled: true
