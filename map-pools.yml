@@ -41,20 +41,22 @@ pools:
       - "Acear II"
       - "Ad Astra"
       - "Aequabilis"
-      - "Aerobellum Redux"
+#      - "Aerobellum Redux" June 2023
       - "Aerospace"
+      - "After Hours"
       - "Agrorythe"
       - "Agrostid"
-      - "Airship Battle"
+#      - "Airship Battle" June 2023
       - "Alpine Mining II"
-      - "Anathema"
+#      - "Anathema" June 2023
       - "Annealing"
       - "Annealing II"
       - "Antiquis"
-      - "Apostle"
+#      - "Apostle" June 2023
       - "Appalachia"
       - "Aquatica"
       - "Arabia"
+      - "Araxa"
       - "Arctic Ruins"
       - "Argon"
       - "Armature"
@@ -62,7 +64,8 @@ pools:
       - "Avalanche"
       - "Avalon"
       - "Avalon Funland"
-      - "Azure"
+#      - "Azure" June 2023
+      - "Badlands"
       - "BalloonsDTM"
       - "Bamboo Valley"
       - "Bamboo Valley III"
@@ -75,22 +78,24 @@ pools:
       - "Battle Ecliptica II"
       - "Battle Ecliptica III"
       - "Battle for Amaterasu"
+      - "Battleship Halberd"
       - "Battle of Lyndanisse"
       - "Battle of Tenjin"
       - "Battle of Tenjin II"
       - "Battle of Tenjin III"
-      - "Beauty to Ashes"
+#      - "Beauty to Ashes" June 2023
+      - "Beehive"
       - "Belvedere"
-      - "Biotech"
-      - "Blitzkrieg CTF"
+#      - "Biotech" June 2023
+#      - "Blitzkrieg CTF" June 2023
       - "BlockRAGE"
       - "Blocks DTC"
       - "Blocks II"
       - "Blocks: Destroy the Dynamite"
-      - "Blossom CTW"
+#      - "Blossom CTW" June 2023
       - "Boar Beach"
       - "Bob-Omb Battlefield"
-      - "Boom"
+#      - "Boom" June 2023
       - "BoomBox Redux"
       - "Boulevard"
       - "Bridge Over Troubled Water"
@@ -100,7 +105,7 @@ pools:
       - "Byas"
       - "Cake Day"
       - "Canopy"
-      - "Canyon II"
+#      - "Canyon II" June 2023
       - "Cargo"
       - "Cherno CTF"
       - "Chernot"
@@ -108,44 +113,51 @@ pools:
       - "Chle's Great Wall"
       - "Chocolate Diamonds"
       - "Circus DTC"
+      - "Clearcut"
       - "Climate"
       - "Coastline Redux"
       - "Coconut Mald"
       - "Columbia CTW"
-      - "Concourse"
+#      - "Concourse" June 2023
+      - "Cool Steak"
       - "Coral"
       - "Coral Reef"
       - "Coreo"
       - "Corrupted Kingdoms"
       - "Corrupted Paradise CTW"
-      - "cos(tnt)"
+#      - "cos(tnt)" June 2023
+      - "Crater Resort"
       - "Crimson"
-      - "Cuboid Fairway"
-      - "Curly Pride"
-      - "DATAbase"
-      - "DATAbasin"
+#      - "Cuboid Fairway" June 2023
+#      - "Curly Pride" June 2023
+      - "Cyril"
+#      - "DATAbase" June 2023
+#      - "DATAbasin" June 2023
       - "DATAcenter"
       - "Daydream Mini"
       - "Dead End"
       - "Dead Noon"
       - "Deadly Gaze"
-      - "Deepwind Jungle"
+#      - "Deepwind Jungle" June 2023
+      - "Deepwood"
       - "Desert Cataract"
-      - "Desert Eclipse"
-      - "Desert Sanctuary"
+#      - "Desert Eclipse" June 2023
+#      - "Desert Sanctuary" June 2023
       - "Diramu Valley DTM"
-      - "Directredux"
+#      - "Directredux"
+      - "Directrix: 2 Flags"
       - "Discount Fortress"
-      - "Disc Wars"
+#      - "Disc Wars" June 2023
       - "Disc Wars II"
-      - "Disc Wars III"
+#      - "Disc Wars III" June 2023
       - "Divided"
       - "Dominion"
-      - "Dorreak"
+      - "Donut Wars"
+#      - "Dorreak" June 2023
       - "Double Cross"
       - "Double Take"
       - "Drow's Crevice III"
-      - "Duality"
+#      - "Duality" June 2023
       - "Dynamo"
       - "Edo"
       - "Embargo"
@@ -159,35 +171,38 @@ pools:
       - "Fairy Tales 2: A Tale or Two"
       - "Fairy Tales 2: Mini"
       - "Fairy Tales: Metamorphose"
-      - "Far Fetched"
-      - "Fiesta Mexicana"
-      - "Flag Football: Longhorn"
-      - "Flag Football: NYC"
-      - "Ford"
-      - "Forge Ignea"
+#      - "Far Fetched" June 2023
+#      - "Fiesta Mexicana" June 2023
+      - "Flag Football: Cola"
+      - "Flag Football: Superbowl Sunday"
+#      - "Ford" June 2023
+#      - "Forge Ignea" June 2023
       - "Fortress Battles"
       - "Fourchette"
+      - "Fox Strife"
       - "Fractal Descent"
-      - "Frost"
+#      - "Frost" June 2023
       - "Fruhling"
       - "Fungi Grove"
-      - "Galactic War"
+      - "Fumeen II"
+#      - "Galactic War" June 2023
       - "Geomtric Domination"
-      - "Glacial Conquest"
+#      - "Glacial Conquest" June 2023
       - "Glacial Impact"
-      - "Glacial Impact 2"
+#      - "Glacial Impact 2" June 2023
       - "Gobi"
       - "Golden Drought"
       - "Golden Drought II"
-      - "Golden Drought III"
+#      - "Golden Drought III" June 2023
       - "Golden Fever"
       - "Goo Lagoon"
       - "Grassy Mound CTF"
       - "Green Gem CTW"
-      - "Green"
+#      - "Green" June 2023
       - "Greenhill"
-      - "Hadron"
-      - "Hallows"
+      - "Gridlock 2"
+#      - "Hadron" June 2023
+#      - "Hallows" June 2023
       - "Happy Rainbow"
       - "Harbor CTW"
       - "Hau'oli Mau Lanui"
@@ -199,18 +214,18 @@ pools:
       - "Honeycombed"
       - "Hot Dam Mini"
       - "Hot Dam"
-      - "Hotel Overcast"
+#      - "Hotel Overcast" June 2023
       - "Howdy Partner"
       - "Huanxiang"
-      - "Hydrolock"
+#      - "Hydrolock" June 2023
       - "Icecream Sandwiched II"
       - "Industrial"
       - "Infernal Shadow"
       - "Ingwaz"
       - "Inheritance"
-      - "Interitus"
+#      - "Interitus" June 2023
       - "Ion"
-      - "Iris DTC"
+#      - "Iris DTC" June 2023
       - "Irongate Harbor"
       - "Istana CTW"
       - "Iti Mo'ai"
@@ -221,9 +236,10 @@ pools:
       - "Kahoy"
       - "Kalahari Sanctuary"
       - "Kanto"
-      - "Keeper"
+#      - "Keeper" June 2023
       - "Keipha CTW"
       - "Kerskyn"
+      - "Ki"
       - "Kickflip"
       - "King Neptune"
       - "Kryta: Rage"
@@ -231,79 +247,91 @@ pools:
       - "Kuusepuu"
       - "La Bataille de l'épée"
       - "La Piazza"
-      - "Larnia"
+#      - "Larnia" June 2023
       - "Last Overcastian"
       - "Let's Sell Discounts"
       - "Levels"
       - "Lilypad"
-      - "Limbo"
+#      - "Limbo" June 2023
       - "Limbo II"
       - "Limit"
       - "Limitless"
       - "Little China"
+      - "Little Roses"
       - "Long Distance"
-      - "Long Shot"
+#      - "Long Shot" June 2023
       - "Lost Gardens"
       - "Lost Haven"
+      - "Lunar Crescent"
       - "Lupa"
       - "Lupain"
-      - "Mago"
+#      - "Mago" June 2023
+      - "Malupa"
       - "Mame, I Shrunk the PvPers"
       - "Maple Falls"
+      - "Maple Syrup"
+      - "Mars Odyssey"
       - "Medieval Village"
-      - "Metro"
+#      - "Metro" June 2023
       - "Metropolis"
       - "Midnight Train"
-      - "Miner Sixty Niner"
+#      - "Miner Sixty Niner" June 2023
       - "Mini Drought"
-      - "MissingNo"
-      - "Mo'ai"
+#      - "MissingNo" June 2023
+#      - "Mo'ai" June 2023
       - "Mole Dream"
       - "Mont Blanc"
       - "Monument Valley"
       - "Moonlight Summit"
       - "Mush"
-      - "Mushdoom"
+#      - "Mushdoom" June 2023
       - "Mushroom Gorge"
       - "Mushroom Monuments"
       - "Mystic Point"
       - "Mythica DTM"
       - "Mythical Marsh"
+      - "Neptune"
       - "Nether War CTW"
+      - "NewGen"
       - "Niflheim"
       - "Noble's District"
-      - "Nuclear Winter"
-      - "Nutrient"
+#      - "Nuclear Winter" June 2023
+#      - "Nutrient" June 2023
       - "Oaken Meadow"
       - "Oasis CTW"
-      - "Oceano CTW"
+#      - "Oceano CTW" June 2023
       - "Odin"
       - "Old Life CTW"
-      - "Opal"
+#      - "Opal" June 2023
+      - "Oriental"
       - "Oriental Mini"
       - "Oumuamua"
       - "Outback"
-      - "OutCast 2"
+#      - "OutCast 2" June 2023
       - "Outlyne"
       - "Over Troubled Water"
+      - "Paddo's"
       - "Paintman's Day Off"
-      - "Paint The Streets"
+      - "Paint the Streets"
       - "Palace CTF"
       - "Parabola"
       - "Persisto"
-      - "Pickle II"
+#      - "Pickle II" June 2023
       - "Pineium CTW"
       - "Pineium DTM"
       - "Pipes and Punters"
       - "Pirates I"
       - "PixelMix"
+      - "Pixie"
       - "Placid Spring"
       - "Pokemon Arena"
       - "Polders"
-      - "Pompeii DTC"
+#      - "Pompeii DTC" June 2023
+      - "Pond"
       - "Prisma CTW"
       - "Promenade"
       - "Purple Haze"
+      - "Puyt"
       - "Quadrival"
       - "Quadrosphere Rage"
       - "Race for Victory 2"
@@ -311,18 +339,21 @@ pools:
       - "Raceway"
       - "Rafiki"
       - "Rage Quit TDM"
-      - "Ranch"
+      - "Rampant"
+#      - "Ranch" June 2023
       - "Rangi-nui"
       - "Rattlesnake"
+      - "Relic"
       - "Renegade"
       - "Research"
       - "Research Base"
       - "Resort"
-      - "Retaliation 2"
+      - "Retaliation"
+#      - "Retaliation 2" June 2023
       - "Rice"
       - "Rift"
       - "Rind Rushers"
-      - "Rind Rushers II"
+#      - "Rind Rushers II" June 2023
       - "Ringpull"
       - "Ring Run"
       - "Riverside"
@@ -332,7 +363,7 @@ pools:
       - "Rotten"
       - "Royal Ascend"
       - "Royal Garden CTW"
-      - "Royal Garden DTC"
+#      - "Royal Garden DTC" June 2023
       - "Royal Rumble II"
       - "Ruffland"
       - "Saitama"
@@ -342,21 +373,24 @@ pools:
       - "Scorched"
       - "Seven"
       - "Shinobi"
-      - "Shroom Galaxy"
+#      - "Shroom Galaxy" June 2023
       - "Simplicity CTW"
-      - "Sinuous"
-      - "Sky Traffic 2"
+#      - "Sinuous" June 2023
+#      - "Sky Traffic 2" June 2023
+      - "Smoke CTF"
       - "Snow Level"
       - "Snowy Wars"
-      - "SolitudeMC"
+#      - "SolitudeMC" June 2023
       - "Soviet Mills"
-      - "Space Base"
+#      - "Space Base" June 2023
       - "Space Corp"
+      - "Spaced Out"
       - "Spaceship Battles"
       - "Spaceship Battles II"
-      - "Splinter"
-      - "Stratosphere Rage"
-      - "Streamline"
+#      - "Splinter" June 2023
+#      - "Stratosphere Rage" June 2023
+#      - "Streamline" June 2023
+      - "Streamline II"
       - "Summer Sadness"
       - "Summit"
       - "Sunrise Over Paradise Redux"
@@ -372,8 +406,9 @@ pools:
       - "Temple Valley"
       - "Teokalli"
       - "Tetrad"
-      - "The 4th Law"
-      - "The Big Dig"
+#      - "The 4th Law" June 2023
+      - "The 9th Law"
+#      - "The Big Dig" June 2023
       - "The End: KotH"
       - "The Grove"
       - "The High Road"
@@ -381,7 +416,7 @@ pools:
       - "The King's Lava Lair"
       - "The Last Sunset"
       - "The Nile"
-      - "Thornwood"
+#      - "Thornwood" June 2023
       - "Thunder"
       - "Thunderbolt"
       - "Thunderrush"
@@ -391,21 +426,21 @@ pools:
       - "Total Beesness"
       - "Total War"
       - "Totally War II"
-      - "Totem"
+#      - "Totem" June 2023
       - "Townside Mini"
       - "Townside"
       - "Tranquility"
-      - "Transit"
+#      - "Transit" June 2023
       - "Tree of Life"
-      - "Trench Warfare"
-      - "Trench Warfare 2"
+#      - "Trench Warfare" June 2023
+#      - "Trench Warfare 2" June 2023
       - "Tulip Mania"
       - "Tulip Mania II"
-      - "Tulog"
+#      - "Tulog" June 2023
       - "Tumbleweed"
       - "Turf Wars"
-      - "Tuscany"
-      - "Tuscany Hills"
+#      - "Tuscany" June 2023
+#      - "Tuscany Hills" June 2023
       - "Two Tier"
       - "Ubos CTF"
       - "Ulcinj"
@@ -415,14 +450,17 @@ pools:
       - "Villa"
       - "Villa II"
       - "Vineyard"
+      - "Viridun"
       - "Voltage"
       - "Voodoo"
+      - "Wallop 9000"
+      - "Wallop Series X"
       - "Warlock"
       - "Waterwood"
       - "We Sell Mushrooms CTF"
       - "West Rider"
       - "When Men Cried"
-      - "Wholething"
+#      - "Wholething" June 2023
       - "Wild Isle"
       - "Winsray Fields"
       - "Witch's Potions"
@@ -436,9 +474,9 @@ pools:
       - "Xunkohtli"
       - "Yermo"
       - "Yonaguni"
-      - "Zipline"
+#      - "Zipline" June 2023
       - "Zipline II"
-      - "Zombie Defense"
+#      - "Zombie Defense" June 2023
   testing: #New testing pool for actual map tests
     type: voted
     enabled: true
