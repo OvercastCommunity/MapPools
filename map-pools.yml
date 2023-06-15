@@ -39,7 +39,7 @@ pools:
 
     maps:
       - "Acear II"
-      - "Ad Astra"
+#      - "Ad Astra" Temporarily until update
       - "Aequabilis"
 #      - "Aerobellum Redux" June 2023
       - "Aerospace"
