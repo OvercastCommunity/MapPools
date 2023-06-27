@@ -477,17 +477,6 @@ pools:
 #      - "Zipline" June 2023
       - "Zipline II"
 #      - "Zombie Defense" June 2023
-  testing: #New testing pool for actual map tests
-    type: voted
-    enabled: true
-    dynamic: false
-    players: 1
-    display-name: "testing"
-    maps:
-      - Black Gold
-      - Chemical Reaction
-      - Haunted Corridors
-      - Strike
   avicus: # Just some of your throwback avicus maps
     type: voted
     enabled: true
@@ -701,35 +690,44 @@ pools:
     players: 1
     display-name: "tnt-tuesday"
     maps:
+      - "Aerobellum Redux"
       - "Airclay Battle"
       - "Airship Aces"
       - "Airship Battle"
       - "Astro"
+      - "Battleship Halberd"
       - "Blast Mining"
-      - "Blocks DTC"
       - "Blocks DTC TNT"
       - "Blocks: Destroy the Dynamite"
       - "Boom: Best of 3"
       - "BoomBox: 2 Monuments"
+      - "BoomBox Redux"
       - "CannonCube"
       - "Cannon Duel"
+      - "cos(tnt)"
+      - "cos^2(tnt)"
       - "Dangerous Cargo"
       - "DATAbase"
       - "DATAbasin"
       - "DATAcenter"
+      - "DATAstation"
       - "DK Crossovers DTE"
       - "Donut Wars"
       - "Ender Blast"
       - "Fort Wars"
       - "Fortress Battles"
+      - "Fox Strife"
       - "Fractal Descent"
+      - "Fractal Descent: Classic"
       - "Hyperspace"
       - "Interitus"
       - "Iris DTC"
       - "Kï"
       - "Library DTE"
       - "Lunar Crescent"
+      - "Mars Odyssey"
       - "Medieval Warfare: DTE"
+      - "Mushdoom"
       - "Project Chromozome"
       - "Relic"
       - "Retaliation"
@@ -745,6 +743,10 @@ pools:
       - "Spaceship Battles"
       - "Total War"
       - "Totally War II"
+      - "Wallop 9000"
+      - "Wallop Series X"
+      - "Zap: Remix"
+      - "Zombie Defense"
   warwars:
     type: voted
     enabled: true
