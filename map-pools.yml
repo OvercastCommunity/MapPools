@@ -61,6 +61,7 @@ pools:
       - "Argon"
       - "Armature"
       - "Atromix"
+      - "Autumn Solstice"
       - "Avalanche"
       - "Avalon"
       - "Avalon Funland"
@@ -166,6 +167,7 @@ pools:
       - "Equinox"
       - "Exit"
       - "Exogrid"
+      - "Extraterrestrial"
       - "Facility"
       - "Factorio Mainbus"
       - "Fairy Tales 2: A Tale or Two"
@@ -219,6 +221,7 @@ pools:
       - "Huanxiang"
 #      - "Hydrolock" June 2023
       - "Icecream Sandwiched II"
+      - "Incassum"
       - "Industrial"
       - "Infernal Shadow"
       - "Ingwaz"
@@ -350,6 +353,7 @@ pools:
       - "Resort"
       - "Retaliation"
 #      - "Retaliation 2" June 2023
+      - "Retro Encabulator"
       - "Rice"
       - "Rift"
       - "Rind Rushers"
