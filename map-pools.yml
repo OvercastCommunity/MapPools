@@ -565,8 +565,6 @@ pools:
       - Fairy Tales
       - Fortress Battles
       - "Hide n' Seek"
-      - "Hide n' Seek: Shaheedieni Edition"
-      - "Hide n' Seek: Shaheedieni - Zombies Edition"
       - Ieats Hall
       - King Ranch
       - Ladderp II
@@ -793,7 +791,6 @@ pools:
       - "Totally War II"
       - "Wallop 9000"
       - "Wallop Series X"
-      - "Zap: Remix"
       - "Zombie Defense"
   warwars:
     type: voted
@@ -863,7 +860,7 @@ pools:
       - Avalon Funland
       - Babylon
       - Balloon Archipelago
-      - Balloons DTM
+      - BalloonsDTM
       - Bamboo Valley
       - Banana Split
       - Battle Ecliptica III
@@ -881,7 +878,7 @@ pools:
       - "Blocks: Destroy the Dynamite"
       - Boom
       - BoomBox
-      - Bridge Over Troubled Waters
+      - Bridge Over Troubled Water
       - Broken Unity
       - Cake Day
       - Cake Wars
@@ -1031,7 +1028,7 @@ pools:
       - Aureola Rage
       - BipBetaMC
       - "Bliss: Rage"
-      - Blossom Blitz
+      - Blossom
       - Bouncy Stadium
       - BVC
       - Charge
