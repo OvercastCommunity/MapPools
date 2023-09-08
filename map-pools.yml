@@ -62,6 +62,22 @@ pools:
       - "Rockaway Bridge"
       - "Vineyard"
       - "Yonaguni"
+      # Flag Football maps
+      - "Cathedral Football"
+#      - "Flag Football: Cola" September 2023
+#      - "Flag Football: Fantasy"
+      - "Flag Football: Iceblade"
+#      - "Flag Football: Ice Rift"
+#      - "Flag Football: Kraken"
+#      - "Flag Football: Longhorn"
+      - "Flag Football: NYC"
+#      - "Flag Football: Sakura"
+#      - "Flag Football: Superbowl Sunday" September 2023
+      - "Flag Football: Waffle House"
+#      - "Friday Night Lights"
+#      - "Keeper" June 2023
+#      - "Pipes and Punters" July 2023
+#      - "Royal Rumble: Classic"
       # Normal maps
       - "Acear II"
       - "Acapulco"
@@ -141,7 +157,6 @@ pools:
       - "Cannonball Cove"
       - "Canyon II"
       - "Cargo"
-      - "Cathedral Football"
 #      - "Cherno CTF" July 2023
       - "Chestnut"
       - "Chle's Great Wall"
@@ -209,9 +224,6 @@ pools:
 #      - "Fairy Tales: Metamorphose"
 #      - "Far Fetched" June 2023
 #      - "Fiesta Mexicana" June 2023
-      - "Flag Football: Iceblade"
-      - "Flag Football: NYC"
-      - "Flag Football: Waffle House"
 #      - "Ford" June 2023
 #      - "Forge Ignea" June 2023
       - "Fortress Battles"
@@ -279,7 +291,6 @@ pools:
       - "Kahoy"
 #      - "Kalahari Sanctuary" September 2023
 #      - "Kanto" September 2023
-#      - "Keeper" June 2023
 #      - "Keipha CTW" September 2023
       - "Kerskyn"
       - "Ki"
@@ -367,7 +378,6 @@ pools:
 #      - "Pickle II" June 2023
       - "Pineium CTW"
       - "Pineium DTM"
-#      - "Pipes and Punters" July 2023
 #      - "Pirates I" July 2023
       - "PixelMix"
       - "Placid Spring"
