@@ -38,6 +38,31 @@ pools:
       , 2)
 
     maps:
+      # Bridge maps
+      - "Avalon"
+      - "Avant Garde" # Bridge DTM
+#      - "Banished" September 2023
+#      - "Bridge: Castle" September 2023
+      - "Chernot"
+#      - "Climate" July 2023
+      - "Coral"
+      - "Cordillera" # Bridge DTM
+      - "Crimson"
+#      - "Dead End" July 2023
+      - "Double Cross"
+      - "Double Take"
+      - "Kihl"
+      - "Limitless"
+      - "Mont Blanc"
+      - "Over Troubled Water"
+      - "Pixie"
+#      - "Polders" July 2023
+      - "Research"
+      - "Resort"
+      - "Rockaway Bridge"
+      - "Vineyard"
+      - "Yonaguni"
+      # Normal maps
       - "Acear II"
       - "Acapulco"
       - "Ad Astra"
@@ -67,9 +92,7 @@ pools:
       - "Atromix"
       - "Autumn Solstice"
       - "Avalanche"
-      - "Avalon"
       - "Avalon Funland"
-      - "Avant Garde"
       - "Azure"
 #      - "Badlands" September 2023
       - "BalloonsDTM"
@@ -77,7 +100,6 @@ pools:
 #      - "Bamboo Valley III" July 2023
 #      - "Bamboo Valley V" July 2023
       - "Banana Split"
-#      - "Banished" September 2023
       - "Baroque Gardens"
 #      - "Barr DTC" July 2023
       - "Barricade"
@@ -109,7 +131,6 @@ pools:
 #      - "BoomBox Redux" July 2023
       - "Boulevard"
       - "Bridge Over Troubled Water"
-#      - "Bridge: Castle" September 2023
 #      - "Brittlebush" September 2023
 #      - "Brittlebush II" July 2023
       - "Broken Unity"
@@ -122,29 +143,24 @@ pools:
       - "Cargo"
       - "Cathedral Football"
 #      - "Cherno CTF" July 2023
-      - "Chernot"
       - "Chestnut"
       - "Chle's Great Wall"
       - "Chocolate Diamonds"
       - "Circus DTC"
       - "Clearcut"
-#      - "Climate" July 2023
       - "Coastline Redux"
       - "Coconut Mald"
 #      - "Colorado" September 2023
       - "Columbia CTW"
       - "Concourse"
       - "Cool Steak"
-      - "Coral"
       - "Coral Reef"
-      - "Cordillera"
       - "Coreo"
       - "Corrupted Kingdoms"
       - "Corrupted Paradise CTW"
       - "Courtyard Classic"
 #      - "cos(tnt)" June 2023
       - "Crater Resort"
-      - "Crimson"
 #      - "Cuboid Fairway" June 2023
 #      - "Curly Pride" June 2023
       - "Cyril"
@@ -153,7 +169,6 @@ pools:
 #      - "DATAcenter" July 2023
       - "Daydream Mini"
       - "Deadwood"
-#      - "Dead End" July 2023
       - "Dead Noon"
       - "Deadly Gaze"
       - "Deciduous Nights"
@@ -174,8 +189,6 @@ pools:
       - "Donut Wars"
       - "Downforce"
 #      - "Dorreak" June 2023
-      - "Double Cross"
-      - "Double Take"
       - "Double Trouble"
       - "Drow's Crevice III"
 #      - "Duality" June 2023
@@ -271,7 +284,6 @@ pools:
       - "Kerskyn"
       - "Ki"
       - "Kickflip"
-      - "Kihl"
       - "King Neptune"
       - "Krager"
 #      - "Kryta: Rage" August 2023
@@ -287,7 +299,6 @@ pools:
 #      - "Limbo" June 2023
       - "Limbo II"
       - "Limit"
-      - "Limitless"
 #      - "Little China" July 2023
       - "Little Roses"
       - "Long Distance"
@@ -316,7 +327,6 @@ pools:
 #      - "Mo'ai" June 2023
       - "Mole Dream"
       - "Monolith"
-      - "Mont Blanc"
       - "Monument Valley"
       - "Moonlight Summit"
       - "Mush"
@@ -346,7 +356,6 @@ pools:
       - "Outback"
 #      - "OutCast 2" June 2023
       - "Outlyne"
-      - "Over Troubled Water"
       - "Paddo's"
       - "Paintman's Day Off"
       - "Paint the Streets"
@@ -361,10 +370,8 @@ pools:
 #      - "Pipes and Punters" July 2023
 #      - "Pirates I" July 2023
       - "PixelMix"
-      - "Pixie"
       - "Placid Spring"
 #      - "Pokemon Arena" September 2023
-#      - "Polders" July 2023
 #      - "Pompeii DTC" June 2023
       - "Pond"
       - "Prisma CTW"
@@ -385,9 +392,7 @@ pools:
       - "Rattlesnake"
 #      - "Relic" September 2023
       - "Renegade"
-      - "Research"
       - "Research Base"
-      - "Resort"
       - "Retaliation"
 #      - "Retaliation 2" June 2023
       - "Retro Encabulator"
@@ -399,7 +404,6 @@ pools:
       - "Ring Run"
       - "Riverside"
       - "Road Trip to Sunset Town"
-      - "Rockaway Bridge"
       - "Röntgen"
       - "Rotten"
       - "Royal Ascend"
@@ -507,7 +511,6 @@ pools:
 #      - "Vesuvius" July 2023
       - "Villa"
       - "Villa II"
-      - "Vineyard"
       - "Viridun"
       - "Voltage"
 #      - "Voodoo" July 2023
@@ -534,7 +537,6 @@ pools:
       - "Xinx"
       - "Xunkohtli"
       - "Yermo"
-      - "Yonaguni"
       - "Zipline"
 #      - "Zipline II" September 2023
 #      - "Zombie Defense" June 2023
