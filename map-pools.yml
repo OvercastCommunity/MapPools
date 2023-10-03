@@ -756,6 +756,8 @@ pools:
       - "Water Drop: Cacti Terror"
       - "Water Drop: Directrix"
   tnt-tuesday: # TNT Tuesday events pool
+    variants:
+      - halloween
     type: voted
     cycle-time: 25s
     enabled: true
