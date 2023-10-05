@@ -783,7 +783,6 @@ pools:
       - "CannonCube"
       - "Cannon Duel"
       - "cos(tnt)"
-      - "cos^2(tnt)"
       - "Dangerous Cargo"
       - "DATAbase"
       - "DATAbasin"
