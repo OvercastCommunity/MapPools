@@ -1,7 +1,5 @@
 pools:
   default:
-    variants:
-      - halloween
     type: voted
     enabled: true
     dynamic: true
@@ -708,8 +706,6 @@ pools:
       - Wool Story Bro
       - Zen
   funky-friday: # Funky Friday events pool
-    variants:
-      - halloween
     type: voted
     cycle-time: 25s
     enabled: true
@@ -831,8 +827,6 @@ pools:
       - "Xiexieni"
       - "Zipline: Moar Gunz Edition"
   tnt-tuesday: # TNT Tuesday events pool
-    variants:
-      - halloween
     type: voted
     cycle-time: 25s
     enabled: true
