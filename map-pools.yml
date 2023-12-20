@@ -570,6 +570,20 @@ pools:
       - "Zipline"
 #      - "Zipline II" September 2023
 #      - "Zombie Defense" June 2023
+      # Every map that has a christmas variant
+      - "Aaeros"
+      - "Abudor"
+      - "Airship Battle"
+      - "Aurosphere"
+      - "Boulders"
+      - "Desert Country"
+      - "Downtown"
+      - "Hotel Overcast"
+      - "Oumuamua"
+      - "Miner Sixty Niner"
+      - "Pipes and Punters"
+      - "Quadrosphere CTW"
+      - "SolitudeMC"
   avicus: # Just some of your throwback avicus maps
     type: voted
     enabled: true
