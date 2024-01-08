@@ -575,20 +575,22 @@ pools:
     players: 1
     display-name: "avicus"
     maps:
-      - Bleened Rings
-      - Formorgar 1
-      - Frostbite
-      - Gladiator
-      - Halcyon
-      - Justice 1
-      - Justice 2
-      - Palm Rust
-      - Proelium DTM
-      - Rendezvous Redux
-      - Senex 1
-      - Senex 2
-      - Ternio
-      - Yellowstone
+      - "Bleened Rings"
+      - "Eternal Virus"
+      - "Formorgar 1"
+      - "Fossil Canyon"
+      - "Frostbite"
+      - "Gladiator"
+      - "Halcyon"
+      - "Justice 1"
+      - "Justice 2"
+      - "Palm Rust"
+      - "Proelium DTM"
+      - "Rendezvous Redux"
+      - "Senex 1"
+      - "Senex 2"
+      - "Ternio"
+      - "Yellowstone"
   fun: # Please note this is a fun pool
     # For fun maps that play longer than maps in the sns pool
     type: voted
