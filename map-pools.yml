@@ -86,7 +86,7 @@ pools:
       - "Acapulco"
       - "Ad Astra"
 #      - "Aequabilis" July 2023
-#      - "Aerobellum Redux" June 2023
+#      - "Aerobellum" June 2023
       - "Aerospace"
       - "After Hours"
       - "Agrorythe"
@@ -148,7 +148,7 @@ pools:
 #      - "Boar Beach" July 2023
       - "Bob-Omb Battlefield"
 #      - "Boom" June 2023
-#      - "BoomBox Redux" July 2023
+#      - "BoomBox" July 2023
       - "Boulevard"
       - "Bridge Over Troubled Water"
 #      - "Brittlebush" September 2023
@@ -169,7 +169,7 @@ pools:
       - "Chocolate Diamonds"
       - "Circus DTC"
       - "Clearcut"
-      - "Coastline Redux"
+      - "Coastline"
       - "Coconut Mald"
 #      - "Colorado" September 2023
       - "Columbia CTW"
@@ -199,7 +199,7 @@ pools:
 #      - "Desert Eclipse" June 2023
       - "Desert Sanctuary"
       - "Diramu Valley DTM"
-      - "Directredux"
+      - "Directrix"
 #      - "Directrix: 2 Flags" September 2023
       - "Discount Fortress"
 #      - "Disc Wars" June 2023
@@ -468,7 +468,7 @@ pools:
       - "Summer Sadness"
 #      - "Summertime at Brown's Farms" October 2023
       - "Summit"
-      - "Sunrise Over Paradise Redux"
+      - "Sunrise Over Paradise"
       - "Sunset Glaze"
 #      - "Super Happy Fun World" October 2023
 #      - "SuperPRISM" September 2023
@@ -493,7 +493,7 @@ pools:
       - "The Fenland"
       - "The Grove"
       - "The High Road"
-#      - "The Hill Redux" October 2023
+#      - "The Hill" October 2023
       - "The King's Lava Lair"
       - "The Last Sunset"
       - "The Last Sunset II"
@@ -608,7 +608,7 @@ pools:
       - BlitzMiners
       - "Blocks: Destroy the Dynamite"
       - Bomber Guys
-      - BoomBox Redux
+      - BoomBox
       - CannonCube
       - Cannon Duel
       - "CannonQuad"
@@ -837,7 +837,7 @@ pools:
     players: 1
     display-name: "tnt-tuesday"
     maps:
-      - "Aerobellum Redux"
+      - "Aerobellum"
       - "Airclay Battle"
       - "Airship Aces"
       - "Airship Battle"
@@ -850,7 +850,7 @@ pools:
       - "Blocks: Destroy the Dynamite"
       - "Boom: Best of 3"
       - "BoomBox: 2 Monuments"
-      - "BoomBox Redux"
+      - "BoomBox"
       - "Cannonball Cove"
       - "CannonCube"
       - "Cannon Duel"
@@ -958,7 +958,7 @@ pools:
     maps:
       - A New Day
       - A Watery Grave
-      - Aerobellum
+      - "Aerobellum: Classic"
       - Airship Battle
       - Anathema
       - Antiquis
@@ -986,7 +986,7 @@ pools:
       - Blocks II
       - "Blocks: Destroy the Dynamite"
       - Boom
-      - BoomBox
+      - "BoomBox: Classic"
       - Bridge Over Troubled Water
       - Broken Unity
       - Cake Day
@@ -996,7 +996,7 @@ pools:
       - Circus CTW
       - Circus DTC
       - Cloud Nine
-      - Coastline
+      - "Coastline: Classic"
       - Corrupted Kingdoms
       - Crater of Secrets
       - D-Day
@@ -1075,7 +1075,7 @@ pools:
       - Ring Race
       - Runes of Ruin
       - Sand Wars
-      - Scrap Mettle
+      - "Scrap Mettle: Classic"
       - Shroom Trip
       - Sky Traffic
       - Sky Traffic 2
@@ -1087,7 +1087,7 @@ pools:
       - Spaceship Battles II
       - Storm
       - Streamline
-      - Sunrise Over Paradise
+      - "Sunrise Over Paradise: Classic"
       - SuperPRISM
       - Swamped
       - Tanker TNT
@@ -1098,9 +1098,9 @@ pools:
       - The 4th Law
       - The 8th Law
       - The 9th Law
-      - The Arena
+      - "The Arena: Classic"
       - The Fenland
-      - The Hill
+      - "The Hill: Classic"
       - The Nile
       - Total War
       - Totally War II
