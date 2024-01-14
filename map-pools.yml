@@ -576,6 +576,8 @@ pools:
     display-name: "avicus"
     maps:
       - "Bleened Rings"
+      - "Embers 1"
+      - "Embers 2"
       - "Eternal Virus"
       - "Formorgar 1"
       - "Fossil Canyon"
