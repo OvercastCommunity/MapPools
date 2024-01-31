@@ -42,7 +42,6 @@ pools:
 #      - "Avalon" October 2023
 #      - "Banished" September 2023
 #      - "Bridge: Castle" September 2023
-      - "Bridge: Samarkand"
       - "Castlen't"
 #      - "Chernot" February 2024
       - "Climate"
@@ -58,6 +57,7 @@ pools:
 #      - "Yonaguni" February 2024
       # Other Bridge maps
       - "Avant Garde" # Bridge DTM
+      - "Bridge: Samarkand"
       - "Cordillera" # Bridge DTM
       - "Double Cross"
 #      - "Double Take" October 2023
