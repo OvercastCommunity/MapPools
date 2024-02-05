@@ -560,7 +560,7 @@ pools:
 #      - "Villa II" February 2024
       - "Viridun"
       - "Voltage"
-#      - "Voodoo" July 2023
+      - "Voodoo"
       - "Wallop 9000"
       - "Wallop Series X"
       - "Warlock"
@@ -586,6 +586,7 @@ pools:
       - "Xinx"
       - "Xion"
       - "Xunkohtli"
+      - "Yangshuo"
       - "Yermo"
       - "Zipline"
 #      - "Zipline II" September 2023
