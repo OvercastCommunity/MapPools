@@ -589,12 +589,11 @@ pools:
       - "Zipline"
 #      - "Zipline II" September 2023
 #      - "Zombie Defense" June 2023
-  avicus: # Just some of your throwback avicus maps
+  avicus: # Just some of your throwback Avicus maps
     type: voted
     enabled: true
     dynamic: false
     players: 1
-    display-name: "avicus"
     maps:
       - "Bleened Rings"
       - "Embers 1"
@@ -615,13 +614,25 @@ pools:
       - "Senex 2"
       - "Ternio"
       - "Yellowstone"
-  fun: # Please note this is a fun pool
-    # For fun maps that play longer than maps in the sns pool
+  tspvp: # Just some of your throwback TSPvP maps
     type: voted
     enabled: true
     dynamic: false
     players: 1
-    display-name: "fun"
+    maps:
+      - "Breath"
+      - "Colors II"
+      - "The Lost Arcade"
+      - "The Lost Light in the Darkness"
+      - "The Lost Ring"
+      - "Watercolors"
+  fun: # Please note this is a fun pool
+    # For fun maps that play longer than maps in the sns pool
+    type: voted
+    cycle-time: 25s
+    enabled: true
+    dynamic: false
+    players: 1
     maps:
       - 101 Rooms TDM
       - AstroGEN
@@ -677,7 +688,6 @@ pools:
     enabled: true
     dynamic: false
     players: 1
-    display-name: "sns"
     maps:
       - A Journey Through History
       - Arid Crossroads
@@ -737,13 +747,11 @@ pools:
     enabled: true
     dynamic: false
     players: 1
-    display-name: "funky-friday"
     maps:
       - "100 Rooms"
       - "101 Rooms"
       - "101 Rooms: Lifesteal"
       - "A Journey Through History"
-      - "Adabat: Jungle Joyride"
       - "AMONG US"
       - "Arid Crossroads"
       - "Arriva"
@@ -857,7 +865,6 @@ pools:
     enabled: true
     dynamic: false
     players: 1
-    display-name: "tnt-tuesday"
     maps:
       - "Aerobellum"
       - "Airclay Battle"
@@ -870,9 +877,8 @@ pools:
       - "Blast Mining"
       - "Blocks DTC TNT"
       - "Blocks: Destroy the Dynamite"
-      - "Boom: Best of 3"
-      - "BoomBox: 2 Monuments"
       - "BoomBox"
+      - "BoomBox: 2 Monuments"
       - "Cannonball Cove"
       - "CannonCube"
       - "Cannon Duel"
@@ -928,7 +934,6 @@ pools:
     enabled: true
     dynamic: false
     players: 1
-    display-name: "warwars"
     maps:
       - "War Wars: 2Tall4Me"
       - "War Wars: Baby's First Build"
@@ -955,7 +960,6 @@ pools:
     enabled: true
     dynamic: false
     players: 1
-    display-name: "nostalgia"
     maps:
       - Harb
       - Urban Jungle
@@ -976,7 +980,6 @@ pools:
     enabled: true
     dynamic: false
     players: 1
-    display-name: "classic"
     modifier: >-
       pow(
         score * 
@@ -1158,7 +1161,6 @@ pools:
     enabled: true
     dynamic: false
     players: 1
-    display-name: "rage"
     maps:
       - 100 Rooms
       - 101 Rooms
@@ -1245,7 +1247,6 @@ pools:
     enabled: true
     dynamic: false
     players: 1
-    display-name: "gs"
     maps:
       - "Amazon"
       - "Classic Flame"
