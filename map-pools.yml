@@ -106,7 +106,7 @@ pools:
       - "Annealing II"
       - "Antiquis"
 #      - "Apollo 23" September 2023
-#      - "Apostle" June 2023
+      - "Apostle"
 #      - "Appalachia" October 2023
       - "Aquatica"
       - "Aquaduct CTW"
@@ -148,7 +148,7 @@ pools:
       - "Belvedere"
       - "Biotech"
 #      - "Bizarre Bazaar" 2022
-#      - "Blitzkrieg CTF" June 2023
+      - "Blitzkrieg CTF"
       - "BlockRAGE"
       - "Blocks DTC"
       - "Blocks II"
@@ -160,8 +160,8 @@ pools:
 #      - "BoomBox" July 2023
       - "Boulevard"
       - "Bridge Over Troubled Water"
-#      - "Brittlebush" September 2023
-      - "Brittlebush II"
+      - "Brittlebush"
+#      - "Brittlebush II" May 2024
       - "Broken Unity"
       - "Byas"
       - "Cake Day"
@@ -224,7 +224,7 @@ pools:
       - "Dorreak"
       - "Double Trouble"
       - "Drow's Crevice III"
-#      - "Duality" June 2023
+      - "Duality"
       - "Dynamo"
 #      - "Edo" July 2023
       - "Embargo"
@@ -245,12 +245,12 @@ pools:
 #      - "Fiesta Mexicana" June 2023
       - "Flags of Samarkand"
 #      - "Ford" June 2023
-#      - "Forge Ignea" June 2023
+      - "Forge Ignea"
       - "Fortress Battles"
       - "Fourchette"
       - "Fox Strife"
       - "Fractal Descent"
-#      - "Frost" June 2023
+      - "Frost"
       - "Frostbite RAGE"
 #      - "Fruhling" September 2023
 #      - "Fungi Grove" February 2024
@@ -289,7 +289,7 @@ pools:
       - "Honeycombed"
       - "Hot Dam Mini"
       - "Hot Dam"
-#      - "Hotel Overcast" June 2023
+      - "Hotel Overcast"
 #      - "Howdy Partner" July 2023
       - "Huanxiang"
 #      - "Hydrolock" June 2023
@@ -329,12 +329,12 @@ pools:
       - "Kuusepuu"
       - "La Bataille de l'épée"
 #      - "La Piazza" July 2023
-#      - "Larnia" June 2023
+      - "Larnia"
 #      - "Last Overcastian" September 2023
 #      - "Let's Sell Discounts" September 2023
       - "Levels"
       - "Lilypad"
-#      - "Limbo" June 2023
+      - "Limbo"
       - "Limbo II"
       - "Limit"
 #      - "Little China" July 2023
@@ -398,6 +398,7 @@ pools:
       - "Osoi"
 #      - "Oumuamua" September 2023
       - "Outback"
+      - "Outback Mini"
 #      - "OutCast 2" June 2023
       - "Outlyne"
       - "Paddo's"
@@ -432,19 +433,19 @@ pools:
 #      - "Rafiki" February 2024
 #      - "Rage Quit TDM" February 2024
 #      - "Rampant" February 2024
-#      - "Ranch" June 2023
+      - "Ranch"
 #      - "Rangi-nui" July 2023
       - "Rattlesnake"
 #      - "Relic" September 2023
       - "Renegade"
       - "Research Base"
-      - "Retaliation"
-#      - "Retaliation 2" June 2023
+#      - "Retaliation" May 2024
+      - "Retaliation 2"
 #      - "Retro Encabulator" February 2024
 #      - "Rice" September 2023
       - "Rift"
       - "Rind Rushers"
-#      - "Rind Rushers II" June 2023
+      - "Rind Rushers II"
 #      - "Ringpull" September 2023
       - "Ring Run"
       - "Riverside"
@@ -466,7 +467,7 @@ pools:
 #      - "Scorched" July 2023
 #      - "Seven" September 2023
       - "Shinobi"
-#      - "Shroom Galaxy" June 2023
+      - "Shroom Galaxy"
       - "Simplicity CTW"
 #      - "Sinuous" June 2023
 #      - "Sky Traffic 2" June 2023
@@ -475,7 +476,7 @@ pools:
       - "Smoke KotH"
 #      - "Snow Level" September 2023
       - "Snowy Wars"
-#      - "SolitudeMC" June 2023
+      - "SolitudeMC"
       - "Soviet Mills"
 #      - "Space Base" June 2023
       - "Space Corp"
@@ -547,7 +548,7 @@ pools:
       - "Tumbleweed"
       - "Turf Wars"
       - "Tuscany"
-#      - "Tuscany Hills" June 2023
+      - "Tuscany Hills"
 #      - "Two Tier" February 2024
       - "UBoat König"
       - "Ubos CTF"
@@ -570,7 +571,7 @@ pools:
 #      - "We Sell Mushrooms CTF" July 2023
 #      - "West Rider" July 2023
 #      - "When Men Cried" July 2023
-#      - "Wholething" June 2023
+      - "Wholething"
       - "Wild Isle"
       - "Winsray Fields"
       - "Winterbane"
