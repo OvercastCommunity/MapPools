@@ -181,8 +181,8 @@ pools:
       - "Ciudad Costera"
       - "Clearcut"
       - "Coastline"
-      - "Coconut"
-#      - "Coconut Mald" February 2024
+#      - "Coconut" 04 May 2024
+      - "Coconut Mald"
 #      - "Colorado" September 2023
       - "Columbia CTW"
       - "Concourse"
@@ -379,7 +379,7 @@ pools:
       - "Natsukashii"
       - "Neptune"
       - "Nether War CTW"
-      - "NewGen"
+#      - "NewGen" 04 May 2024
       - "Niflheim"
       - "Nivalis"
       - "Noble's District"
