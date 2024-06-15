@@ -260,7 +260,7 @@ pools:
 #      - "Fumeen II" February 2024
 #      - "Galactic War" June 2023
       - "Garf"
-      - "Geometric Domination"
+#      - "Geometric Domination" 15 June 2024
 #      - "Glacial Conquest" June 2023
       - "Glacial Impact"
 #      - "Glacial Impact 2" June 2023
@@ -269,8 +269,9 @@ pools:
       - "Golden Drought"
 #      - "Golden Drought II" October 2023
       - "Golden Drought III"
+      - "Golden Drought IV"
       - "Golden Drought V"
-      - "Golden Drought VI"
+#      - "Golden Drought VI" 15 June 2024
       - "Golden Fever"
       - "Goo Lagoon"
       - "Grassy Mound CTF"
@@ -327,7 +328,7 @@ pools:
 #      - "Krager" February 2024
 #      - "Kryta: Rage" August 2023
 #      - "Kusa" July 2023
-#      - "Kusa Ni" 16 June 2024
+#      - "Kusa Ni" 15 June 2024
       - "Kuusepuu"
       - "La Bataille de l'épée"
 #      - "La Piazza" July 2023
@@ -570,7 +571,7 @@ pools:
       - "Wallop Series X"
       - "Warlock"
 #      - "Waterwood" September 2023
-#      - "We Sell Mushrooms" 16 June 2024
+#      - "We Sell Mushrooms" 15 June 2024
       - "We Sell Mushrooms CTF"
 #      - "West Rider" July 2023
       - "When Men Cried"
@@ -581,7 +582,7 @@ pools:
       - "Wintertime"
       - "Winter Solstice"
       - "Winter Solstice Mini"
-#      - "Witch's Potions" 16 June 2024
+#      - "Witch's Potions" 15 June 2024
 #      - "Wit's End" May 2024
 #      - "Woodwork Harbor" February 2024
       - "Woolirium"
@@ -590,7 +591,7 @@ pools:
       - "Xi II"
       - "Xinx"
       - "Xion"
-#      - "Xunkohtli" 16 June 2024
+#      - "Xunkohtli" 15 June 2024
       - "Yangshuo"
       - "Yermo"
       - "Zipline"
