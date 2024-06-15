@@ -107,7 +107,7 @@ pools:
       - "Antiquis"
 #      - "Apollo 23" September 2023
       - "Apostle"
-#      - "Appalachia" October 2023
+      - "Appalachia"
       - "Aquatica"
       - "Aquaduct CTW"
       - "Arabia"
@@ -228,7 +228,7 @@ pools:
       - "Drow's Crevice III"
       - "Duality"
       - "Dynamo"
-#      - "Edo" July 2023
+      - "Edo"
       - "Embargo"
       - "Empire"
       - "Enchanted"
@@ -239,7 +239,7 @@ pools:
       - "Exogrid"
       - "Extraterrestrial"
 #      - "Facility" September 2023
-#      - "Factorio Mainbus" July 2023
+      - "Factorio Mainbus"
 #      - "Fairy Tales 2: A Tale or Two" May 2024
       - "Fairy Tales 2: Mini"
 #      - "Fairy Tales: Metamorphose"
@@ -287,7 +287,7 @@ pools:
       - "Hekla"
       - "Hillside Daydream"
       - "Hobbit CTW"
-#      - "Hobbit Hill" September 2023
+      - "Hobbit Hill"
       - "Home by the Sea"
       - "Honeycombed"
       - "Hot Dam Mini"
@@ -327,12 +327,12 @@ pools:
 #      - "Krager" February 2024
 #      - "Kryta: Rage" August 2023
 #      - "Kusa" July 2023
-      - "Kusa Ni"
+#      - "Kusa Ni" 16 June 2024
       - "Kuusepuu"
       - "La Bataille de l'épée"
 #      - "La Piazza" July 2023
       - "Larnia"
-#      - "Last Overcastian" September 2023
+      - "Last Overcastian"
 #      - "Let's Sell Discounts" September 2023
       - "Levels"
       - "Lilypad"
@@ -388,7 +388,7 @@ pools:
       - "Notre-Daaaaam of Paris"
 #      - "Nuclear Winter" June 2023
       - "Nutrient"
-#      - "Oaken Meadow" October 2023
+      - "Oaken Meadow"
       - "Oasis CTW"
       - "Oceano CTW"
       - "Odin"
@@ -436,7 +436,7 @@ pools:
 #      - "Rage Quit TDM" February 2024
 #      - "Rampant" February 2024
       - "Ranch"
-#      - "Rangi-nui" July 2023
+      - "Rangi-nui"
       - "Rattlesnake"
 #      - "Relic" September 2023
       - "Renegade"
@@ -459,7 +459,7 @@ pools:
       - "Royal Garden CTW"
       - "Royal Garden DTC"
 #      - "Royal Rumble II" July 2023
-#      - "Ruffland" July 2023
+      - "Ruffland"
 #      - "Rusteze" October 2023
 #      - "Saitama" July 2023
       - "Sakura Garden II"
@@ -477,7 +477,7 @@ pools:
 #      - "Smoke CTF" July 2023
       - "Smashcap"
       - "Smoke KotH"
-#      - "Snow Level" September 2023
+      - "Snow Level"
       - "Snowy Wars"
       - "SolitudeMC"
       - "Soviet Mills"
@@ -529,7 +529,7 @@ pools:
       - "Thornwood"
       - "Thunder"
 #      - "Thunderbolt" October 2023
-#      - "Thunderrush" September 2023
+      - "Thunderrush"
       - "Timbered"
       - "Toca"
       - "Tohjo Falls"
@@ -538,7 +538,7 @@ pools:
 #      - "Totally War II" February 2024
       - "Totem"
 #      - "Townside Mini" February 2024
-#      - "Townside" February 2024
+      - "Townside"
       - "Tranquility"
       - "Transit"
 #      - "Tree of Life" February 2024
@@ -552,7 +552,7 @@ pools:
       - "Turf Wars"
       - "Tuscany"
       - "Tuscany Hills"
-#      - "Two Tier" February 2024
+      - "Two Tier"
       - "UBoat König"
       - "Ubos CTF"
       - "Ulcinj"
@@ -570,10 +570,10 @@ pools:
       - "Wallop Series X"
       - "Warlock"
 #      - "Waterwood" September 2023
-      - "We Sell Mushrooms"
-#      - "We Sell Mushrooms CTF" July 2023
+#      - "We Sell Mushrooms" 16 June 2024
+      - "We Sell Mushrooms CTF"
 #      - "West Rider" July 2023
-#      - "When Men Cried" July 2023
+      - "When Men Cried"
       - "Wholething"
       - "Wild Isle"
       - "Winsray Fields"
@@ -581,7 +581,7 @@ pools:
       - "Wintertime"
       - "Winter Solstice"
       - "Winter Solstice Mini"
-      - "Witch's Potions"
+#      - "Witch's Potions" 16 June 2024
 #      - "Wit's End" May 2024
 #      - "Woodwork Harbor" February 2024
       - "Woolirium"
@@ -590,7 +590,7 @@ pools:
       - "Xi II"
       - "Xinx"
       - "Xion"
-      - "Xunkohtli"
+#      - "Xunkohtli" 16 June 2024
       - "Yangshuo"
       - "Yermo"
       - "Zipline"
