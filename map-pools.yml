@@ -92,18 +92,27 @@ pools:
       - Bazaar KotF
       - Canopy
       - Chocolate Diamonds
+      - A Classy Night for a Fight
       - Coastline
+      - Desert Sanctuary
       - Directredux
+      - Edo
       - The Fenland
       - Istana CTW
       - Long Shot
       - Lost Gardens
       - Lost World CTF
+      - Meerkat Dream
+      - Mole Dream
       - Noble's District
       - Oaken Meadow
+      - Rice
       - Royal Garden CTW
       - Snowy Wars
       - Sunrise Over Paradise
+      - Tebulas
+      - Thunder
+      - Tumbleweed
   avicus: # Just some of your throwback Avicus maps
     type: voted
     enabled: true
