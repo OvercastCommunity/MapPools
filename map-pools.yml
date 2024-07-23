@@ -42,8 +42,8 @@ pools:
 #      - "Avalon" October 2023
 #      - "Banished" September 2023
 #      - "Bridge: Castle" September 2023
-#      - "Castlen't"
-#      - "Chernot" February 2024
+      - "Castlen't"
+      - "Chernot"
 #      - "Climate"
 #      - "Coral" February 2024
 #      - "Crimson" October 2023
@@ -56,20 +56,20 @@ pools:
 #      - "Vineyard" October 2023
 #      - "Yonaguni" February 2024
       # Other Bridge maps
-#      - "Avant Garde" # Bridge DTM
+      - "Avant Garde" # Bridge DTM
 #      - "Bridge: Samarkand"
 #      - "Cordillera" # Bridge DTM
-#      - "Double Cross"
+      - "Double Cross"
 #      - "Double Take" October 2023
 #      - "Kihl" February 2024
 #      - "Mont Blanc"
-#      - "Over Troubled Water"
+      - "Over Troubled Water"
 #      - "Rockaway Bridge"
       # Item Sumo maps
-#      - "Atomic"
-#      - "Calima"
-#      - "Psycho Sumo"
-#      - "Weald"
+      - "Atomic"
+      - "Calima"
+      - "Psycho Sumo"
+      - "Weald"
       # Flag Football maps
 #      - "Cathedral Football"
 #      - "Flag Football: Cola"
@@ -88,31 +88,69 @@ pools:
 #      - "Royal Rumble: Classic"
       # Normal maps
       - Antiquis
+      - Apple Smash
+      - Arabia
+      - Ascendance Payload_Race
       - Azure
+      - Badlands
+      - Battle Ecliptica III
       - Bazaar KotF
+      - Beauty to Ashes
+      - "Blocks: Destroy the Dynamite"
+      - Boletum # VARIANTISE
       - Canopy
       - Chocolate Diamonds
       - A Classy Night for a Fight
       - Coastline
+      - Cummins Turbo Diesel # Or High Road
+      - Cyril
+      - Deadwood # maybe
+      - Desert Cataract
       - Desert Sanctuary
       - Directredux
+      - Discount Fortress
       - Edo
+      - Equinox
+      - Extraterrestrial
       - The Fenland
+      - Fractal Descent
+      - Fumeen II
+      - Harvest # conquest include
       - Istana CTW
-      - Long Shot
+      - Kickflip
+      - Long Shot # maybe
       - Lost Gardens
       - Lost World CTF
+      - Mame, I Shrunk the PvPers
       - Meerkat Dream
       - Mole Dream
+      - Monument Valley
       - Noble's District
       - Oaken Meadow
+      - Ouroboros
+      - Outback
+      - Outback Mini
+      - Peloponnesia
+      - Polynesia
+      - Quadrival
+      - Race for Victory 2 # maybe
       - Rice
       - Royal Garden CTW
+      - Smoke KotH
       - Snowy Wars
+      - Spaceship Battles
       - Sunrise Over Paradise
+      - Tanker TNT # maybe
       - Tebulas
       - Thunder
+      - Townside
+      - Townside Mini
       - Tumbleweed
+      - The Waiting Room
+      - Wallop Series X
+      - Wit's End
+      - Wooly Woods
+      - Zipline
   avicus: # Just some of your throwback Avicus maps
     type: voted
     enabled: true
