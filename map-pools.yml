@@ -49,7 +49,7 @@ pools:
 #      - "Crimson" October 2023
 #      - "Dead End"
 #      - "Limitless" October 2023
-#      - "Pixie" October 2023
+      - "Pixie"
 #      - "Polders"
 #      - "Research" February 2024
 #      - "Resort"
@@ -91,6 +91,7 @@ pools:
       - Apple Smash
       - Arabia
       - Ascendance Payload_Race
+      - Assault
       - Athirk
       - Azure
       - Badlands
@@ -108,7 +109,7 @@ pools:
       - Constellation
       - Cummins Turbo Diesel
       - Cyril
-      - Deadwood # maybe
+      - Deadwood
       - Desert Cataract
       - Desert Sanctuary
       - Directredux
@@ -117,6 +118,7 @@ pools:
       - Dromedary
       - Edo
       - Equinox
+      - Exiled KotF
       - Expedition
       - Extraterrestrial
       - The Fenland
@@ -124,10 +126,14 @@ pools:
       - Fumeen II
       - Happy Rainbow
       - Harvest
+      - Hemlock
+      - Hotel Overcast
+      - Ice Miners
       - Istana CTW
+      - Japan
       - Kickflip
       - Kingdom
-      - Long Shot # maybe
+      - Lasa
       - Lost Gardens
       - Lost World CTF
       - Mame, I Shrunk the PvPers
@@ -141,10 +147,13 @@ pools:
       - Outback
       - Outback Mini
       - Peloponnesia
+      - Pokemon Arena
+      - PixelMix
       - Polynesia
       - Quadrival
-      - Race for Victory 2 # maybe
+      - "Raid FFA: Guns"
       - Rice
+      - Roar
       - Royal Garden CTW
       - Santorini
       - Sky Shot
@@ -152,13 +161,12 @@ pools:
       - Smoke KotH
       - Snowy Wars
       - Spaceship Battles
-      - Steel Valley # variantise
+      - Steel Valley
       - Sunrise Over Paradise
-      - Tanker TNT # maybe
       - Tebulas
       - Thornwood
       - Thunder
-      - Total Beesness # maybe
+      - Total Beesness
       - "ToW: Mush More"
       - Townside
       - Townside Mini
