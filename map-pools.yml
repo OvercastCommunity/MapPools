@@ -45,7 +45,7 @@ pools:
       - "Castlen't"
       - "Chernot"
 #      - "Climate"
-#      - "Coral" February 2024
+      - "Coral"
 #      - "Crimson" October 2023
 #      - "Dead End"
 #      - "Limitless" October 2023
@@ -53,7 +53,7 @@ pools:
 #      - "Polders"
 #      - "Research" February 2024
 #      - "Resort"
-#      - "Vineyard" October 2023
+      - "Vineyard"
 #      - "Yonaguni" February 2024
       # Other Bridge maps
       - "Avant Garde" # Bridge DTM
@@ -121,6 +121,7 @@ pools:
       - Exiled KotF
       - Expedition
       - Extraterrestrial
+      - Facility
       - The Fenland
       - Fractal Descent
       - Fumeen II
@@ -156,6 +157,7 @@ pools:
       - Roar
       - Royal Garden CTW
       - Santorini
+      - Shinobi
       - Sky Shot
       - Skycastle Islands
       - Smoke KotH
