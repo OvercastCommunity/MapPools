@@ -45,8 +45,8 @@ pools:
       - "Castlen't"
       - "Chernot"
 #      - "Climate"
-      - "Coral"
-#      - "Crimson" October 2023
+#      - "Coral" February 2024
+      - "Crimson"
 #      - "Dead End"
 #      - "Limitless" October 2023
       - "Pixie"
@@ -72,15 +72,15 @@ pools:
       - "Weald"
       # Flag Football maps
 #      - "Cathedral Football"
-#      - "Flag Football: Cola"
+      - "Flag Football: Cola"
 #      - "Flag Football: Fantasy"
 #      - "Flag Football: Iceblade" October 2023
 #      - "Flag Football: Ice Rift" February 2024
 #      - "Flag Football: Kraken"
 #      - "Flag Football: Longhorn" February 2024
-#      - "Flag Football: NYC" October 2023
-#      - "Flag Football: Sakura"
-#      - "Flag Football: Superbowl Sunday" September 2023
+      - "Flag Football: NYC"
+      - "Flag Football: Sakura"
+      - "Flag Football: Superbowl Sunday"
 #      - "Flag Football: Waffle House"
 #      - "Friday Night Lights"
 #      - "Keeper" June 2023
@@ -90,6 +90,7 @@ pools:
       - Antiquis
       - Apple Smash
       - Arabia
+      - Armature
       - Ascendance Payload_Race
       - Assault
       - Athirk
@@ -107,6 +108,7 @@ pools:
       - A Classy Night for a Fight
       - Coastline
       - Constellation
+      - Corrupted Paradise CTW
       - Cummins Turbo Diesel
       - Cyril
       - Deadwood
@@ -115,40 +117,56 @@ pools:
       - Directredux
       - Discount Fortress
       - Discovery
+      - Dominion
       - Dromedary
+      - Duality
+      - Dust
       - Edo
       - Equinox
       - Exiled KotF
       - Expedition
       - Extraterrestrial
       - Facility
+      - Factorio Mainbus
       - The Fenland
       - Fractal Descent
+      - Frost
       - Fumeen II
       - Happy Rainbow
+      - Harbor CTW
       - Harvest
       - Hemlock
       - Hotel Overcast
+      - Huanxiang
       - Ice Miners
       - Istana CTW
       - Japan
+      - Keipha CTW
       - Kickflip
       - Kingdom
+      - Kuusepuu
       - Lasa
+      - Let's Sell Discounts
       - Lost Gardens
+      - Lost Haven
       - Lost World CTF
+      - Lupa
       - Mame, I Shrunk the PvPers
+      - Manzikert
       - Meerkat Dream
       - MissingNo
       - Mole Dream
       - Monument Valley
+      - NewGen
       - Noble's District
       - Oaken Meadow
+      - Oumuamua
       - Ouroboros
       - Outback
       - Outback Mini
       - Peloponnesia
       - Pokemon Arena
+      - Pineium CTW
       - PixelMix
       - Polynesia
       - Quadrival
@@ -162,12 +180,14 @@ pools:
       - Skycastle Islands
       - Smoke KotH
       - Snowy Wars
+      - Snow Level
       - Spaceship Battles
       - Steel Valley
       - Sunrise Over Paradise
       - Tebulas
       - Thornwood
       - Thunder
+      - Thunderrush
       - Total Beesness
       - "ToW: Mush More"
       - Townside
@@ -176,6 +196,7 @@ pools:
       - Tumbleweed
       - The Waiting Room
       - Wallop Series X
+      - When Men Cried
       - Winsray Fields
       - Wit's End
       - Wooly Woods
