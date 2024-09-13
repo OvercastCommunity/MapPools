@@ -43,560 +43,171 @@ pools:
 #      - "Banished" September 2023
 #      - "Bridge: Castle" September 2023
       - "Castlen't"
-#      - "Chernot" February 2024
-      - "Climate"
+      - "Chernot"
+#      - "Climate"
 #      - "Coral" February 2024
-#      - "Crimson" October 2023
-      - "Dead End"
+      - "Crimson"
+#      - "Dead End"
 #      - "Limitless" October 2023
-#      - "Pixie" October 2023
-      - "Polders"
+      - "Pixie"
+#      - "Polders"
 #      - "Research" February 2024
-      - "Resort"
-#      - "Vineyard" October 2023
+#      - "Resort"
+      - "Vineyard"
 #      - "Yonaguni" February 2024
       # Other Bridge maps
       - "Avant Garde" # Bridge DTM
-      - "Bridge: Samarkand"
-      - "Cordillera" # Bridge DTM
+#      - "Bridge: Samarkand"
+#      - "Cordillera" # Bridge DTM
       - "Double Cross"
 #      - "Double Take" October 2023
 #      - "Kihl" February 2024
-      - "Mont Blanc"
+#      - "Mont Blanc"
       - "Over Troubled Water"
-      - "Rockaway Bridge"
+#      - "Rockaway Bridge"
       # Item Sumo maps
       - "Atomic"
       - "Calima"
       - "Psycho Sumo"
       - "Weald"
       # Flag Football maps
-      - "Cathedral Football"
+#      - "Cathedral Football"
       - "Flag Football: Cola"
 #      - "Flag Football: Fantasy"
 #      - "Flag Football: Iceblade" October 2023
 #      - "Flag Football: Ice Rift" February 2024
 #      - "Flag Football: Kraken"
 #      - "Flag Football: Longhorn" February 2024
-#      - "Flag Football: NYC" October 2023
+      - "Flag Football: NYC"
       - "Flag Football: Sakura"
-#      - "Flag Football: Superbowl Sunday" September 2023
-      - "Flag Football: Waffle House"
+      - "Flag Football: Superbowl Sunday"
+#      - "Flag Football: Waffle House"
 #      - "Friday Night Lights"
 #      - "Keeper" June 2023
 #      - "Pipes and Punters" July 2023
 #      - "Royal Rumble: Classic"
       # Normal maps
-      - "A Classy Night for a Fight"
-      - "A New Day"
-      - "Acear II"
-      - "Acapulco"
-      - "Ad Astra"
-      - "Aequabilis"
-#      - "Aerobellum" June 2023
-      - "Aerospace"
-      - "After Hours"
-#      - "Agrorythe" May 2024
-      - "Agrostid"
-      - "Airship Battle"
-      - "Alpine Mining II"
-      - "Amethyst"
-#      - "Anathema" June 2023
-      - "Annealing"
-      - "Annealing II"
-      - "Antiquis"
-#      - "Apollo 23" September 2023
-      - "Apostle"
-      - "Appalachia"
-      - "Aquatica"
-      - "Aquaduct CTW"
-      - "Arabia"
-      - "Araxa"
-#      - "Arcane CTW" February 2024
-      - "Arctic Ruins"
-      - "Argon"
-      - "Armature"
-      - "Ascendance Payload_Race"
-      - "Atromix"
-      - "Autumn Solstice"
-      - "Avalanche"
-      - "Avalon Funland"
-      - "Azure"
-      - "Badlands"
-      - "Baleful Eden"
-      - "BalloonsDTM"
-      - "Bamboo Valley"
-      - "Bamboo Valley III"
-      - "Bamboo Valley V"
-      - "Banana Split"
-      - "Baroque Gardens"
-#      - "Barr DTC" July 2023
-#      - "Barricade" October 2023
-      - "Bastion"
-#      - "Bat Country" February 2024
-      - "Battle Ecliptica II"
-      - "Battle Ecliptica III"
-      - "Battle for Amaterasu"
-      - "Battleship Halberd"
-      - "Battle of Lyndanisse"
-      - "Battle of Tenjin"
-      - "Battle of Tenjin II"
-      - "Battle of Tenjin III"
-      - "Bazaar KotF"
-#      - "Beach Battles" October 2023
-      - "Beauty to Ashes"
-#      - "Beehive" February 2024
-      - "Belvedere"
-      - "Biotech"
-#      - "Bizarre Bazaar" 2022
-      - "Blitzkrieg CTF"
-      - "BlockRAGE"
-      - "Blocks DTC"
-      - "Blocks II"
+      - Antiquis
+      - Apple Smash
+      - Arabia
+      - Armature
+      - Ascendance Payload_Race
+      - Assault
+      - Athirk
+      - Autumn Solstice
+      - Azure
+      - Badlands
+      - Battle Ecliptica III
+      - Bazaar KotF
+      - Beauty to Ashes
       - "Blocks: Destroy the Dynamite"
-      - "Blossom CTW"
-      - "Boar Beach"
-      - "Bob-Omb Battlefield"
-      - "Boom"
-#      - "BoomBox" July 2023
-      - "Boulevard"
-      - "Breath"
-      - "Bridge Over Troubled Water"
-      - "Brittlebush"
-#      - "Brittlebush II" May 2024
-      - "Broken Unity"
-      - "Byas"
-      - "Cake Day"
-#      - "Canopy" October 2023
-#      - "Canopy: Hybrid" February 2024
-      - "CannonCube"
-      - "Cannonball Cove"
-#      - "Canyon II" February 2024
-      - "Cargo"
-#      - "Catscratch" 01 May 2024
-#      - "Cherno CTF" July 2023
-      - "Chestnut"
-#      - "Chle's Great Wall" October 2023
-      - "Chocolate Diamonds"
-      - "Circus DTC"
-      - "Ciudad Costera"
-      - "Clearcut"
-      - "Coastline"
-#      - "Coconut" 04 May 2024
-      - "Coconut Mald"
-#      - "Colorado" September 2023
-      - "Columbia CTW"
-      - "Concourse"
-      - "Cool Steak"
-      - "Coral Reef"
-      - "Coreo"
-      - "Corrupted Kingdoms"
-      - "Corrupted Paradise CTW"
-#      - "Courtyard Classic" October 2023
-#      - "cos(tnt)" June 2023
-      - "Crater Resort"
-      - "Cuboid Fairway"
-      - "Curly Pride"
-      - "Cyril"
-      - "DATAbase"
-#      - "DATAbasin" June 2023
-#      - "DATAcenter" July 2023
-      - "Daydream Mini"
-      - "Deadwood"
-      - "Dead Noon"
-      - "Deadly Gaze"
-#      - "Deciduous Nights" February 2024
-      - "Deepwind Jungle"
-      - "Deepwood"
-      - "Desert Cataract"
-      - "Desert Country"
-      - "Desert Eclipse"
-      - "Desert Sanctuary"
-      - "Diramu Valley DTM"
-      - "Directrix"
-#      - "Directrix: 2 Flags" September 2023
-      - "Discount Fortress"
-      - "Disc Wars"
-      - "Disc Wars II"
-#      - "Disc Wars III" June 2023
-      - "Divided"
-#      - "Dominion" September 2023
-#      - "Donut Wars" October 2023
-      - "Downforce"
-      - "Dorreak"
-      - "Double Trouble"
-      - "Drow's Crevice III"
-      - "Duality"
-      - "Dynamo"
-      - "Edo"
-      - "Embargo"
-      - "Empire"
-      - "Enchanted"
-      - "Entropy Reactor Mk. 1"
-#      - "Equinox" September 2023
-#      - "Exiled KotF" September 2023
-      - "Exit"
-      - "Exogrid"
-      - "Extraterrestrial"
-#      - "Facility" September 2023
-      - "Factorio Mainbus"
-#      - "Fairy Tales 2: A Tale or Two" May 2024
-      - "Fairy Tales 2: Mini"
-#      - "Fairy Tales: Metamorphose"
-#      - "Far Fetched" June 2023
-#      - "Fiesta Mexicana" June 2023
-      - "Flags of Samarkand"
-#      - "Ford" June 2023
-      - "Forge Ignea"
-      - "Fortress Battles"
-      - "Fourchette"
-      - "Fox Strife"
-      - "Fractal Descent"
-      - "Frob"
-      - "Frost"
-#      - "Frostbite RAGE" July 2024
-#      - "Fruhling" September 2023
-#      - "Fungi Grove" February 2024
-#      - "Fumeen II" February 2024
-#      - "Galactic War" June 2023
-      - "Garf"
-#      - "Geometric Domination" 15 June 2024
-#      - "Glacial Conquest" June 2023
-      - "Glacial Impact"
-#      - "Glacial Impact 2" June 2023
-      - "Gloomwald"
-#      - "Gobi" October 2023
-      - "Golden Drought"
-#      - "Golden Drought II" October 2023
-      - "Golden Drought III"
-      - "Golden Drought IV"
-      - "Golden Drought V"
-#      - "Golden Drought VI" 15 June 2024
-      - "Golden Fever"
-      - "Goo Lagoon"
-      - "Grassy Mound CTF"
-      - "Green Gem CTW"
-      - "Green"
-#      - "Greenhill" September 2023
-      - "Gridlock 2"
-      - "Hadron"
-      - "Hallows"
-#      - "Happy Rainbow" July 2023
-      - "Harbor CTW"
-      - "Hau'oli Mau Lanui"
-      - "Hearts of Atlantis"
-      - "Hekla"
-      - "Hillside Daydream"
-      - "Hobbit CTW"
-      - "Hobbit Hill"
-      - "Home by the Sea"
-      - "Honeycombed"
-      - "Hot Dam Mini"
-      - "Hot Dam"
-      - "Hotel Overcast"
-#      - "Howdy Partner" July 2023
-      - "Huanxiang"
-#      - "Hydrolock" June 2023
-#      - "Icecream Sandwiched II" September 2023
-      - "Incassum"
-      - "Industrial"
-      - "Infernal Shadow"
-      - "Ingwaz"
-#      - "Inheritance" July 2023
-      - "Interitus"
-      - "Ion"
-      - "Iris DTC"
-#      - "Irongate Harbor" September 2023
-      - "Island Divide"
-      - "Istana CTW"
-      - "Iti Mo'ai"
-#      - "Java" September 2023
-      - "Java II"
-      - "Jungle Beat"
-      - "Jupiter"
-      - "Jurassic"
-      - "Justice"
-      - "Kahilyo"
-      - "Kahoy"
-#      - "Kalahari Sanctuary" September 2023
-#      - "Kanto" September 2023
-#      - "Keipha CTW" September 2023
-      - "Kerskyn"
-      - "Ki"
-      - "Kickflip"
-      - "King Neptune"
-#      - "Krager" February 2024
-#      - "Kryta: Rage" August 2023
-#      - "Kusa" July 2023
-#      - "Kusa Ni" 15 June 2024
-      - "Kuusepuu"
-      - "La Bataille de l'épée"
-#      - "La Piazza" July 2023
-      - "Larnia"
-      - "Last Overcastian"
-#      - "Let's Sell Discounts" September 2023
-      - "Levels"
-      - "Lilypad"
-      - "Limbo"
-      - "Limbo II"
-      - "Limit"
-#      - "Little China" July 2023
-      - "Little Roses"
-      - "Long Distance"
-      - "Long Shot"
-      - "Lost Gardens"
-      - "Lost Haven"
-#      - "Lost World CTF" February 2024
-      - "Lotus"
-      - "Lubong"
-      - "Lunar Crescent"
-      - "Lupa"
-      - "Lupain"
-      - "Lush Oasis"
-#      - "Mago" June 2023
-      - "Malupa"
-      - "Mame, I Shrunk the PvPers"
-      - "Maple Falls"
-      - "Maple Syrup"
-      - "Mars Odyssey"
-      - "Medieval Village"
-      - "Meerkat Dream"
-#      - "Metro" June 2023
-      - "Metropolis"
-      - "Midnight Train"
-#      - "Miner Sixty Niner" June 2023
-      - "Mini Drought"
-#      - "MissingNo" June 2023
-      - "Mo'ai"
-      - "Mole Dream"
-      - "Monolith"
-      - "Monument Valley"
-      - "Moonlight Summit"
-      - "Mush"
-#      - "Mushdoom" June 2023
-      - "Mushroom Gorge"
-      - "Mushroom Monuments"
-      - "Mystic Point"
-      - "Mythica DTM"
-      - "Mythical Marsh"
-      - "Natsukashii"
-      - "Neptune"
-      - "Nether War CTW"
-#      - "NewGen" 04 May 2024
-      - "Niflheim"
-      - "Nivalis"
-      - "Noble's District"
-      - "Notre-Daaaaam of Paris"
-#      - "Nuclear Winter" June 2023
-      - "Nutrient"
-      - "Oaken Meadow"
-      - "Oasis CTW"
-      - "Oceano CTW"
-      - "Odin"
-      - "Old Life CTW"
-#      - "Opal" June 2023
-      - "Operation Overlord"
-#      - "Oriental" September 2023
-      - "Oriental Mini"
-      - "Osoi"
-#      - "Oumuamua" September 2023
-      - "Outback"
-      - "Outback Mini"
-#      - "OutCast 2" June 2023
-      - "Outlyne"
-      - "Paddo's"
-#      - "Paintman's Day Off" October 2023
-#      - "Paint the Streets" February 2024
-      - "Palace CTF"
-      - "Parabola"
-#      - "Parabola II" October 2023
-      - "Peloponnesia"
-      - "Persisto"
-#      - "Pickle II" June 2023
-      - "Pineium CTW"
-      - "Pineium DTM"
-#      - "Pirates I" July 2023
-      - "PixelMix"
-      - "Placid Spring"
-#      - "Pokemon Arena" September 2023
-#      - "Pompeii DTC" June 2023
-      - "Polynesia"
-      - "Pond"
-      - "Prisma CTW"
-#      - "Promenade" July 2023
-#      - "Purple Haze" February 2024
-      - "Puyt"
-      - "Quadrival"
-      - "Quadrosphere CTW"
-#      - "Quadrosphere Rage" February 2024
-#      - "Querelous" September 2023
-      - "Race for Victory 2"
-      - "Race for Victory 3"
-      - "Raceway"
-#      - "Rafiki" February 2024
-#      - "Rage Quit TDM" February 2024
-#      - "Rampant" February 2024
-      - "Ranch"
-      - "Rangi-nui"
-      - "Rattlesnake"
-#      - "Relic" September 2023
-      - "Renegade"
-      - "Research Base"
-#      - "Retaliation" May 2024
-      - "Retaliation 2"
-#      - "Retro Encabulator" February 2024
-#      - "Rice" September 2023
-      - "Rift"
-      - "Rind Rushers"
-      - "Rind Rushers II"
-#      - "Ringpull" September 2023
-      - "Ring Run"
-      - "Riverside"
-      - "Road Trip to Sunset Town"
-      - "Rocky Top"
-      - "Röntgen"
-      - "Rotten"
-      - "Royal Ascend"
-      - "Royal Garden CTW"
-      - "Royal Garden DTC"
-#      - "Royal Rumble II" July 2023
-      - "Ruffland"
-#      - "Rusteze" October 2023
-#      - "Saitama" July 2023
-      - "Sakura Garden II"
-      - "Sanctum Wasser"
-#      - "Sarc" October 2023
-      - "Scorched Grove"
-#      - "Scorched" July 2023
-#      - "Seven" September 2023
-      - "Shinobi"
-      - "Shroom Galaxy"
-      - "Simplicity CTW"
-      - "Siloë"
-#      - "Sinuous" June 2023
-#      - "Sky Traffic 2" June 2023
-#      - "Smoke CTF" July 2023
-      - "Smashcap"
-      - "Smoke KotH"
-      - "Snow Level"
-      - "Snowy Wars"
-      - "SolitudeMC"
-      - "Soviet Mills"
-#      - "Space Base" June 2023
-      - "Space Corp"
-      - "Spaced Out"
-      - "Spaceship Battles"
-      - "Spaceship Battles II"
-      - "Splinter"
-#      - "Stalactites: A Land Down Under" July 2024
-      - "Stone Fields"
-#      - "Stratosphere Rage" February 2024
-      - "Streamline"
-#      - "Streamline II" October 2023
-      - "Summer Sadness"
-#      - "Summertime at Brown's Farms" October 2023
-      - "Summit"
-      - "Sunrise Over Paradise"
-      - "Sunset Glaze"
-#      - "Super Happy Fun World" October 2023
-#      - "SuperPRISM" September 2023
-      - "Supheriox"
-      - "Swamped"
-#      - "Tahiti" July 2023
-      - "Talovy"
-      - "Tanker TNT"
-      - "Tatakai"
-      - "Tebulas"
-      - "Temple"
-      - "Temple Run"
-      - "Temple Valley"
-      - "Tenebrous"
-      - "Teokalli"
-      - "Tetrad"
-#      - "The 4th Law" June 2023
-      - "The 9th Law"
-#      - "The Big Dig" June 2023
-#      - "The Complex CTF" October 2023
-#      - "The End KotH" February 2024
-      - "The Fenland"
-      - "The Grove"
-#      - "The High Road" February 2024
-#      - "The Hill" October 2023
-      - "The King's Lava Lair"
-      - "The Last Sunset"
-#      - "The Last Sunset II" February 2024
-      - "The Nile"
-      - "The Waiting Room"
-      - "Thornwood"
-      - "Thunder"
-#      - "Thunderbolt" October 2023
-      - "Thunderrush"
-      - "Timbered"
-      - "Toca"
-      - "Tohjo Falls"
-      - "Total Beesness"
-#      - "Total War" February 2024
-#      - "Totally War II" February 2024
-      - "Totem"
-#      - "Townside Mini" February 2024
-      - "Townside"
-      - "Tranquility"
-      - "Transit"
-#      - "Tree of Life" February 2024
-      - "Trench Warfare"
-#      - "Trench Warfare 2" June 2023
-#      - "Tridente" February 2024
-      - "Tulip Mania"
-      - "Tulip Mania II"
-      - "Tulog"
-      - "Tumbleweed"
-      - "Turf Wars"
-      - "Tuscany"
-      - "Tuscany Hills"
-      - "Two Tier"
-      - "UBoat König"
-      - "Ubos CTF"
-      - "Ulcinj"
-#      - "Urban Jungle" October 2023
-      - "Veld"
-      - "Venice TDM"
-      - "Vertex"
-      - "Vesuvius"
-      - "Villa I"
-#      - "Villa II" February 2024
-      - "Viridun"
-      - "Voltage"
-      - "Voodoo"
-      - "Wallop 9000"
-      - "Wallop Series X"
-      - "Warlock"
-#      - "Waterwood" September 2023
-#      - "We Sell Mushrooms" 15 June 2024
-      - "We Sell Mushrooms CTF"
-#      - "West Rider" July 2023
-      - "When Men Cried"
-      - "Wholething"
-      - "Wild Isle"
-      - "Winsray Fields"
-      - "Winterbane"
-      - "Wintertime"
-      - "Winter Solstice"
-      - "Winter Solstice Mini"
-#      - "Witch's Potions" 15 June 2024
-#      - "Wit's End" May 2024
-#      - "Woodwork Harbor" February 2024
-      - "Woolirium"
-      - "Wooly Woods"
-#      - "Wrath Altar" February 2024
-      - "Xi II"
-      - "Xinx"
-      - "Xion"
-#      - "Xunkohtli" 15 June 2024
-      - "Yangshuo"
-      - "Yermo"
-      - "Zipline"
-#      - "Zipline II" September 2023
-#      - "Zombie Defense" June 2023
+      - Boletum
+      - Brittlebush II
+      - Cannonball Cove
+      - Canopy
+      - Catre KotH
+      - Chocolate Diamonds
+      - A Classy Night for a Fight
+      - Coastline
+      - Constellation
+      - Corrupted Paradise CTW
+      - Cummins Turbo Diesel
+      - Cyril
+      - Deadwood
+      - Desert Cataract
+      - Desert Sanctuary
+      - Directredux
+      - Discount Fortress
+      - Discovery
+      - Dominion
+      - Dromedary
+      - Duality
+      - Dust
+      - Edo
+      - Equinox
+      - Exiled KotF
+      - Expedition
+      - Extraterrestrial
+      - Facility
+      - Factorio Mainbus
+      - The Fenland
+      - Fractal Descent
+      - Frob
+      - Frost
+      - Fumeen II
+      - Happy Rainbow
+      - Harbor CTW
+      - Harvest
+      - Hemlock
+      - Hotel Overcast
+      - Huanxiang
+      - Ice Miners
+      - Istana CTW
+      - Incassum
+      - Japan
+      - Keipha CTW
+      - Kickflip
+      - Kingdom
+      - Kuusepuu
+      - Lasa
+      - Let's Sell Discounts
+      - Lost Gardens
+      - Lost Haven
+      - Lost World CTF
+      - Lotus
+      - Lupa
+      - Mame, I Shrunk the PvPers
+      - Manzikert
+      - Meerkat Dream
+      - MissingNo
+      - Mole Dream
+      - Monument Valley
+      - NewGen
+      - Noble's District
+      - Oaken Meadow
+      - Oumuamua
+      - Ouroboros
+      - Outback
+      - Outback Mini
+      - Peloponnesia
+      - Pokemon Arena
+      - Pineium CTW
+      - PixelMix
+      - Polynesia
+      - Quadrival
+      - "Raid FFA: Guns"
+      - Rice
+      - Roar
+      - Royal Garden CTW
+      - Santorini
+      - Shinobi
+      - Sky Shot
+      - Skycastle Islands
+      - Smoke KotH
+      - Snowy Wars
+      - Snow Level
+      - Spaceship Battles
+      - Steel Valley
+      - Sunrise Over Paradise
+      - Sunset Glaze
+      - Tebulas
+      - Thornwood
+      - Thunder
+      - Thunderrush
+      - Total Beesness
+      - "ToW: Mush More"
+      - Townside
+      - Townside Mini
+      - Treflip
+      - Tumbleweed
+      - Tuscany
+      - The Waiting Room
+      - Wallop Series X
+      - When Men Cried
+      - Winsray Fields
+      - Wit's End
+      - Wooly Woods
+      - Zipline
   avicus: # Just some of your throwback Avicus maps
     type: voted
     enabled: true
