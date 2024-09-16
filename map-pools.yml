@@ -19,7 +19,7 @@ pools:
       min-after-vote: 0.15 # 15%
       max-after-vote: 0.45 # 45%
       # Maps with less than this are ignored for a vote
-      min-for-vote: 0.05 # 5%
+      min-for-vote: 0.01 # 1%
       # After the map plays, reset the score to:
       # Supports a formula with play_minutes
       after-playing: bound(play_minutes - 30, 0, 60) * -0.01
