@@ -6,6 +6,24 @@ pools:
     players: 1
     cycle-time: "30s"
 
+    # Voted pool only: num of maps to show each vote
+    vote-options: 3
+    # Voted pool only: modify how score behaves
+    score:
+      # How much score should maps start with by default.
+      default: 0.3 # 30%
+      # How much score decreases/increases after each match. Null to be proportional to amount of maps.
+      decay: 0.01 # 1%
+      rise: 0.002 # 0.2% - Should be around default/map_count
+      # When a map is voted, enforce that it never falls out of the range of:
+      min-after-vote: 0.15 # 15%
+      max-after-vote: 0.45 # 45%
+      # Maps with less than this are ignored for a vote
+      min-for-vote: 0.05 # 5%
+      # After the map plays, reset the score to:
+      # Supports a formula with play_minutes
+      after-playing: bound(play_minutes - 30, 0, 60) * -0.01
+
     # Voted pools support modifiers which come in the form of a formula (does not affect any other type of pool).
     #
     # This formula is parsed by exp4j library, it's quite flexible and supports many built-in functions.
@@ -30,7 +48,7 @@ pools:
     modifier: >-
       pow(
         score * 
-        bound(1 - (0.2 * same_gamemode), 0.2, 1) *
+        bound(1 - (0.4 * same_gamemode), 0.4, 1) *
         bound(0.5 * (
           tanh(bound(-0.0025 * players + 0.5, 0.2, 1) * (mapsize - bound(players * 1.05, 0, 90))) -
           tanh(bound(-0.0025 * players + 0.5, 0.2, 1) * (mapsize - bound(0.005 * players ^ 2 + 0.95 * players + 5, 10, 150)))
