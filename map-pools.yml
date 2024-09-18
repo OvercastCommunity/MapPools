@@ -98,7 +98,7 @@ pools:
 #      - "Flag Football: Longhorn" February 2024
       - "Flag Football: NYC"
       - "Flag Football: Sakura"
-      - "Flag Football: Superbowl Sunday"
+#      - "Flag Football: Superbowl Sunday"
 #      - "Flag Football: Waffle House"
 #      - "Friday Night Lights"
 #      - "Keeper" June 2023
@@ -108,6 +108,7 @@ pools:
       - Antiquis
       - Apple Smash
       - Arabia
+      - Arctic Ruins
       - Armature
       - Ascendance Payload_Race
       - Assault
@@ -133,7 +134,8 @@ pools:
       - Cyril
       - Deadwood
       - Desert Cataract
-      - Desert Sanctuary
+#      - Desert Sanctuary
+      - Diramu Valley DTM
       - Directredux
       - Discount Fortress
       - Discovery
@@ -141,9 +143,11 @@ pools:
       - Dromedary
       - Duality
       - Dust
+      - Dynamo
       - Edo
       - Equinox
       - Exiled KotF
+      - Exogrid
       - Expedition
       - Extraterrestrial
       - Facility
@@ -153,10 +157,12 @@ pools:
       - Frob
       - Frost
       - Fumeen II
+      - Gethsemane
       - Happy Rainbow
       - Harbor CTW
       - Harvest
       - Hemlock
+      - Hobbit CTW
       - Hotel Overcast
       - Huanxiang
       - Ice Miners
@@ -169,6 +175,7 @@ pools:
       - Kuusepuu
       - Lasa
       - Let's Sell Discounts
+      - Long Distance
       - Lost Gardens
       - Lost Haven
       - Lost World CTF
@@ -176,6 +183,7 @@ pools:
       - Lupa
       - Mame, I Shrunk the PvPers
       - Manzikert
+      - Maple Syrup
       - Meerkat Dream
       - MissingNo
       - Mole Dream
@@ -194,6 +202,7 @@ pools:
       - Polynesia
       - Quadrival
       - "Raid FFA: Guns"
+      - Research Base
       - Rice
       - Roar
       - Royal Garden CTW
@@ -225,7 +234,8 @@ pools:
       - Winsray Fields
       - Wit's End
       - Wooly Woods
-      - Zipline
+#      - Zipline
+      - Zipline II
   avicus: # Just some of your throwback Avicus maps
     type: voted
     enabled: true
