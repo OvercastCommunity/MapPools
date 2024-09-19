@@ -76,13 +76,17 @@ pools:
       # Other Bridge maps
       - "Avant Garde" # Bridge DTM
 #      - "Bridge: Samarkand"
-#      - "Cordillera" # Bridge DTM
+      - "Cordillera" # Bridge DTM
       - "Double Cross"
 #      - "Double Take" October 2023
-#      - "Kihl" February 2024
+      - "Kihl"
 #      - "Mont Blanc"
       - "Over Troubled Water"
 #      - "Rockaway Bridge"
+      # Bridge Swap
+      - "Bridge Swap: Double Take"
+      - Gulch
+      - Moss
       # Item Sumo maps
       - "Atomic"
       - "Calima"
@@ -158,6 +162,7 @@ pools:
       - Frost
       - Fumeen II
       - Gethsemane
+      - The Grove
       - Happy Rainbow
       - Harbor CTW
       - Harvest
@@ -228,6 +233,7 @@ pools:
       - Treflip
       - Tumbleweed
       - Tuscany
+      - Villa I
       - The Waiting Room
       - Wallop Series X
       - When Men Cried
