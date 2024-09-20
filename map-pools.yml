@@ -48,7 +48,7 @@ pools:
     modifier: >-
       pow(
         score * 
-        bound(1 - (0.4 * same_gamemode), 0.4, 1) *
+        bound(1 - (0.2 * same_gamemode), 0.2, 1) *
         bound(0.5 * (
           tanh(bound(-0.0025 * players + 0.5, 0.2, 1) * (mapsize - bound(players * 1.05, 0, 90))) -
           tanh(bound(-0.0025 * players + 0.5, 0.2, 1) * (mapsize - bound(0.005 * players ^ 2 + 0.95 * players + 5, 10, 150)))
@@ -109,6 +109,10 @@ pools:
 #      - "Pipes and Punters" July 2023
 #      - "Royal Rumble: Classic"
       # Normal maps
+      - Ad Astra
+      - Aequabilis
+      - Annealing
+      - Annealing II
       - Antiquis
       - Apple Smash
       - Arabia
@@ -128,10 +132,12 @@ pools:
       - Brittlebush II
       - Cannonball Cove
       - Canopy
+      - Cargo
       - Catre KotH
       - Chocolate Diamonds
       - A Classy Night for a Fight
       - Coastline
+      - Coconut Mald
       - Constellation
       - Corrupted Paradise CTW
       - Cummins Turbo Diesel
@@ -167,6 +173,7 @@ pools:
       - Harbor CTW
       - Harvest
       - Hemlock
+      - Hemlock II
       - Hobbit CTW
       - Hotel Overcast
       - Huanxiang
@@ -212,6 +219,7 @@ pools:
       - Roar
       - Royal Garden CTW
       - Santorini
+      - Scrapelli
       - Shinobi
       - Sky Shot
       - Skycastle Islands
@@ -237,6 +245,7 @@ pools:
       - The Waiting Room
       - Wallop Series X
       - When Men Cried
+      - Wild Isle
       - Winsray Fields
       - Wit's End
       - Wooly Woods
