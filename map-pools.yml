@@ -80,9 +80,9 @@ pools:
       - "Double Cross"
 #      - "Double Take" October 2023
       - "Kihl"
-#      - "Mont Blanc"
+      - "Mont Blanc"
       - "Over Troubled Water"
-#      - "Rockaway Bridge"
+      - "Rockaway Bridge"
       # Bridge Swap
       - "Bridge Swap: Double Take"
       - Gulch
@@ -111,6 +111,8 @@ pools:
       # Normal maps
       - Ad Astra
       - Aequabilis
+      - Airship Battle
+      - Alpine Mining
       - Annealing
       - Annealing II
       - Antiquis
@@ -135,7 +137,7 @@ pools:
       - Cargo
       - Catre KotH
       - Chocolate Diamonds
-      - A Classy Night for a Fight
+#      - A Classy Night for a Fight
       - Coastline
       - Coconut Mald
       - Constellation
@@ -175,6 +177,7 @@ pools:
       - Hemlock
       - Hemlock II
       - Hobbit CTW
+      - Home by the Sea
       - Hotel Overcast
       - Huanxiang
       - Ice Miners
@@ -207,6 +210,8 @@ pools:
       - Ouroboros
       - Outback
       - Outback Mini
+      - Paint the Streets
+      - Paintman's Day Off
       - Peloponnesia
       - Pokemon Arena
       - Pineium CTW
