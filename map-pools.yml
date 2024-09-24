@@ -111,6 +111,7 @@ pools:
       # Normal maps
       - Ad Astra
       - Aequabilis
+      - Aerobellum
       - Airship Battle
       - Alpine Mining
       - Annealing
@@ -118,6 +119,7 @@ pools:
       - Antiquis
       - Apple Smash
       - Arabia
+      - Araxa
       - Arctic Ruins
       - Armature
       - Ascendance Payload_Race
@@ -127,6 +129,7 @@ pools:
       - Azure
       - Badlands
       - Battle Ecliptica III
+      - Battleship Halberd
       - Bazaar KotF
       - Beauty to Ashes
       - "Blocks: Destroy the Dynamite"
@@ -165,6 +168,7 @@ pools:
       - Facility
       - Factorio Mainbus
       - The Fenland
+      - Forge Ignea
       - Fractal Descent
       - Frob
       - Frost
@@ -181,6 +185,7 @@ pools:
       - Hotel Overcast
       - Huanxiang
       - Ice Miners
+      - Icecream Sandwiched II
       - Istana CTW
       - Incassum
       - Japan
@@ -204,6 +209,7 @@ pools:
       - MissingNo
       - Mole Dream
       - Monument Valley
+      - Mushdoom
       - NewGen
       - Noble's District
       - Oaken Meadow
@@ -214,10 +220,11 @@ pools:
       - Paint the Streets
       - Paintman's Day Off
       - Peloponnesia
-      - Pokemon Arena
       - Pineium CTW
       - PixelMix
+      - Pokemon Arena
       - Polynesia
+      - Pond
       - Quadrival
       - "Raid FFA: Guns"
       - Research Base
@@ -227,6 +234,7 @@ pools:
       - Santorini
       - Scrapelli
       - Shinobi
+      - Siloë
       - Sky Shot
       - Skycastle Islands
       - Smoke KotH
@@ -236,6 +244,7 @@ pools:
       - Steel Valley
       - Sunrise Over Paradise
       - Sunset Glaze
+      - Tanker TNT
       - Tebulas
       - Thornwood
       - Thunder
@@ -248,6 +257,7 @@ pools:
       - Tumbleweed
       - Tuscany
       - Villa I
+      - Villa II
       - The Waiting Room
       - Wallop Series X
       - When Men Cried
