@@ -79,7 +79,7 @@ pools:
       - "Cordillera" # Bridge DTM
       - "Double Cross"
 #      - "Double Take" October 2023
-      - "Kihl"
+#      - "Kihl"
       - "Mont Blanc"
       - "Over Troubled Water"
       - "Rockaway Bridge"
@@ -133,6 +133,7 @@ pools:
       - Bazaar KotF
       - Beauty to Ashes
       - "Blocks: Destroy the Dynamite"
+      - Boar Beach
       - Boletum
       - Brittlebush II
       - Cannonball Cove
@@ -168,6 +169,7 @@ pools:
       - Facility
       - Factorio Mainbus
       - The Fenland
+      - Flags of Samarkand
       - Forge Ignea
       - Fractal Descent
       - Frob
