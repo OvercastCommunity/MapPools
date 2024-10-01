@@ -58,224 +58,229 @@ pools:
       , 2)
 
     maps:
-      # 5v5 Bridge maps
-#      - "Avalon" October 2023
-#      - "Banished" September 2023
-#      - "Bridge: Castle" September 2023
-      - "Castlen't"
-      - "Chernot"
-#      - "Climate"
-#      - "Coral" February 2024
-      - "Crimson"
-#      - "Dead End"
-#      - "Limitless" October 2023
-      - "Pixie"
-#      - "Polders"
-#      - "Research" February 2024
-#      - "Resort"
-      - "Vineyard"
-#      - "Yonaguni" February 2024
-      # Other Bridge maps
-      - "Avant Garde" # Bridge DTM
-#      - "Bridge: Samarkand"
-      - "Cordillera" # Bridge DTM
-      - "Double Cross"
-#      - "Double Take" October 2023
-#      - "Kihl"
-      - "Mont Blanc"
-      - "Over Troubled Water"
-      - "Rockaway Bridge"
-      # Bridge Swap
-      - "Bridge Swap: Double Take"
-      - Gulch
-      - Moss
-      # Item Sumo maps
-      - "Atomic"
-      - "Calima"
-      - "Psycho Sumo"
-      - "Weald"
-      # Flag Football maps
-#      - "Cathedral Football"
-      - "Flag Football: Cola"
-#      - "Flag Football: Fantasy"
-#      - "Flag Football: Iceblade" October 2023
-#      - "Flag Football: Ice Rift" February 2024
-#      - "Flag Football: Kraken"
-#      - "Flag Football: Longhorn" February 2024
-      - "Flag Football: NYC"
-      - "Flag Football: Sakura"
-#      - "Flag Football: Superbowl Sunday"
-#      - "Flag Football: Waffle House"
-#      - "Friday Night Lights"
-#      - "Keeper" June 2023
-#      - "Pipes and Punters" July 2023
-#      - "Royal Rumble: Classic"
-      # Normal maps
-      - Ad Astra
-      - Aequabilis
-      - Aerobellum
-      - Airship Battle
-      - Alpine Mining
-      - Annealing
-      - Annealing II
-      - Antiquis
-      - Apple Smash
-      - Arabia
-      - Araxa
-      - Arctic Ruins
-      - Armature
-      - Ascendance Payload_Race
-      - Assault
-      - Athirk
-      - Autumn Solstice
-      - Azure
-      - Badlands
-      - Bamboo Valley
-      - Bamboo Valley III
-      - Bamboo Valley V
-      - Battle Ecliptica III
-      - Battleship Halberd
-      - Bazaar KotF
-      - Beauty to Ashes
-      - "Blocks: Destroy the Dynamite"
-      - Boar Beach
-      - Boletum
-      - Brittlebush II
-      - Cannonball Cove
-      - Canopy
-      - Cargo
-      - Catre KotH
-      - Chocolate Diamonds
-#      - A Classy Night for a Fight
-      - Coastline
-      - Coconut Mald
-      - Constellation
-      - Corrupted Paradise CTW
-      - Cummins Turbo Diesel
-      - Cyril
-      - Deadwood
-      - Desert Cataract
-#      - Desert Sanctuary
-      - Diramu Valley DTM
-      - Directredux
-      - Discount Fortress
-      - Discovery
-      - Dominion
-      - Dromedary
-      - Duality
-      - Dust
-      - Dynamo
-      - Edo
-      - Equinox
-      - Exiled KotF
-      - Exogrid
-      - Expedition
-      - Extraterrestrial
-      - Facility
-      - Factorio Mainbus
-      - The Fenland
-      - Flags of Samarkand
-      - Forge Ignea
-      - Fractal Descent
-      - Frob
-      - Frost
-      - Fumeen II
-      - Gethsemane
-      - The Grove
-      - Happy Rainbow
-      - Harbor CTW
-      - Harvest
-      - Hemlock
-      - Hemlock II
-      - Hillside Daydream
-      - Hobbit CTW
-      - Home by the Sea
-      - Hotel Overcast
-      - Huanxiang
-      - Ice Miners
-      - Icecream Sandwiched II
-      - Istana CTW
-      - Incassum
-      - Japan
-      - Kanto
-      - Keipha CTW
-      - Kickflip
-      - Kingdom
-      - Kuusepuu
-      - Lasa
-      - Let's Sell Discounts
-      - Long Distance
-      - Lost Gardens
-      - Lost Haven
-      - Lost World CTF
-      - Lotus
-      - Lupa
-      - Mame, I Shrunk the PvPers
-      - Manzikert
-      - Maple Syrup
-      - Meerkat Dream
-      - MissingNo
-      - Mole Dream
-      - Monument Valley
-      - Mushdoom
-      - NewGen
-      - Noble's District
-      - Oaken Meadow
-      - Oumuamua
-      - Ouroboros
-      - Outback
-      - Outback Mini
-      - Paint the Streets
-      - Paintman's Day Off
-      - Peloponnesia
-      - Pineium CTW
-      - PixelMix
-      - Pokemon Arena
-      - Polynesia
-      - Pond
-      - Quadrival
-      - "Raid FFA: Guns"
-      - Research Base
-      - Rice
-      - Ringpull
-      - Roar
-      - Royal Garden CTW
-      - Santorini
-      - Scrapelli
-      - Shinobi
-      - Siloë
-      - Sky Shot
-      - Skycastle Islands
-      - Smoke KotH
-      - Snowy Wars
-      - Snow Level
-      - Spaceship Battles
-      - Steel Valley
-      - Sunrise Over Paradise
-      - Sunset Glaze
-      - Tanker TNT
-      - Tebulas
-      - Thornwood
-      - Thunder
-      - Thunderrush
-      - Total Beesness
-      - "ToW: Mush More"
-      - Townside
-      - Townside Mini
-      - Treflip
-      - Tumbleweed
-      - Tuscany
-      - Villa I
-      - Villa II
-      - The Waiting Room
-      - Wallop Series X
-      - When Men Cried
-      - Wild Isle
-      - Winsray Fields
-      - Wit's End
-      - Wooly Woods
-#      - Zipline
-      - Zipline II
+      bridge_5v5:
+        weight: 0.5
+        maps:
+  #     - "Avalon" October 2023
+  #     - "Banished" September 2023
+        - Boneyard
+  #     - "Bridge: Castle" September 2023
+        - "Castlen't"
+        - "Chernot"
+  #     - "Climate"
+  #     - "Coral" February 2024
+        - "Crimson"
+  #     - "Dead End"
+  #     - "Limitless" October 2023
+        - "Pixie"
+  #     - "Polders"
+  #     - "Research" February 2024
+  #     - "Resort"
+        - "Vineyard"
+  #     - "Yonaguni" February 2024
+      bridge:
+        - "Avant Garde" # Bridge DTM
+  #     - "Bridge: Samarkand"
+        - "Cordillera" # Bridge DTM
+        - "Double Cross"
+  #     - "Double Take" October 2023
+  #     - "Kihl"
+        - "Mont Blanc"
+        - "Over Troubled Water"
+        - "Rockaway Bridge"
+      bridge_swap:
+        - "Bridge Swap: Double Take"
+        - Gulch
+        - Moss
+      item_sumo:
+        - "Atomic"
+        - "Calima"
+        - "Psycho Sumo"
+        - "Weald"
+      flag_football:
+        weight: 0.5
+        maps:
+  #     - "Cathedral Football"
+        - "Flag Football: Cola"
+  #     - "Flag Football: Fantasy"
+  #     - "Flag Football: Iceblade" October 2023
+  #     - "Flag Football: Ice Rift" February 2024
+  #     - "Flag Football: Kraken"
+  #     - "Flag Football: Longhorn" February 2024
+        - "Flag Football: NYC"
+        - "Flag Football: Sakura"
+  #     - "Flag Football: Superbowl Sunday"
+  #     - "Flag Football: Waffle House"
+  #     - "Friday Night Lights"
+  #     - "Keeper" June 2023
+  #     - "Pipes and Punters" July 2023
+  #     - "Royal Rumble: Classic"
+      normal:
+        - Ad Astra
+        - Aequabilis
+        - Aerobellum
+        - Airship Battle
+        - Alpine Mining
+        - Annealing
+        - Annealing II
+        - Antiquis
+        - Apple Smash
+        - Arabia
+        - Araxa
+        - Arctic Ruins
+        - Armature
+        - Ascendance Payload_Race
+        - Assault
+        - Athirk
+        - Autumn Solstice
+        - Azure
+        - Badlands
+        - Bamboo Valley
+        - Bamboo Valley III
+        - Bamboo Valley V
+        - Battle Ecliptica III
+        - Battleship Halberd
+        - Bazaar KotF
+        - Beauty to Ashes
+        - "Blocks: Destroy the Dynamite"
+        - Boar Beach
+        - Boletum
+        - Brittlebush II
+        - Cannonball Cove
+        - Canopy
+        - Cargo
+        - Catre KotH
+        - Chocolate Diamonds
+#       - A Classy Night for a Fight
+        - Coastline
+        - Coconut Mald
+        - Constellation
+        - Corrupted Paradise CTW
+        - Cummins Turbo Diesel
+        - Cyril
+        - Deadwood
+        - Desert Cataract
+#       - Desert Sanctuary
+        - Diramu Valley DTM
+        - Directredux
+        - Discount Fortress
+        - Discovery
+        - Dominion
+        - Dromedary
+        - Duality
+        - Dust
+        - Dynamo
+        - Edo
+        - Equinox
+        - Exiled KotF
+        - Exogrid
+        - Expedition
+        - Extraterrestrial
+        - Facility
+        - Factorio Mainbus
+        - The Fenland
+        - Flags of Samarkand
+        - Forge Ignea
+        - Fractal Descent
+        - Frob
+        - Frost
+        - Fumeen II
+        - Gethsemane
+        - The Grove
+        - Happy Rainbow
+        - Harbor CTW
+        - Harvest
+        - Hemlock
+        - Hemlock II
+        - Hillside Daydream
+        - Hobbit CTW
+        - Home by the Sea
+        - Hotel Overcast
+        - Huanxiang
+        - Ice Miners
+        - Icecream Sandwiched II
+        - Istana CTW
+        - Incassum
+        - Japan
+        - Kanto
+        - Keipha CTW
+        - Kickflip
+        - Kingdom
+        - Kuusepuu
+        - Lasa
+        - Let's Sell Discounts
+        - Long Distance
+        - Lost Gardens
+        - Lost Haven
+        - Lost World CTF
+        - Lotus
+        - Lupa
+        - Mame, I Shrunk the PvPers
+        - Manzikert
+        - Maple Syrup
+        - Meerkat Dream
+        - MissingNo
+        - Mole Dream
+        - Monument Valley
+        - Mushdoom
+        - NewGen
+        - Noble's District
+        - Oaken Meadow
+        - Oumuamua
+        - Ouroboros
+        - Outback
+        - Outback Mini
+        - Paint the Streets
+        - Paintman's Day Off
+        - Peloponnesia
+        - Pineium CTW
+        - PixelMix
+        - Pokemon Arena
+        - Polynesia
+        - Pond
+        - Quadrival
+        - "Raid FFA: Guns"
+        - Research Base
+        - Rice
+        - Ringpull
+        - Roar
+        - Royal Garden CTW
+        - Santorini
+        - Scrapelli
+        - Shinobi
+        - Siloë
+        - Sky Shot
+        - Skycastle Islands
+        - Smoke KotH
+        - Snowy Wars
+        - Snow Level
+        - Spaceship Battles
+        - Steel Valley
+        - Sunrise Over Paradise
+        - Sunset Glaze
+        - Tanker TNT
+        - Tebulas
+        - Thornwood
+        - Thunder
+        - Thunderrush
+        - Total Beesness
+        - "ToW: Mush More"
+        - Townside
+        - Townside Mini
+        - Treflip
+        - Tumbleweed
+        - Tuscany
+        - Villa I
+        - Villa II
+        - The Waiting Room
+        - Wallop Series X
+        - When Men Cried
+        - Wild Isle
+        - Winsray Fields
+        - Wit's End
+        - Wooly Woods
+#       - Zipline
+        - Zipline II
   avicus: # Just some of your throwback Avicus maps
     type: voted
     enabled: true
