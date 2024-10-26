@@ -50,7 +50,7 @@ pools:
     modifier: >-
       pow(
         score * 
-        bound(1 - (0.4 * same_gamemode), 0.4, 1) *
+        bound(1 - (0.2 * same_gamemode), 0.2, 1) *
         bound(0.5 * (
           tanh(bound(-0.0025 * players + 0.5, 0.2, 1) * (mapsize - bound(players * 1.05, 0, 90))) -
           tanh(bound(-0.0025 * players + 0.5, 0.2, 1) * (mapsize - bound(0.005 * players ^ 2 + 0.95 * players + 5, 10, 150)))
@@ -79,6 +79,8 @@ pools:
         - "Vineyard"
   #     - "Yonaguni" February 2024
       bridge:
+        weight: 0.5
+        maps:
         - "Avant Garde" # Bridge DTM
   #     - "Bridge: Samarkand"
         - "Cordillera" # Bridge DTM
@@ -250,7 +252,7 @@ pools:
         - Scrapelli
         - Shinobi
         - Siloë
-        - Sky Shot
+#       - Sky Shot
         - Skycastle Islands
         - Smoke KotH
         - Snowy Wars
