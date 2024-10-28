@@ -95,6 +95,8 @@ pools:
         - Gulch
         - Moss
       item_sumo:
+        weight: 0.5
+        maps:
         - "Atomic"
         - "Calima"
         - "Psycho Sumo"
