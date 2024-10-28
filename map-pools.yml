@@ -129,6 +129,7 @@ pools:
         - Annealing II
         - Antiquis
         - Apple Smash
+        - Aquatica
         - Arabia
         - Araxa
         - Arctic Ruins
@@ -155,6 +156,7 @@ pools:
         - Canopy
         - Cargo
         - Catre KotH
+        - Chestnut
         - Chocolate Diamonds
 #       - A Classy Night for a Fight
         - Coastline
@@ -176,6 +178,7 @@ pools:
         - Dust
         - Dynamo
         - Edo
+        - Emerald Glades
         - Equinox
         - Exiled KotF
         - Exogrid
@@ -185,6 +188,7 @@ pools:
         - Factorio Mainbus
         - The Fenland
         - Flags of Samarkand
+        - Flush Vibes II
         - Forge Ignea
         - Fractal Descent
         - Frob
@@ -195,6 +199,7 @@ pools:
         - Happy Rainbow
         - Harbor CTW
         - Harvest
+        - Hekla
         - Hemlock
         - Hemlock II
         - Hillside Daydream
@@ -206,6 +211,7 @@ pools:
         - Icecream Sandwiched II
         - Istana CTW
         - Incassum
+        - Ingwaz
         - Japan
         - Kanto
         - Keipha CTW
@@ -214,6 +220,7 @@ pools:
         - Kuusepuu
         - Lasa
         - Let's Sell Discounts
+        - Little Roses
         - Long Distance
         - Lost Gardens
         - Lost Haven
@@ -222,6 +229,7 @@ pools:
         - Lupa
         - Mame, I Shrunk the PvPers
         - Manzikert
+        - Maple Falls
         - Maple Syrup
         - Meerkat Dream
         - MissingNo
@@ -243,8 +251,10 @@ pools:
         - Pokemon Arena
         - Polynesia
         - Pond
+        - Promenade
         - Quadrival
         - "Raid FFA: Guns"
+        - Rangi-nui
         - Research Base
         - Rice
         - Ringpull
