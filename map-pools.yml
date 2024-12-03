@@ -119,6 +119,10 @@ pools:
   #     - "Keeper" June 2023
   #     - "Pipes and Punters" July 2023
   #     - "Royal Rumble: Classic"
+      rare:
+        weight: 0.1
+        maps:
+          - Irongate Harbor
       normal:
         - Ad Astra
         - Aequabilis
@@ -212,7 +216,6 @@ pools:
         - Huanxiang
         - Ice Miners
         - Icecream Sandwiched II
-        - Irongate Harbor
         - Istana CTW
         - Incassum
         - Ingwaz
