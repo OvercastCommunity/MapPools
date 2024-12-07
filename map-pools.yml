@@ -1,5 +1,7 @@
 pools:
   default:
+    variants:
+      - christmas
     type: ordered
     enabled: true
     dynamic: false
@@ -11,45 +13,51 @@ pools:
       - "Arx Rage"
       - "Bill's Town Blitz"
       - "BipBetaMC"
-      - BVC
+      - "BVC"
       - "Cacti Terror"
-      - Charge
+      - "Charge"
       - "Charge (2023 Reboot)"
       - "Charge 4: 4x the Charging"
       - "Charge 6: This Time It's in Space"
-      - Chinatown
+      - "Chinatown"
+      - "Colors II"
       - "Crazy's Wool Run"
+      - "Cubed"
       - "Dead Heat"
       - "Dead Town"
       - "Dry Wound"
       - "Dynamight Versus"
+      - "Earthborn"
       - "Fallen Courtyard"
       - "Firing Squad"
-      - Gravestone
-      - Gooseberry
+      - "Foxtrot"
+      - "Gravestone"
+      - "Gooseberry"
       - "Gone Camping"
       - "Ieats Hall"
-      - Lush
+      - "Lush"
       - "New Way"
       - "No Return"
       - "Ping Bomb II"
-      - Quavilla
+      - "Pyradic"
+      - "Quavilla"
       - "Radiant Castles: Rage"
       - "Rage Maze"
       - "Rage Quit"
-      - Rig
-      - Rooftops
+      - "Rig"
+      - "Rooftops"
+      - "Sagujo"
       - "Sandstone Temples"
       - "Secluded Wharf"
-      - Sentio
+      - "Sentio"
       - "Sweet Tooth"
       - "Snow Globe"
-      - Swarthmoor
+      - "Swarthmoor"
       - "The Dome"
       - "The End"
       - "TNT Spleef"
       - "Tree Frog's Paradise"
-      - Trinity
+      - "Trinity"
       - "War Wars: Classic"
       - "War Wars: 2Tall4Me"
       - "War Wars: Sand Wars 2"
@@ -57,5 +65,5 @@ pools:
       - "Wilky Way"
       - "Wind Waker"
       - "Wintry Way"
-      - Zen
-      - Zero Gravity
+      - "Zen"
+      - "Zero Gravity"
