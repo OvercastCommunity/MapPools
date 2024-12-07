@@ -1,6 +1,6 @@
 pools:
   default:
-    type: rotation
+    type: ordered
     enabled: true
     dynamic: false
     players: 1
