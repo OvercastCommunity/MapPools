@@ -4,6 +4,7 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    cycle-time: "10s"
     maps:
       - "Arid Crossroads"
       - "Aqua Zero"
