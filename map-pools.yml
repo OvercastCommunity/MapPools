@@ -105,28 +105,30 @@ pools:
         weight: 0.5
         maps:
   #     - "Cathedral Football"
-        - "Flag Football: Cola"
-  #     - "Flag Football: Fantasy"
-  #     - "Flag Football: Iceblade" October 2023
-  #     - "Flag Football: Ice Rift" February 2024
-  #     - "Flag Football: Kraken"
-  #     - "Flag Football: Longhorn" February 2024
-        - "Flag Football: NYC"
-        - "Flag Football: Sakura"
-  #     - "Flag Football: Superbowl Sunday"
-  #     - "Flag Football: Waffle House"
+  #     - "Cola"
+  #     - "Fantasy"
   #     - "Friday Night Lights"
+        - "Iceblade"
+        - "Ice Rift"
   #     - "Keeper" June 2023
-  #     - "Pipes and Punters" July 2023
+  #     - "Kraken"
+  #     - "Longhorn" February 2024
+        - "NYC"
+        - "Pipes and Punters"
   #     - "Royal Rumble: Classic"
+        - "Sakura"
+  #     - "Superbowl Sunday"
+  #     - "Waffle House"
       rare:
-        weight: 0.1
+        weight: 0.2
         maps:
           - Irongate Harbor
       normal:
+        - Aaeros
         - Ad Astra
         - Aequabilis
         - Aerobellum
+        - Agrostid
         - Airship Battle
         - Alpine Mining
         - Annealing
@@ -144,6 +146,7 @@ pools:
         - Autumn Solstice
         - Azure
         - Badlands
+        - BalloonsDTM
         - Bamboo Valley
         - Bamboo Valley III
         - Bamboo Valley V
@@ -152,8 +155,10 @@ pools:
         - Bazaar KotF
         - Beauty to Ashes
         - "Bed Rush: Anubis"
+        - Blocks DTC
         - "Blocks: Destroy the Dynamite"
         - Boar Beach
+        - Bob-Omb Battlefield
         - Boletum
         - Brittlebush II
         - Cannonball Cove
@@ -163,28 +168,36 @@ pools:
         - Chestnut
         - Chocolate Diamonds
 #       - A Classy Night for a Fight
+        - Clearcut
         - Coastline
         - Coconut Mald
+        - Concourse
         - Connect 4
+        - Connected
         - Constellation
         - Corrupted Paradise CTW
         - Cummins Turbo Diesel
         - Cyril
+        - Daydream Mini
         - Deadwood
+        - Deciduous Nights
         - Desert Cataract
-#       - Desert Sanctuary
+        - Desert Country
+        - Desert Sanctuary
         - Desolate Gully CTW
         - Diramu Valley DTM
         - Directredux
         - Discount Fortress
         - Discovery
         - Dominion
+        - Downtown
         - Dromedary
         - Duality
         - Dust
         - Dynamo
         - Edo
         - Emerald Glades
+        - Enchanted
         - Equinox
         - Exiled KotF
         - Exogrid
@@ -201,11 +214,15 @@ pools:
         - Frost
         - Fumeen II
         - Gethsemane
+        - Golden Drought
+        - Golden Drought III
+        - Green
         - Green Gem CTW
         - The Grove
         - Happy Rainbow
         - Harbor CTW
         - Harvest
+        - Hau'oli Mau Lanui
         - Hekla
         - Hemlock
         - Hemlock II
@@ -216,9 +233,10 @@ pools:
         - Huanxiang
         - Ice Miners
         - Icecream Sandwiched II
-        - Istana CTW
         - Incassum
         - Ingwaz
+        - Istana CTW
+        - Iti Mo'ai
         - Japan
         - Kanto
         - Keipha CTW
@@ -239,16 +257,20 @@ pools:
         - Maple Falls
         - Maple Syrup
         - Masarin II
+        - Medieval Village
         - Meerkat Dream
+        - Miner Sixty Niner
         - MissingNo
         - Mole Dream
         - Monument Valley
         - Mushdoom
+        - Musroom Monuments
         - Mystic Point
         - The Nile
         - NewGen
         - Noble's District
         - Oaken Meadow
+        - Oasis CTW
         - Oumuamua
         - Ouroboros
         - Outback
@@ -267,9 +289,11 @@ pools:
         - Rangi-nui
         - Research Base
         - Rice
+        - Rind Rushers
         - Ringpull
         - Roar
         - Royal Garden CTW
+        - Royal Garden DTC
         - Santorini
         - Scrapelli
         - Shinobi
@@ -279,6 +303,7 @@ pools:
         - Smoke KotH
         - Snowy Wars
         - Snow Level
+        - SolitudeMC
         - Spaceship Battles
         - Steel Valley
         - Sunrise Over Paradise
@@ -295,6 +320,7 @@ pools:
         - Townside Mini
         - Treflip
         - Tumbleweed
+        - Two Tier
         - Tuscany
         - Villa I
         - Villa II
@@ -306,6 +332,7 @@ pools:
         - Winter Solstice
         - Winter Sosltice Mini
         - Wit's End
+        - Witch's Potions
         - Wooly Woods
 #       - Zipline
         - Zipline II
