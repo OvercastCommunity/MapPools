@@ -148,7 +148,7 @@ pools:
         - Azure
         - Badlands
         - BalloonsDTM
-        - Bamboo Valley
+#        - Bamboo Valley
         - Bamboo Valley III
         - Bamboo Valley V
         - Battle Ecliptica III
