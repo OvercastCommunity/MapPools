@@ -4,7 +4,7 @@ pools:
       - christmas
     type: ordered
     enabled: true
-    dynamic: false
+    dynamic: true
     players: 1
     cycle-time: "10s"
     maps:
