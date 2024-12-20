@@ -2,7 +2,7 @@ pools:
   default:
     variants:
       - christmas
-    type: ordered
+    type: shuffled
     enabled: true
     dynamic: true
     players: 1
