@@ -1,7 +1,5 @@
 pools:
   default:
-    variants:
-      - christmas
     type: voted
     enabled: true
     dynamic: true
@@ -494,8 +492,6 @@ pools:
       - Wool Story Bro
       - Zen
   funky-friday: # Funky Friday events pool
-    variants:
-      - christmas
     type: voted
     cycle-time: 25s
     enabled: true
@@ -637,8 +633,6 @@ pools:
       - "Whirlpool"
       - "Wool Story Bro"
   tnt-tuesday: # TNT Tuesday events pool
-    variants:
-      - christmas
     type: voted
     cycle-time: 25s
     enabled: true
