@@ -29,10 +29,10 @@ pools:
     # Voted pool only: make maps be excluded from votes if they recently played for long
     cooldown:
        # How long in minutes until a match is considered long. -1 to disable the mechanic
-       min-length: 90
+       min-length: 60
        # How many minutes of the same map per day is acceptable.
        # Eg: if set to 30, a match lasting 45min will put the map in cooldown for 1d 12h
-       minutes-per-day: 90
+       minutes-per-day: 45
 
     # Voted pools support modifiers which come in the form of a formula (does not affect any other type of pool).
     #
