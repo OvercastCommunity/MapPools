@@ -127,10 +127,6 @@ pools:
         - "Sakura"
   #     - "Superbowl Sunday"
   #     - "Waffle House"
-      rare:
-        weight: 0.2
-        maps:
-          - Irongate Harbor
       normal:
         - Aaeros
         - Abudor
@@ -247,6 +243,7 @@ pools:
         - Icecream Sandwiched II
         - Incassum
         - Ingwaz
+        - Irongate Harbor
         - Istana CTW
         - Iti Mo'ai
         - Japan
