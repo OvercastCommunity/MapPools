@@ -351,6 +351,9 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    cooldown:
+       min-length: 60
+       minutes-per-day: 45
     maps:
       - "Bleened Rings"
       - "Embers 1"
@@ -376,6 +379,9 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    cooldown:
+       min-length: 60
+       minutes-per-day: 45
     maps:
       - "Breath"
       - "Colors II"
@@ -390,6 +396,9 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    cooldown:
+       min-length: 60
+       minutes-per-day: 45
     maps:
       - 101 Rooms TDM
       - AstroGEN
@@ -445,6 +454,9 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    cooldown:
+       min-length: 60
+       minutes-per-day: 45
     maps:
       - A Journey Through History
       - Arid Crossroads
@@ -504,6 +516,9 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    cooldown:
+       min-length: 60
+       minutes-per-day: 45
     maps:
       - "100 Rooms"
       - "101 Rooms: Lifesteal"
@@ -645,6 +660,9 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    cooldown:
+       min-length: 60
+       minutes-per-day: 45
     maps:
       - "Aerobellum"
       - "Airclay Battle"
@@ -715,6 +733,9 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    cooldown:
+       min-length: 60
+       minutes-per-day: 45
     maps:
       - "War Wars: 2Tall4Me"
       - "War Wars: Baby's First Build"
@@ -761,6 +782,9 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    cooldown:
+       min-length: 60
+       minutes-per-day: 45
     modifier: >-
       pow(
         score * 
@@ -943,6 +967,9 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    cooldown:
+       min-length: 60
+       minutes-per-day: 45
     maps:
       - 100 Rooms
       - 101 Rooms
@@ -1029,6 +1056,9 @@ pools:
     enabled: true
     dynamic: false
     players: 1
+    cooldown:
+       min-length: 60
+       minutes-per-day: 45
     maps:
       - "Amazon"
       - "Classic Flame"
