@@ -169,6 +169,7 @@ pools:
         - Bob-Omb Battlefield
         - Boletum
         - Brittlebush II
+        - Cairn # flame bow
         - Cannonball Cove
         - Canopy
         - Cargo
@@ -214,6 +215,7 @@ pools:
         - Facility
         - Factorio Mainbus
         - The Fenland
+        - Fields of Glory
         - Flags of Samarkand
         - Flush Vibes II
         - Forge Ignea
@@ -238,6 +240,7 @@ pools:
         - Hobbit CTW
         - Home by the Sea
         - Hotel Overcast
+        - Howdy Partner
         - Huanxiang
         - Ice Miners
         - Icecream Sandwiched II
@@ -272,11 +275,14 @@ pools:
         - MissingNo
         - Mole Dream
         - Monument Valley
+        - Moonshine
+        - Moonlight Summit
         - Mushdoom
         - Musroom Monuments
         - Mystic Point
         - The Nile
         - NewGen
+        - No Man's Land # punch bows
         - Noble's District
         - Oaken Meadow
         - Oasis CTW
@@ -307,6 +313,7 @@ pools:
         - Scrapelli
         - Shinobi
         - Siloë
+        - Skirmish
 #       - Sky Shot
         - Skycastle Islands
         - Smoke KotH
@@ -314,9 +321,12 @@ pools:
         - Snow Level
         - SolitudeMC
         - Spaceship Battles
+        - State of Decay II
         - Steel Valley
         - Sunrise Over Paradise
         - Sunset Glaze
+        - Swamped
+        - Tahiti
         - Tangier
         - Tanker TNT
         - Tebulas
