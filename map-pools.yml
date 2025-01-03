@@ -147,6 +147,7 @@ pools:
         - Araxa
         - Arctic Ruins
         - Armature
+        - Artholis # update xml? structures?
         - Ascendance Payload_Race
         - Assault
         - Athirk
@@ -163,6 +164,7 @@ pools:
         - Bazaar KotF
         - Beauty to Ashes
         - "Bed Rush: Anubis"
+        - Bessemer's Process
         - Blocks DTC
         - "Blocks: Destroy the Dynamite"
         - Boar Beach
@@ -271,6 +273,7 @@ pools:
         - Maple Falls
         - Maple Syrup
         - Masarin II
+        - Mayan Apocalypse
         - Medieval Village
         - Meerkat Dream
         - Miner Sixty Niner
@@ -281,9 +284,11 @@ pools:
         - Moonlight Summit
         - Mushdoom
         - Musroom Monuments
+        - Mushroom Kingdoms
         - Mystic Point
-        - The Nile
         - NewGen
+        - Nightsail # spawner update
+        - The Nile
         - No Man's Land # punch bows, wool mons, spawn region
         - Noble's District
         - Oaken Meadow
@@ -328,6 +333,7 @@ pools:
         - Steel Valley
         - Sunrise Over Paradise
         - Sunset Glaze
+        - Super Mario Warp Zone
         - Swamped
         - Tahiti
         - Tangier
