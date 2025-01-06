@@ -153,20 +153,29 @@ pools:
         - Ascendance Payload_Race
         - Assault
         - Athirk
+        - Autumno
         - Autumn Solstice
         - Azure
         - Badlands
+        - Baleful Eden
         - BalloonsDTM
         - Bamboo Valley
         - Bamboo Valley III
         - Bamboo Valley V
         - Battle Ecliptica III
+        - Battle for Amaterasu
         - Battle of Krehm
+        - Battle of Tenjin II
+        - Battle of Tenjin III
         - Battleship Halberd
         - Bazaar KotF
         - Beauty to Ashes
         - "Bed Rush: Anubis"
+        - Belvedere
         - Bessemer's Process
+        - BlockBlock
+        - Blocks CTW
+        - Blocks II
         - Blocks DTC
         - "Blocks: Destroy the Dynamite"
         - Boar Beach
@@ -189,14 +198,20 @@ pools:
         - Connected
         - Constellation
         - Corrupted Paradise CTW
+        - Courtyard Classic
+        - Crater Resort
+        - Crippled Divide
         - Cummins Turbo Diesel
         - Cyril
         - Daydream Mini
         - Deadwood
+        - Dead Waters
         - Deciduous Nights
+        - Deepwood
         - Desert Cataract
         - Desert Country
-        - Desert Sanctuary
+        - Desert Eclipse
+        - Desert Sanctuary 2.0
         - Desolate Gully CTW
         - Diramu Valley DTM
         - Directredux
@@ -205,7 +220,6 @@ pools:
         - Dominion
         - Downtown
         - Dromedary
-        - Duality
         - Dust
         - Dynamo
         - Edo
@@ -218,19 +232,25 @@ pools:
         - Extraterrestrial
         - Facility
         - Factorio Mainbus
+        - Fallencrests # power bows, core layers
+        - Fall of Babylon
         - The Fenland
+        - Fiesta Mexicana
         - Fields of Glory
         - Flags of Samarkand
         - Flush Vibes II
         - Forge Ignea
         - Fractal Descent
-        - Frob
         - Frost
         - Fumeen II
         - Gethsemane
         - Golden Drought
         - Golden Drought III
+        - Gongua CTW
+        - Grassy Mound CTF
+        - Greecia
         - Green
+        - Greenhill
         - Green Gem CTW
         - The Grove
         - Happy Rainbow
@@ -302,6 +322,7 @@ pools:
         - Paint the Streets
         - Paintman's Day Off
         - Palace CTF
+        - Pandemonium
         - Peloponnesia
         - Pineium CTW
         - PixelMix
@@ -310,7 +331,8 @@ pools:
         - Pond
         - Promenade
         - Quadrival
-        - "Raid FFA: Guns"
+        - Raid FFA
+        - Rampant
         - Rangi-nui
         - Research Base
         - Rice
@@ -324,7 +346,6 @@ pools:
         - Shinobi
         - Siloë
         - Skirmish
-#       - Sky Shot
         - Skycastle Islands
         - Smoke KotH
         - Snowy Wars
@@ -346,6 +367,7 @@ pools:
         - Thunderrush
         - Timbered
         - Total Beesness
+        - Totem
         - "ToW: Mush More"
         - Townside
         - Townside Mini
@@ -366,7 +388,7 @@ pools:
         - Witch's Potions
         - Woodlands # height??
         - Wooly Woods
-#       - Zipline
+        - Wrath of Cthulhu
         - Zipline II
   avicus: # Just some of your throwback Avicus maps
     type: voted
