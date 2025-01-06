@@ -175,7 +175,7 @@ pools:
         - Bessemer's Process
         - BlockBlock
         - Blocks CTW
-        - Blocks II
+        - Blocks II # core layers
         - Blocks DTC
         - "Blocks: Destroy the Dynamite"
         - Boar Beach
@@ -189,7 +189,6 @@ pools:
         - Catre KotH
         - Chestnut
         - Chocolate Diamonds
-#       - A Classy Night for a Fight
         - Clearcut
         - Coastline
         - Coconut Mald
@@ -252,6 +251,7 @@ pools:
         - Green
         - Greenhill
         - Green Gem CTW
+        - Grub
         - The Grove
         - Happy Rainbow
         - Harbor CTW
@@ -272,9 +272,10 @@ pools:
         - Ingwaz
         - Insanihe
         - Irongate Harbor
+        - Island Divide
         - Istana CTW
         - Iti Mo'ai
-        - Japan
+        - Justice
         - Kanto
         - Keipha CTW
         - Kickflip
@@ -631,6 +632,7 @@ pools:
       - "King's Conquest: Lorikeet Lagoon"
       - "King's Conquest: Porky Plains"
       - "King's Conquest: Rage Quit"
+      - "Knockout Stadium"
       - "Knockout Stick Fight"
       - "Ladderp II"
       - "Long Shot: Payload"
@@ -862,7 +864,7 @@ pools:
       - Battle of Tenjin
       - Battle of Tenjin II
       - Battle of Tenjin III
-      - "Bessemer's Process"
+      - Bessemer's Process
       - BlockBlock
       - Blocks CTW
       - Blocks DTC
