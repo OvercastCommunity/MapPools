@@ -146,10 +146,9 @@ pools:
         - Arabia
         - Araxa
         - Arctic Ruins
-        - The Archives #?
-        - The Arena #?
+        - The Archives
         - Armature
-        - Artholis # update xml? structures?
+        - Artholis
         - Ascendance Payload_Race
         - Assault
         - Athirk
@@ -175,7 +174,7 @@ pools:
         - Bessemer's Process
         - BlockBlock
         - Blocks CTW
-        - Blocks II # core layers
+        - Blocks II
         - Blocks DTC
         - "Blocks: Destroy the Dynamite"
         - Boar Beach
@@ -987,7 +986,7 @@ pools:
       - The 4th Law
       - The 8th Law
       - The 9th Law
-      - "The Arena: Classic"
+      - The Arena
       - The Fenland
       - "The Hill: Classic"
       - The Nile
