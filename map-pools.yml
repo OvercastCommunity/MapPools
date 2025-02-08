@@ -155,7 +155,6 @@ pools:
         - Athirk
         - Autunno
         - Autumn Solstice
-        # - Azure
         - Badlands
         - Baleful Eden
         - BalloonsDTM
@@ -988,7 +987,7 @@ pools:
       - The 4th Law
       - The 8th Law
       - The 9th Law
-      - The Arena
+      - "The Arena: Classic"
       - The Fenland
       - "The Hill: Classic"
       - The Nile
