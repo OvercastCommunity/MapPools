@@ -138,6 +138,7 @@ pools:
         - Airship Battle
         - Alpine Mining
         - Amphitheater
+        - Ancient
         - Annealing
         - Annealing II
         - Antiquis
@@ -146,36 +147,47 @@ pools:
         - Arabia
         - Araxa
         - Arctic Ruins
+        - The Archives
         - Armature
+        - Artholis
         - Ascendance Payload_Race
         - Assault
         - Athirk
+        - Autunno
         - Autumn Solstice
-        - Azure
         - Badlands
+        - Baleful Eden
         - BalloonsDTM
         - Bamboo Valley
         - Bamboo Valley III
         - Bamboo Valley V
         - Battle Ecliptica III
+        - Battle for Amaterasu
         - Battle of Krehm
+        - Battle of Tenjin II
+        - Battle of Tenjin III
         - Battleship Halberd
         - Bazaar KotF
         - Beauty to Ashes
         - "Bed Rush: Anubis"
+        - Belvedere
+        - Bessemer's Process
+        - BlockBlock
+        - Blocks CTW
+        - Blocks II
         - Blocks DTC
         - "Blocks: Destroy the Dynamite"
         - Boar Beach
         - Bob-Omb Battlefield
         - Boletum
         - Brittlebush II
+        - Cairn # flame bow
         - Cannonball Cove
         - Canopy
         - Cargo
         - Catre KotH
         - Chestnut
         - Chocolate Diamonds
-#       - A Classy Night for a Fight
         - Clearcut
         - Coastline
         - Coconut Mald
@@ -184,14 +196,20 @@ pools:
         - Connected
         - Constellation
         - Corrupted Paradise CTW
+        - Courtyard Classic
+        - Crater Resort
+        - Crippled Divide
         - Cummins Turbo Diesel
         - Cyril
         - Daydream Mini
         - Deadwood
+        - Dead Waters
         - Deciduous Nights
+        - Deepwood
         - Desert Cataract
         - Desert Country
-        - Desert Sanctuary
+        - Desert Eclipse
+        - Desert Sanctuary 2.0
         - Desolate Gully CTW
         - Diramu Valley DTM
         - Directredux
@@ -200,7 +218,6 @@ pools:
         - Dominion
         - Downtown
         - Dromedary
-        - Duality
         - Dust
         - Dynamo
         - Edo
@@ -213,19 +230,27 @@ pools:
         - Extraterrestrial
         - Facility
         - Factorio Mainbus
+        - Fallencrests # power bows, core layers
+        - Fall of Babylon
         - The Fenland
+        - Fiesta Mexicana
+        - Fields of Glory
         - Flags of Samarkand
         - Flush Vibes II
         - Forge Ignea
         - Fractal Descent
-        - Frob
         - Frost
         - Fumeen II
         - Gethsemane
         - Golden Drought
         - Golden Drought III
+        - Gongua CTW
+        - Grassy Mound CTF
+        - Greecia
         - Green
+        - Greenhill
         - Green Gem CTW
+        - Grub
         - The Grove
         - Happy Rainbow
         - Harbor CTW
@@ -238,15 +263,18 @@ pools:
         - Hobbit CTW
         - Home by the Sea
         - Hotel Overcast
+        - Howdy Partner
         - Huanxiang
         - Ice Miners
         - Icecream Sandwiched II
         - Incassum
         - Ingwaz
+        - Insanihe
         - Irongate Harbor
+        - Island Divide
         - Istana CTW
         - Iti Mo'ai
-        - Japan
+        - Justice
         - Kanto
         - Keipha CTW
         - Kickflip
@@ -254,38 +282,48 @@ pools:
         - Kuusepuu
         - Lasa
         - Let's Sell Discounts
+        - Limit # leaves?
         - Little Roses
         - Long Distance
+        - Long Shot
         - Lost Gardens
         - Lost Haven
         - Lost World CTF
         - Lotus
         - Lupa
+        - Lush Oasis
         - Mame, I Shrunk the PvPers
         - Manzikert
         - Maple Falls
         - Maple Syrup
         - Masarin II
+        - Mayan Apocalypse
         - Medieval Village
-        - Meerkat Dream
         - Miner Sixty Niner
         - MissingNo
         - Mole Dream
         - Monument Valley
+        - Moonlight Summit
         - Mushdoom
         - Musroom Monuments
+        - Mushroom Kingdoms
         - Mystic Point
-        - The Nile
         - NewGen
+        - Nightsail # spawner update
+        - The Nile
+        - No Man's Land # punch bows, wool mons, spawn region
         - Noble's District
         - Oaken Meadow
         - Oasis CTW
+        - Onier
         - Oumuamua
         - Ouroboros
         - Outback
         - Outback Mini
         - Paint the Streets
         - Paintman's Day Off
+        - Palace CTF
+        - Pandemonium
         - Peloponnesia
         - Pineium CTW
         - PixelMix
@@ -294,7 +332,8 @@ pools:
         - Pond
         - Promenade
         - Quadrival
-        - "Raid FFA: Guns"
+        - Raid FFA
+        - Rampant
         - Rangi-nui
         - Research Base
         - Rice
@@ -307,16 +346,20 @@ pools:
         - Scrapelli
         - Shinobi
         - Siloë
-#       - Sky Shot
+        - Skirmish
         - Skycastle Islands
         - Smoke KotH
         - Snowy Wars
         - Snow Level
         - SolitudeMC
         - Spaceship Battles
+        - State of Decay II
         - Steel Valley
         - Sunrise Over Paradise
         - Sunset Glaze
+        - Super Mario Warp Zone
+        - Swamped
+        - Tahiti
         - Tangier
         - Tanker TNT
         - Tebulas
@@ -326,13 +369,16 @@ pools:
         - Timbered
         - Tohjo Falls II
         - Total Beesness
+        - Totem
         - "ToW: Mush More"
         - Townside
         - Townside Mini
         - Treflip
         - Tumbleweed
+        - Tuscany Hills # leaves?
         - Two Tier
         - Tuscany
+        - Vegas
         - Villa I
         - Villa II
         - The Waiting Room
@@ -344,8 +390,9 @@ pools:
         - Winter Solstice Mini
         - Wit's End
         - Witch's Potions
+        - Woodlands # height??
         - Wooly Woods
-#       - Zipline
+        - Wrath of Cthulhu
         - Zipline II
   avicus: # Just some of your throwback Avicus maps
     type: voted
@@ -588,6 +635,7 @@ pools:
       - "King's Conquest: Lorikeet Lagoon"
       - "King's Conquest: Porky Plains"
       - "King's Conquest: Rage Quit"
+      - "Knockout Stadium"
       - "Knockout Stick Fight"
       - "Ladderp II"
       - "Long Shot: Payload"
@@ -819,7 +867,7 @@ pools:
       - Battle of Tenjin
       - Battle of Tenjin II
       - Battle of Tenjin III
-      - "Bessemer's Process"
+      - Bessemer's Process
       - BlockBlock
       - Blocks CTW
       - Blocks DTC
