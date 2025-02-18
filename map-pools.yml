@@ -18,8 +18,8 @@ pools:
       decay: 0.01 # 1%
       rise: 0.002 # 0.2% - Should be around default/map_count
       # When a map is voted, enforce that it never falls out of the range of:
-      min-after-vote: 0.15 # 15%
-      max-after-vote: 0.45 # 45%
+      min-after-vote: 0.05 # 5%
+      max-after-vote: 0.50 # 50%
       # Maps with less than this are ignored for a vote
       min-for-vote: 0.02 # 2%
       # After the map plays, reset the score to:
