@@ -1028,86 +1028,87 @@ pools:
        min-length: 60
        minutes-per-day: 45
     maps:
-      - 100 Rooms
-      - 101 Rooms
-      - Arid Crossroads
-      - Arx Rage
-      - Atlantis
-      - Aureola Rage
-      - BipBetaMC
+      - "100 Rooms"
+      - "101 Rooms"
+      - "Arid Crossroads"
+      - "Arx Rage"
+      - "Atlantis"
+      - "Aureola Rage"
+      - "Basilicas of Space"
+      - "BipBetaMC"
       - "Bliss: Rage"
-      - Blossom
-      - Bouncy Stadium
-      - BVC
-      - Charge
-      - Chinatown
+      - "Blossom"
+      - "Bouncy Stadium"
+      - "BVC"
+      - "Charge"
+      - "Chinatown"
       - "Christmas Eve: Rage"
-      - Colors II
-      - Cubed
-      - Dead Town
-      - Deschutes
-      - Drandion
-      - Dry Wound
-      - Earthborn
-      - Fallen Courtyard
-      - Fallen Empire
-      - Foxtrot
-      - Frost Bound Rage
-      - Gone Camping
-      - Gooseberry
-      - Gravestone
-      - Grimsnes
-      - Hand of God
-      - Hanging Garden
-      - Ieats Hall
-      - Immortal
-      - Infinite
-      - Into the Jungle
+      - "Colors II"
+      - "Cubed"
+      - "Dead Town"
+      - "Deschutes"
+      - "Drandion"
+      - "Dry Wound"
+      - "Earthborn"
+      - "Fallen Courtyard"
+      - "Fallen Empire"
+      - "Foxtrot"
+      - "Frost Bound Rage"
+      - "Gone Camping"
+      - "Gooseberry"
+      - "Gravestone"
+      - "Grimsnes"
+      - "Hand of God"
+      - "Hanging Garden"
+      - "Ieats Hall"
+      - "Immortal"
+      - "Infinite"
+      - "Into the Jungle"
       - "Java: Rage"
-      - Lush
-      - Magnolia Creek
-      - Milky Way
-      - Mushrooms of Oblivion
-      - Netherrage
-      - Network
-      - New Way
-      - Oculo
-      - Overgrown Rage
-      - Palude
-      - Permeac
-      - Plus Side
-      - Pride
-      - Proelium
-      - Pyradic
-      - Quavilla
+      - "Lush"
+      - "Magnolia Creek"
+      - "Milky Way"
+      - "Mushrooms of Oblivion"
+      - "Netherrage"
+      - "Network"
+      - "New Way"
+      - "Oculo"
+      - "Overgrown Rage"
+      - "Palude"
+      - "Permeac"
+      - "Plus Side"
+      - "Pride"
+      - "Proelium"
+      - "Pyradic"
+      - "Quavilla"
       - "Radiant Castles: Rage"
-      - Rage Maze
-      - Rage Quit
-      - Rig
-      - Rubik's Rage
-      - Sandstone Temples
-      - Sand Wall
-      - Secluded Oasis
-      - Secluded Palace
-      - Secluded Wharf
-      - Sentio
-      - Snowfall
-      - Snow Globe
-      - Spooktober
+      - "Rage Maze"
+      - "Rage Quit"
+      - "Rig"
+      - "Rubik's Rage"
+      - "Sandstone Temples"
+      - "Sand Wall"
+      - "Secluded Oasis"
+      - "Secluded Palace"
+      - "Secluded Wharf"
+      - "Sentio"
+      - "Snowfall"
+      - "Snow Globe"
+      - "Spooktober"
       - "Stairs to Nowhere"
-      - Swarthmoor
-      - Sweet Tooth
-      - Sylvan
-      - The 6th Law
-      - The Dome
-      - The End
-      - Together
-      - Trinity
-      - Vinebay
-      - Wintry Way
-      - Wonderland
-      - Yukon
-      - Zen
+      - "Swarthmoor"
+      - "Sweet Tooth"
+      - "Sylvan"
+      - "The 6th Law"
+      - "The Dome"
+      - "The End"
+      - "Together"
+      - "Trinity"
+      - "Vinebay"
+      - "Wintry Way"
+      - "Wonderland"
+      - "Yukon"
+      - "Zen"
   gs:
     type: voted
     enabled: true
