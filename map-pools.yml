@@ -1139,3 +1139,21 @@ pools:
       - "Tangled"
       - "Vengeance"
       - "Whirlpool"
+  micro-battles:
+    type: voted
+    enabled: true
+    dynamic: false
+    players: 1
+    cooldown:
+       min-length: 60
+       minutes-per-day: 45
+    maps:
+      - "MB: BlockBlock"
+      - "MB: Catnap"
+      - "MB: Fenland"
+      - "MB: Sunrise"
+      - "MB: Vesuvius"
+      - "MB: Warlock"
+      - "MB: Durrr Burger"
+      - "Cozy Cove"
+      - "Winter Wars"
