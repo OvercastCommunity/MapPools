@@ -1149,15 +1149,17 @@ pools:
        min-length: 60
        minutes-per-day: 45
     maps:
+      - "Cozy Cove"
       - "MB: BlockBlock"
+      - "MB: Boombox"
       - "MB: Catnap"
+      - "MB: Durrr Burger"
+      - "MB: Dynamo"
       - "MB: Fenland"
+      - "MB: Hot Dam"
+      - "MB: Roulette"
+      - "MB: Snowy Wars"
       - "MB: Sunrise"
       - "MB: Vesuvius"
       - "MB: Warlock"
-      - "MB: Durrr Burger"
-      - "MB: Roulette"
-      - "MB: Snowy Wars"
-      - "MB: Hot Dam"
-      - "Cozy Cove"
       - "Winter Wars"
