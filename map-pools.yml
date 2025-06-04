@@ -122,10 +122,11 @@ pools:
   #     - "Kraken"
   #     - "Longhorn" February 2024
         - "NYC"
-        - "Pipes and Punters"
+  #     - "Pipes and Punters"
   #     - "Royal Rumble: Classic"
         - "Sakura"
   #     - "Superbowl Sunday"
+        - "Tom Brady"
   #     - "Waffle House"
       normal:
         - Aaeros
