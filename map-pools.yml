@@ -184,7 +184,7 @@ pools:
         - Boar Beach
         - Bob-Omb Battlefield
         - Boletum
-        - Boombox: 2 Monuments
+        - "Boombox: 2 Monuments"
         - Brittlebush II
         - Cannonball Cove
         - Canopy
@@ -220,7 +220,7 @@ pools:
         - Desert Sanctuary 2.0
         - Desolate Gully CTW
         - Diramu Valley DTM
-        - Directrix: 2 Flags
+        - "Directrix: 2 Flags"
         - Directredux
         - Discount Fortress
         - Discovery
@@ -239,8 +239,8 @@ pools:
         - Extraterrestrial
         - Facility
         - Factorio Mainbus
-        - Fairy Tales: 2 A Tale or Two
-        - Fairy Tales: Metamorphose
+        - "Fairy Tales: 2 A Tale or Two"
+        - "Fairy Tales: Metamorphose"
         - Fallencrests # power bows, core layers
         - Fall of Babylon
         - The Fenland
@@ -341,7 +341,7 @@ pools:
         - Ouroboros
         - Outback
         - Outback Mini
-        - Outback: Outback Edition
+        - "Outback: Outback Edition"
         - Paddo's
         - Paint the Streets
         - Paintman's Day Off
