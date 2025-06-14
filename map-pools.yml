@@ -157,6 +157,7 @@ pools:
         - Athirk
         - Autunno
         - Autumn Solstice
+        - Avalanche Mini
         - Badlands
         - Baleful Eden
         - BalloonsDTM
@@ -172,6 +173,7 @@ pools:
         - Bazaar KotF
         - Beauty to Ashes
         - "Bed Rush: Anubis"
+        - Beehive
         - Belvedere
         - Bessemer's Process
         - BlockBlock
@@ -182,39 +184,43 @@ pools:
         - Boar Beach
         - Bob-Omb Battlefield
         - Boletum
+        - Boombox: 2 Monuments
         - Brittlebush II
-        - Cairn # flame bow
         - Cannonball Cove
         - Canopy
         - Cargo
         - Catre KotH
         - Chestnut
         - Chocolate Diamonds
+        - Circus CTW
         - ClayClay
         - Clearcut
         - Coastline
         - Coconut Mald
         - Concourse
         - Connect 4
-        - Connected
         - Constellation
         - Corrupted Paradise CTW
         - Courtyard Classic
         - Crater Resort
         - Crippled Divide
         - Cummins Turbo Diesel
+        - Cytokinesis
         - Cyril
+        - D-Day
         - Daydream Mini
         - Deadwood
         - Dead Waters
         - Deciduous Nights
+        - Deepwind Jungle
         - Deepwood
-        - Desert Cataract
+        - Desert Cataract CTF
         - Desert Country
         - Desert Eclipse
         - Desert Sanctuary 2.0
         - Desolate Gully CTW
         - Diramu Valley DTM
+        - Directrix: 2 Flags
         - Directredux
         - Discount Fortress
         - Discovery
@@ -225,6 +231,7 @@ pools:
         - Edo
         - Emerald Glades
         - Enchanted
+        - Ender Blast
         - Equinox
         - Exiled KotF
         - Exogrid
@@ -232,6 +239,8 @@ pools:
         - Extraterrestrial
         - Facility
         - Factorio Mainbus
+        - Fairy Tales: 2 A Tale or Two
+        - Fairy Tales: Metamorphose
         - Fallencrests # power bows, core layers
         - Fall of Babylon
         - The Fenland
@@ -243,7 +252,10 @@ pools:
         - Fractal Descent
         - Frost
         - Fumeen II
+        - Garf
+        - Geometric Domination
         - Gethsemane
+        - Ghostwind Mountain
         - Golden Drought
         - Golden Drought III
         - Gongua CTW
@@ -254,7 +266,8 @@ pools:
         - Green Gem CTW
         - Grub
         - The Grove
-        - Happy Rainbow
+        - Halfway Home
+        - Happy Rainbow Snowball RAGE
         - Harbor CTW
         - Harvest
         - Hau'oli Mau Lanui
@@ -284,10 +297,11 @@ pools:
         - Kickflip
         - Kingdom
         - Kuusepuu
+        - Kï
         - Lasa
         - Let's Sell Discounts
         - Level Up
-        - Limit # leaves?
+        - Little China
         - Little Roses
         - Long Distance
         - Long Shot
@@ -306,7 +320,7 @@ pools:
         - Medieval Village
         - Miner Sixty Niner
         - MissingNo
-        - Mole Dream
+        - Mistral Bay
         - Monument Valley
         - Moonlight Summit
         - Mushdoom
@@ -318,16 +332,21 @@ pools:
         - The Nile
         - No Man's Land # punch bows, wool mons, spawn region
         - Noble's District
+        - Nyxis
         - Oaken Meadow
-        - Oasis CTW
+        - Oceano
         - Onier
+        - Operation Overlord
         - Oumuamua
         - Ouroboros
         - Outback
         - Outback Mini
+        - Outback: Outback Edition
+        - Paddo's
         - Paint the Streets
         - Paintman's Day Off
         - Palace CTF
+        - Parabola
         - Parallel Plays # waiting on map.png
         - Pandemonium
         - Peloponnesia
@@ -347,22 +366,30 @@ pools:
         - Rind Rushers
         - Ringpull
         - Roar
+        - Royal Arena
         - Royal Garden CTW
         - Royal Garden DTC
+        - Ruediger's Bonsai Garden
         - Sandstorm
+        - Sandy
         - Santorini
         - Scrapelli
+        - Sheep CTW
         - Shinobi
         - Siloë
+        - Sinuous
         - Skycastle Islands
         - Smoke KotH
         - Snowy Wars
         - Snow Level
         - SolitudeMC
+        - Soviet Mills
         - Spaceship Battles
         - State of Decay II
         - Steam Siege
         - Steel Valley
+        - Streamline II
+        - Summer Sadness
         - Sunrise Over Paradise
         - Sunset Glaze
         - Super Mario Warp Zone
@@ -372,24 +399,31 @@ pools:
         - Tangier
         - Tanker TNT
         - Tebulas
+        - Tetrad
+        - The King's Lava Lair
+        - The Overcast Bowl
         - Thornwood
         - Thunder
         - Thunderrush
         - Timbered
         - Tohjo Falls II
+        - Tom Brady
         - Total Beesness
+        - Total War II
         - Totem
         - "ToW: Mush More"
         - Townside
         - Townside Mini
+        - Transit
         - Treflip
         - Tumbleweed
         - Tuscany Hills # leaves?
-        - Two Tier
         - Tuscany
+        - Twisted
+        - Two Tier
+        - UBoat König
         - Vegas
         - Villa I
-        - Villa II
         - The Waiting Room
         - Wallop Series X
         - When Men Cried
@@ -401,7 +435,7 @@ pools:
         - Witch's Potions
         - Wooly Woods
         - Wrath of Cthulhu
-        - Zipline II
+        - Zipline
   avicus: # Just some of your throwback Avicus maps
     type: voted
     enabled: true
