@@ -167,6 +167,7 @@ pools:
         - Bamboo Valley
         - Bamboo Valley III
         - Bamboo Valley V
+        - Banana Split DTM
         - Battle Ecliptica III
         - Battle for Amaterasu
         - Battle of Krehm
@@ -196,14 +197,15 @@ pools:
         - Catre KotH
         - Chestnut
         - Chocolate Diamonds
+        - City of Colors DTM
         - Circus CTW
         - ClayClay
         - Clearcut
-        - Coastline
         - Coconut Mald
         - Concourse
         - Connect 4
         - Constellation
+        - Coral Reef
         - Corrupted Paradise CTW
         - Courtyard Classic
         - Crater Resort
@@ -230,6 +232,7 @@ pools:
         - Disc Wars II
         - Dominion
         - Downtown
+        - Duality
         - Dust
         - Dynamo
         - Edo
@@ -263,8 +266,9 @@ pools:
         - Golden Drought
         - Golden Drought II
         - Golden Drought IV
+        - Golden Fever
         - Gongua CTW
-        - Grassy Mound CTF
+        - Grassy Mound
         - Greecia
         - Green
         - Greenhill
@@ -288,12 +292,14 @@ pools:
         - Huanxiang
         - Ice Miners
         - Icecream Sandwiched II
+        - Icescar
         - Incassum
         - Ingwaz
         - Inkbloc Art Academy
         - Insanihe
+        - Iris DTM
         - Island Divide
-        - Istana CTW
+        - Istana
         - Iti Mo'ai
         - Java II
         - Jurassic
@@ -316,18 +322,25 @@ pools:
         - Lost Haven
         - Lost World CTF
         - Lotus
+        - Loyalty DTM
+        - Lunar Crescent
         - Lupa
         - Lush Oasis
+        - Malupa
         - Mame, I Shrunk the PvPers
         - Manzikert
         - Maple Falls
         - Maple Syrup
         - Masarin II
         - Mayan Apocalypse
+        - Mbanza
         - Medieval Village
+        - Metro
+        - Midnight Train
         - Miner Sixty Niner
         - MissingNo
         - Mistral Bay
+        - Molendinis
         - Monument Valley
         - Moonlight Summit
         - Mushdoom
@@ -346,6 +359,7 @@ pools:
         - Oceano
         - Onier
         - Operation Overlord
+        - Osoi
         - Oumuamua
         - Ouroboros
         - Outback Mini
@@ -354,6 +368,7 @@ pools:
         - Paint the Streets
         - Paintman's Day Off
         - Palace CTF
+        - Palm Rust
         - Parabola
         - Parallel Plays # waiting on map.png
         - Pandemonium
@@ -366,24 +381,29 @@ pools:
         - Pond
         - Promenade
         - Quadrival
+        - Quintlet
         - Race for Victory 3
         - Race for Victory 4
         - Raid FFA
         - Rampant
         - Rangi-nui
+        - Rattlesnaake
         - Research Base
         - Rice
         - Rind Rushers
         - Ringpull
+        - Riverside
         - Roar
         - Rocky Top
         - Royal Arena
         - Royal Garden CTW
         - Royal Garden DTC
+        - Roziterman
         - Ruediger's Bonsai Garden
         - Sandstorm
         - Sandy
         - Santorini
+        - Sawgrass 17
         - Scrapelli
         - Sheep CTW
         - Shinobi
@@ -395,6 +415,7 @@ pools:
         - Snow Level
         - SolitudeMC
         - Soviet Mills
+        - Space Corp
         - Spaceship Battles
         - State of Decay II
         - Steam Siege
@@ -446,6 +467,7 @@ pools:
         - Wooly Woods
         - Wrath of Cthulhu
         - Ximorta
+        - Yangshuo
         - Zipline
   avicus: # Just some of your throwback Avicus maps
     type: voted
