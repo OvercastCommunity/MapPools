@@ -130,12 +130,12 @@ pools:
         - "The Overcast Bowl"
   #     - "Waffle House"
       normal:
-        - Aaeros
         - Abudor
         - Ad Astra
         - Aequabilis
         - Aerobellum
         - Aether
+        - After Hours
         - Agrostid
         - Airship Battle
         - Alpine Mining
@@ -144,8 +144,10 @@ pools:
         - Annealing
         - Annealing II
         - Antiquis
+        - Apollo 23
         - Appalachia
         - Apple Smash
+        - Apostle
         - Aquatica
         - Arabia
         - Araxa
@@ -187,6 +189,7 @@ pools:
         - Boletum
         - "Boombox: 2 Monuments"
         - Brittlebush II
+        - Calico
         - Cannonball Cove
         - Canopy
         - Cargo
@@ -222,7 +225,6 @@ pools:
         - Desolate Gully CTW
         - Diramu Valley DTM
         - "Directrix: 2 Flags"
-        - Directredux
         - Discount Fortress
         - Discovery
         - Dominion
@@ -258,7 +260,8 @@ pools:
         - Gethsemane
         - Ghostwind Mountain
         - Golden Drought
-        - Golden Drought III
+        - Golden Drought II
+        - Golden Drought IV
         - Gongua CTW
         - Grassy Mound CTF
         - Greecia
@@ -297,6 +300,7 @@ pools:
         - Keipha CTW
         - Kickflip
         - Kingdom
+        - King Ranch # directrix summer edition
         - Kuusepuu
         - Kï
         - Lasa
@@ -329,7 +333,9 @@ pools:
         - Mushroom Kingdoms
         - Mystic Point
         - NewGen
+        - NextRace
         - Nightsail # spawner update
+        - Nirow
         - The Nile
         - No Man's Land # punch bows, wool mons, spawn region
         - Noble's District
@@ -358,6 +364,8 @@ pools:
         - Pond
         - Promenade
         - Quadrival
+        - Race for Victory 3
+        - Race for Victory 4
         - Raid FFA
         - Rampant
         - Rangi-nui
@@ -366,6 +374,7 @@ pools:
         - Rind Rushers
         - Ringpull
         - Roar
+        - Rocky Top
         - Royal Arena
         - Royal Garden CTW
         - Royal Garden DTC
@@ -433,6 +442,7 @@ pools:
         - Witch's Potions
         - Wooly Woods
         - Wrath of Cthulhu
+        - Ximorta
         - Zipline
   avicus: # Just some of your throwback Avicus maps
     type: voted
