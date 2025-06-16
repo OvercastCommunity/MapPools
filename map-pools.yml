@@ -136,6 +136,7 @@ pools:
         - Aerobellum
         - Aether
         - After Hours
+        - Agrorythe
         - Agrostid
         - Airship Battle
         - Alpine Mining
@@ -197,11 +198,13 @@ pools:
         - Catre KotH
         - Chestnut
         - Chocolate Diamonds
+        - Citadel
         - City of Colors DTM
         - Circus CTW
         - ClayClay
         - Clearcut
         - Coconut Mald
+        - Columbia CTW
         - Concourse
         - Connect 4
         - Constellation
@@ -231,12 +234,15 @@ pools:
         - Discovery
         - Disc Wars II
         - Dominion
+        - Downforce II
         - Downtown
         - Duality
         - Dust
         - Dynamo
         - Edo
         - Emerald Glades
+        - Emergency Meeting
+        - Empire
         - Enchanted
         - Ender Blast
         - Equinox
@@ -256,8 +262,10 @@ pools:
         - Flags of Samarkand
         - Flush Vibes II
         - Forge Ignea
+        - Fourchette
         - Fractal Descent
         - Frost
+        - Fungi Grove
         - Fumeen II
         - Garf
         - Geometric Domination
@@ -273,6 +281,7 @@ pools:
         - Green
         - Greenhill
         - Green Gem CTW
+        - Gridlock 2
         - Grub
         - The Grove
         - Halfway Home
@@ -283,8 +292,6 @@ pools:
         - Haven Tide
         - Hekla
         - Hemlock
-        - Hemlock II
-        - Hillside Daydream
         - Hobbit CTW
         - Home by the Sea
         - Hotel Overcast
@@ -295,6 +302,7 @@ pools:
         - Icescar
         - Incassum
         - Ingwaz
+        - Inheritance
         - Inkbloc Art Academy
         - Insanihe
         - Iris DTM
@@ -331,6 +339,7 @@ pools:
         - Manzikert
         - Maple Falls
         - Maple Syrup
+        - Mars Odyssey
         - Masarin II
         - Mayan Apocalypse
         - Mbanza
@@ -356,7 +365,7 @@ pools:
         - Noble's District
         - Nyxis
         - Oaken Meadow
-        - Oceano
+        - Oceano CTW
         - Onier
         - Operation Overlord
         - Osoi
@@ -364,6 +373,7 @@ pools:
         - Ouroboros
         - Outback Mini
         - "Outback: Outback Edition"
+        - Outlyne
         - Paddo's
         - Paint the Streets
         - Paintman's Day Off
@@ -373,10 +383,9 @@ pools:
         - Parallel Plays # waiting on map.png
         - Pandemonium
         - Peloponnesia
-        - Persisto
         - Pineium CTW
+        - Pirates I
         - PixelMix
-        - Pokemon Arena
         - Polynesia
         - Pond
         - Promenade
@@ -396,6 +405,7 @@ pools:
         - Roar
         - Rocky Top
         - Royal Arena
+        - Royal Ascend
         - Royal Garden CTW
         - Royal Garden DTC
         - Roziterman
@@ -430,15 +440,17 @@ pools:
         - Tahiti
         - Tangier
         - Tanker TNT
+        - Tatakai
         - Tebulas
+        - Temple Valley
         - Tetrad
         - The Complex CTF
         - The King's Lava Lair
         - Thornwood
         - Thunder
         - Thunderrush
-        - Timbered
         - Tohjo Falls II
+        - Torn Canyon
         - Total Beesness
         - Total War II
         - Totem
@@ -447,6 +459,7 @@ pools:
         - Townside Mini
         - Transit
         - Treflip
+        - Tulip Mania
         - Tumbleweed
         - Tuscany Hills # leaves?
         - Tuscany
@@ -460,13 +473,13 @@ pools:
         - When Men Cried
         - Wild Isle
         - Winsray Fields
-        - Winter Solstice
         - Winter Solstice Mini
         - Wit's End
         - Witch's Potions
         - Wooly Woods
         - Wrath of Cthulhu
         - Ximorta
+        - Xunkohtli
         - Yangshuo
         - Zipline
   avicus: # Just some of your throwback Avicus maps
