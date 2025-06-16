@@ -1232,6 +1232,7 @@ pools:
     maps:
       - "Cozy Cove"
       - "MB: 2014 Lobby"
+      - "MB: 44 Rooms"
       - "MB: Avalon Funland"
       - "MB: Battle of Tenjin"
       - "MB: BlockBlock"
