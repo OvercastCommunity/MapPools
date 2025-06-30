@@ -130,6 +130,7 @@ pools:
         - "The Overcast Bowl"
   #     - "Waffle House"
       normal:
+        - "803"
         - Abudor
         - Ad Astra
         - Aequabilis
