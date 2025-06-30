@@ -356,6 +356,7 @@ pools:
         - Mushroom Monuments
         - Mushroom Kingdoms
         - Mystic Point
+        - Nebulosa
         - NewGen
         - NextRace
         - Nightsail # spawner update
@@ -1234,6 +1235,7 @@ pools:
       - "Cozy Cove"
       - "MB: 2014 Lobby"
       - "MB: 44 Rooms"
+      - "MB: Anarchy"
       - "MB: Avalon Funland"
       - "MB: Battle of Tenjin"
       - "MB: BlockBlock"
