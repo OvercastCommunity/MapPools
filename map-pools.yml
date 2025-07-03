@@ -1,7 +1,5 @@
 pools:
   default:
-    variants:
-      - christmas
     type: shuffled
     enabled: true
     dynamic: true
