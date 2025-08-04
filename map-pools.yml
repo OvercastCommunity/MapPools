@@ -1282,12 +1282,12 @@ pools:
        min-length: 60
        minutes-per-day: 45
     maps:
-      - "Tom Brady"
-      - "Tron Brady"
-      - "Shingeki no Brady"
-      - "Trip to Cancun"
       - "Colorado Alpines"
-      - "The Overcast Bowl"
+      - "Shingeki no Brady"
       - "The Blizzard Bowl"
+      - "The Overcast Bowl"
       - "The Soup Bowl"
       - "The Souper Bowl"
+      - "Tom Brady"
+      - "Trip to Cancun"
+      - "Tron Brady"
