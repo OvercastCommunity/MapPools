@@ -1282,9 +1282,6 @@ pools:
        min-length: 60
        minutes-per-day: 45
     maps:
-      - "Tron Brady TE"
-      - "Colorado Alpines TE"
-      - "Trip to Cancun TE"
       - "Tom Brady"
       - "Tron Brady"
       - "Shingeki no Brady"
