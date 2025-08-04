@@ -1273,3 +1273,24 @@ pools:
       - "MB: Wit's End"
       - "MB: Xyth"
       - "Winter Wars"
+  touchdown:
+    type: voted
+    enabled: true
+    dynamic: false
+    players: 1
+    cooldown:
+       min-length: 60
+       minutes-per-day: 45
+    maps:
+      - "Tron Brady TE"
+      - "Colorado Alpines TE"
+      - "Trip to Cancun TE"
+      - "Tom Brady"
+      - "Tron Brady"
+      - "Shingeki no Brady"
+      - "Trip to Cancun"
+      - "Colorado Alpines"
+      - "The Overcast Bowl"
+      - "The Blizzard Bowl"
+      - "The Soup Bowl"
+      - "The Souper Bowl"
