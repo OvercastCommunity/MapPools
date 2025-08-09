@@ -1,7 +1,7 @@
 # Touchdown
 pools:
   default:
-    type: shuffled
+    type: voted
     enabled: true
     dynamic: true
     players: 1
