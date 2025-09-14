@@ -29,10 +29,10 @@ pools:
     # Voted pool only: make maps be excluded from votes if they recently played for long
     cooldown:
        # How long in minutes until a match is considered long. -1 to disable the mechanic
-       min-length: 60
+       min-length: 45
        # How many minutes of the same map per day is acceptable.
        # Eg: if set to 30, a match lasting 45min will put the map in cooldown for 1d 12h
-       minutes-per-day: 30
+       minutes-per-day: 15
 
     # Voted pools support modifiers which come in the form of a formula (does not affect any other type of pool).
     #
@@ -490,8 +490,8 @@ pools:
     dynamic: false
     players: 1
     cooldown:
-       min-length: 60
-       minutes-per-day: 45
+       min-length: 45
+       minutes-per-day: 15
     maps:
       - "Bleened Rings"
       - "Embers 1"
@@ -518,8 +518,8 @@ pools:
     dynamic: false
     players: 1
     cooldown:
-       min-length: 60
-       minutes-per-day: 45
+       min-length: 45
+       minutes-per-day: 15
     maps:
       - "Breath"
       - "Colors II"
@@ -535,8 +535,8 @@ pools:
     dynamic: false
     players: 1
     cooldown:
-       min-length: 60
-       minutes-per-day: 45
+       min-length: 45
+       minutes-per-day: 15
     maps:
       - 101 Rooms TDM
       - AstroGEN
@@ -593,8 +593,8 @@ pools:
     dynamic: false
     players: 1
     cooldown:
-       min-length: 60
-       minutes-per-day: 45
+       min-length: 45
+       minutes-per-day: 15
     maps:
       - A Journey Through History
       - Arid Crossroads
@@ -655,8 +655,8 @@ pools:
     dynamic: false
     players: 1
     cooldown:
-       min-length: 60
-       minutes-per-day: 45
+       min-length: 45
+       minutes-per-day: 15
     maps:
       - "100 Rooms"
       - "101 Rooms: Lifesteal"
@@ -802,8 +802,8 @@ pools:
     dynamic: false
     players: 1
     cooldown:
-       min-length: 60
-       minutes-per-day: 45
+       min-length: 45
+       minutes-per-day: 15
     maps:
       - "Aerobellum"
       - "Airclay Battle"
@@ -877,8 +877,8 @@ pools:
     dynamic: false
     players: 1
     cooldown:
-       min-length: 60
-       minutes-per-day: 45
+       min-length: 45
+       minutes-per-day: 15
     maps:
       - "War Wars: 2Tall4Me"
       - "War Wars: Baby's First Build"
@@ -927,8 +927,8 @@ pools:
     dynamic: false
     players: 1
     cooldown:
-       min-length: 60
-       minutes-per-day: 45
+       min-length: 45
+       minutes-per-day: 15
     modifier: >-
       pow(
         score * 
@@ -1112,8 +1112,8 @@ pools:
     dynamic: false
     players: 1
     cooldown:
-       min-length: 60
-       minutes-per-day: 45
+       min-length: 45
+       minutes-per-day: 15
     maps:
       - "100 Rooms"
       - "101 Rooms"
@@ -1202,8 +1202,8 @@ pools:
     dynamic: false
     players: 1
     cooldown:
-       min-length: 60
-       minutes-per-day: 45
+       min-length: 45
+       minutes-per-day: 15
     maps:
       - "Amazon"
       - "Classic Flame"
@@ -1229,8 +1229,8 @@ pools:
     dynamic: false
     players: 1
     cooldown:
-       min-length: 60
-       minutes-per-day: 45
+       min-length: 45
+       minutes-per-day: 15
     maps:
       - "Cozy Cove"
       - "MB: 2014 Lobby"
@@ -1285,8 +1285,8 @@ pools:
     dynamic: false
     players: 1
     cooldown:
-       min-length: 60
-       minutes-per-day: 45
+       min-length: 45
+       minutes-per-day: 15
     maps:
       - "Colorado Alpines"
       - "Shingeki no Brady"
