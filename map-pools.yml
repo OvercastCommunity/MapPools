@@ -69,22 +69,22 @@ pools:
       bridge_5v5:
         weight: 0.5
         maps:
-  #     - "Avalon" October 2023
+        - "Avalon"
   #     - "Banished" September 2023
         - Boneyard
   #     - "Bridge: Castle" September 2023
-        - "Castlen't"
-        - "Chernot"
-  #     - "Climate"
+  #     - "Castlen't" October 2025
+  #     - "Chernot" October 2025
+        - "Climate"
   #     - "Coral" February 2024
         - "Crimson"
   #     - "Dead End"
-  #     - "Limitless" October 2023
+        - "Limitless"
         - "Pixie"
   #     - "Polders"
   #     - "Research" February 2024
   #     - "Resort"
-        - "Vineyard"
+  #     - "Vineyard" October 2025
   #     - "Yonaguni" February 2024
       bridge:
         weight: 0.5
@@ -112,7 +112,7 @@ pools:
       flag_football:
         weight: 0.5
         maps:
-  #     - "Cathedral Football"
+        - "Cathedral Football"
   #     - "Cola"
   #     - "Fantasy"
   #     - "Friday Night Lights"
@@ -124,13 +124,13 @@ pools:
         - "NYC"
   #     - "Pipes and Punters"
   #     - "Royal Rumble: Classic"
+        - "Royal Rumble II"
         - "Sakura"
   #     - "Superbowl Sunday"
-        - "Tom Brady"
-        - "The Overcast Bowl"
-  #     - "Waffle House"
+        - "Waffle House"
       normal:
         - Abudor
+        - "Acapulco"
         - Ad Astra
         - Aequabilis
         - Aerobellum
@@ -144,6 +144,7 @@ pools:
         - Annealing
         - Annealing IV
         - Antiquis
+        - "Anvil"
         - Apollo 23
         - Appalachia
         - Apple Smash
@@ -168,6 +169,7 @@ pools:
         - Bamboo Valley III
         - Bamboo Valley V
         - Banana Split DTM
+        - "Barnyard Abduction"
         - Battle Ecliptica III
         - Battle for Amaterasu
         - Battle of Krehm
@@ -181,6 +183,7 @@ pools:
         - Belvedere
         - Bessemer's Process
         - "Black Gold"
+        - "Blitzkrieg CTF"
         - BlockBlock
   #     - "Blocks CTW" October 2025
         - Blocks II
@@ -192,6 +195,7 @@ pools:
   #     - "Bob-Omb Battlefield" October 2025
         - Boletum
         - BoomBox
+        - "Brisked"
         - Brittlebush I
         - Calico
         - Cannonball Cove
@@ -216,6 +220,7 @@ pools:
         - Crater Resort
         - Crippled Divide
         - Cummins Turbo Diesel
+        - "Cursed Library"
         - Cytokinesis
         - Cyril
         - D-Day
@@ -242,6 +247,7 @@ pools:
         - Dust
         - Dynamo
         - Edo
+        - "Embargo"
         - Emerald Glades
         - Emergency Meeting
         - Empire
@@ -263,16 +269,18 @@ pools:
         - The Fenland
         - Fiesta Mexicana
         - Fields of Glory
+        - "Firum CTW"
         - Flags of Samarkand
         - Flush Vibes II
         - Forge Ignea
         - Fourchette
         - Fractal Descent
+        - "Fracture DTM"
         - Frost
         - Fungi Grove
         - Fumeen II
         - Garf
-        - Geometric Domination
+  #     - "Geometric Domination" October 2025
         - Gethsemane
         - Ghostwind Mountain
         - Golden Drought
@@ -300,7 +308,7 @@ pools:
         - "Hot Dam"
         - "Hot "
         - Hotel Overcast
-        - Howdy Partner
+  #     - "Howdy Partner" October 2025
         - Huanxiang
         - Ice Miners
         - "Ineritus"
@@ -324,6 +332,7 @@ pools:
         - Kuusepuu
         - Kï
         - Lasa
+        - "Lava Dew"
         - Let's Sell Discounts
         - Level Up
         - Little China
@@ -403,6 +412,7 @@ pools:
         - Quadrival
         - Quintlet
         - Race for Victory 2
+        - "Rafiki"
         - Raid FFA
         - Rampant
         - Rangi-nui
@@ -419,9 +429,13 @@ pools:
         - Royal Garden DTC
         - Roziterman
         - Ruediger's Bonsai Garden
+        - "Sakura Gaden"
+        - "Sakura Garden II"
+        - "Sanctum Wasser"
         - Sandstorm
         - Sandy
         - Santorini
+        - "Sarc"
         - Sawgrass 17
         - Scrapelli
   #     - "Sheep CTW" October 2025 (lots of mixed reactions)
@@ -443,6 +457,7 @@ pools:
         - Summer Sadness
         - Sunrise Over Paradise
         - Sunset Glaze
+        - "Super Happy Fun World"
         - Swamped
         - Sweetopia
         - Tahiti
@@ -454,6 +469,7 @@ pools:
         - Tetrad
         - The Complex CTF
         - "The 4th Law"
+        - "The Big Dig"
         - The King's Lava Lair
         - Thornwood
         - Thunder
@@ -477,10 +493,12 @@ pools:
         - Twisted
         - Two Tier
         - UBoat König
-        - "Urban Jungle"
+        - "Ulcinj"
         - "Underpass"
+        - "Urban Jungle"
         - Vegas
         - "Veld"
+        - "Vertex"
         - "Vesuvius"
         - Villa I
         - Voodoo
@@ -499,7 +517,7 @@ pools:
         - Xion
         - Xunkohtli
         - Yangshuo
-        - Zipline
+        - "Zipline III"
   avicus: # Just some of your throwback Avicus maps
     type: voted
     enabled: true
