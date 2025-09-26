@@ -398,7 +398,8 @@ pools:
         - Paintman's Day Off
         - Palace CTF
         - Palm Rust
-        - Parabola
+  #     - "Parabola" October 2025
+        - "Parabola II"
         - Parallel Plays # waiting on map.png
         - Pandemonium
         - Peloponnesia
@@ -418,7 +419,7 @@ pools:
         - Rangi-nui
         - Rattlesnake
         - Research Base
-        - Rice
+  #     - "Rice" October 2025
         - Rind Rushers
         - Ringpull
         - Riverside
