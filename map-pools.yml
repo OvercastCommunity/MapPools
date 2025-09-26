@@ -281,7 +281,6 @@ pools:
         - Gridlock 2
         - Grub
         - The Grove
-        - Halfway Home
         - Happy Rainbow Snowball RAGE
         - Harbor CTW
         - Harvest
@@ -348,6 +347,7 @@ pools:
         - Monument Valley
         - Moonlight Summit
         - Mushdoom
+        - Mushroom Gorge
         - Mushroom Monuments
         - Mushroom Kingdoms
         - Mystic Point
@@ -409,7 +409,7 @@ pools:
         - Santorini
         - Sawgrass 17
         - Scrapelli
-        - Sheep CTW
+  #     - "Sheep CTW" October 2025 (lots of mixed reactions)
         - Shinobi
         - Siloë
         - Sinuous
@@ -463,6 +463,7 @@ pools:
         - Villa I
         - The Waiting Room
         - Wallop Series X
+        - Warzone
         - When Men Cried
         - Wild Isle
         - Winsray Fields
