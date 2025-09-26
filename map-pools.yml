@@ -130,7 +130,6 @@ pools:
         - "The Overcast Bowl"
   #     - "Waffle House"
       normal:
-        - "803"
         - Abudor
         - Ad Astra
         - Aequabilis
@@ -143,7 +142,7 @@ pools:
         - Amphitheater
         - Ancient
         - Annealing
-        - Annealing II
+        - Annealing IV
         - Antiquis
         - Apollo 23
         - Appalachia
@@ -161,7 +160,9 @@ pools:
         - Athirk
         - Autumn Solstice
         - Avalanche Mini
-        - Badlands
+        - "Avalon Funland"
+        - "Azure"
+  #     - "Badlands" October 2025 (trade for factory)
         - Baleful Eden
         - BalloonsDTM
         - Bamboo Valley III
@@ -179,16 +180,19 @@ pools:
         - Beehive
         - Belvedere
         - Bessemer's Process
+        - "Black Gold"
         - BlockBlock
-        - Blocks CTW
+  #     - "Blocks CTW" October 2025
         - Blocks II
         - Blocks DTC
         - "Blocks: Destroy the Dynamite"
+        - "Block Runner: Classic"
+        - "Block Runner: World of Sports"
         - Boar Beach
-        - Bob-Omb Battlefield
+  #     - "Bob-Omb Battlefield" October 2025
         - Boletum
         - BoomBox
-        - Brittlebush II
+        - Brittlebush I
         - Calico
         - Cannonball Cove
         - Canopy
@@ -221,15 +225,15 @@ pools:
         - Deciduous Nights
         - Deepwind Jungle
         - Deepwood
-        - Desert Cataract CTF
+        - Desert Cataract
         - Desert Country
         - Desert Eclipse
-        - Desert Sanctuary 2.0
+        - Desert Sanctuary
         - Desolate Gully CTW
         - Diramu Valley DTM
         - "Directrix: 2 Flags"
         - Discount Fortress
-        - Disc Wars II
+  #     - "Disc Wars II" October 2025 
         - Dominion
         - Downforce II
         - Downtown
@@ -243,6 +247,7 @@ pools:
         - Empire
         - Enchanted
         - Ender Blast
+        - "Ender Hill"
         - Equinox
         - Exiled KotF
         - Exogrid
@@ -250,6 +255,7 @@ pools:
         - Extraterrestrial
         - Facility
         - Factorio Mainbus
+        - Factory
         - "Fairy Tales: 2 A Tale or Two"
         - "Fairy Tales: Metamorphose"
         - Fallencrests # power bows, core layers
@@ -286,14 +292,18 @@ pools:
         - Harvest
         - Hau'oli Mau Lanui
         - Haven Tide
+        - "Hearts of Atlantis"
         - Hekla
         - Hemlock
         - Hobbit CTW
         - Home by the Sea
+        - "Hot Dam"
+        - "Hot "
         - Hotel Overcast
         - Howdy Partner
         - Huanxiang
         - Ice Miners
+        - "Ineritus"
         - Icecream Sandwiched II
         - Icescar
         - Incassum
@@ -339,10 +349,13 @@ pools:
         - Mbanza
         - Medieval Village
         - Metro
+        - Metropolis
         - Midnight Train
         - Miner Sixty Niner
         - MissingNo
         - Mistral Bay
+        - "Mo'ai"
+        - Mole Dream
         - Molendinis
         - Monument Valley
         - Moonlight Summit
@@ -352,6 +365,7 @@ pools:
         - Mushroom Kingdoms
         - Mystic Point
         - Nebulosa
+        - Nether War CTW
         - NewGen
         - NextRace
         - Nightsail # spawner update
@@ -360,12 +374,12 @@ pools:
         - No Man's Land # punch bows, wool mons, spawn region
         - Noble's District
         - Nyxis
-        - Oaken Meadow
+        - Oasis CTW
         - Oceano CTW
         - Onier
         - Operation Overlord
         - Osoi
-        - Oumuamua
+  #     - "Oumuamua" October 2025
         - Ouroboros
         - Outback Mini
         - "Outback: Outback Edition"
@@ -379,12 +393,13 @@ pools:
         - Parallel Plays # waiting on map.png
         - Pandemonium
         - Peloponnesia
-        - Pineium CTW
+        - Pineium DTM
         - Pirates I
         - PixelMix
         - Polynesia
         - Pond
         - Promenade
+        - "Puddin' Pops"
         - Quadrival
         - Quintlet
         - Race for Victory 2
@@ -438,10 +453,11 @@ pools:
         - Temple Valley
         - Tetrad
         - The Complex CTF
+        - "The 4th Law"
         - The King's Lava Lair
         - Thornwood
         - Thunder
-        - Thunderrush
+        - Thunderbolt
         - Tohjo Falls II
         - Torn Canyon
         - Total Beesness
@@ -455,12 +471,19 @@ pools:
         - Tulip Mania
         - Tumbleweed
         - Tuscany Hills # leaves?
-        - Tuscany
+  #      - Tuscany October 2025
+        - Tusho CTW
+        - "Twilight Citadel"
         - Twisted
         - Two Tier
         - UBoat König
+        - "Urban Jungle"
+        - "Underpass"
         - Vegas
+        - "Veld"
+        - "Vesuvius"
         - Villa I
+        - Voodoo
         - The Waiting Room
         - Wallop Series X
         - Warzone
@@ -473,6 +496,7 @@ pools:
         - Wooly Woods
         - Ximorta
         - Xinx
+        - Xion
         - Xunkohtli
         - Yangshuo
         - Zipline
