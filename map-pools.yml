@@ -333,7 +333,6 @@ pools:
         - Kuusepuu
         - Kï
         - Lasa
-        - "Lava Dew"
         - Let's Sell Discounts
         - Level Up
         - Little China
@@ -711,8 +710,6 @@ pools:
       - "Biomes"
       - "Blast Mining"
       - "Bliss: Rage"
-      - "Block Runner: Classic"
-      - "Block Runner: World of Sports"
       - "BlockGlitch 2: Electric Boogaloo"
       - "Bouncy Stadium"
       - "Bow Spleef: Shogun"
