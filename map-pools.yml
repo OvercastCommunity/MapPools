@@ -1,5 +1,7 @@
 pools:
   default:
+    variants:
+      - halloween
     type: voted
     enabled: true
     dynamic: true
@@ -296,6 +298,7 @@ pools:
         - Gridlock 2
         - Grub
         - The Grove
+        - "Hallows"
         - Happy Rainbow Snowball RAGE
         - Harbor CTW
         - Harvest
@@ -505,6 +508,7 @@ pools:
         - Voodoo
         - The Waiting Room
         - Wallop Series X
+        - "Warlock"
         - Warzone
         - When Men Cried
         - Wild Isle
@@ -684,6 +688,8 @@ pools:
       - Wool Story Bro
       - Zen
   funky-friday: # Funky Friday events pool
+    variants:
+      - halloween
     type: voted
     cycle-time: 25s
     enabled: true
@@ -747,6 +753,7 @@ pools:
       - "Hide n' Seek"
       - "Hide n' Seek: Community"
       - "Humble Jungle"
+      - "Infection: Amusememt Park"
       - "Infection: Boulevard"
       - "Infection: Cityscape"
       - "Infection: Kraken"
@@ -756,9 +763,9 @@ pools:
       - "Juggernaut's Hall"
       - "Juggernaut's Hall: Sacrifice"
       - "King's Conquest: Incendiary"
-      - "King's Conquest: Lorikeet Lagoon"
       - "King's Conquest: Porky Plains"
       - "King's Conquest: Rage Quit"
+      - "King's Conquest: Rallypoint Alpha"
       - "Knockout Stadium"
       - "Knockout Stick Fight"
       - "Ladderp II"
@@ -794,6 +801,7 @@ pools:
       - "Rush Wars Tournament 2: Attack of the Defenders"
       - "Salvo But it's a Castle and There's 2x Monuments"
       - "Salvo"
+      - "Skill Issue"
       - "Sky Push Royale"
       - "Skyfall"
       - "Stop the Boats"
@@ -829,6 +837,8 @@ pools:
       - "Whirlpool"
       - "Wool Story Bro"
   tnt-tuesday: # TNT Tuesday events pool
+    variants:
+      - halloween
     type: voted
     cycle-time: 25s
     enabled: true
