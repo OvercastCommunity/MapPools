@@ -97,7 +97,7 @@ pools:
   #     - "Kihl"
         - "Mont Blanc"
         - "Over Troubled Water"
-        - "Rockaway Bridge"
+        - "Rockaway Ridge" #Halloween Rockaway Bridge
       bridge_swap:
         - "Bridge Swap: Double Take"
         - Gulch
@@ -121,8 +121,8 @@ pools:
   #     - "Keeper" June 2023
   #     - "Kraken"
   #     - "Longhorn" February 2024
-        - "NYC"
-  #     - "Pipes and Punters"
+  #     - "NYC" October 2025
+        - "BOO Pipes" #Halloween Pipes and Punters
   #     - "Royal Rumble: Classic"
         - "Royal Rumble II"
         - "Sakura"
@@ -130,7 +130,7 @@ pools:
         - "Waffle House"
       normal:
         - Abudor
-        - "Acapulco"
+        - "Acapumpkin" #Halloeen Acapulco
         - Ad Astra
         - Aequabilis
         - Aerobellum
@@ -149,8 +149,8 @@ pools:
         - Appalachia
         - Apple Smash
         - Apostle
-        - Aquatica
-        - Arabia
+        - "SpOOkatica" #Halloween Aquatica
+        - "AraBOOia" #Halloween Arabia
         - Araxa
         - Arctic Ruins
         - The Archives
@@ -165,8 +165,8 @@ pools:
         - "Azure"
   #     - "Badlands" October 2025 (trade for factory)
         - Baleful Eden
-        - BalloonsDTM
-        - Bamboo Valley III
+        - "BalloonsDTM: Halloween" #Halloween BallonsDTM
+        - "Bam-BOO Valley III" #Halloween Bamboo Valley III
         - Bamboo Valley V
         - Banana Split DTM
         - "Barnyard Abduction"
@@ -182,15 +182,17 @@ pools:
         - Beehive
         - Belvedere
         - Bessemer's Process
+        - "Biohazard" #Halloween
         - "Black Gold"
         - "Blitzkrieg CTF"
         - BlockBlock
   #     - "Blocks CTW" October 2025
         - Blocks II
-        - Blocks DTC
+        - "Haunted Blocks" #Halloween Blocks DTC
         - "Blocks: Destroy the Dynamite"
         - "Block Runner: Classic"
         - "Block Runner: World of Sports"
+        - "Boo'ai" #Halloween
         - Boar Beach
   #     - "Bob-Omb Battlefield" October 2025
         - Boletum
@@ -200,10 +202,10 @@ pools:
         - Calico
         - Cannonball Cove
         - Canopy
-        - Cargo
+        - "Haunted Cargo" #Halloween Cargo
         - Catre KotH
         - Chestnut
-        - Chocolate Diamonds
+  #     - "Chocolate Diamonds" October 2025
         - Citadel
         - City of Colors DTM
         - Circus CTW
@@ -211,7 +213,7 @@ pools:
         - Clearcut
         - Coconut Mald
         - Columbia CTW
-        - Concourse
+        - "Concursed" #Halloween Concourse
   #     - Connect 4
         - Constellation
         - Coral Reef
@@ -224,16 +226,16 @@ pools:
         - Cytokinesis
         - Cyril
         - D-Day
-        - Daydream Mini
+  #     - "Daydream Mini" October 2025
         - Deadwood
         - Dead Waters
-        - Deciduous Nights
-        - Deepwind Jungle
+        - "Deciduous Frights" #Halloween Deciduous Nights
+        - "Deepwind Horror" #Halloween Deepwind Jungle
         - Deepwood
         - Desert Cataract
-        - Desert Country
+        - "Spooky Country" #Halloween Desert Country
         - Desert Eclipse
-        - Desert Sanctuary
+        - "Deserted Sanctuary" #Halloween Desert Sanctuary
         - Desolate Gully CTW
         - Diramu Valley DTM
         - "Directrix: 2 Flags"
@@ -244,15 +246,15 @@ pools:
         - Downforce II
         - Downtown
         - Dromedary
-        - Duality
+        - "SpOOkality" #Halloween Duality
         - Dust
-        - Dynamo
+        - "DynaboOo" #Halloween Dynamo
         - Edo
         - "Embargo"
         - Emerald Glades
         - Emergency Meeting
-        - Empire
-        - Enchanted
+        - "Empire in Ruins" #Halloween Empire
+        - "Bewitched" #Halloween Enchanted
         - Ender Blast
         - "Ender Hill"
         - Equinox
@@ -274,7 +276,7 @@ pools:
         - Flags of Samarkand
         - Flush Vibes II
         - Forge Ignea
-        - Fourchette
+        - "Bloody Trident" #Halloween Fourchette
         - Fractal Descent
         - "Fracture DTM"
         - Frost
@@ -285,30 +287,32 @@ pools:
         - Gethsemane
         - Ghostwind Mountain
         - Golden Drought
-        - Golden Drought III
+        - "Spooky Drought III" #Halloween Golden Drought III
         - Golden Fever
         - Gongua CTW
         - Grassy Mound
         - Greecia
         - Green
-        - Greenhill
+        - "Pumpkin Hill" #Halloween Greenhill
         - Green Gem CTW
         - Gridlock 2
         - Grub
         - The Grove
+        - "Hallows"
         - Happy Rainbow Snowball RAGE
         - Harbor CTW
         - Harvest
         - Hau'oli Mau Lanui
         - Haven Tide
-        - "Hearts of Atlantis"
+        - "Hearts of Hades" #Halloween Hearts of Atlantis
         - Hekla
         - Hemlock
+        - "Hellside Theyscream"
         - Hobbit CTW
-        - Home by the Sea
+        - "Images of Sorrow" #Halloween Home by the Sea
         - "Hot Dam"
         - "Hot "
-        - Hotel Overcast
+        - "Hotel Overlook" #Halloween Hotel Overcast
   #     - "Howdy Partner" October 2025
         - Huanxiang
         - Ice Miners
@@ -323,11 +327,11 @@ pools:
         - Iris DTM
         - Island Divide
         - Istana
-        - Iti Mo'ai
+        - "Iti Boo'ai" #Halloween Iti Mo'ai
         - Java II
         - Jurassic
         - Justice
-        - Kanto
+        - "Kant-o'-Lantern" #Halloween Kanto
         - Keipha CTW
         - Kingdom
         - Kuusepuu
@@ -348,7 +352,7 @@ pools:
         - Lupa
         - Lush Oasis
         - Malupa
-        - Mame, I Shrunk the PvPers
+        - "Mame, I Shrunk the Goblins" #Halloween Mame, I Shrunk the PvPers
         - Manzikert
         - Maple Falls
         - Maple Syrup
@@ -359,8 +363,8 @@ pools:
         - Medieval Village
         - Metro
         - Metropolis
-        - Midnight Train
-        - Miner Sixty Niner
+        - "Halloween Train" #Halloween Midnight Train
+        - "Die Noon" #Halloween Miner Sixty Niner
         - MissingNo
         - Mistral Bay
         - "Mo'ai"
@@ -370,7 +374,7 @@ pools:
         - Moonlight Summit
         - Mushdoom
         - Mushroom Gorge
-        - Mushroom Monuments
+        - "Booshroom Monuments" #Halloween Mushroom Monuments
         - Mushroom Kingdoms
         - Mystic Point
         - Nebulosa
@@ -400,12 +404,12 @@ pools:
         - Palm Rust
   #     - "Parabola" October 2025
         - "Parabola II"
-        - Parallel Plays # waiting on map.png
+        - Parallel Plays
         - Pandemonium
         - Peloponnesia
         - Pineium DTM
         - Pirates I
-        - PixelMix
+        - "PixelMissing" #Halloween PixelMix
         - Polynesia
         - Pond
         - Promenade
@@ -421,18 +425,18 @@ pools:
         - Research Base
   #     - "Rice" October 2025
         - Rind Rushers
-        - Ringpull
+        - "Ringnull" #Halloween Ringpull
         - Riverside
         - Roar
         - Rocky Top
         - Royal Arena
-        - Royal Ascend
-        - Royal Garden DTC
+        - "BOOyal Ascend" #Halloween Royal Ascend
+        - "Spooky Garden DTC" #Halloween Royal Garden DTC
         - Roziterman
         - Ruediger's Bonsai Garden
-        - "Sakura Garden"
+        - "Halloween Garden" #Halloween Sakura Garden
         - "Sakura Garden II"
-        - "Sanctum Wasser"
+        - "Spooky Sanctum" #Halloween Sanctum Wasser
         - Sandstorm
         - Sandy
         - Santorini
@@ -444,19 +448,20 @@ pools:
         - Siloë
         - Sinuous
         - Smoke KotH
-        - Snowy Wars
+        - "Snowy Wars: Halloween" #Halloween Snowy Wars
         - Snow Level
-        - SolitudeMC
-        - Soviet Mills
+        - "SolitudeMC: Halloween" #Halloween SolitudeMC
+        - "Soviet Chills" #Halloween Soviet Mills
         - Space Corp
-        - Spaceship Battles
+        - "Spaceship Battles: Hallloween" #Halloween Spaceship Battles
         - "Split Strata"
         - State of Decay II
         - Steam Siege
         - Steel Valley
+        - "Stratoween Rage"
         - Streamline II
         - Summer Sadness
-        - Sunrise Over Paradise
+        - "Halloween Over Paradise" #HalloweenSunrise Over Paradise
         - Sunset Glaze
         - "Super Happy Fun World"
         - Swamped
@@ -475,6 +480,7 @@ pools:
         - Thornwood
         - Thunder
         - Thunderbolt
+        - "Styx Falls" #Halloween
         - Tohjo Falls II
         - Torn Canyon
         - Total Beesness
@@ -483,18 +489,19 @@ pools:
         - "ToW: Mush More"
         - Townside
         - Townside Mini
-        - Transit
+        - "Transit: Hallloween Edition" #Halloween Transit
         - Treflip
-        - Tulip Mania
+        - "Witch Mania" #Halloween Tulip Mania
         - Tumbleweed
         - Tuscany Hills # leaves?
   #      - Tuscany October 2025
         - Tusho CTW
         - "Twilight Citadel"
         - Twisted
-        - Two Tier
+        - "Two Tear" #Halloween Two Tier
         - UBoat König
         - "Ulcinj"
+        - "Undead Noon" #Halloween
         - "Underpass"
         - "Urban Jungle"
         - Vegas
@@ -502,17 +509,19 @@ pools:
         - "Vertex"
         - "Vesuvius"
         - Villa I
+        - "Villa BOO" #Halloween
         - Voodoo
-        - The Waiting Room
+        - "The Carving Room" #Halloween The Waiting Room
         - Wallop Series X
+        - "Warlock"
         - Warzone
         - When Men Cried
-        - Wild Isle
+        - "Wild Vile" #Halloween Wild Isle
         - Winsray Fields
         - Winter Solstice Mini
         - Wit's End
-        - Witch's Potions
-        - Wooly Woods
+        - "Scary Potions" #Halloween Witch's Potions
+        - "Witchy Woods" #Halloween Wooly Woods
         - Ximorta
         - Xinx
         - Xion
@@ -693,7 +702,7 @@ pools:
        min-length: 45
        minutes-per-day: 15
     maps:
-      - "100 Rooms"
+      - "101 Pumpkins" #Halloween 100 Rooms
       - "101 Rooms: Lifesteal"
       - "2D"
       - "A Journey Through History"
@@ -747,12 +756,13 @@ pools:
       - "Hide n' Seek"
       - "Hide n' Seek: Community"
       - "Humble Jungle"
+      - "Infection: Amusement Park: Halloween Edition" #Halloween
       - "Infection: Boulevard"
       - "Infection: Cityscape"
       - "Infection: Kraken"
       - "Infection: Riot in Prison"
       - "Infection: Store"
-      - "Into the Jungle"
+      - "Into the Jack o' Lantern" #Halloween Into the Jungle
       - "Juggernaut's Hall"
       - "Juggernaut's Hall: Sacrifice"
       - "King's Conquest: Incendiary"
@@ -1057,7 +1067,6 @@ pools:
       - Interitus
       - Ion
       - Iris DTC
-      - Irongate Harbor
       - Jungle Beat
       - Kytriak
       - Levels
