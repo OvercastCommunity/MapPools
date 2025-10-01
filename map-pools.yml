@@ -85,7 +85,7 @@ pools:
         - "Pixie"
   #     - "Polders"
   #     - "Research" February 2024
-  #     - "Resort"
+        - "Resort"
   #     - "Vineyard" October 2025
   #     - "Yonaguni" February 2024
       bridge:
@@ -184,6 +184,7 @@ pools:
         - Beehive
         - Belvedere
         - Bessemer's Process
+        - "Biotech"
         - "Black Gold"
         - "Blitzkrieg CTF"
         - BlockBlock
@@ -226,7 +227,7 @@ pools:
         - Cytokinesis
         - Cyril
         - D-Day
-        - Daydream Mini
+  #     - "Daydream Mini" October 2025
         - Deadwood
         - Dead Waters
         - Deciduous Nights
@@ -272,6 +273,7 @@ pools:
         - The Fenland
         - Fiesta Mexicana
         - Fields of Glory
+        - "Fier"
         - "Firum CTW"
         - Flags of Samarkand
         - Flush Vibes II
@@ -286,6 +288,7 @@ pools:
   #     - "Geometric Domination" October 2025
         - Gethsemane
         - Ghostwind Mountain
+        - "Gobi"
         - Golden Drought
         - Golden Drought III
         - Golden Fever
@@ -306,6 +309,7 @@ pools:
         - Haven Tide
         - "Hearts of Atlantis"
         - Hekla
+        - "Hillside Daydream"
         - Hemlock
         - Hobbit CTW
         - Home by the Sea
@@ -316,6 +320,7 @@ pools:
         - Huanxiang
         - Ice Miners
         - "Ineritus"
+        - "Infernal Shadow"
         - Icecream Sandwiched II
         - Icescar
         - Incassum
@@ -328,6 +333,7 @@ pools:
         - Istana
         - Iti Mo'ai
         - Java II
+        - "Jugle Beat"
         - Jurassic
         - Justice
         - Kanto
@@ -433,6 +439,7 @@ pools:
         - Royal Garden DTC
         - Roziterman
         - Ruediger's Bonsai Garden
+        - "Ruffland"
         - "Sakura Garden"
         - "Sakura Garden II"
         - "Sanctum Wasser"
@@ -487,6 +494,7 @@ pools:
         - Townside
         - Townside Mini
         - Transit
+        - "Tranquility"
         - Treflip
         - Tulip Mania
         - Tumbleweed
@@ -505,6 +513,7 @@ pools:
         - "Vertex"
         - "Vesuvius"
         - Villa I
+        - "Villa II"
         - Voodoo
         - The Waiting Room
         - Wallop Series X
@@ -513,7 +522,9 @@ pools:
         - When Men Cried
         - Wild Isle
         - Winsray Fields
+        - "Winterbane"
         - Winter Solstice Mini
+        - "Wintertime"
         - Wit's End
         - Witch's Potions
         - Wooly Woods
@@ -522,6 +533,7 @@ pools:
         - Xion
         - Xunkohtli
         - Yangshuo
+        - "Yermo"
         - "Zipline III"
   avicus: # Just some of your throwback Avicus maps
     type: voted
