@@ -228,7 +228,7 @@ pools:
         - Cyril
         - D-Day
   #     - "Daydream Mini" October 2025
-        - Deadwood
+  #     - Deadwood
         - Dead Waters
         - Deciduous Nights
         - Deepwind Jungle
@@ -266,7 +266,8 @@ pools:
         - Facility
         - Factorio Mainbus
         - Factory
-        - "Fairy Tales: 2 A Tale or Two"
+        - "Fairy Tales 2: A Tale or Two"
+        - "Fairy Tales 2: Mini"
         - "Fairy Tales: Metamorphose"
         - Fallencrests # power bows, core layers
         - Fall of Babylon
@@ -291,6 +292,7 @@ pools:
         - "Gobi"
         - Golden Drought
         - Golden Drought III
+        - Golden Drought V
         - Golden Fever
         - Gongua CTW
         - Grassy Mound
@@ -313,12 +315,13 @@ pools:
         - Hemlock
         - Hobbit CTW
         - Home by the Sea
+        - Honeycombed
         - "Hot Dam"
-        - "Hot "
+        - "Hot Dam Mini"
         - Hotel Overcast
   #     - "Howdy Partner" October 2025
         - Huanxiang
-        - Ice Miners
+  #     - Ice Miners
         - "Ineritus"
         - "Infernal Shadow"
         - Icecream Sandwiched II
@@ -339,8 +342,10 @@ pools:
         - Kanto
         - Keipha CTW
         - Kingdom
+        - King Neptune
         - Kuusepuu
         - Kï
+        - "La Bataille de l'épée"
         - Lasa
         - Let's Sell Discounts
         - Level Up
@@ -391,9 +396,11 @@ pools:
         - The Nile
         - No Man's Land # punch bows, wool mons, spawn region
         - Noble's District
+        - North Winds
         - Nyxis
         - Oasis CTW
         - Oceano CTW
+        - Odin
         - Onier
         - Operation Overlord
         - Osoi
@@ -417,7 +424,8 @@ pools:
         - PixelMix
         - Polynesia
         - Pond
-        - Promenade
+        - Prisma CTW
+  #     - Promenade
         - "Puddin' Pops"
         - Quadrival
         - Quintlet
@@ -485,8 +493,10 @@ pools:
         - Thornwood
         - Thunder
         - Thunderbolt
+        - Tohjo Falls
         - Tohjo Falls II
         - Torn Canyon
+        - "Toss Up: One in the Quiver"
         - Total Beesness
         - Total War II
         - Totem
