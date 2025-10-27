@@ -134,6 +134,7 @@ pools:
         - Abudor
         - "Acapulco"
         - Ad Astra
+        - "Ad Infinitum"
         - Aequabilis
         - Aerobellum
         - Aether
@@ -180,7 +181,8 @@ pools:
         - Battleship Halberd
         - Bazaar KotF
         - Beauty to Ashes
-        - "Bed Rush: Anubis"
+  #     - "Bed Rush: Anubis" October 2025 (trade back Jan 2026)
+        - "Bed Rush: Drakkar"
         - Beehive
         - Belvedere
         - Bessemer's Process
@@ -376,6 +378,7 @@ pools:
         - MissingNo
         - Mistral Bay
         - "Mo'ai"
+        - "Fox Dream"
         - Mole Dream
         - Molendinis
         - Monument Valley
@@ -474,6 +477,7 @@ pools:
         - Summer Sadness
         - Sunrise Over Paradise
         - Sunset Glaze
+        - "Super Bed World"
         - "Super Happy Fun World"
         - Swamped
         - Sweetopia
@@ -758,6 +762,7 @@ pools:
       - "Do Not Press The Button For Two Minutes"
       - "Dodge Ball"
       - "Dodge Ball Stadium"
+      - "Down Side Up"
       - "Dynamight Versus"
       - "Eldritch Trials"
       - "Fall Guys"
@@ -778,10 +783,12 @@ pools:
       - "Infection: Cityscape"
       - "Infection: Kraken"
       - "Infection: Riot in Prison"
+      - "Infection: Skull Island"
       - "Infection: Store"
       - "Into the Jungle"
       - "Juggernaut's Hall"
       - "Juggernaut's Hall: Sacrifice"
+      - "Killavator"
       - "King's Conquest: Incendiary"
       - "King's Conquest: Porky Plains"
       - "King's Conquest: Rage Quit"
@@ -802,6 +809,7 @@ pools:
       - "Paint Can't Wait 2"
       - "Penguin Pursuit"
       - "Ping Bomb II"
+      - "Pillars"
       - "Pixel Run"
       - "Player Blender: Lifesteal"
       - "Plus Side"
@@ -817,6 +825,7 @@ pools:
       - "Race: Pebble Creek"
       - "Raid FFA: Guns"
       - "Red Agony"
+      - "Red Rover"
       - "Road to the Moon"
       - "Rush Wars Tournament 2: Attack of the Defenders"
       - "Salvo But it's a Castle and There's 2x Monuments"
@@ -917,6 +926,7 @@ pools:
       - "Retaliation"
       - "Retaliation 2"
       - "Retro Encabulator"
+      - "Rock the Casbah"
       - "Runes of Ruin"
       - "Salvo"
       - "Salvo But it's a Castle and There's 2x Monuments"
@@ -927,6 +937,7 @@ pools:
       - "Spaceclay Battles"
       - "Spaceship Battles"
       - "Stone Fields"
+      - "The Killing Floor"
       - "The Lost Arcade"
       - "The Waiting Room"
       - "Total War"
