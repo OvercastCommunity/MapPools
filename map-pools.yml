@@ -1,7 +1,5 @@
 pools:
   default:
-    variants:
-      - halloween
     type: voted
     enabled: true
     dynamic: true
