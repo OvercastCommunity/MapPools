@@ -347,7 +347,7 @@ pools:
         - Lasa
         - Let's Sell Discounts
         - Level Up
-        - Little China
+  #     - "Little China" November 2025 too easy to abuse out of bounds w/ flag
         - Little Roses
         - Long Distance
         - Long Shot
@@ -388,7 +388,7 @@ pools:
         - Mystic Point
         - Nebulosa
         - Nether War CTW
-        - NewGen
+  #     - "NewGen" November 2025
         - NextRace
         - Nightsail # spawner update
         - Nirow
@@ -509,7 +509,7 @@ pools:
         - Tulip Mania
         - Tumbleweed
         - Tuscany Hills # leaves?
-  #      - Tuscany October 2025
+  #     - Tuscany October 2025
         - Tusho CTW
         - "Twilight Citadel"
         - Twisted
