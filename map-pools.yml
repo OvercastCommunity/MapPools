@@ -179,8 +179,8 @@ pools:
         - Battleship Halberd
         - Bazaar KotF
         - Beauty to Ashes
-  #     - "Bed Rush: Anubis" October 2025 (trade back Jan 2026)
-        - "Bed Rush: Drakkar"
+        - "Bed Rush: Anubis"
+  #     - "Bed Rush: Drakkar" (Jan 2026, trade back Apr 2026)
         - Beehive
         - Belvedere
         - Bessemer's Process
@@ -270,8 +270,8 @@ pools:
         - "Fairy Tales: Metamorphose"
         - Fallencrests # power bows, core layers
         - Fall of Babylon
+        - "FB: Data-Rush"
         - The Fenland
-        - "México"
         - Fields of Glory
         - "Fier"
         - "Firum CTW"
@@ -360,6 +360,7 @@ pools:
         - Lunar Crescent
         - Lupa
         - Lush Oasis
+        - "Madness on Rails"
         - Malupa
         - Mame, I Shrunk the PvPers
         - Manzikert
@@ -372,6 +373,7 @@ pools:
         - Medieval Village
         - Metro
         - Metropolis
+        - "México"
         - Midnight Train
         - Miner Sixty Niner
         - MissingNo
@@ -419,11 +421,13 @@ pools:
         - Parallel Plays # waiting on map.png
         - Pandemonium
         - Peloponnesia
+        - "Philosopher's Stone"
         - Pineium DTM
         - Pirates I
         - PixelMix
         - Polynesia
         - Pond
+        - "Possession Game"
         - Prisma CTW
   #     - Promenade
         - "Puddin' Pops"
@@ -773,6 +777,7 @@ pools:
       - "Eldritch Trials"
       - "Fall Guys"
       - "Firing Squad"
+      - "Find the Button!"
       - "Flappy Bird"
       - "Freeze Tag: Icebliss"
       - "Frostbite"
@@ -814,6 +819,7 @@ pools:
       - "Paint Can't Wait"
       - "Paint Can't Wait 2"
       - "Penguin Pursuit"
+      - "Pillars"
       - "Ping Bomb II"
       - "Pillars"
       - "Pixel Run"
