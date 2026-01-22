@@ -256,6 +256,7 @@ pools:
         - Enchanted
         - Ender Blast
         - "Ender Hill"
+        - "Entropy Reactor Mk. 1"
         - Equinox
         - Exiled KotF
         - Exogrid
@@ -381,6 +382,7 @@ pools:
         - "Fox Dream"
         - Mole Dream
         - Molendinis
+        - Monkey Mania
         - Monument Valley
         - Moonlight Summit
         - Mushdoom
@@ -435,7 +437,6 @@ pools:
         - Race for Victory 2
         - "Rafiki"
         - Raid FFA
-        - Rampant
         - Rangi-nui
         - Rattlesnake
         - Research Base
@@ -461,11 +462,13 @@ pools:
         - Sawgrass 17
         - Scrapelli
   #     - "Sheep CTW" October 2025 (lots of mixed reactions)
+        - Shifty Sands
         - "Shingeki no Brady"
         - Shinobi
         - Siloë
         - Sinuous
         - Smoke KotH
+        - Snowdrift Pass
         - Snowy Wars
         - Snow Level
         - SolitudeMC
@@ -522,6 +525,7 @@ pools:
   #     - Tuscany October 2025
         - Tusho CTW
         - "Twilight Citadel"
+        - Twilight Tuckaway
         - Twisted
         - Two Tier
         - UBoat König
