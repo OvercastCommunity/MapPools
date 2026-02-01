@@ -66,499 +66,140 @@ pools:
       , 2)
 
     maps:
-      bridge_5v5:
-        weight: 0.5
-        maps:
-        - "Avalon"
-  #     - "Banished" September 2023
-        - Boneyard
-  #     - "Bridge: Castle" September 2023
-  #     - "Castlen't" October 2025
-  #     - "Chernot" October 2025
-        - "Climate"
-  #     - "Coral" February 2024
-        - "Crimson"
-  #     - "Dead End"
-        - "Limitless"
-        - "Pixie"
-  #     - "Polders"
-  #     - "Research" February 2024
-        - "Resort"
-  #     - "Vineyard" October 2025
-  #     - "Yonaguni" February 2024
-      bridge:
-        weight: 0.5
-        maps:
-        - "Avant Garde" # Bridge DTM
-  #     - "Bridge: Samarkand"
-        - "Cordillera" # Bridge DTM
-        - "Double Cross"
-  #     - "Double Take" October 2023
-  #     - "Kihl"
-        - "Mont Blanc"
-        - "Over Troubled Water"
-        - "Rockaway Bridge"
-      bridge_swap:
-        - "Bridge Swap: Double Take"
-        - Gulch
-        - Moss
-      item_sumo:
-        weight: 0.5
-        maps:
-        - "Atomic"
-        - "Calima"
-        - "Psycho Sumo"
-        - "Weald"
-      flag_football:
-        weight: 0.5
-        maps:
-        - "Cathedral Football"
-  #     - "Cola"
-  #     - "Fantasy"
-  #     - "Friday Night Lights"
-        - "Iceblade"
-        - "Ice Rift"
-  #     - "Keeper" June 2023
-  #     - "Kraken"
-  #     - "Longhorn" February 2024
-        - "NYC"
-  #     - "Pipes and Punters"
-  #     - "Royal Rumble: Classic"
-        - "Royal Rumble II"
-        - "Sakura"
-  #     - "Superbowl Sunday"
-        - "Waffle House"
-      normal:
-        - Abudor
-        - "Acapulco"
-        - Ad Astra
-        - "Ad Infinitum"
-        - Aequabilis
-        - Aerobellum
-        - Aether
-        - After Hours
-        - Agrostid
-        - Airship Battle
-        - Alpine Mining
-        - Amphitheater
-        - Ancient
-        - Annealing
-        - Annealing IV
-        - Antiquis
-        - "Anvil"
-        - Apollo 23
-        - Appalachia
-        - Apple Smash
-        - Apostle
-        - Aquatica
-        - Arabia
-        - Araxa
-        - Arctic Ruins
-        - The Archives
-        - Armature
-        - Artholis
-        - Ascendance Payload_Race
-        - Assault
-        - Athirk
-        - Autumn Solstice
-        - Avalanche Mini
-        - "Avalon Funland"
-        - "Azure"
-  #     - "Badlands" October 2025 (trade for factory)
-        - Baleful Eden
-        - BalloonsDTM
-        - Bamboo Valley III
-        - Bamboo Valley V
-        - Banana Split DTM
-        - "Barnyard Abduction"
-        - Battle Ecliptica III
-        - Battle for Amaterasu
-        - Battle of Krehm
-        - Battle of Tenjin II
-        - Battle of Tenjin III
-        - Battleship Halberd
-        - Bazaar KotF
-        - Beauty to Ashes
-        - "Bed Rush: Anubis"
-  #     - "Bed Rush: Drakkar" (Jan 2026, trade back Apr 2026)
-        - Beehive
-        - Belvedere
-        - Bessemer's Process
-        - "Biotech"
-        - "Black Gold"
-        - "Blitzkrieg CTF"
-        - BlockBlock
-  #     - "Blocks CTW" October 2025
-        - Blocks II
-        - Blocks DTC
-        - "Blocks: Destroy the Dynamite"
-        - Boar Beach
-  #     - "Bob-Omb Battlefield" October 2025
-        - Boletum
-        - BoomBox
-        - "Brisked"
-        - Brittlebush I
-        - Calico
-        - Cannonball Cove
-        - Canopy
-        - Cargo
-        - Catre KotH
-        - Chestnut
-        - Chocolate Diamonds
-        - Citadel
-        - City of Colors DTM
-        - Circus CTW
-        - ClayClay
-        - Clearcut
-        - Coconut Mald
-        - "Colorado Alpines"
-        - Columbia CTW
-        - Concourse
-  #     - Connect 4
-        - Constellation
-        - Coral Reef
-        - Corrupted Paradise CTW
-        - Courtyard Classic
-        - Crater Resort
-        - Crippled Divide
-        - Cummins Turbo Diesel
-        - "Cursed Library"
-        - Cytokinesis
-        - Cyril
-  #     - "Daydream Mini" October 2025
-  #     - Deadwood
-        - Dead Waters
-        - Deciduous Nights
-        - Deepwind Jungle
-        - Deepwood
-        - Desert Cataract
-        - Desert Country
-        - Desert Eclipse
-        - Desert Sanctuary
-        - Desolate Gully CTW
-        - Diramu Valley DTM
-        - "Directrix: 2 Flags"
-        - Discount Fortress
-  #     - "Disc Wars II" October 2025 
-        - Dominion
-        - "Don't Break My Heart"
-        - Downforce II
-        - Downtown
-        - Dromedary
-        - Duality
-        - Dust
-        - Dynamo
-        - Edo
-        - "Embargo"
-        - Emerald Glades
-        - Emergency Meeting
-        - Empire
-        - Enchanted
-        - Ender Blast
-        - "Ender Hill"
-        - "Entropy Reactor Mk. 1"
-        - Equinox
-        - Exiled KotF
-        - Exogrid
-        - Expedition
-        - Extraterrestrial
-        - Facility
-        - Factorio Mainbus
-        - Factory
-        - "Fairy Tales 2: A Tale or Two"
-        - "Fairy Tales 2: Mini"
-        - "Fairy Tales: Metamorphose"
-        - Fallencrests # power bows, core layers
-        - Fall of Babylon
-        - "FB: Data-Rush"
-        - The Fenland
-        - Fields of Glory
-        - "Fier"
-        - "Firum CTW"
-        - Flags of Samarkand
-        - Flush Vibes II
-        - Forge Ignea
-        - Fourchette
-        - Fractal Descent
-        - "Fracture DTM"
-        - Frost
-        - Fungi Grove
-        - Fumeen II
-        - Garf
-  #     - "Geometric Domination" October 2025
-        - Gethsemane
-        - Ghostwind Mountain
-        - "Gobi"
-        - Golden Drought
-        - Golden Drought III
-        - Golden Drought V
-        - Golden Fever
-        - Gongua CTW
-        - Grassy Mound
-        - Greecia
-        - Green
-        - Greenhill
-        - Green Gem CTW
-        - Gridlock 2
-        - Grub
-        - The Grove
-        - "Hallows"
-        - Happy Rainbow Snowball RAGE
-        - Harbor CTW
-        - Harvest
-        - Hau'oli Mau Lanui
-        - Haven Tide
-        - "Hearts of Atlantis"
-        - Hekla
-        - "Hillside Daydream"
-        - Hemlock
-        - Hobbit CTW
-        - Home by the Sea
-        - Honeycombed
-        - "Hot Dam"
-        - "Hot Dam Mini"
-        - Hotel Overcast
-  #     - "Howdy Partner" October 2025
-        - Huanxiang
-  #     - Ice Miners
-        - "Ineritus"
-        - "Infernal Shadow"
-        - Icecream Sandwiched II
-        - Icescar
-        - Incassum
-        - Ingwaz
-        - Inheritance
-        - Inkbloc Art Academy
-        - Insanihe
-        - Iris DTM
-        - Island Divide
-        - Istana
-        - Iti Mo'ai
-        - Java II
-        - "Jungle Beat"
-        - Jurassic
-        - Justice
-        - Kanto
-        - Keipha CTW
-        - Kingdom
-        - King Neptune
-        - Kuusepuu
-        - Kï
-        - "La Bataille de l'épée"
-        - Lasa
-        - Let's Sell Discounts
-        - Level Up
-  #     - "Little China" November 2025 too easy to abuse out of bounds w/ flag
-        - Little Roses
-        - Long Distance
-        - Long Shot
-        - Lost Gardens
-        - Lost Haven
-        - Lost World CTF
-        - Lotus
-        - Loyalty DTM
-        - Lunar Crescent
-        - Lupa
-        - Lush Oasis
-        - "Madness on Rails"
-        - Malupa
-        - Mame, I Shrunk the PvPers
-        - Manzikert
-        - Maple Falls
-        - Maple Syrup
-        - Mars Odyssey
-        - Masarin II
-        - Mayan Apocalypse
-        - Mbanza
-        - Medieval Village
-        - Metro
-        - Metropolis
-        - "México"
-        - Midnight Train
-        - Miner Sixty Niner
-        - MissingNo
-        - Mistral Bay
-        - "Mo'ai"
-        - "Fox Dream"
-        - Mole Dream
-        - Molendinis
-        - Monkey Mania
-        - Monument Valley
-        - Moonlight Summit
-        - Mushdoom
-        - Mushroom Gorge
-        - Mushroom Monuments
-        - Mushroom Kingdoms
-        - Mystic Point
-        - Nebulosa
-        - Nether War CTW
-  #     - "NewGen" November 2025
-        - NextRace
-        - Nightsail # spawner update
-        - Nirow
-        - The Nile
-        - No Man's Land # punch bows, wool mons, spawn region
-        - Noble's District
-        - North Winds
-        - Nyxis
-        - Oasis CTW
-        - Oceano CTW
-        - Odin
-        - Onier
-        - Operation Overlord
-        - Osoi
-  #     - "Oumuamua" October 2025
-        - Ouroboros
-        - Outback Mini
-        - "Outback: Outback Edition"
-        - Outlyne
-  #     - Paddo's
-        - Paint the Streets
-        - Paintman's Day Off
-        - Palace CTF
-        - Palm Rust
-  #     - "Parabola" October 2025
-        - "Parabola II"
-        - Parallel Plays # waiting on map.png
-        - Pandemonium
-        - Peloponnesia
-        - "Philosopher's Stone"
-        - Pineium DTM
-        - Pirates I
-        - PixelMix
-        - Polynesia
-        - Pond
-        - "Possession Game"
-        - Prisma CTW
-  #     - Promenade
-        - "Puddin' Pops"
-        - Quadrival
-        - Quintlet
-        - Race for Victory 2
-        - "Rafiki"
-        - Raid FFA
-        - Rangi-nui
-        - Rattlesnake
-        - Research Base
-  #     - "Rice" October 2025
-        - Rind Rushers
-        - Ringpull
-        - Riverside
-        - Roar
-        - Rocky Top
-        - Royal Arena
-        - Royal Ascend
-        - Royal Garden DTC
-        - Roziterman
-        - Ruediger's Bonsai Garden
-        - "Ruffland"
-        - "Sakura Garden"
-        - "Sakura Garden II"
-        - "Sanctum Wasser"
-        - Sandstorm
-        - Sandy
-        - Santorini
-        - "Sarc"
-        - Sawgrass 17
-        - Scrapelli
-  #     - "Sheep CTW" October 2025 (lots of mixed reactions)
-        - Shifty Sands
-        - "Shingeki no Brady"
-        - Shinobi
-        - Siloë
-        - Sinuous
-        - Smoke KotH
-        - Snowdrift Pass
-        - Snowy Wars
-        - Snow Level
-        - SolitudeMC
-        - Soviet Mills
-        - Space Corp
-        - Spaceship Battles
-        - "Split Strata"
-        - State of Decay II
-        - Steam Siege
-        - Steel Valley
-        - Streamline II
-        - Summer Sadness
-        - Sunrise Over Paradise
-        - Sunset Glaze
-        - "Super Bed World"
-        - "Super Happy Fun World"
-        - Swamped
-        - Sweetopia
-        - Tahiti
-        - Tangier
-        - Tanker TNT
-        - Tatakai
-        - Tebulas
-        - Temple Valley
-        - Tetrad
-        - The Complex CTF
-        - "The 4th Law"
-        - "The Big Dig"
-        - The King's Lava Lair
-        - "The Overcast Bowl"
-        - "The Soup Bowl"
-        - Thornwood
-        - Thunder
-        - Thunderbolt
-        - Tohjo Falls
-        - Tohjo Falls II
-        - "Tom Brady"
-        - Torn Canyon
-        - "Toss Up: One in the Quiver"
-        - Total Beesness
-        - Total War II
-        - Totem
-        - "ToW: Mush More"
-        - Townside
-        - Townside Mini
-        - Transit
-        - "Tranquility"
-        - Treflip
-        - "Trip to Cancun"
-        - "Tron Brady"
-        - Tulip Mania
-        - Tumbleweed
-        - Tuscany Hills # leaves?
-  #     - Tuscany October 2025
-        - Tusho CTW
-        - "Twilight Citadel"
-        - Twilight Tuckaway
-        - Twisted
-        - Two Tier
-        - UBoat König
-        - "Ulcinj"
-        - "Underpass"
-        - "Urban Jungle"
-        - Vegas
-        - "Veld"
-        - "Vertex"
-        - "Vesuvius"
-        - Villa I
-        - "Villa II"
-        - Voodoo
-        - The Waiting Room
-        - Wallop Series X
-        - "Warlock"
-        - Warzone
-        - When Men Cried
-        - Wild Isle
-        - Winsray Fields
-        - "Winterbane"
-        - Winter Solstice Mini
-        - "Wintertime"
-        - Wit's End
-        - Witch's Potions
-        - Wooly Woods
-        - Ximorta
-        - Xinx
-        - Xion
-        - Xunkohtli
-        - Yangshuo
-        - "Yermo"
-        - "Zipline III"
+      - "Ad Astra"
+      - "Ad Infinitum"
+      - "Aether"
+      - "Allure"
+      - "Annealing"
+      - "Annealing III"
+      - "Annealing IV"
+      - "Apocalypse CTW"
+      - "Apple Smash"
+      - "Aquatica"
+      - "Armature"
+      - "Autumn Solstice"
+      - "Avant Garde"
+      - "Azure"
+      - "Barnyard Abduction"
+      - "Bazaar KotF"
+      - "Beyond"
+      - "Bloom"
+      - "Blossom CTW"
+      - "Boar Beach"
+      - "Brittlebush II"
+      - "Cannonball Cove"
+      - "Coastline"
+      - "Cobalt Planet"
+      - "Constellation"
+      - "Cool Steak"
+      - "Cordillera: Elytra"
+      - "A Classy Night for a Fight"
+      - "Dead Noon"
+      - "Don't Break My Heart"
+      - "Double Cross"
+      - "Dromedary"
+      - "Edo"
+      - "Enchanted"
+      - "Epsilon"
+      - "Exiled KotF"
+      - "Exogrid"
+      - "Expedition"
+      - "Fall of Babylon"
+      - "The Fenland"
+      - "Forge Ignea"
+      - "Fox Dream"
+      - "Fruhling"
+      - "Fumeen II"
+      - "Gloomwald"
+      - "Golden Drought"
+      - "Grassy Mound CTF"
+      - "Green Gem CTW"
+      - "Hemlock"
+      - "Hemlock II"
+      - "Hillside Daydream"
+      - "Hobbit CTW"
+      - "Irongate Harbor"
+      - "Istana CTW"
+      - "Island Divide"
+      - "Kanto"
+      - "Level Up"
+      - "Limit"
+      - "Long Distance"
+      - "Lupain"
+      - "Mahatma"
+      - "Mame, I Shrunk the PvPers"
+      - "Medieval Village"
+      - "Meerkat Dream"
+      - "Mistral Bay"
+      - "Mo'ai"
+      - "Mole Dream"
+      - "Mushroom Monuments"
+      - "Mythical Marsh"
+      - "Natsukashii"
+      - "The Nile"
+      - "Noble's District"
+      - "Onier"
+      - "Operation Overlord"
+      - "Osoi"
+      - "Oumuamua"
+      - "Outback"
+      - "Outback: Outback Edition"
+      - "The Overcast Bowl"
+      - "Paddos"
+      - "Parallel Plays"
+      - "Peloponnesia"
+      - "Parabola II"
+      - "Pineium CTW"
+      - "Pineium DTM"
+      - "Polynesia: Trident RAGE"
+      - "Querelous"
+      - "Raceway"
+      - "Renegade"
+      - "Research Base"
+      - "Rice"
+      - "Rind Rushers II"
+      - "Röntgen"
+      - "Rotten"
+      - "Royal Ascend"
+      - "Roziterman"
+      - "Rind Rushers"
+      - "Ruffland"
+      - "Sanctum Wasser"
+      - "Santorini"
+      - "Scorched Grove"
+      - "Scrapelli"
+      - "Sheep CTW"
+      - "Shinobi"
+      - "Shroom Galaxy"
+      - "Skycastle Islands"
+      - "Snow Level"
+      - "Sweetopia"
+      - "The Soup Bowl"
+      - "Space Corp"
+      - "Standstill"
+      - "Sunbliss"
+      - "Thistle Terrace"
+      - "Thunder"
+      - "Thunderbolt"
+      - "Thunderrush"
+      - "Timbered"
+      - "Tohjo Falls II"
+      - "Total Beesness"
+      - "Townside"
+      - "Trial Chambers"
+      - "Tulip Mania II"
+      - "Tuscany Hills"
+      - "Tumbleweed"
+      - "Twilight Tuckaway"
+      - "Voodoo"
+      - "Waterwood"
+      - "Warlock"
+      - "Wholething"
+      - "Wild Isle"
+      - "Winterbane"
+      - "Wintertime"
+      - "Winter Solstice"
+      - "Winter Solstice Mini"
   avicus: # Just some of your throwback Avicus maps
     type: voted
     enabled: true
