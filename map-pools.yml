@@ -139,13 +139,16 @@ pools:
         - After Hours
         - Agrostid
         - Airship Battle
+        - "Allure"
         - Alpine Mining
         - Amphitheater
         - Ancient
         - Annealing
+        - Annealing III
         - Annealing IV
         - Antiquis
         - "Anvil"
+        - Apocalypse CTW
         - Apollo 23
         - Appalachia
         - Apple Smash
@@ -164,7 +167,7 @@ pools:
         - Avalanche Mini
         - "Avalon Funland"
         - "Azure"
-  #     - "Badlands" October 2025 (trade for factory)
+        - "Badlands"
         - Baleful Eden
         - BalloonsDTM
         - Bamboo Valley III
@@ -184,6 +187,7 @@ pools:
         - Beehive
         - Belvedere
         - Bessemer's Process
+        - "Beyond"
         - "Biotech"
         - "Black Gold"
         - "Blitzkrieg CTF"
@@ -192,12 +196,14 @@ pools:
         - Blocks II
         - Blocks DTC
         - "Blocks: Destroy the Dynamite"
+        - "Bloom"
         - Boar Beach
+        - "Blossom CTW"
   #     - "Bob-Omb Battlefield" October 2025
         - Boletum
         - BoomBox
         - "Brisked"
-        - Brittlebush I
+        - Brittlebush II
         - Calico
         - Cannonball Cove
         - Canopy
@@ -206,16 +212,19 @@ pools:
         - Chestnut
         - Chocolate Diamonds
         - Citadel
-        - City of Colors DTM
+  #     - City of Colors DTM
         - Circus CTW
+        - "A Classy Night for a Fight"
         - ClayClay
         - Clearcut
+        - "Coastline"
+        - "Cobalt Planet"
         - Coconut Mald
         - "Colorado Alpines"
         - Columbia CTW
         - Concourse
-  #     - Connect 4
         - Constellation
+        - "Cool Steak"
         - Coral Reef
         - Corrupted Paradise CTW
         - Courtyard Classic
@@ -227,6 +236,7 @@ pools:
         - Cyril
   #     - "Daydream Mini" October 2025
   #     - Deadwood
+        - Dead Noon
         - Dead Waters
         - Deciduous Nights
         - Deepwind Jungle
@@ -257,6 +267,7 @@ pools:
         - Ender Blast
         - "Ender Hill"
         - "Entropy Reactor Mk. 1"
+        - "Epsilon"
         - Equinox
         - Exiled KotF
         - Exogrid
@@ -279,22 +290,25 @@ pools:
         - Flush Vibes II
         - Forge Ignea
         - Fourchette
+        - "Fox Dream"
         - Fractal Descent
         - "Fracture DTM"
         - Frost
+        - "Fruhling"
         - Fungi Grove
         - Fumeen II
         - Garf
   #     - "Geometric Domination" October 2025
         - Gethsemane
         - Ghostwind Mountain
+        - "Gloomwald"
         - "Gobi"
         - Golden Drought
         - Golden Drought III
-        - Golden Drought V
+        - Golden Drought IV
         - Golden Fever
         - Gongua CTW
-        - Grassy Mound
+        - Grassy Mound CTF
         - Greecia
         - Green
         - Greenhill
@@ -312,6 +326,7 @@ pools:
         - Hekla
         - "Hillside Daydream"
         - Hemlock
+        - "Hemlock II"
         - Hobbit CTW
         - Home by the Sea
         - Honeycombed
@@ -332,7 +347,7 @@ pools:
         - Insanihe
         - Iris DTM
         - Island Divide
-        - Istana
+        - Istana CTW
         - Iti Mo'ai
         - Java II
         - "Jungle Beat"
@@ -348,6 +363,7 @@ pools:
         - Lasa
         - Let's Sell Discounts
         - Level Up
+        - Limit
   #     - "Little China" November 2025 too easy to abuse out of bounds w/ flag
         - Little Roses
         - Long Distance
@@ -358,9 +374,11 @@ pools:
         - Lotus
         - Loyalty DTM
         - Lunar Crescent
-        - Lupa
+  #     - Lupa January 2026
+        - Lupain
         - Lush Oasis
         - "Madness on Rails"
+        - "Mahatma"
         - Malupa
         - Mame, I Shrunk the PvPers
         - Manzikert
@@ -371,6 +389,7 @@ pools:
         - Mayan Apocalypse
         - Mbanza
         - Medieval Village
+        - "Meerkat Dream"
         - Metro
         - Metropolis
         - "México"
@@ -379,7 +398,6 @@ pools:
         - MissingNo
         - Mistral Bay
         - "Mo'ai"
-        - "Fox Dream"
         - Mole Dream
         - Molendinis
         - Monkey Mania
@@ -390,6 +408,8 @@ pools:
         - Mushroom Monuments
         - Mushroom Kingdoms
         - Mystic Point
+        - "Mythical Marsh"
+        - "Natsukashii"
         - Nebulosa
         - Nether War CTW
   #     - "NewGen" November 2025
@@ -407,12 +427,12 @@ pools:
         - Onier
         - Operation Overlord
         - Osoi
-  #     - "Oumuamua" October 2025
+        - "Oumuamua"
         - Ouroboros
-        - Outback Mini
+        - "Outback"
         - "Outback: Outback Edition"
         - Outlyne
-  #     - Paddo's
+        - Paddo's
         - Paint the Streets
         - Paintman's Day Off
         - Palace CTF
@@ -423,6 +443,7 @@ pools:
         - Pandemonium
         - Peloponnesia
         - "Philosopher's Stone"
+        - Pineium CTW
         - Pineium DTM
         - Pirates I
         - PixelMix
@@ -433,19 +454,25 @@ pools:
   #     - Promenade
         - "Puddin' Pops"
         - Quadrival
+        - "Querelous"
         - Quintlet
+        - "Raceway"
         - Race for Victory 2
         - "Rafiki"
         - Raid FFA
         - Rangi-nui
         - Rattlesnake
         - Research Base
-  #     - "Rice" October 2025
+        - "Renegade"
+        - "Rice"
         - Rind Rushers
+        - Rind Rushers II
         - Ringpull
         - Riverside
         - Roar
         - Rocky Top
+        - "Röntgen"
+        - "Rotten"
         - Royal Arena
         - Royal Ascend
         - Royal Garden DTC
@@ -460,13 +487,16 @@ pools:
         - Santorini
         - "Sarc"
         - Sawgrass 17
+        - Scorched Grove
         - Scrapelli
-  #     - "Sheep CTW" October 2025 (lots of mixed reactions)
+        - "Sheep CTW"
         - Shifty Sands
         - "Shingeki no Brady"
         - Shinobi
+        - Shroom Galaxy
         - Siloë
         - Sinuous
+        - Skycastle Islands
         - Smoke KotH
         - Snowdrift Pass
         - Snowy Wars
@@ -476,11 +506,13 @@ pools:
         - Space Corp
         - Spaceship Battles
         - "Split Strata"
+        - "Standstill"
         - State of Decay II
         - Steam Siege
         - Steel Valley
         - Streamline II
         - Summer Sadness
+        - "Sunbliss"
         - Sunrise Over Paradise
         - Sunset Glaze
         - "Super Bed World"
@@ -500,9 +532,12 @@ pools:
         - The King's Lava Lair
         - "The Overcast Bowl"
         - "The Soup Bowl"
+        - "Thistle Terrace"
         - Thornwood
         - Thunder
         - Thunderbolt
+        - "Thunderrush"
+        - Timbered
         - Tohjo Falls
         - Tohjo Falls II
         - "Tom Brady"
@@ -516,10 +551,11 @@ pools:
         - Townside Mini
         - Transit
         - "Tranquility"
+        - "Trial Chambers"
         - Treflip
         - "Trip to Cancun"
         - "Tron Brady"
-        - Tulip Mania
+        - Tulip Mania II
         - Tumbleweed
         - Tuscany Hills # leaves?
   #     - Tuscany October 2025
@@ -543,10 +579,13 @@ pools:
         - Wallop Series X
         - "Warlock"
         - Warzone
+        - "Waterwood"
         - When Men Cried
+        - "Wholething"
         - Wild Isle
         - Winsray Fields
         - "Winterbane"
+        - "Winter Solstice"
         - Winter Solstice Mini
         - "Wintertime"
         - Wit's End
