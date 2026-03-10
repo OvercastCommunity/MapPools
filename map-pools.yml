@@ -69,23 +69,23 @@ pools:
       bridge_5v5:
         weight: 0.5
         maps:
-        - "Avalon"
+  #     - "Avalon" March 2026
   #     - "Banished" September 2023
-        - Boneyard
+  #     - "Boneyard" March 2026
   #     - "Bridge: Castle" September 2023
   #     - "Castlen't" October 2025
-  #     - "Chernot" October 2025
-        - "Climate"
-  #     - "Coral" February 2024
-        - "Crimson"
-  #     - "Dead End"
+        - "Chernot"
+  #     - "Climate" March 2026
+        - "Coral"
+  #     - "Crimson" March 2026
+        - "Dead End"
         - "Limitless"
-        - "Pixie"
-  #     - "Polders"
+  #     - "Pixie" March 2026
+        - "Polders"
   #     - "Research" February 2024
-        - "Resort"
-  #     - "Vineyard" October 2025
-  #     - "Yonaguni" February 2024
+  #     - "Resort" March 2026
+        - "Vineyard"
+        - "Yonaguni"
       bridge:
         weight: 0.5
         maps:
@@ -113,21 +113,21 @@ pools:
         weight: 0.5
         maps:
         - "Cathedral Football"
-  #     - "Cola"
+        - "Cola"
   #     - "Fantasy"
   #     - "Friday Night Lights"
         - "Iceblade"
         - "Ice Rift"
   #     - "Keeper" June 2023
-  #     - "Kraken"
+        - "Kraken"
   #     - "Longhorn" February 2024
-        - "NYC"
+  #     - "NYC" March 2026
   #     - "Pipes and Punters"
   #     - "Royal Rumble: Classic"
         - "Royal Rumble II"
-        - "Sakura"
-  #     - "Superbowl Sunday"
-        - "Waffle House"
+  #     - "Sakura" March 2026
+        - "Superbowl Sunday"
+  #     - "Waffle House" March 2026
       normal:
         - Abudor
         - "Acapulco"
@@ -153,7 +153,7 @@ pools:
         - Appalachia
         - Apple Smash
         - Apostle
-        - Aquatica
+  #     - Aquatica March 2026
         - Arabia
         - Araxa
         - Arctic Ruins
@@ -172,7 +172,7 @@ pools:
         - BalloonsDTM
         - Bamboo Valley III
         - Bamboo Valley V
-        - Banana Split DTM
+        - Banana Split
         - "Barnyard Abduction"
         - Battle Ecliptica III
         - Battle for Amaterasu
@@ -203,14 +203,15 @@ pools:
         - Boletum
         - BoomBox
         - "Brisked"
-        - Brittlebush II
+        - Brittlebush
+        - Byas
         - Calico
         - Cannonball Cove
         - Canopy
         - Cargo
         - Catre KotH
         - Chestnut
-        - Chocolate Diamonds
+  #     - Chocolate Diamonds
         - Citadel
   #     - City of Colors DTM
         - Circus CTW
@@ -222,20 +223,22 @@ pools:
         - Coconut Mald
         - "Colorado Alpines"
         - Columbia CTW
+        - Come Summertime # wr?
         - Concourse
         - Constellation
         - "Cool Steak"
         - Coral Reef
         - Corrupted Paradise CTW
         - Courtyard Classic
-        - Crater Resort
+  #     - "Crater Resort" March 2026
         - Crippled Divide
         - Cummins Turbo Diesel
         - "Cursed Library"
         - Cytokinesis
         - Cyril
+        - "Dark Nebula: Snowball RAGE"
   #     - "Daydream Mini" October 2025
-  #     - Deadwood
+        - Deadwood
         - Dead Noon
         - Dead Waters
         - Deciduous Nights
@@ -247,7 +250,7 @@ pools:
         - Desert Sanctuary
         - Desolate Gully CTW
         - Diramu Valley DTM
-        - "Directrix: 2 Flags"
+  #     - "Directrix: 2 Flags" March 2026
         - Discount Fortress
   #     - "Disc Wars II" October 2025 
         - Dominion
@@ -257,12 +260,12 @@ pools:
         - Dromedary
         - Duality
         - Dust
-        - Dynamo
+  #     - Dynamo
         - Edo
         - "Embargo"
         - Emerald Glades
         - Emergency Meeting
-        - Empire
+  #     - Empire March 2026
         - Enchanted
         - Ender Blast
         - "Entropy Reactor Mk. 1"
@@ -276,7 +279,7 @@ pools:
         - Factorio Mainbus
         - Factory
         - "Fairy Tales 2: A Tale or Two"
-        - "Fairy Tales 2: Mini"
+  #     - "Fairy Tales 2: Mini" March 2026
         - "Fairy Tales: Metamorphose"
         - Fallencrests # power bows, core layers
         - Fall of Babylon
@@ -286,7 +289,7 @@ pools:
         - "Fier"
         - "Firum CTW"
         - Flags of Samarkand
-        - Flush Vibes II
+  #     - Flush Vibes II
         - Forge Ignea
         - Fourchette
         - "Fox Dream"
@@ -296,7 +299,7 @@ pools:
         - "Fruhling"
         - Fungi Grove
         - Fumeen II
-        - Garf
+  #     - Garf
   #     - "Geometric Domination" October 2025
         - Gethsemane
         - "Gloomwald"
@@ -321,7 +324,7 @@ pools:
         - Hau'oli Mau Lanui
         - Haven Tide
         - "Hearts of Atlantis"
-        - Hekla
+  #     - Hekla March 2026
         - "Hillside Daydream"
         - Hemlock
         - "Hemlock II"
@@ -332,7 +335,7 @@ pools:
         - "Hot Dam Mini"
         - Hotel Overcast
   #     - "Howdy Partner" October 2025
-        - Huanxiang
+  #     - Huanxiang March 2026
   #     - Ice Miners
         - "Ineritus"
         - "Infernal Shadow"
@@ -353,8 +356,11 @@ pools:
         - Justice
         - Kanto
         - Keipha CTW
+        - Kerskyn
         - Kingdom
         - King Neptune
+        - King Ranch
+        - Krager
         - Kuusepuu
         - Kï
         - "La Bataille de l'épée"
@@ -408,7 +414,7 @@ pools:
         - Mystic Point
         - "Mythical Marsh"
         - "Natsukashii"
-        - Nebulosa
+  #     - Nebulosa
         - Nether War CTW
   #     - "NewGen" November 2025
         - NextRace
@@ -427,13 +433,13 @@ pools:
         - Osoi
         - "Oumuamua"
         - Ouroboros
-        - "Outback"
+  #     - "Outback"
         - "Outback: Outback Edition"
         - Outlyne
         - Paddo's
         - Paint the Streets
-        - Paintman's Day Off
         - Palace CTF
+  #     - "Paintman's Day Off" March 2026
         - Palm Rust
   #     - "Parabola" October 2025
         - "Parabola II"
@@ -449,7 +455,7 @@ pools:
         - Pond
         - "Possession Game"
         - Prisma CTW
-  #     - Promenade
+        - Promenade
         - "Puddin' Pops"
         - Quadrival
         - "Querelous"
@@ -471,7 +477,7 @@ pools:
         - Rocky Top
         - "Röntgen"
         - "Rotten"
-        - Royal Arena
+  #     - "Royal Arena" March 2026
         - Royal Ascend
         - Royal Garden DTC
         - Roziterman
@@ -480,7 +486,7 @@ pools:
         - "Sakura Garden"
         - "Sakura Garden II"
         - "Sanctum Wasser"
-        - Sandstorm
+  #     - Sandstorm March 2026
         - Sandy
         - Santorini
         - "Sarc"
@@ -497,7 +503,7 @@ pools:
         - Skycastle Islands
         - Smoke KotH
         - Snowdrift Pass
-        - Snowy Wars
+  #     - Snowy Wars
         - Snow Level
         - SolitudeMC
         - Soviet Mills
@@ -520,7 +526,7 @@ pools:
         - Tahiti
         - Tangier
         - Tanker TNT
-        - Tatakai
+  #     - Tatakai March 2026
         - Tebulas
         - Temple Valley
         - Tetrad
@@ -547,7 +553,7 @@ pools:
         - "ToW: Mush More"
         - Townside
         - Townside Mini
-        - Transit
+  #     - Transit March 2026
         - "Tranquility"
         - "Trial Chambers"
         - Treflip
@@ -563,6 +569,7 @@ pools:
         - Twisted
         - Two Tier
         - UBoat König
+        - Ubos CTF
         - "Ulcinj"
         - "Underpass"
         - "Urban Jungle"
@@ -584,8 +591,8 @@ pools:
         - Winsray Fields
         - "Winterbane"
         - "Winter Solstice"
-        - Winter Solstice Mini
-        - "Wintertime"
+  #     - "Winter Solstice Mini" March 2026
+  #     - "Wintertime" March 2026
         - Wit's End
         - Witch's Potions
         - Wooly Woods
