@@ -116,11 +116,11 @@ pools:
         - "Cola"
   #     - "Fantasy"
   #     - "Friday Night Lights"
-        - "Iceblade"
+  #     - "Iceblade" March 2026
         - "Ice Rift"
   #     - "Keeper" June 2023
         - "Kraken"
-  #     - "Longhorn" February 2024
+        - "Longhorn"
   #     - "NYC" March 2026
   #     - "Pipes and Punters"
   #     - "Royal Rumble: Classic"
@@ -168,7 +168,7 @@ pools:
         - "Avalon Funland"
         - "Azure"
         - "Badlands"
-        - Baleful Eden
+  #     - "Baleful Eden" March 2026
         - BalloonsDTM
         - Bamboo Valley III
         - Bamboo Valley V
@@ -207,8 +207,8 @@ pools:
         - Byas
         - Calico
         - Cannonball Cove
-        - Canopy
-        - Cargo
+  #     - Canopy
+  #     - Cargo March 2026
         - Catre KotH
         - Chestnut
   #     - Chocolate Diamonds
@@ -232,7 +232,6 @@ pools:
         - Courtyard Classic
   #     - "Crater Resort" March 2026
         - Crippled Divide
-        - Cummins Turbo Diesel
         - "Cursed Library"
         - Cytokinesis
         - Cyril
@@ -259,7 +258,7 @@ pools:
         - Downtown
         - Dromedary
         - Duality
-        - Dust
+  #     - Dust March 2026
   #     - Dynamo
         - Edo
         - "Embargo"
@@ -342,6 +341,7 @@ pools:
         - Icecream Sandwiched II
         - Icescar
         - Incassum
+        - Industrial
         - Ingwaz
         - Inheritance
         - Inkbloc Art Academy
@@ -385,7 +385,7 @@ pools:
         - "Mahatma"
         - Malupa
         - Mame, I Shrunk the PvPers
-        - Manzikert
+  #     - Manzikert March 2026
         - Maple Falls
         - Maple Syrup
         - Mars Odyssey
@@ -458,6 +458,7 @@ pools:
         - Promenade
         - "Puddin' Pops"
         - Quadrival
+        - Quadrosphere Rage
         - "Querelous"
         - Quintlet
         - "Raceway"
