@@ -180,7 +180,7 @@ pools:
         - Battle of Tenjin II
         - Battle of Tenjin III
         - Battleship Halberd
-        - Bazaar KotF
+  #     - "Bazaar KotF" March 2026
         - Beauty to Ashes
         - "Bed Rush: Anubis"
   #     - "Bed Rush: Drakkar" (Jan 2026, trade back Apr 2026)
@@ -202,6 +202,7 @@ pools:
   #     - "Bob-Omb Battlefield" October 2025
         - Boletum
         - BoomBox
+        - Boulevard
         - "Brisked"
         - Brittlebush
         - Byas
@@ -217,7 +218,7 @@ pools:
         - Circus CTW
         - "A Classy Night for a Fight"
         - ClayClay
-        - Clearcut
+  #     - Clearcut March 2026
         - "Coastline"
         - "Cobalt Planet"
         - Coconut Mald
@@ -225,7 +226,7 @@ pools:
         - Columbia CTW
         - Come Summertime # wr?
         - Concourse
-        - Constellation
+  #     - Constellation March 2026
         - "Cool Steak"
         - Coral Reef
         - Corrupted Paradise CTW
@@ -234,8 +235,9 @@ pools:
         - Crippled Divide
         - "Cursed Library"
         - Cytokinesis
-        - Cyril
+  #     - Cyril March 2026
         - "Dark Nebula: Snowball RAGE"
+        - DATAcenter
   #     - "Daydream Mini" October 2025
         - Deadwood
         - Dead Noon
@@ -251,12 +253,13 @@ pools:
         - Diramu Valley DTM
   #     - "Directrix: 2 Flags" March 2026
         - Discount Fortress
+        - Discovery
   #     - "Disc Wars II" October 2025 
         - Dominion
         - "Don't Break My Heart"
         - Downforce II
         - Downtown
-        - Dromedary
+  #     - Dromedary March 2026
         - Duality
   #     - Dust March 2026
   #     - Dynamo
@@ -315,8 +318,8 @@ pools:
         - Green Gem CTW
         - Gridlock 2
         - Grub
-        - The Grove
-        - "Hallows"
+  #     - "The Grove" March 2026
+  #     - "Hallows" March 2026
         - Happy Rainbow Snowball RAGE
         - Harbor CTW
         - Harvest
@@ -366,7 +369,9 @@ pools:
         - "La Bataille de l'épée"
         - Lasa
         - Let's Sell Discounts
+        - Levels
         - Level Up
+        - Limbo
         - Limit
   #     - "Little China" November 2025 too easy to abuse out of bounds w/ flag
         - Little Roses
@@ -470,7 +475,7 @@ pools:
         - Research Base
         - "Renegade"
         - "Rice"
-        - Rind Rushers
+  #     - "Rind Rushers" March 2026
         - Rind Rushers II
         - Ringpull
         - Riverside
@@ -488,12 +493,13 @@ pools:
         - "Sakura Garden II"
         - "Sanctum Wasser"
   #     - Sandstorm March 2026
-        - Sandy
+  #     - Sandy March 2026
         - Santorini
         - "Sarc"
         - Sawgrass 17
         - Scorched Grove
         - Scrapelli
+        - Seaside Plaza
         - "Sheep CTW"
         - Shifty Sands
         - "Shingeki no Brady"
@@ -510,7 +516,7 @@ pools:
         - Soviet Mills
         - Space Corp
         - Spaceship Battles
-        - "Split Strata"
+  #     - "Split Strata" March 2026
         - "Standstill"
         - State of Decay II
         - Steam Siege
