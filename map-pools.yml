@@ -205,12 +205,14 @@ pools:
         - Boulevard
         - "Brisked"
         - Brittlebush
+        - "Burning Palace"
         - Byas
         - Calico
         - Cannonball Cove
   #     - Canopy
   #     - Cargo March 2026
         - Catre KotH
+        - "Cherry City"
         - Chestnut
   #     - Chocolate Diamonds
         - Citadel
@@ -224,6 +226,7 @@ pools:
         - Coconut Mald
         - "Colorado Alpines"
         - Columbia CTW
+        - "Comb Conquest"
         - Come Summertime # wr?
         - Concourse
   #     - Constellation March 2026
@@ -233,6 +236,7 @@ pools:
         - Courtyard Classic
   #     - "Crater Resort" March 2026
         - Crippled Divide
+        - "Curly Wools IX"
         - "Cursed Library"
         - Cytokinesis
   #     - Cyril March 2026
@@ -267,6 +271,7 @@ pools:
         - "Embargo"
         - Emerald Glades
         - Emergency Meeting
+        - "Emission"
   #     - Empire March 2026
         - Enchanted
         - Ender Blast
@@ -297,6 +302,7 @@ pools:
         - "Fox Dream"
         - Fractal Descent
         - "Fracture DTM"
+        - "Frog Pond"
         - Frost
         - "Fruhling"
         - Fungi Grove
@@ -367,6 +373,7 @@ pools:
         - Kuusepuu
         - Kï
         - "La Bataille de l'épée"
+        - "Lab'ex"
         - Lasa
         - Let's Sell Discounts
         - Levels
@@ -487,6 +494,7 @@ pools:
         - Royal Ascend
         - Royal Garden DTC
         - Roziterman
+        - "Ruby Planet"
         - Ruediger's Bonsai Garden
         - "Ruffland"
         - "Sakura Garden"
@@ -519,6 +527,7 @@ pools:
   #     - "Split Strata" March 2026
         - "Standstill"
         - State of Decay II
+        - "Station X"
         - Steam Siege
         - Steel Valley
         - Streamline II
@@ -540,6 +549,7 @@ pools:
         - The Complex CTF
         - "The 4th Law"
         - "The Big Dig"
+        - "The Endless Blue"
         - The High Road
         - The King's Lava Lair
         - "The Overcast Bowl"
@@ -907,6 +917,7 @@ pools:
       - "Swarthmoor"
       - "Tangled"
       - "Tavern"
+      - "Teamwork"
       - "The Dropper"
       - "The Dropper: Community Edition"
       - "The Fenland - EPIC STYLE"
@@ -916,6 +927,7 @@ pools:
       - "TNT Rain"
       - "TNT Spleef"
       - "TNT Tag: Block Fortress"
+      - "TNT Tag: Monkey Mayhem"
       - "TNT Tag: Zoo"
       - "Tug of War: Block Swap"
       - "Tug of War: Bridge GONE"
@@ -1385,7 +1397,6 @@ pools:
       - "MB: Boombox"
       - "MB: Catnap"
       - "MB: DATAcenter"
-      - "MB: Durrr Burger"
       - "MB: Desert Sanctuary"
       - "MB: Double Take"
       - "MB: Durrr Burger"
@@ -1418,6 +1429,7 @@ pools:
       - "MB: Viridun"
       - "MB: Warlock"
       - "MB: Wit's End"
+      - "MB: Wootonia"
       - "MB: Xoi's Pinkity Drinkity Maid Cafe"
       - "MB: Xyth"
       - "Winter Wars"
