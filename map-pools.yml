@@ -166,7 +166,7 @@ pools:
         - Autumn Solstice
         - Avalanche Mini
         - "Avalon Funland"
-        - "Azure"
+  #     - "Azure" March 2026
         - "Badlands"
   #     - "Baleful Eden" March 2026
         - BalloonsDTM
@@ -185,7 +185,7 @@ pools:
         - "Bed Rush: Anubis"
   #     - "Bed Rush: Drakkar" (Jan 2026, trade back Apr 2026)
         - Beehive
-        - Belvedere
+  #     - Belvedere March 2026
         - Bessemer's Process
         - "Beyond"
         - "Biotech"
@@ -210,6 +210,7 @@ pools:
         - Calico
         - Cannonball Cove
   #     - Canopy
+        - Canyon II
   #     - Cargo March 2026
         - Catre KotH
         - "Cherry City"
@@ -297,6 +298,7 @@ pools:
         - "Firum CTW"
         - Flags of Samarkand
   #     - Flush Vibes II
+        - Ford
         - Forge Ignea
         - Fourchette
         - "Fox Dream"
@@ -387,7 +389,7 @@ pools:
         - Lost Gardens
         - Lost Haven
         - Lost World CTF
-        - Lotus
+  #     - Lotus March 2026
         - Loyalty DTM
         - Lunar Crescent
   #     - Lupa January 2026
@@ -437,7 +439,7 @@ pools:
         - Noble's District
         - North Winds
         - Nyxis
-        - Oasis CTW
+  #     - "Oasis CTW" March 2026
         - Oceano CTW
         - Odin
         - Onier
@@ -450,11 +452,11 @@ pools:
         - Outlyne
         - Paddo's
         - Paint the Streets
-        - Palace CTF
   #     - "Paintman's Day Off" March 2026
+  #     - "Palace CTF" March 2026
         - Palm Rust
-  #     - "Parabola" October 2025
-        - "Parabola II"
+        - "Parabola"
+  #     - "Parabola II" March 2026
         - Parallel Plays # waiting on map.png
         - Pandemonium
         - Peloponnesia
@@ -546,7 +548,7 @@ pools:
         - Tebulas
         - Temple Valley
         - Tetrad
-        - The Complex CTF
+  #     - "The Complex CTF" March 2026
         - "The 4th Law"
         - "The Big Dig"
         - "The Endless Blue"
@@ -615,7 +617,7 @@ pools:
         - Witch's Potions
         - Wooly Woods
         - Ximorta
-        - Xinx
+  #     - Xinx March 2026
         - Xion
         - Xunkohtli
         - Yangshuo
