@@ -130,7 +130,8 @@ pools:
   #     - "Waffle House" March 2026
       normal:
         - Abudor
-        - "Acapulco"
+  #     - "Acapulco" March 2026
+        - "Acear I"
         - Ad Astra
         - "Ad Infinitum"
         - Aequabilis
@@ -146,7 +147,7 @@ pools:
         - Annealing
         - Annealing III
         - Annealing IV
-        - Antiquis
+  #     - Antiquis March 2026
         - "Anvil"
         - Apocalypse CTW
         - Apollo 23
@@ -181,6 +182,7 @@ pools:
         - Battle of Tenjin III
         - Battleship Halberd
   #     - "Bazaar KotF" March 2026
+        - Beach Battles
         - Beauty to Ashes
         - "Bed Rush: Anubis"
   #     - "Bed Rush: Drakkar" (Jan 2026, trade back Apr 2026)
@@ -219,6 +221,7 @@ pools:
         - Citadel
   #     - City of Colors DTM
         - Circus CTW
+        - Circus DTC
         - "A Classy Night for a Fight"
         - ClayClay
   #     - Clearcut March 2026
@@ -251,7 +254,7 @@ pools:
         - Deepwind Jungle
         - Deepwood
         - Desert Cataract
-        - Desert Country
+  #     - "Desert Country" March 2026
         - Desert Eclipse
         - Desert Sanctuary
         - Desolate Gully CTW
@@ -262,6 +265,7 @@ pools:
   #     - "Disc Wars II" October 2025 
         - Dominion
         - "Don't Break My Heart"
+        - Downforce
         - Downforce II
         - Downtown
   #     - Dromedary March 2026
@@ -304,6 +308,7 @@ pools:
         - "Fox Dream"
         - Fractal Descent
         - "Fracture DTM"
+        - Frob
         - "Frog Pond"
         - Frost
         - "Fruhling"
@@ -346,6 +351,7 @@ pools:
         - Hotel Overcast
   #     - "Howdy Partner" October 2025
   #     - Huanxiang March 2026
+        - Hydrolock
   #     - Ice Miners
         - "Ineritus"
         - "Infernal Shadow"
@@ -373,7 +379,8 @@ pools:
         - King Ranch
         - Krager
         - Kuusepuu
-        - Kï
+  #     - Kï March 2026
+        - Kyoto
         - "La Bataille de l'épée"
         - "Lab'ex"
         - Lasa
@@ -397,7 +404,7 @@ pools:
         - Lush Oasis
         - "Madness on Rails"
         - "Mahatma"
-        - Malupa
+  #     - Malupa March 2026
         - Mame, I Shrunk the PvPers
   #     - Manzikert March 2026
         - Maple Falls
@@ -413,7 +420,7 @@ pools:
         - "México"
         - Midnight Train
         - Miner Sixty Niner
-        - MissingNo
+  #     - MissingNo March 2026
         - Mistral Bay
         - "Mo'ai"
         - Mole Dream
@@ -481,7 +488,7 @@ pools:
         - Raid FFA
         - Rangi-nui
         - Rattlesnake
-        - Research Base
+  #     - "Research Base" March 2026
         - "Renegade"
         - "Rice"
   #     - "Rind Rushers" March 2026
@@ -522,7 +529,7 @@ pools:
         - Snowdrift Pass
   #     - Snowy Wars
         - Snow Level
-        - SolitudeMC
+  #     - SolitudeMC March 2026
         - Soviet Mills
         - Space Corp
         - Spaceship Battles
@@ -562,6 +569,7 @@ pools:
         - Thunderbolt
         - "Thunderrush"
         - Timbered
+        - Tulog
         - Tohjo Falls
         - Tohjo Falls II
         - "Tom Brady"
@@ -604,6 +612,7 @@ pools:
         - Wallop Series X
         - "Warlock"
         - Warzone
+        - "We Sell Mushrooms CTF"
         - "Waterwood"
         - When Men Cried
         - "Wholething"
@@ -615,6 +624,7 @@ pools:
   #     - "Wintertime" March 2026
         - Wit's End
         - Witch's Potions
+        - Woolirium
         - Wooly Woods
         - Ximorta
   #     - Xinx March 2026
