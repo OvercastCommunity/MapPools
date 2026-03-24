@@ -219,6 +219,7 @@ pools:
         - Canyon II
   #     - Cargo March 2026
         - Catre KotH
+        - Cherno CTF
         - "Cherry City"
         - Chestnut
   #     - Chocolate Diamonds
@@ -354,7 +355,7 @@ pools:
         - "Hot Dam"
         - "Hot Dam Mini"
         - Hotel Overcast
-  #     - "Howdy Partner" October 2025
+        - "Howdy Partner"
   #     - Huanxiang March 2026
         - Hydrolock
   #     - Ice Miners
@@ -389,7 +390,7 @@ pools:
         - "La Bataille de l'épée"
         - "Lab'ex"
         - Lasa
-        - Let's Sell Discounts
+  #     - "Let's Sell Discounts" March 2026
         - Levels
         - Level Up
         - Limbo
@@ -406,7 +407,7 @@ pools:
         - Lunar Crescent
   #     - Lupa January 2026
         - Lupain
-        - Lush Oasis
+  #     - "Lush Oasis" March 2026
         - "Madness on Rails"
         - "Mahatma"
   #     - Malupa March 2026
