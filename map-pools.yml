@@ -152,8 +152,8 @@ pools:
         - Apocalypse CTW
         - Apollo 23
         - Appalachia
-        - Apple Smash
         - Apostle
+        - Apple Smash
         - Aquaduct CTW
   #     - Aquatica March 2026
         - Arabia
@@ -203,8 +203,8 @@ pools:
         - Blocks DTC
         - "Blocks: Destroy the Dynamite"
         - "Bloom"
-        - Boar Beach
         - "Blossom CTW"
+        - Boar Beach
   #     - "Bob-Omb Battlefield" October 2025
         - Boletum
         - BoomBox
@@ -224,9 +224,9 @@ pools:
         - Chestnut
   #     - Chocolate Diamonds
         - Citadel
-  #     - City of Colors DTM
   #     - Circus CTW
         - Circus DTC
+  #     - City of Colors DTM
         - "A Classy Night for a Fight"
         - ClayClay
   #     - Clearcut March 2026
@@ -248,8 +248,8 @@ pools:
         - Crippled Divide
         - "Curly Wools IX"
         - "Cursed Library"
-        - Cytokinesis
   #     - Cyril March 2026
+        - Cytokinesis
         - "Dark Nebula: Snowball RAGE"
         - DATAcenter
   #     - "Daydream Mini" October 2025
@@ -318,8 +318,8 @@ pools:
         - "Frog Pond"
         - Frost
         - "Fruhling"
-        - Fungi Grove
         - Fumeen II
+        - Fungi Grove
   #     - Garf
   #     - "Geometric Domination" October 2025
         - Gethsemane
@@ -346,9 +346,9 @@ pools:
         - Haven Tide
         - "Hearts of Atlantis"
   #     - Hekla March 2026
-        - "Hillside Daydream"
         - Hemlock
         - "Hemlock II"
+        - "Hillside Daydream"
         - Hobbit CTW
         - Home by the Sea
         - Honeycombed
@@ -359,10 +359,10 @@ pools:
   #     - Huanxiang March 2026
         - Hydrolock
   #     - Ice Miners
-        - "Ineritus"
-        - "Infernal Shadow"
         - Icecream Sandwiched II
         - Icescar
+        - "Ineritus"
+        - "Infernal Shadow"
         - Incassum
         - Industrial
         - Ingwaz
@@ -436,8 +436,8 @@ pools:
         - Moonlight Summit
         - Mushdoom
         - Mushroom Gorge
-  #     - "Mushroom Monuments" March 2026
         - Mushroom Kingdoms
+  #     - "Mushroom Monuments" March 2026
         - Mystic Point
         - "Mythical Marsh"
         - "Natsukashii"
@@ -468,10 +468,10 @@ pools:
   #     - "Paintman's Day Off" March 2026
   #     - "Palace CTF" March 2026
         - Palm Rust
+        - Pandemonium
         - "Parabola"
   #     - "Parabola II" March 2026
         - Parallel Plays # waiting on map.png
-        - Pandemonium
         - Peloponnesia
         - "Philosopher's Stone"
         - Pigland
@@ -496,8 +496,8 @@ pools:
         - Raid FFA
         - Rangi-nui
         - Rattlesnake
-  #     - "Research Base" March 2026
         - "Renegade"
+  #     - "Research Base" March 2026
         - "Rice"
   #     - "Rind Rushers" March 2026
         - Rind Rushers II
@@ -581,7 +581,6 @@ pools:
         - Thunderbolt
         - "Thunderrush"
         - Timbered
-        - Tulog
         - Tohjo Falls
         - Tohjo Falls II
         - "Tom Brady"
@@ -593,13 +592,14 @@ pools:
         - "ToW: Mush More"
         - Townside
         - Townside Mini
-  #     - Transit March 2026
         - "Tranquility"
-        - "Trial Chambers"
+  #     - Transit March 2026
         - Treflip
+        - "Trial Chambers"
         - "Trip to Cancun"
         - "Tron Brady"
         - Tulip Mania II
+        - Tulog
         - Tumbleweed
         - Tuscany Hills # leaves?
   #     - Tuscany October 2025
@@ -624,8 +624,8 @@ pools:
         - Wallop Series X
         - "Warlock"
         - Warzone
-        - "We Sell Mushrooms CTF"
         - "Waterwood"
+        - "We Sell Mushrooms CTF"
   #     - "When Men Cried" March 2026
         - "Wholething"
         - Wild Isle
@@ -859,6 +859,7 @@ pools:
       - "Day at the Alley"
       - "Dead Heat"
       - "Deathrun: Aperture"
+      - "Depths"
       - "Do Not Press The Button For Two Minutes"
       - "Dodge Ball"
       - "Dodge Ball Stadium"
@@ -867,6 +868,7 @@ pools:
       - "Eldritch Trials"
       - "Fall Guys"
       - "Firing Squad"
+      - "Fireballs Bowl: Mini"
       - "Find the Button!"
       - "Flappy Bird"
       - "Freeze Tag: Icebliss"
@@ -899,6 +901,10 @@ pools:
       - "Ladderp II"
       - "Last Team Standing"
       - "Long Shot: Payload"
+      - "MB: Catnap"
+      - "MB: Durrr Burger"
+      - "MB: TOM BRADY"
+      - "MB: Wootonia"
       - "Mega Cacti Terror Teams"
       - "Mega Cacti Terror"
       - "MobArena: Silent City"
@@ -911,7 +917,6 @@ pools:
       - "Penguin Pursuit"
       - "Pillars"
       - "Ping Bomb II"
-      - "Pillars"
       - "Pixel Run"
       - "Player Blender: Lifesteal"
       - "Plus Side"
@@ -954,6 +959,7 @@ pools:
       - "TNT Tag: Block Fortress"
       - "TNT Tag: Monkey Mayhem"
       - "TNT Tag: Zoo"
+      - "Trail Mix"
       - "Tug of War: Block Swap"
       - "Tug of War: Bridge GONE"
       - "War Wars: Classic"
@@ -1005,6 +1011,7 @@ pools:
       - "DATAcenter"
       - "DATAstation"
       - "DK Crossovers DTE"
+      - "Don't Explode My Heart"
       - "Donut Wars"
       - "Double Trouble"
       - "Ender Blast"
