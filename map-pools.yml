@@ -137,7 +137,7 @@ pools:
         - Aequabilis
         - Aerobellum
         - Aether
-        - After Hours
+  #     - "After Hours" March 2026
         - Agrostid
         - Airship Battle
         - "Allure"
@@ -154,6 +154,7 @@ pools:
         - Appalachia
         - Apple Smash
         - Apostle
+        - Aquaduct CTW
   #     - Aquatica March 2026
         - Arabia
         - Araxa
@@ -164,6 +165,7 @@ pools:
         - Ascendance Payload_Race
         - Assault
         - Athirk
+        - Atromix
         - Autumn Solstice
         - Avalanche Mini
         - "Avalon Funland"
@@ -175,6 +177,8 @@ pools:
         - Bamboo Valley V
         - Banana Split
         - "Barnyard Abduction"
+        - Barricade
+        - Battle Ecliptica II
         - Battle Ecliptica III
         - Battle for Amaterasu
         - Battle of Krehm
@@ -194,7 +198,7 @@ pools:
         - "Black Gold"
         - "Blitzkrieg CTF"
         - BlockBlock
-  #     - "Blocks CTW" October 2025
+        - "Blocks CTW"
         - Blocks II
         - Blocks DTC
         - "Blocks: Destroy the Dynamite"
@@ -220,11 +224,12 @@ pools:
   #     - Chocolate Diamonds
         - Citadel
   #     - City of Colors DTM
-        - Circus CTW
+  #     - Circus CTW
         - Circus DTC
         - "A Classy Night for a Fight"
         - ClayClay
   #     - Clearcut March 2026
+        - Cloud Nine
         - "Coastline"
         - "Cobalt Planet"
         - Coconut Mald
@@ -275,7 +280,7 @@ pools:
         - Edo
         - "Embargo"
         - Emerald Glades
-        - Emergency Meeting
+  #     - "Emergency Meeting" March 2026
         - "Emission"
   #     - Empire March 2026
         - Enchanted
@@ -296,7 +301,7 @@ pools:
         - Fallencrests # power bows, core layers
         - Fall of Babylon
         - "FB: Data-Rush"
-        - The Fenland
+  #     - "The Fenland" March 2026
         - Fields of Glory
         - "Fier"
         - "Firum CTW"
@@ -333,10 +338,10 @@ pools:
         - Grub
   #     - "The Grove" March 2026
   #     - "Hallows" March 2026
-        - Happy Rainbow Snowball RAGE
+  #     - "Happy Rainbow: Snowball RAGE" March 2026
         - Harbor CTW
         - Harvest
-        - Hau'oli Mau Lanui
+  #     - "Hau'oli Mau Lanui" March 2026
         - Haven Tide
         - "Hearts of Atlantis"
   #     - Hekla March 2026
@@ -392,7 +397,7 @@ pools:
   #     - "Little China" November 2025 too easy to abuse out of bounds w/ flag
         - Little Roses
         - Long Distance
-        - Long Shot
+  #     - "Long Shot" March 2026
         - Lost Gardens
         - Lost Haven
         - Lost World CTF
@@ -423,14 +428,14 @@ pools:
   #     - MissingNo March 2026
         - Mistral Bay
         - "Mo'ai"
-        - Mole Dream
+  #     - "Mole Dream" March 2026
         - Molendinis
         - Monkey Mania
         - Monument Valley
         - Moonlight Summit
         - Mushdoom
         - Mushroom Gorge
-        - Mushroom Monuments
+  #     - "Mushroom Monuments" March 2026
         - Mushroom Kingdoms
         - Mystic Point
         - "Mythical Marsh"
@@ -468,11 +473,13 @@ pools:
         - Pandemonium
         - Peloponnesia
         - "Philosopher's Stone"
+        - Pigland
         - Pineium CTW
         - Pineium DTM
         - Pirates I
         - PixelMix
         - Polynesia
+        - "Pompeii 5x5: One in the Quiver"
         - Pond
         - "Possession Game"
         - Prisma CTW
@@ -499,6 +506,7 @@ pools:
         - Rocky Top
         - "Röntgen"
         - "Rotten"
+        - Royal
   #     - "Royal Arena" March 2026
         - Royal Ascend
         - Royal Garden DTC
@@ -508,7 +516,7 @@ pools:
         - "Ruffland"
         - "Sakura Garden"
         - "Sakura Garden II"
-        - "Sanctum Wasser"
+  #     - "Sanctum Wasser" March 2026
   #     - Sandstorm March 2026
   #     - Sandy March 2026
         - Santorini
@@ -523,6 +531,7 @@ pools:
         - Shinobi
         - Shroom Galaxy
         - Siloë
+        - Simplicity CTW
         - Sinuous
         - Skycastle Islands
         - Smoke KotH
@@ -542,10 +551,11 @@ pools:
         - Streamline II
         - Summer Sadness
         - "Sunbliss"
-        - Sunrise Over Paradise
+  #     - "Sunrise Over Paradise" March 2026
         - Sunset Glaze
         - "Super Bed World"
         - "Super Happy Fun World"
+        - SuperPRISM
         - Swamped
         - Sweetopia
         - Tahiti
@@ -561,6 +571,7 @@ pools:
         - "The Endless Blue"
         - The High Road
         - The King's Lava Lair
+        - The Last Sunset
         - "The Overcast Bowl"
         - "The Soup Bowl"
         - "Thistle Terrace"
@@ -614,7 +625,7 @@ pools:
         - Warzone
         - "We Sell Mushrooms CTF"
         - "Waterwood"
-        - When Men Cried
+  #     - "When Men Cried" March 2026
         - "Wholething"
         - Wild Isle
         - Winsray Fields
@@ -633,6 +644,7 @@ pools:
         - Yangshuo
         - "Yermo"
         - "Zipline III"
+        - Zoo
   avicus: # Just some of your throwback Avicus maps
     type: voted
     enabled: true
