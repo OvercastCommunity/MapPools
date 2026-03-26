@@ -259,6 +259,7 @@ pools:
         - Deciduous Nights
         - Deepwind Jungle
         - Deepwood
+        - "Depths"
         - Desert Cataract
   #     - "Desert Country" March 2026
         - Desert Eclipse
@@ -301,6 +302,7 @@ pools:
         - "Fairy Tales: Metamorphose"
         - Fallencrests # power bows, core layers
         - Fall of Babylon
+        - "FB: Courtyard Isles"
         - "FB: Data-Rush"
         - "Feel Good Inc."
   #     - "The Fenland" March 2026
@@ -593,6 +595,7 @@ pools:
         - "ToW: Mush More"
         - Townside
         - Townside Mini
+        - "Trail Mix"
         - "Tranquility"
   #     - Transit March 2026
         - Treflip
@@ -860,7 +863,6 @@ pools:
       - "Day at the Alley"
       - "Dead Heat"
       - "Deathrun: Aperture"
-      - "Depths"
       - "Do Not Press The Button For Two Minutes"
       - "Dodge Ball"
       - "Dodge Ball Stadium"
@@ -960,7 +962,6 @@ pools:
       - "TNT Tag: Block Fortress"
       - "TNT Tag: Monkey Mayhem"
       - "TNT Tag: Zoo"
-      - "Trail Mix"
       - "Tug of War: Block Swap"
       - "Tug of War: Bridge GONE"
       - "War Wars: Classic"
