@@ -219,6 +219,7 @@ pools:
         - Canyon II
   #     - Cargo March 2026
         - Catre KotH
+        - Catscratch
         - Cherno CTF
         - "Cherry City"
         - Chestnut
@@ -520,7 +521,7 @@ pools:
         - Ruediger's Bonsai Garden
         - "Ruffland"
         - "Sakura Garden"
-        - "Sakura Garden II"
+  #     - "Sakura Garden II" March 2026
   #     - "Sanctum Wasser" March 2026
   #     - Sandstorm March 2026
   #     - Sandy March 2026
@@ -595,7 +596,7 @@ pools:
         - Totem
         - "ToW: Mush More"
         - Townside
-        - Townside Mini
+  #     - "Townside Mini" March 2026
         - "Trail Mix"
         - "Tranquility"
   #     - Transit March 2026
