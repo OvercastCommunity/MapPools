@@ -57,7 +57,7 @@ pools:
     #    pow(score * bound(1 - (0.35 * same_gamemode), 0.2, 1), 2)
     modifier: >-
       pow(
-        score * 
+        score *
         bound(1 - (0.4 * same_gamemode), 0.4, 1) *
         bound(0.5 * (
           tanh(bound(-0.0025 * players + 0.5, 0.2, 1) * (mapsize - bound(players * 1.05, 0, 90))) -
@@ -270,7 +270,7 @@ pools:
   #     - "Directrix: 2 Flags" March 2026
         - Discount Fortress
         - Discovery
-  #     - "Disc Wars II" October 2025 
+  #     - "Disc Wars II" October 2025
         - Dominion
         - "Don't Break My Heart"
         - Downforce
@@ -450,7 +450,8 @@ pools:
   #     - Nebulosa
         - Nether War CTW
   #     - "NewGen" November 2025
-        - NextRace
+  #     - NextRace April 2026
+        - NextRace DTM
         - Nightsail # spawner update
         - Nirow
         - The Nile
@@ -1121,7 +1122,7 @@ pools:
        minutes-per-day: 15
     modifier: >-
       pow(
-        score * 
+        score *
         bound(1 - (0.2 * same_gamemode), 0.2, 1) *
         bound(0.5 * (
           tanh(bound(-0.0025 * players + 0.5, 0.2, 1) * (mapsize - bound(players * 1.05, 0, 90))) -
