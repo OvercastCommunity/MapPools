@@ -280,7 +280,7 @@ pools:
         - Duality
   #     - Dust March 2026
   #     - Dynamo
-        - Edo
+  #     - Edo March 2026
         - "Embargo"
         - Emerald Glades
   #     - "Emergency Meeting" March 2026
@@ -290,7 +290,7 @@ pools:
         - Ender Blast
         - "Entropy Reactor Mk. 1"
         - "Epsilon"
-        - Equinox
+  #     - Equinox March 2026
         - Exiled KotF
         - Exogrid
         - Expedition
@@ -326,7 +326,7 @@ pools:
         - Fumeen II
         - Fungi Grove
   #     - Garf
-  #     - "Geometric Domination" October 2025
+        - "Geometric Domination"
         - Gethsemane
         - "Gloomwald"
         - "Gobi"
@@ -338,7 +338,7 @@ pools:
         - Grassy Mound CTF
         - Greecia
         - Green
-        - Greenhill
+  #     - Greenhill March 2026
         - Green Gem CTW
         - Gridlock 2
         - Grub
@@ -382,6 +382,7 @@ pools:
         - "Jungle Beat"
         - Jurassic
         - Justice
+        - Kahoy
         - Kanto
         - Keipha CTW
         - Kerskyn
@@ -394,7 +395,7 @@ pools:
         - Kyoto
         - "La Bataille de l'épée"
         - "Lab'ex"
-        - Lasa
+  #     - Lasa March 2026
   #     - "Let's Sell Discounts" March 2026
         - Levels
         - Level Up
@@ -428,7 +429,7 @@ pools:
         - "Meerkat Dream"
         - Metro
         - Metropolis
-        - "México"
+  #     - "México" March 2026
         - Midnight Train
         - Miner Sixty Niner
   #     - MissingNo March 2026
@@ -456,6 +457,7 @@ pools:
         - No Man's Land # punch bows, wool mons, spawn region
         - Noble's District
         - North Winds
+        - Nutrient
         - Nyxis
   #     - "Oasis CTW" March 2026
         - Oceano CTW
@@ -491,6 +493,7 @@ pools:
         - Prisma CTW
         - Promenade
         - "Puddin' Pops"
+        - Puyt
         - Quadrival
         - Quadrosphere Rage
         - "Querelous"
