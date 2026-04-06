@@ -18,7 +18,7 @@ pools:
       decay: 0.01 # 1%
       rise: 0.002 # 0.2% - Should be around default/map_count
       # When a map is voted, enforce that it never falls out of the range of:
-      min-after-vote: 0.05 # 5%
+      min-after-vote: 0.01 # 1%
       max-after-vote: 0.50 # 50%
       # Maps with less than this are ignored for a vote
       min-for-vote: 0.02 # 2%
@@ -28,11 +28,11 @@ pools:
 
     # Voted pool only: make maps be excluded from votes if they recently played for long
     cooldown:
-       # How long in minutes until a match is considered long. -1 to disable the mechanic
-       min-length: 45
-       # How many minutes of the same map per day is acceptable.
-       # Eg: if set to 30, a match lasting 45min will put the map in cooldown for 1d 12h
-       minutes-per-day: 15
+      # How long in minutes until a match is considered long. -1 to disable the mechanic
+      min-length: 45
+      # How many minutes of the same map per day is acceptable.
+      # Eg: if set to 30, a match lasting 45min will put the map in cooldown for 1d 12h
+      minutes-per-day: 15
 
     # Voted pools support modifiers which come in the form of a formula (does not affect any other type of pool).
     #
@@ -56,14 +56,22 @@ pools:
     #  - Make it so repeated gamemodes on the same vote are 35% less likely each time, down to a minimum of 20%
     #    pow(score * bound(1 - (0.35 * same_gamemode), 0.2, 1), 2)
     modifier: >-
-      pow(
-        score *
-        bound(1 - (0.4 * same_gamemode), 0.4, 1) *
-        bound(0.5 * (
-          tanh(bound(-0.0025 * players + 0.5, 0.2, 1) * (mapsize - bound(players * 1.05, 0, 90))) -
-          tanh(bound(-0.0025 * players + 0.5, 0.2, 1) * (mapsize - bound(0.005 * players ^ 2 + 0.95 * players + 5, 10, 150)))
-        ), 0, 1)
-      , 2)
+      pow(score, 2) *
+      bound(1 - (0.4 * same_gamemode), 0.4, 1) *
+      bound(0.5 * (
+        tanh(
+          bound(-0.0025 * players + 0.4, 0.15, 0.6) *
+          (mapsize - bound(players * bound(1 - bound(play_minutes - 90, 0, 30) / 200, 0.85, 1) * 1.05, 0, 90))
+        ) -
+        tanh(
+          bound(-0.0025 * players + 0.4, 0.15, 0.6) *
+          (mapsize - bound(
+            0.005 * (players * bound(1 - bound(play_minutes - 90, 0, 30) / 200, 0.85, 1)) ^ 2 +
+            0.95 * (players * bound(1 - bound(play_minutes - 90, 0, 30) / 200, 0.85, 1)) +
+            5, 10, 150
+          ))
+        )
+      ), 0, 1)
 
     maps:
       bridge_5v5:
