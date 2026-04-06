@@ -136,9 +136,6 @@ pools:
   #     - "Sakura" March 2026
         - "Superbowl Sunday"
   #     - "Waffle House" March 2026
-      touchdown:
-        maps:
-          - 
       normal:
         - Abudor
   #     - "Acapulco" March 2026
