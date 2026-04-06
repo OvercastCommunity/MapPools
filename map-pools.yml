@@ -58,7 +58,7 @@ pools:
     modifier: >-
       pow(score, 2) *
       bound(1 - (0.4 * same_gamemode), 0.4, 1) *
-      bound(0.5 * (
+      (bound(0.5 * (
         tanh(
           bound(-0.0025 * players + 0.4, 0.15, 0.6) *
           (mapsize - bound(players * bound(1 - bound(play_minutes - 90, 0, 30) / 200, 0.85, 1) * 1.05, 0, 90))
@@ -71,7 +71,7 @@ pools:
             5, 10, 150
           ))
         )
-      ), 0, 1)
+      ), 0, 1) * 0.9 + 0.1)
 
     maps:
       bridge_5v5:
