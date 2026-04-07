@@ -7,7 +7,7 @@ pools:
     cycle-time: "30s"
 
     # Voted pool only: num of maps to show each vote
-    vote-options: 3
+    vote-options: 5
     # Voted pool only: modify how score behaves
     score:
       # If score should be persisted across server restarts
@@ -660,6 +660,7 @@ pools:
         - Witch's Potions
         - Woolirium
         - Wooly Woods
+        - "Wrath of Cthulhu"
         - Ximorta
   #     - Xinx March 2026
         - Xion
