@@ -136,6 +136,18 @@ pools:
   #     - "Sakura" March 2026
         - "Superbowl Sunday"
   #     - "Waffle House" March 2026
+      touchdown:
+        weight: 0.5
+        maps:
+        - "Colorado Alpines"
+        - "Experiment 12"
+        - "Fireballs Bowl: Mini"
+        - "Shingeki no Brady"
+        - "The Overcast Bowl"
+        - "The Soup Bowl"
+        - "Tom Brady"
+        - "Trip to Cancun"
+        - "Tron Brady"
       normal:
         - Abudor
   #     - "Acapulco" March 2026
@@ -243,7 +255,6 @@ pools:
         - "Coastline"
         - "Cobalt Planet"
         - Coconut Mald
-        - "Colorado Alpines"
         - Columbia CTW
         - "Comb Conquest"
         - Come Summertime # wr?
@@ -317,7 +328,6 @@ pools:
   #     - "The Fenland" March 2026
         - Fields of Glory
         - "Fier"
-        - "Fireballs Bowl: Mini"
         - "Firum CTW"
         - Flags of Samarkand
   #     - Flush Vibes II
@@ -545,7 +555,6 @@ pools:
         - Seaside Plaza
         - "Sheep CTW"
         - Shifty Sands
-        - "Shingeki no Brady"
         - Shinobi
         - Shroom Galaxy
         - Siloë
@@ -590,8 +599,6 @@ pools:
         - The High Road
         - The King's Lava Lair
         - The Last Sunset
-        - "The Overcast Bowl"
-        - "The Soup Bowl"
         - "Thistle Terrace"
         - Thornwood
         - Thunder
@@ -600,7 +607,6 @@ pools:
         - Timbered
         - Tohjo Falls
         - Tohjo Falls II
-        - "Tom Brady"
         - Torn Canyon
         - "Toss Up: One in the Quiver"
         - Total Beesness
@@ -614,8 +620,6 @@ pools:
   #     - Transit March 2026
         - Treflip
         - "Trial Chambers"
-        - "Trip to Cancun"
-        - "Tron Brady"
         - Tulip Mania II
         - Tulog
         - Tumbleweed
@@ -1480,21 +1484,3 @@ pools:
       - "MB: Xoi's Pinkity Drinkity Maid Cafe"
       - "MB: Xyth"
       - "Winter Wars"
-  touchdown:
-    type: voted
-    enabled: true
-    dynamic: false
-    players: 1
-    cooldown:
-       min-length: 45
-       minutes-per-day: 15
-    maps:
-      - "Colorado Alpines"
-      - "Shingeki no Brady"
-      - "The Blizzard Bowl"
-      - "The Overcast Bowl"
-      - "The Soup Bowl"
-      - "The Souper Bowl"
-      - "Tom Brady"
-      - "Trip to Cancun"
-      - "Tron Brady"
