@@ -78,7 +78,7 @@ pools:
         weight: 0.5
         maps:
   #     - "Avalon" March 2026
-  #     - "Banished" September 2023
+        - "Banished"
   #     - "Boneyard" March 2026
   #     - "Bridge: Castle" September 2023
   #     - "Castlen't" October 2025
@@ -90,7 +90,7 @@ pools:
         - "Limitless"
   #     - "Pixie" March 2026
         - "Polders"
-  #     - "Research" February 2024
+        - "Research"
   #     - "Resort" March 2026
         - "Vineyard"
         - "Yonaguni"
@@ -101,7 +101,7 @@ pools:
   #     - "Bridge: Samarkand"
         - "Cordillera" # Bridge DTM
         - "Double Cross"
-  #     - "Double Take" October 2023
+        - "Double Take"
   #     - "Kihl"
         - "Mont Blanc"
         - "Over Troubled Water"
@@ -150,526 +150,541 @@ pools:
         - "Trip to Cancun"
         - "Tron Brady"
       normal:
-        - Abudor
+        - "A Classy Night for a Fight"
+        - "Abudor"
   #     - "Acapulco" March 2026
         - "Acear I"
-        - Ad Astra
+        - "Ad Astra"
         - "Ad Infinitum"
-        - Aequabilis
-        - Aerobellum
-        - Aether
+        - "Aequabilis"
+        - "Aerobellum"
+        - "Aether"
   #     - "After Hours" March 2026
-        - Agrostid
-        - Airship Battle
+        - "Agrostid"
+        - "Airship Battle"
         - "Allure"
-        - Alpine Mining
-        - Amphitheater
-        - Ancient
-        - Annealing
-        - Annealing III
-        - Annealing IV
-  #     - Antiquis March 2026
+        - "Alpine Mining"
+        - "Amphitheater"
+        - "Ancient"
+        - "Annealing"
+        - "Annealing III"
+        - "Annealing IV"
+  #     - "Antiquis" March 2026
         - "Anvil"
-        - Apocalypse CTW
-        - Apollo 23
-        - Appalachia
-        - Apostle
-        - Apple Smash
-        - Aquaduct CTW
-  #     - Aquatica March 2026
-        - Arabia
-        - Araxa
-        - Arctic Ruins
-        - The Archives
-        - Armature
-        - Artholis
-        - Ascendance Payload_Race
-        - Assault
-        - Athirk
-        - Atromix
-        - Autumn Solstice
-        - Avalanche Mini
+        - "Apocalypse CTW"
+        - "Apollo 23"
+        - "Appalachia"
+        - "Apostle"
+        - "Apple Smash"
+        - "Aquaduct CTW"
+  #     - "Aquatica" March 2026
+        - "Arabia"
+        - "Araxa"
+        - "Arctic Ruins"
+        - "Armature"
+        - "Artholis"
+        - "Ascendance Payload_Race"
+        - "Assault"
+        - "Athirk"
+        - "Atromix"
+        - "Autumn Solstice"
+        - "Avalanche Mini"
         - "Avalon Funland"
   #     - "Azure" March 2026
         - "Badlands"
   #     - "Baleful Eden" March 2026
-        - BalloonsDTM
-        - Bamboo Valley III
-        - Bamboo Valley V
-        - Banana Split
+        - "BalloonsDTM"
+        - "Bamboo Valley III"
+        - "Bamboo Valley V"
+        - "Banana Split"
         - "Barnyard Abduction"
-        - Barricade
-        - Battle Ecliptica II
-        - Battle Ecliptica III
-        - Battle for Amaterasu
-        - Battle of Krehm
-        - Battle of Tenjin II
-        - Battle of Tenjin III
-        - Battleship Halberd
+        - "Barricade"
+        - "Battle Ecliptica II"
+        - "Battle Ecliptica III"
+        - "Battle for Amaterasu"
+        - "Battle of Krehm"
+        - "Battle of Tenjin II"
+        - "Battle of Tenjin III"
+        - "Battleship Halberd"
   #     - "Bazaar KotF" March 2026
-        - Beach Battles
-        - Beauty to Ashes
+        - "Beach Battles"
+        - "Beauty to Ashes"
         - "Bed Rush: Anubis"
   #     - "Bed Rush: Drakkar" (Jan 2026, trade back Apr 2026)
-        - Beehive
-  #     - Belvedere March 2026
-        - Bessemer's Process
+        - "Beehive"
+        - "Belcrest"
+  #     - "Belvedere" March 2026
+        - "Bessemer's Process"
         - "Beyond"
         - "Biotech"
         - "Black Gold"
         - "Blitzkrieg CTF"
-        - BlockBlock
+        - "BlockBlock"
         - "Blocks CTW"
-        - Blocks II
-        - Blocks DTC
+        - "Blocks DTC"
+        - "Blocks II"
         - "Blocks: Destroy the Dynamite"
         - "Bloom"
         - "Blossom CTW"
-        - Boar Beach
+        - "Boar Beach"
   #     - "Bob-Omb Battlefield" October 2025
-        - Boletum
-        - BoomBox
-        - Boulevard
+        - "Boletum"
+        - "BoomBox"
+        - "Boulevard"
         - "Brisked"
-        - Brittlebush
+        - "Brittlebush"
         - "Burning Palace"
-        - Byas
-        - Calico
-        - Cannonball Cove
-  #     - Canopy
-        - Canyon II
-  #     - Cargo March 2026
-        - Catre KotH
-        - Catscratch
-        - Cherno CTF
+        - "Byas"
+        - "Calico"
+        - "Cannonball Cove"
+  #     - "Canopy"
+        - "Canyon II"
+  #     - "Cargo" March 2026
+        - "Catre KotH"
+        - "Catscratch"
+        - "Cherno CTF"
         - "Cherry City"
-        - Chestnut
-  #     - Chocolate Diamonds
-        - Citadel
-  #     - Circus CTW
-        - Circus DTC
-  #     - City of Colors DTM
-        - "A Classy Night for a Fight"
-        - ClayClay
-  #     - Clearcut March 2026
-        - Cloud Nine
+        - "Chestnut"
+  #     - "Chocolate Diamonds"
+  #     - "Circus CTW"
+        - "Circus DTC"
+        - "Citadel"
+  #     - "City of Colors DTM"
+        - "ClayClay"
+  #     - "Clearcut" March 2026
+        - "Cloud Nine"
         - "Coastline"
         - "Cobalt Planet"
-        - Coconut Mald
-        - Columbia CTW
+        - "Coconut Mald"
+        - "Columbia CTW"
         - "Comb Conquest"
-        - Come Summertime # wr?
-        - Concourse
-  #     - Constellation March 2026
+        - "Come Summertime" # wr?
+        - "Concourse"
+  #     - "Constellation" March 2026
         - "Cool Steak"
-        - Coral Reef
-        - Corrupted Paradise CTW
-        - Courtyard Classic
+        - "Coral Reef"
+        - "Corrupted Paradise CTW"
+        - "Courtyard Classic"
   #     - "Crater Resort" March 2026
-        - Crippled Divide
+        - "Crippled Divide"
         - "Curly Wools IX"
         - "Cursed Library"
-  #     - Cyril March 2026
-        - Cytokinesis
+  #     - "Cyril" March 2026
+        - "Cytokinesis"
         - "Dark Nebula: Snowball RAGE"
-        - DATAcenter
+        - "DATAcenter"
   #     - "Daydream Mini" October 2025
-        - Deadwood
-        - Dead Noon
-        - Dead Waters
-        - Deciduous Nights
-        - Deepwind Jungle
-        - Deepwood
+        - "Dead Noon"
+        - "Dead Waters"
+        - "Deadwood"
+        - "Deciduous Nights"
+        - "Deepwind Jungle"
+        - "Deepwood"
         - "Depths"
-        - Desert Cataract
+        - "Desert Cataract"
   #     - "Desert Country" March 2026
-        - Desert Eclipse
-        - Desert Sanctuary
-        - Desolate Gully CTW
-        - Diramu Valley DTM
+        - "Desert Eclipse"
+        - "Desert Sanctuary"
+        - "Desolate Gully CTW"
+        - "Diramu Valley DTM"
   #     - "Directrix: 2 Flags" March 2026
-        - Discount Fortress
-        - Discovery
+        - "Discipline"
+        - "Discount Fortress"
+        - "Discovery"
   #     - "Disc Wars II" October 2025
-        - Dominion
+        - "Dominion"
         - "Don't Break My Heart"
-        - Downforce
-        - Downforce II
-        - Downtown
-  #     - Dromedary March 2026
-        - Duality
-  #     - Dust March 2026
-  #     - Dynamo
-  #     - Edo March 2026
+        - "Downforce"
+        - "Downforce II"
+        - "Downtown"
+        - "Dreamland"
+  #     - "Dromedary" March 2026
+        - "Duality"
+  #     - "Dust" March 2026
+        - "Dynamite"
+  #     - "Dynamo"
+  #     - "Edo" March 2026
         - "Embargo"
-        - Emerald Glades
+        - "Emerald Glades"
   #     - "Emergency Meeting" March 2026
         - "Emission"
-  #     - Empire March 2026
-        - Enchanted
-        - Ender Blast
+  #     - "Empire" March 2026
+        - "Enchanted"
+        - "Ender Blast"
         - "Entropy Reactor Mk. 1"
         - "Epsilon"
-  #     - Equinox March 2026
-        - Exiled KotF
-        - Exogrid
-        - Expedition
-        - Extraterrestrial
-        - Facility
-        - Factorio Mainbus
-        - Factory
+  #     - "Equinox" March 2026
+        - "Ether"
+        - "Exiled KotF"
+        - "Exogrid"
+        - "Expedition"
+        - "Extraterrestrial"
+        - "Facility"
+        - "Factorio Mainbus"
+        - "Factory"
         - "Fairy Tales 2: A Tale or Two"
   #     - "Fairy Tales 2: Mini" March 2026
         - "Fairy Tales: Metamorphose"
-        - Fallencrests # power bows, core layers
-        - Fall of Babylon
+        - "Fall of Babylon"
+        - "Fallencrests" # power bows, core layers
         - "FB: Courtyard Isles"
         - "FB: Data-Rush"
         - "Feel Good Inc."
-  #     - "The Fenland" March 2026
-        - Fields of Glory
+        - "Fields of Glory"
         - "Fier"
         - "Firum CTW"
-        - Flags of Samarkand
-  #     - Flush Vibes II
-        - Ford
-        - Forge Ignea
-        - Fourchette
+        - "Flags of Samarkand"
+  #     - "Flush Vibes II"
+        - "Ford"
+        - "Forge Ignea"
+        - "Fourchette"
         - "Fox Dream"
-        - Fractal Descent
+        - "Fractal Descent"
         - "Fracture DTM"
-        - Frob
+        - "Frob"
         - "Frog Pond"
-        - Frost
+        - "Frost"
         - "Fruhling"
-        - Fumeen II
-        - Fungi Grove
-  #     - Garf
+        - "Fumeen II"
+        - "Fungi Grove"
+  #     - "Garf"
         - "Geometric Domination"
-        - Gethsemane
+        - "Gethsemane"
         - "Gloomwald"
         - "Gobi"
-        - Golden Drought
-        - Golden Drought III
-        - Golden Drought IV
-        - Golden Fever
-        - Gongua CTW
-        - Grassy Mound CTF
-        - Greecia
-        - Green
-  #     - Greenhill March 2026
-        - Green Gem CTW
-        - Gridlock 2
-        - Grub
-  #     - "The Grove" March 2026
+        - "Golden Drought"
+        - "Golden Drought III"
+        - "Golden Drought IV"
+        - "Golden Fever"
+        - "Gongua CTW"
+        - "Grassy Mound CTF"
+        - "Greecia"
+        - "Green"
+        - "Green Gem CTW"
+  #     - "Greenhill" March 2026
+        - "Gridlock 2"
+        - "Grub"
   #     - "Hallows" March 2026
   #     - "Happy Rainbow: Snowball RAGE" March 2026
-        - Harbor CTW
-        - Harvest
+        - "Harbor CTW"
+        - "Harvest"
   #     - "Hau'oli Mau Lanui" March 2026
-        - Haven Tide
+        - "Haven Tide"
         - "Hearts of Atlantis"
-  #     - Hekla March 2026
-        - Hemlock
+  #     - "Hekla" March 2026
+        - "Hemlock"
         - "Hemlock II"
         - "Hillside Daydream"
-        - Hobbit CTW
-        - Home by the Sea
-        - Honeycombed
+        - "Hobbit CTW"
+        - "Home by the Sea"
+        - "Honeycombed"
         - "Hot Dam"
         - "Hot Dam Mini"
-        - Hotel Overcast
+        - "Hotel Overcast"
         - "Howdy Partner"
-  #     - Huanxiang March 2026
-        - Hydrolock
-  #     - Ice Miners
-        - Icecream Sandwiched II
-        - Icescar
+  #     - "Huanxiang" March 2026
+        - "Hydrolock"
+  #     - "Ice Miners"
+        - "Icecream Sandwiched II"
+        - "Icescar"
+        - "Incassum"
+        - "Industrial"
         - "Infernal Shadow"
-        - Incassum
-        - Industrial
-        - Ingwaz
-        - Inheritance
-        - Inkbloc Art Academy
-        - Insanihe
+        - "Ingwaz"
+        - "Inheritance"
+        - "Inkbloc Art Academy"
+        - "Insanihe"
         - "Interitus"
-        - Iris DTC
-        - Island Divide
-        - Istana CTW
-        - Iti Mo'ai
-        - Java II
+        - "Iris DTC"
+        - "Island Divide"
+        - "Istana CTW"
+        - "Iti Mo'ai"
+        - "Java II"
         - "Jungle Beat"
-        - Jurassic
-        - Justice
-        - Kahoy
-        - Kanto
-        - Keipha CTW
-        - Kerskyn
-        - Kingdom
-        - King Neptune
-        - King Ranch
-        - Krager
-        - Kuusepuu
-  #     - Kï March 2026
-        - Kyoto
+        - "Jurassic"
+        - "Justice"
+        - "Kahoy"
+        - "Kanto"
+        - "Keipha CTW"
+        - "Kerskyn"
+        - "King Neptune"
+        - "King Ranch"
+        - "Kingdom"
+        - "Krager"
+        - "Kuusepuu"
+        - "Kyoto"
+  #     - "Kï" March 2026
         - "La Bataille de l'épée"
         - "Lab'ex"
-  #     - Lasa March 2026
+  #     - "Lasa" March 2026
   #     - "Let's Sell Discounts" March 2026
-        - Levels
-        - Level Up
-        - Limbo
-        - Limit
+        - "Level Up"
+        - "Levels"
+        - "Limbo"
+        - "Limit"
   #     - "Little China" November 2025 too easy to abuse out of bounds w/ flag
-        - Little Roses
-        - Long Distance
+        - "Little Roses"
+        - "Long Distance"
   #     - "Long Shot" March 2026
-        - Lost Gardens
-        - Lost Haven
-        - Lost World CTF
-  #     - Lotus March 2026
-        - Loyalty DTM
-        - Lunar Crescent
-  #     - Lupa January 2026
-        - Lupain
+        - "Lost Gardens"
+        - "Lost Haven"
+        - "Lost World CTF"
+  #     - "Lotus" March 2026
+        - "Loyalty DTM"
+        - "Lunar Crescent"
+  #     - "Lupa" January 2026
+        - "Lupain"
   #     - "Lush Oasis" March 2026
         - "Madness on Rails"
         - "Mahatma"
-  #     - Malupa March 2026
-        - Mame, I Shrunk the PvPers
-  #     - Manzikert March 2026
-        - Maple Falls
-        - Maple Syrup
-        - Mars Odyssey
-        - Masarin II
-        - Mayan Apocalypse
-        - Mbanza
-        - Medieval Village
+  #     - "Malupa" March 2026
+        - "Mame, I Shrunk the PvPers"
+  #     - "Manzikert" March 2026
+        - "Maple Falls"
+        - "Maple Syrup"
+        - "Mars Odyssey"
+        - "Masarin II"
+        - "Mayan Apocalypse"
+        - "Mbanza"
+        - "Medieval Village"
         - "Meerkat Dream"
-        - Metro
-        - Metropolis
+        - "Metro"
+        - "Metropolis"
   #     - "México" March 2026
-        - Midnight Train
-        - Miner Sixty Niner
-  #     - MissingNo March 2026
-        - Mistral Bay
+        - "Midnight Train"
+        - "Miner Sixty Niner"
+  #     - "MissingNo" March 2026
+        - "Mistral Bay"
         - "Mo'ai"
   #     - "Mole Dream" March 2026
-        - Molendinis
-        - Monkey Mania
-        - Monument Valley
-        - Moonlight Summit
-        - Mushdoom
-        - Mushroom Gorge
-        - Mushroom Kingdoms
+        - "Molendinis"
+        - "Monkey Mania"
+        - "Monument Valley"
+        - "Moonlight Summit"
+        - "Mush"
+        - "Mushdoom"
+        - "Mushroom Gorge"
+        - "Mushroom Kingdoms"
   #     - "Mushroom Monuments" March 2026
-        - Mystic Point
+        - "Mystic Point"
         - "Mythical Marsh"
         - "Natsukashii"
-  #     - Nebulosa
-        - Nether War CTW
+  #     - "Nebulosa"
+        - "Nether War CTW"
   #     - "NewGen" November 2025
-  #     - NextRace April 2026
-        - NextRace DTM
-        - Nightsail # spawner update
-        - Nirow
-        - The Nile
-        - No Man's Land # punch bows, wool mons, spawn region
-        - Noble's District
-        - North Winds
-        - Nutrient
-  #     - Nyxis April 2026
+  #     - "NextRace" April 2026
+        - "NextRace DTM"
+        - "Nightsail" # spawner update
+        - "Nirow"
+        - "No Man's Land" # punch bows, wool mons, spawn region
+        - "Noble's District"
+        - "North Winds"
+        - "Nutrient"
+  #     - "Nyxis" April 2026
   #     - "Oasis CTW" March 2026
-        - Oceano CTW
-        - Odin
-        - Onier
-        - Operation Overlord
-        - Osoi
+        - "Oceano CTW"
+        - "Odin"
+        - "Onier"
+        - "Operation Overlord"
+        - "Osoi"
         - "Oumuamua"
-        - Ouroboros
+        - "Ouroboros"
   #     - "Outback"
         - "Outback: Outback Edition"
-        - Outlyne
-        - Paddo's
-        - Paint the Streets
+        - "OutCast"
+        - "OutCast 2"
+        - "Outlyne"
+        - "Paddo's"
+        - "Paint the Streets"
   #     - "Paintman's Day Off" March 2026
   #     - "Palace CTF" March 2026
-        - Palm Rust
-        - Pandemonium
+        - "Palm Rust"
+        - "Pandemonium"
         - "Parabola"
   #     - "Parabola II" March 2026
-        - Parallel Plays # waiting on map.png
-        - Peloponnesia
+        - "Parallel Plays" # waiting on map.png
+        - "Peloponnesia"
         - "Philosopher's Stone"
-        - Pigland
-        - Pineium CTW
-        - Pineium DTM
-        - Pirates I
-        - PixelMix
-        - Polynesia
+        - "Pigland"
+        - "Pineium CTW"
+        - "Pineium DTM"
+        - "Pirates I"
+        - "PixelMix"
+        - "Polynesia"
         - "Pompeii 5x5: One in the Quiver"
-        - Pond
+        - "Pond"
         - "Possession Game"
-        - Prisma CTW
-        - Promenade
+        - "Prisma CTW"
+        - "Promenade"
         - "Puddin' Pops"
-        - Puyt
-        - Quadrival
-        - Quadrosphere Rage
+        - "Puyt"
+        - "Quadrival"
+        - "Quadrosphere Rage"
         - "Querelous"
-        - Quintlet
+        - "Quintlet"
+        - "Race for Victory 2"
         - "Raceway"
-        - Race for Victory 2
         - "Rafiki"
-        - Raid FFA
-        - Rangi-nui
-        - Rattlesnake
+        - "Raid FFA"
+        - "Rangi-nui"
+        - "Rattlesnake"
         - "Renegade"
   #     - "Research Base" March 2026
+        - "Retaliation 2"
         - "Rice"
   #     - "Rind Rushers" March 2026
-        - Rind Rushers II
-        - Ringpull
-        - Riverside
-        - Roar
-        - Rocky Top
+        - "Rind Rushers II"
+        - "Ringpull"
+        - "Riverside"
+        - "Roar"
+        - "Rocky Top"
         - "Röntgen"
         - "Rotten"
-        - Royal
+        - "Royal"
   #     - "Royal Arena" March 2026
-        - Royal Ascend
-        - Royal Garden DTC
-        - Roziterman
+        - "Royal Ascend"
+        - "Royal Garden DTC"
+        - "Roziterman"
         - "Ruby Planet"
-        - Ruediger's Bonsai Garden
+        - "Ruediger's Bonsai Garden"
         - "Ruffland"
         - "Sakura Garden"
   #     - "Sakura Garden II" March 2026
   #     - "Sanctum Wasser" March 2026
-  #     - Sandstorm March 2026
-  #     - Sandy March 2026
-        - Santorini
+  #     - "Sandstorm" March 2026
+  #     - "Sandy" March 2026
+        - "Santorini"
         - "Sarc"
-        - Sawgrass 17
-        - Scorched Grove
-        - Scrapelli
-        - Seaside Plaza
+        - "Sawgrass 17"
+        - "Scorched Grove"
+        - "Scrapelli"
+        - "Seaside Plaza"
+        - "Segment"
+        - "Sharks Killed"
         - "Sheep CTW"
-        - Shifty Sands
-        - Shinobi
-        - Shroom Galaxy
-        - Siloë
-        - Simplicity CTW
-        - Sinuous
-        - Skycastle Islands
-        - Smoke KotH
-        - Snowdrift Pass
-  #     - Snowy Wars
-        - Snow Level
-  #     - SolitudeMC March 2026
-        - Soviet Mills
-        - Space Corp
-        - Spaceship Battles
+        - "Shifty Sands"
+        - "Shinobi"
+        - "Shroom Galaxy"
+        - "Siloë"
+        - "Simplicity CTW"
+        - "Sinuous"
+        - "Skycastle Islands"
+        - "Smoke KotH"
+        - "Snow Level"
+        - "Snowdrift Pass"
+  #     - "Snowy Wars"
+  #     - "SolitudeMC" March 2026
+        - "Soviet Mills"
+        - "Space Corp"
+        - "Spaceship Battles"
   #     - "Split Strata" March 2026
         - "Standstill"
-        - State of Decay II
+        - "State of Decay II"
         - "Station X"
-        - Steam Siege
-        - Steel Valley
-        - Streamline II
-        - Summer Sadness
+        - "Steam Siege"
+        - "Steel Valley"
+        - "Streamline II"
+        - "Summer Sadness"
         - "Sunbliss"
   #     - "Sunrise Over Paradise" March 2026
-        - Sunset Glaze
+        - "Sunset Glaze"
         - "Super Bed World"
   #     - "Super Happy Fun World" March 2026
-        - SuperPRISM
-        - Swamped
-        - Sweetopia
-        - Tahiti
-        - Tangier
-        - Tanker TNT
-  #     - Tatakai March 2026
-        - Tebulas
-        - Temple Valley
-        - Tetrad
-  #     - "The Complex CTF" March 2026
+        - "SuperPRISM"
+        - "Swamped"
+        - "Sweetopia"
+        - "Tahiti"
+        - "Tangier"
+        - "Tanker TNT"
+  #     - "Tatakai" March 2026
+        - "Tebulas"
+        - "Temple Valley"
+        - "Tetrad"
         - "The 4th Law"
+        - "The Archives"
         - "The Big Dig"
+  #     - "The Complex CTF" March 2026
         - "The Endless Blue"
-        - The High Road
-        - The King's Lava Lair
-        - The Last Sunset
+  #     - "The Fenland" March 2026
+  #     - "The Grove" March 2026
+        - "The High Road"
+        - "The King's Lava Lair"
+        - "The Last Sunset"
+        - "The Nile"
+        - "The Waiting Room"
         - "Thistle Terrace"
-        - Thornwood
-        - Thunder
-        - Thunderbolt
+        - "Thornwood"
+        - "Thunder"
+        - "Thunderbolt"
         - "Thunderrush"
-        - Timbered
-        - Tohjo Falls
-        - Tohjo Falls II
-        - Torn Canyon
+        - "Timbered"
+        - "Tohjo Falls"
+        - "Tohjo Falls II"
+        - "Torn Canyon"
         - "Toss Up: One in the Quiver"
-        - Total Beesness
-        - Total War II
-        - Totem
+        - "Total Beesness"
+        - "Total War II"
+        - "Totem"
         - "ToW: Mush More"
-        - Townside
+        - "Townside"
   #     - "Townside Mini" March 2026
         - "Trail Mix"
         - "Tranquility"
-  #     - Transit March 2026
-        - Treflip
+  #     - "Transit" March 2026
+        - "Treflip"
         - "Trial Chambers"
-        - Tulip Mania II
-        - Tulog
-        - Tumbleweed
-        - Tuscany Hills # leaves?
-  #     - Tuscany October 2025
-        - Tusho CTW
+        - "Tulip Mania II"
+        - "Tulog"
+        - "Tumbleweed"
+  #     - "Tuscany" October 2025
+        - "Tuscany Hills" # leaves?
+        - "Tusho CTW"
         - "Twilight Citadel"
-        - Twilight Tuckaway
-        - Twisted
-        - Two Tier
-        - UBoat König
-        - Ubos CTF
+        - "Twilight Tuckaway"
+        - "Twisted"
+        - "Two Tier"
+        - "UBoat König"
+        - "Ubos CTF"
         - "Ulcinj"
         - "Underpass"
         - "Urban Jungle"
-        - Vegas
+        - "Vegas"
         - "Veld"
+        - "Venice TDM"
         - "Vertex"
         - "Vesuvius"
-        - Villa I
+        - "Villa I"
         - "Villa II"
-        - Voodoo
-        - The Waiting Room
-        - Wallop Series X
+        - "Voodoo"
+        - "Wallop Series X"
         - "Warlock"
-        - Warzone
+        - "Warzone"
         - "Waterwood"
         - "We Sell Mushrooms CTF"
   #     - "When Men Cried" March 2026
         - "Wholething"
-        - Wild Isle
-        - Winsray Fields
-        - "Winterbane"
+        - "Wild Isle"
+        - "Wildwood Crevice"
+        - "Winsray Fields"
         - "Winter Solstice"
   #     - "Winter Solstice Mini" March 2026
+        - "Winterbane"
   #     - "Wintertime" March 2026
-        - Wit's End
-        - Witch's Potions
-        - Woolirium
-        - Wooly Woods
+        - "Wit's End"
+        - "Witch's Potions"
+        - "Woodwork Harbor"
+        - "Woolirium"
+        - "Wooly Woods"
+        - "Wrath Altar"
         - "Wrath of Cthulhu"
-        - Ximorta
-  #     - Xinx March 2026
-        - Xion
-        - Xunkohtli
-        - Yangshuo
+        - "Ximorta"
+  #     - "Xinx" March 2026
+        - "Xion"
+        - "Xunkohtli"
+        - "Yangshuo"
         - "Yermo"
         - "Zipline III"
-        - Zoo
+        - "Zoo"
   avicus: # Just some of your throwback Avicus maps
     type: voted
     enabled: true
@@ -904,7 +919,7 @@ pools:
       - "Hide n' Seek"
       - "Hide n' Seek: Community"
       - "Humble Jungle"
-      - "Infection: Amusememt Park"
+      - "Infection: Amusement Park"
       - "Infection: Boulevard"
       - "Infection: Cityscape"
       - "Infection: Kraken"
@@ -918,7 +933,7 @@ pools:
       - "King's Conquest: Incendiary"
       - "King's Conquest: Porky Plains"
       - "King's Conquest: Rage Quit"
-      - "King's Conquest: Rallypoint Alpha"
+      - "King's Conquest: Rallypoint Beta"
       - "Knockout Stadium"
       - "Knockout Stick Fight"
       - "Ladderp II"
