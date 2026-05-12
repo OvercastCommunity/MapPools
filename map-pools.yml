@@ -108,8 +108,8 @@ pools:
         - "Rockaway Bridge"
       bridge_swap:
         - "Bridge Swap: Double Take"
-        - Gulch
-        - Moss
+        - "Gulch"
+        - "Moss"
       item_sumo:
         weight: 0.5
         maps:
@@ -117,6 +117,11 @@ pools:
         - "Calima"
         - "Psycho Sumo"
         - "Weald"
+      flag_assault_8v8:
+        weight: 0.5
+        maps:
+        - "Royal Rumble II"
+        - "Kalahari Sanctuary"
       flag_football:
         weight: 0.5
         maps:
@@ -132,7 +137,6 @@ pools:
   #     - "NYC" March 2026
   #     - "Pipes and Punters"
   #     - "Royal Rumble: Classic"
-        - "Royal Rumble II"
   #     - "Sakura" March 2026
         - "Superbowl Sunday"
   #     - "Waffle House" March 2026
