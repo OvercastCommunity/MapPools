@@ -4,7 +4,7 @@ pools:
     enabled: true
     dynamic: true
     players: 1
-    cycle-time: "30s"
+    cycle-time: -1
 
     # Voted pool only: num of maps to show each vote
     vote-options: 5
@@ -744,7 +744,7 @@ pools:
   fun: # Please note this is a fun pool
     # For fun maps that play longer than maps in the sns pool
     type: voted
-    cycle-time: 25s
+    cycle-time: -1
     enabled: true
     dynamic: false
     players: 1
@@ -803,7 +803,7 @@ pools:
       - "Zipline: Moar Gunz Edition"
   sns: # Crazy's SNS pool
     type: voted
-    cycle-time: 25s
+    cycle-time: -1
     enabled: true
     dynamic: false
     players: 1
@@ -865,7 +865,7 @@ pools:
       - Zen
   funky-friday: # Funky Friday events pool
     type: voted
-    cycle-time: 25s
+    cycle-time: -1
     enabled: true
     dynamic: false
     players: 1
@@ -1026,7 +1026,7 @@ pools:
       - "Wool Story Bro"
   tnt-tuesday: # TNT Tuesday events pool
     type: voted
-    cycle-time: 25s
+    cycle-time: -1
     enabled: true
     dynamic: false
     players: 1
