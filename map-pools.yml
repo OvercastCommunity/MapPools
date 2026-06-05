@@ -1514,3 +1514,33 @@ pools:
       - "MB: Xoi's Pinkity Drinkity Maid Cafe"
       - "MB: Xyth"
       - "Winter Wars"
+  modern:
+    type: voted
+    enabled: true
+    dynamic: false
+    players: 1
+    cooldown:
+       min-length: 45
+       minutes-per-day: 15
+    maps:
+      - "Allure"
+      - "Beyond"
+      - "Dizzy"
+      - "Erratic"
+      - "Fun House"
+      - "Iguazú"
+      - "Militia"
+      - "Pool Day"
+      - "Potrzebie"
+      - "St. Marc"
+      - "Tartarus"
+      - "Thistle"
+      - "Thistle: Mini"
+      - "Trial Chambers: Crossbow Blast"
+      - "Whac-A-Mole"
+      - "Graveyard Shift"
+      - "MMB: Anthill"
+      - "Polynesia: Trident RAGE"
+      - "Random Items"
+      - "The Grand Dueling Tournament III"
+      - "Tug of War: Intense Tugging"
