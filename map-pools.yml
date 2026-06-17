@@ -214,8 +214,8 @@ pools:
   #     - "Bazaar KotF" March 2026
         - "Beach Battles"
         - "Beauty to Ashes"
-        - "Bed Rush: Anubis"
-  #     - "Bed Rush: Drakkar" (Jan 2026, trade back Apr 2026)
+  #     - "Bed Rush: Anubis" June 2026
+        - "Bed Rush: Drakkar"
         - "Beehive"
         - "Belcrest"
   #     - "Belvedere" March 2026
@@ -254,12 +254,12 @@ pools:
   #     - "Circus CTW"
         - "Circus DTC"
         - "Citadel"
-  #     - "City of Colors DTM"
+        - "City of Colors DTM"
   #     - "Ciudad Coastera" September 2024
         - "ClayClay"
   #     - "Clearcut" March 2026
   #      - "Cloud Nine" (April 2026 Gamebreaking bug, Possibly related to bingo)
-        - "Coastline"
+  #     - "Coastline" June 2026
         - "Cobalt Planet"
         - "Coconut Mald"
         - "Columbia CTW"
@@ -304,8 +304,8 @@ pools:
         - "Downforce II"
         - "Downtown"
         - "Dreamland"
-  #     - "Dromedary" March 2026
-        - "Duality"
+        - "Dromedary"
+  #     - "Duality" June 2026
   #     - "Dust" March 2026
         - "Dynamite"
   #     - "Dynamo"
@@ -323,7 +323,7 @@ pools:
         - "Ether"
         - "Exiled KotF"
         - "Exogrid"
-        - "Expedition"
+  #     - "Expedition" June 2026
         - "Extraterrestrial"
         - "Facility"
         - "Factorio Mainbus"
@@ -427,6 +427,7 @@ pools:
   #     - "Let's Sell Discounts" March 2026
         - "Level Up"
         - "Levels"
+        - "Lilypad"
         - "Limbo"
         - "Limit"
   #     - "Little China" November 2025 too easy to abuse out of bounds w/ flag
@@ -592,10 +593,10 @@ pools:
         - "Steam Siege"
         - "Steel Valley"
         - "Streamline II"
-        - "Summer Sadness"
+  #     - "Summer Sadness" June 2026
         - "Sunbliss"
   #     - "Sunrise Over Paradise" March 2026
-        - "Sunset Glaze"
+  #     - "Sunset Glaze" June 2026
         - "Super Bed World"
   #     - "Super Happy Fun World" March 2026
         - "SuperPRISM"
@@ -654,7 +655,7 @@ pools:
         - "UBoat König"
         - "Ubos CTF"
         - "Ulcinj"
-        - "Underpass"
+  #     - "Underpass" June 2026
         - "Urban Jungle"
         - "Vegas"
         - "Veld"
