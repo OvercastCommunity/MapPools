@@ -1562,11 +1562,11 @@ pools:
        minutes-per-day: 15
     maps:
       - "Breezebille"
-      - "FB: Blue Snooze"
       - "Chaos Theory"
-      # - ""  Add le sur mesure to this contest slot when the author fixes his map download
-      - "Order"
+      - "FB: Blue Snooze"
       - "FB: Explorers"
+      - "Le Sur-Mesure"
+      - "Order"
       
       
       
