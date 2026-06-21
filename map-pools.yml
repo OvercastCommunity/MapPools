@@ -1526,22 +1526,49 @@ pools:
     maps:
       - "Allure"
       - "Beyond"
+      # - "Bingo" Testing Phase | June 2026
+      - "Cirrus Park"
       - "Dizzy"
       - "Erratic"
       - "Fun House"
+      - "Ghast Jockey"
+      - "Graveyard Shift"
       - "Iguazú"
+      - "MMB: Anthill"
+      - "MMB: Wootonia Deluxe"
       - "Militia"
+      - "Polynesia: Trident RAGE"
       - "Pool Day"
       - "Potrzebie"
+      - "Random Items"
+      - "Ruinic Altar"
       - "St. Marc"
+      # - "Survive or Die: Oracle" Testing Phase | June 2026
       - "Tartarus"
+      - "The Grand Dueling Tournament III"
       - "Thistle"
       - "Thistle: Mini"
       - "Trial Chambers: Crossbow Blast"
-      - "Whac-A-Mole"
-      - "Graveyard Shift"
-      - "MMB: Anthill"
-      - "Polynesia: Trident RAGE"
-      - "Random Items"
-      - "The Grand Dueling Tournament III"
       - "Tug of War: Intense Tugging"
+      - "Whac-A-Mole"
+      - "Xolotl"
+  contest:
+    type: ordered
+    enabled: true
+    dynamic: false
+    players: 1
+    cooldown:
+       min-length: 45
+       minutes-per-day: 15
+    maps:
+      - "Breezebille"
+      - "FB: Blue Snooze"
+      - "Chaos Theory"
+      # - ""  Add le sur mesure to this contest slot when the author fixes his map download
+      - "Order"
+      - "FB: Explorers"
+      
+      
+      
+      
+      
