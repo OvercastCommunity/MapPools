@@ -182,7 +182,7 @@ pools:
         - "Apple Smash"
         - "Aquaduct CTW"
   #     - "Aquatica" March 2026
-        - "Arabia"
+  #     - "Arabia" June 2026
         - "Araxa"
         - "Arctic Ruins"
         - "Armature"
@@ -232,7 +232,7 @@ pools:
         - "Bloom"
         - "Blossom CTW"
         - "Boar Beach"
-  #     - "Bob-Omb Battlefield" October 2025
+        - "Bob-Omb Battlefield"
         - "Boletum"
         - "BoomBox"
         - "Boulevard"
@@ -279,7 +279,7 @@ pools:
         - "Cytokinesis"
         - "Dark Nebula: Snowball RAGE"
         - "DATAcenter"
-  #     - "Daydream Mini" October 2025
+        - "Daydream Mini"
         - "Dead Noon"
         - "Dead Waters"
         - "Deadwood"
@@ -307,6 +307,7 @@ pools:
         - "Dromedary"
   #     - "Duality" June 2026
   #     - "Dust" March 2026
+        - "Dwyer Hill"
         - "Dynamite"
   #     - "Dynamo"
   #     - "Edo" March 2026
@@ -392,11 +393,11 @@ pools:
   #     - "Huanxiang" March 2026
         - "Hydrolock"
   #     - "Ice Miners"
-        - "Icecream Sandwiched II"
+  #     - "Icecream Sandwiched II" June 2026
         - "Icescar"
         - "Incassum"
         - "Industrial"
-        - "Infernal Shadow"
+  #     - "Infernal Shadow" June 2026
         - "Ingwaz"
         - "Inheritance"
         - "Inkbloc Art Academy"
@@ -577,8 +578,9 @@ pools:
         - "Simplicity CTW"
         - "Sinuous"
         - "Skycastle Islands"
+        - "Smashcap"
         - "Smoke KotH"
-        - "Snow Level"
+  #     - "Snow Level" June 2026
         - "Snowdrift Pass"
   #     - "Snowy Wars"
   #     - "SolitudeMC" March 2026
