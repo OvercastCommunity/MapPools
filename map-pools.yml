@@ -298,8 +298,10 @@ pools:
         - "Discount Fortress"
         - "Discovery"
   #     - "Disc Wars II" October 2025
+        - "Disc Wars III"
         - "Dominion"
         - "Don't Break My Heart"
+        - "Double Trouble"
         - "Downforce"
         - "Downforce II"
         - "Downtown"
@@ -317,7 +319,7 @@ pools:
         - "Emission"
   #     - "Empire" March 2026
         - "Enchanted"
-        - "Ender Blast"
+  #     - "Ender Blast" June 2026
         - "Entropy Reactor Mk. 1"
         - "Epsilon"
   #     - "Equinox" March 2026
@@ -344,7 +346,7 @@ pools:
   #     - "Flush Vibes II"
         - "Ford"
         - "Forge Ignea"
-        - "Fourchette"
+  #     - "Fourchette" June 2026
         - "Fox Dream"
         - "Fractal Descent"
         - "Fracture DTM"
@@ -352,7 +354,7 @@ pools:
         - "Frog Pond"
         - "Frost"
         - "Fruhling"
-        - "Fumeen II"
+  #     - "Fumeen II" June 2026
         - "Fungi Grove"
   #     - "Garf"
         - "Geometric Domination"
@@ -440,7 +442,7 @@ pools:
         - "Lost World CTF"
   #     - "Lotus" March 2026
         - "Loyalty DTM"
-        - "Lunar Crescent"
+  #     - "Lunar Crescent" June 2026
   #     - "Lupa" January 2026
         - "Lupain"
   #     - "Lush Oasis" March 2026
@@ -456,7 +458,7 @@ pools:
         - "Mayan Apocalypse"
         - "Mbanza"
         - "Medieval Village"
-        - "Meerkat Dream"
+  #     - "Meerkat Dream" June 2026
         - "Metro"
         - "Metropolis"
   #     - "México" March 2026
@@ -465,7 +467,7 @@ pools:
   #     - "MissingNo" March 2026
         - "Mistral Bay"
         - "Mo'ai"
-  #     - "Mole Dream" March 2026
+        - "Mole Dream"
         - "Molendinis"
         - "Monkey Mania"
         - "Monument Valley"
@@ -601,7 +603,8 @@ pools:
   #     - "Sunset Glaze" June 2026
         - "Super Bed World"
   #     - "Super Happy Fun World" March 2026
-        - "SuperPRISM"
+        - "SuperCUBE"
+  #     - "SuperPRISM" June 2026
         - "Swamped"
         - "Sweetopia"
         - "Tahiti"
