@@ -234,6 +234,7 @@ pools:
         - "Boar Beach"
         - "Bob-Omb Battlefield"
         - "Boletum"
+        - "Boom"
         - "BoomBox"
         - "Boulevard"
         - "Brisked"
@@ -282,6 +283,7 @@ pools:
         - "Daydream Mini"
         - "Dead Noon"
         - "Dead Waters"
+        - "Deadly Gaze"
         - "Deadwood"
         - "Deciduous Nights"
         - "Deepwind Jungle"
@@ -362,8 +364,9 @@ pools:
         - "Gloomwald"
         - "Gobi"
         - "Golden Drought"
-        - "Golden Drought III"
+  #     - "Golden Drought III" June 2026
         - "Golden Drought IV"
+        - "Golden Drought VI"
         - "Golden Fever"
         - "Gongua CTW"
         - "Grassy Mound CTF"
@@ -509,7 +512,7 @@ pools:
         - "Paint the Streets"
   #     - "Paintman's Day Off" March 2026
   #     - "Palace CTF" March 2026
-        - "Palm Rust"
+  #     - "Palm Rust" June 2026
         - "Pandemonium"
         - "Parabola"
   #     - "Parabola II" March 2026
@@ -539,6 +542,7 @@ pools:
         - "Raid FFA"
         - "Rangi-nui"
         - "Rattlesnake"
+        - "Reindeer Trails"
         - "Renegade"
   #     - "Research Base" March 2026
         - "Retaliation 2"
@@ -579,6 +583,7 @@ pools:
         - "Siloë"
         - "Simplicity CTW"
         - "Sinuous"
+        - "Sky Shot"
         - "Skycastle Islands"
         - "Smashcap"
         - "Smoke KotH"
