@@ -155,7 +155,7 @@ pools:
         - "Tron Brady"
       normal:
         - "A Classy Night for a Fight"
-        - "Abudor"
+  #     - "Abudor" June 2026
   #     - "Acapulco" March 2026
         - "Acear I"
         - "Ad Astra"
@@ -192,7 +192,7 @@ pools:
         - "Athirk"
         - "Atromix"
         - "Autumn Solstice"
-        - "Avalanche Mini"
+  #     - "Avalanche Mini" June 2026
         - "Avalon Funland"
   #     - "Azure" March 2026
         - "Badger Dream"
@@ -203,6 +203,7 @@ pools:
         - "Bamboo Valley V"
         - "Banana Split"
         - "Barnyard Abduction"
+        - "Barr DTC"
         - "Barricade"
         - "Battle Ecliptica II"
         - "Battle Ecliptica III"
@@ -301,7 +302,8 @@ pools:
         - "Discovery"
   #     - "Disc Wars II" October 2025
         - "Disc Wars III"
-        - "Dominion"
+        - "Divided"
+  #     - "Dominion" June 2026
         - "Don't Break My Heart"
         - "Double Trouble"
         - "Downforce"
@@ -327,6 +329,7 @@ pools:
   #     - "Equinox" March 2026
         - "Ether"
         - "Exiled KotF"
+        - "Exit"
         - "Exogrid"
   #     - "Expedition" June 2026
         - "Extraterrestrial"
@@ -344,7 +347,7 @@ pools:
         - "Fields of Glory"
         - "Fier"
         - "Firum CTW"
-        - "Flags of Samarkand"
+  #     - "Flags of Samarkand" June 2026
   #     - "Flush Vibes II"
         - "Ford"
         - "Forge Ignea"
@@ -412,6 +415,7 @@ pools:
         - "Island Divide"
         - "Istana CTW"
         - "Iti Mo'ai"
+        - "Japan"
         - "Java II"
         - "Jungle Beat"
         - "Jurassic"
@@ -493,6 +497,7 @@ pools:
         - "No Man's Land" # punch bows, wool mons, spawn region
         - "Noble's District"
         - "North Winds"
+        - "Notre-Daaaaam of Paris"
         - "Nutrient"
   #     - "Nyxis" April 2026
   #     - "Oasis CTW" March 2026
@@ -535,8 +540,9 @@ pools:
         - "Quadrival"
         - "Quadrosphere Rage"
         - "Querelous"
-        - "Quintlet"
-        - "Race for Victory 2"
+  #     - "Quintlet" June 2026
+  #     - "Race for Victory 2" June 2026
+        - "Race for Victory 4"
         - "Raceway"
         - "Rafiki"
         - "Raid FFA"
@@ -572,14 +578,14 @@ pools:
         - "Sarc"
         - "Sawgrass 17"
         - "Scorched Grove"
-        - "Scrapelli"
+  #     - "Scrapelli" June 2026
         - "Seaside Plaza"
         - "Segment"
         - "Sharks Killed"
         - "Sheep CTW"
         - "Shifty Sands"
         - "Shinobi"
-        - "Shroom Galaxy"
+  #     - "Shroom Galaxy" June 2026
         - "Siloë"
         - "Simplicity CTW"
         - "Sinuous"
@@ -618,6 +624,7 @@ pools:
   #     - "Tatakai" March 2026
         - "Tebulas"
         - "Temple Valley"
+        - "Teokalli"
         - "Tetrad"
         - "The 4th Law"
         - "The Archives"
@@ -666,7 +673,7 @@ pools:
         - "Ubos CTF"
         - "Ulcinj"
   #     - "Underpass" June 2026
-        - "Urban Jungle"
+  #     - "Urban Jungle" June 2026
         - "Vegas"
         - "Veld"
         - "Venice TDM"
