@@ -183,7 +183,7 @@ pools:
         - "Aquaduct CTW"
   #     - "Aquatica" March 2026
   #     - "Arabia" June 2026
-        - "Araxa"
+  #     - "Araxa" July 2026
         - "Arctic Ruins"
         - "Armature"
         - "Artholis"
@@ -192,6 +192,7 @@ pools:
         - "Athirk"
         - "Atromix"
         - "Autumn Solstice"
+        - "Autunno"
   #     - "Avalanche Mini" June 2026
         - "Avalon Funland"
   #     - "Azure" March 2026
@@ -219,7 +220,7 @@ pools:
         - "Bed Rush: Drakkar"
         - "Beehive"
         - "Belcrest"
-  #     - "Belvedere" March 2026
+        - "Belvedere"
         - "Bessemer's Process"
   #     - "Beyond"
         - "Biotech"
@@ -236,7 +237,7 @@ pools:
         - "Bob-Omb Battlefield"
         - "Boletum"
         - "Boom"
-        - "BoomBox"
+  #     - "BoomBox" July 2026
         - "Boulevard"
         - "Brisked"
         - "Brittlebush"
@@ -272,6 +273,7 @@ pools:
         - "Cool Steak"
         - "Coral Reef"
         - "Corrupted Paradise CTW"
+        - "cos(tnt)"
         - "Courtyard Classic"
   #     - "Crater Resort" March 2026
         - "Crippled Divide"
@@ -434,6 +436,7 @@ pools:
         - "La Bataille de l'épée"
         - "Lab'ex"
   #     - "Lasa" March 2026
+        - "Lava Dew"
   #     - "Let's Sell Discounts" March 2026
         - "Level Up"
         - "Levels"
@@ -547,6 +550,7 @@ pools:
         - "Rafiki"
         - "Raid FFA"
         - "Rangi-nui"
+        - "Rat Revolution"
         - "Rattlesnake"
         - "Reindeer Trails"
         - "Renegade"
@@ -606,7 +610,7 @@ pools:
         - "State of Decay II"
         - "Station X"
         - "Steam Siege"
-        - "Steel Valley"
+  #     - "Steel Valley" July 2026
         - "Streamline II"
   #     - "Summer Sadness" June 2026
         - "Sunbliss"
@@ -662,6 +666,7 @@ pools:
         - "Tulip Mania II"
         - "Tulog"
         - "Tumbleweed"
+        - "Turf Wars"
   #     - "Tuscany" October 2025
         - "Tuscany Hills" # leaves?
         - "Tusho CTW"
@@ -682,7 +687,8 @@ pools:
         - "Villa I"
         - "Villa II"
         - "Voodoo"
-        - "Wallop Series X"
+        - "Wallop 9000"
+  #     - "Wallop Series X" July 2026
         - "Warlock"
         - "Warzone"
         - "Waterwood"
