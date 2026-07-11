@@ -166,6 +166,7 @@ pools:
   #     - "After Hours" March 2026
         - "Agrostid"
         - "Airship Battle"
+        - "Aleppo"
         - "Allure"
         - "Alpine Mining"
         - "Amphitheater"
@@ -258,7 +259,7 @@ pools:
         - "Circus DTC"
         - "Citadel"
         - "City of Colors DTM"
-  #     - "Ciudad Coastera" September 2024
+        - "Ciudad Costera"
         - "ClayClay"
   #     - "Clearcut" March 2026
   #      - "Cloud Nine" (April 2026 Gamebreaking bug, Possibly related to bingo)
@@ -277,6 +278,7 @@ pools:
         - "Courtyard Classic"
   #     - "Crater Resort" March 2026
         - "Crippled Divide"
+        - "Curly Pride"
         - "Curly Wools IX"
         - "Cursed Library"
   #     - "Cyril" March 2026
@@ -360,7 +362,8 @@ pools:
         - "Frob"
         - "Frog Pond"
         - "Frost"
-        - "Fruhling"
+        - "Frozen Market: One in the Quiver"
+  #     - "Fruhling" July 2026
   #     - "Fumeen II" June 2026
         - "Fungi Grove"
   #     - "Garf"
@@ -376,7 +379,7 @@ pools:
         - "Gongua CTW"
         - "Grassy Mound CTF"
         - "Greecia"
-        - "Green"
+  #     - "Green" July 2026
         - "Green Gem CTW"
   #     - "Greenhill" March 2026
         - "Gridlock 2"
@@ -394,8 +397,9 @@ pools:
         - "Hemlock II"
         - "Hillside Daydream"
         - "Hobbit CTW"
+        - "Hobbit Hill"
         - "Home by the Sea"
-        - "Honeycombed"
+  #     - "Honeycombed" July 2026
         - "Hot Dam"
         - "Hot Dam Mini"
         - "Hotel Overcast"
@@ -532,6 +536,7 @@ pools:
         - "Pineium DTM"
         - "Pirates I"
         - "PixelMix"
+        - "Placid Spring"
         - "Polynesia"
         - "Pompeii 5x5: One in the Quiver"
         - "Pond"
@@ -614,6 +619,7 @@ pools:
         - "Streamline II"
   #     - "Summer Sadness" June 2026
         - "Sunbliss"
+        - "Sunburn"
   #     - "Sunrise Over Paradise" March 2026
   #     - "Sunset Glaze" June 2026
         - "Super Bed World"
@@ -627,6 +633,7 @@ pools:
         - "Tanker TNT"
   #     - "Tatakai" March 2026
         - "Tebulas"
+        - "Temple"
         - "Temple Valley"
         - "Teokalli"
         - "Tetrad"
@@ -651,7 +658,7 @@ pools:
         - "Tohjo Falls"
         - "Tohjo Falls II"
         - "Torn Canyon"
-        - "Toss Up: One in the Quiver"
+  #     - "Toss Up: One in the Quiver" July 2026
         - "Total Beesness"
         - "Total War II"
         - "Totem"
@@ -677,6 +684,7 @@ pools:
         - "UBoat König"
         - "Ubos CTF"
         - "Ulcinj"
+        - "Un Pulpito Panoramico"
   #     - "Underpass" June 2026
   #     - "Urban Jungle" June 2026
         - "Vegas"
