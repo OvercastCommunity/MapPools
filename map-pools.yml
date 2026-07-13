@@ -956,6 +956,7 @@ pools:
       - "Frostbite"
       - "Ghost Spleef"
       - "Gladiator"
+      - "Glass Bridge: Slap Edition"
       - "GS: Beholder"
       - "GS: Last Frontier FFA"
       - "GS: Splinter"
@@ -1562,11 +1563,13 @@ pools:
     maps:
       - "Allure"
       - "Beyond"
+      # - "Bingo" Testing Phase | June 2026
       - "Breezebille"
       - "Chaos Theory"
       # - "Cirrus Park"
       - "Dizzy"
       - "Erratic"
+      # - "FB: Data-Rush Deluxe"
       - "FB: Blue Snooze"
       - "FB: Explorers"
       - "Fun House"
@@ -1593,7 +1596,6 @@ pools:
       - "Tug of War: Intense Tugging"
       - "Whac-A-Mole"
       # - "Xolotl"
-      - "Kingdom" # 1.8 map to avoid PGM breaking
       
       
       
