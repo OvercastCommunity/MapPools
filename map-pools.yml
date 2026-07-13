@@ -909,6 +909,7 @@ pools:
       - "101 Rooms: Lifesteal"
       - "2D"
       - "A Journey Through History"
+      - "Adabat: Jungle Joyride"
       - "AMONG US"
       - "Arid Crossroads"
       - "Arriva"
@@ -969,6 +970,7 @@ pools:
       - "Infection: Skull Island"
       - "Infection: Store"
       - "Into the Jungle"
+      - "Intruders"
       - "Juggernaut's Hall"
       - "Juggernaut's Hall: Sacrifice"
       - "Killavator"
@@ -995,6 +997,7 @@ pools:
       - "Paint Can't Wait"
       - "Paint Can't Wait 2"
       - "Penguin Pursuit"
+      - "Perfect Match"
       - "Pillars"
       - "Ping Bomb II"
       - "Pixel Run"
@@ -1042,6 +1045,7 @@ pools:
       - "TNT Tag: Zoo"
       - "Tug of War: Block Swap"
       - "Tug of War: Bridge GONE"
+      - "Turf Warz"
       - "War Wars: Classic"
       - "War Wars: False Alarm"
       - "War Wars: Sand Wars 2"
@@ -1054,6 +1058,7 @@ pools:
       - "Water Drop: Limbo II"
       - "Water Drop: Long Shot"
       - "Water Drop: Sunrise Over Paradise"
+      - "Water Drop Extreme"
       - "Whirlpool"
       - "Wool Story Bro"
   tnt-tuesday: # TNT Tuesday events pool
@@ -1557,17 +1562,22 @@ pools:
     maps:
       - "Allure"
       - "Beyond"
-      # - "Bingo" Testing Phase | June 2026
-      - "Cirrus Park"
+      - "Breezebille"
+      - "Chaos Theory"
+      # - "Cirrus Park"
       - "Dizzy"
       - "Erratic"
+      - "FB: Blue Snooze"
+      - "FB: Explorers"
       - "Fun House"
       - "Ghast Jockey"
       - "Graveyard Shift"
       - "Iguazú"
+      - "Le Sur-Mesure"
+      - "MB: Wootonia Deluxe"
       - "MMB: Anthill"
-      - "MMB: Wootonia Deluxe"
       - "Militia"
+      - "Order"
       - "Polynesia: Trident RAGE"
       - "Pool Day"
       - "Potrzebie"
@@ -1582,25 +1592,8 @@ pools:
       - "Trial Chambers: Crossbow Blast"
       - "Tug of War: Intense Tugging"
       - "Whac-A-Mole"
-      - "Xolotl"
-  contest:
-    type: ordered
-    enabled: true
-    dynamic: false
-    players: 1
-    cooldown:
-       min-length: 45
-       minutes-per-day: 15
-    maps:
-      - "Breezebille"
-      - "Chaos Theory"
-      - "FB: Blue Snooze"
-      - "FB: Explorers"
-      - "Le Sur-Mesure"
-      - "Order"
-      - "Tanker TNT"
-      
-      
+      # - "Xolotl"
+      - "Kingdom" # 1.8 map to avoid PGM breaking
       
       
       
