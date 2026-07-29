@@ -1596,6 +1596,35 @@ pools:
       - "Tug of War: Intense Tugging"
       - "Whac-A-Mole"
       # - "Xolotl"
-      
-      
-      
+  touchdown:
+    type: voted
+    enabled: true
+    dynamic: false
+    players: 1
+    cooldown:
+       min-length: 45
+       minutes-per-day: 15
+    maps:
+      - "Blue Lock"
+      - "Chess Cathedral"
+      - "Colorado Alpines"
+      - "Experiment 12"
+      - "Fireballs Bowl"
+      - "Fireballs Bowl: Mini"
+      - "Friday Night Lights"
+      - "Keeper"
+      - "Moon Brady"
+      - "Pigskin Punchout"
+      - "Possession Game"
+      - "Project Classbowl"
+      - "Prospect Park"
+      - "Shingeki no Brady"
+      - "Steppe Bowl"
+      - "TE Brady: MVP Edition"
+      - "The Overcast Bowl"
+      - "The Souper Bowl"
+      - "The Void Bowl"
+      - "Tom Brady"
+      - "Tom Brady: MVP Edition"
+      - "Trip to Cancun"
+      - "Tron Brady"
