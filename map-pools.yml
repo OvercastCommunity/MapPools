@@ -197,7 +197,7 @@ pools:
   #     - "Avalanche Mini" June 2026
         - "Avalon Funland"
   #     - "Azure" March 2026
-        - "Badger Dream"
+      #   - "Badger Dream" Aug 2026
         - "Badlands"
   #     - "Baleful Eden" March 2026
         - "BalloonsDTM"
@@ -232,7 +232,7 @@ pools:
         - "Blocks DTC"
         - "Blocks II"
         - "Blocks: Destroy the Dynamite"
-        - "Bloom"
+      #   - "Bloom" Aug 2026
         - "Blossom CTW"
         - "Boar Beach"
         - "Bob-Omb Battlefield"
@@ -308,7 +308,7 @@ pools:
         - "Disc Wars III"
         - "Divided"
   #     - "Dominion" June 2026
-        - "Don't Break My Heart"
+      #   - "Don't Break My Heart" Aug 2026
         - "Double Trouble"
         - "Downforce"
         - "Downforce II"
@@ -358,6 +358,7 @@ pools:
   #     - "Fourchette" June 2026
         - "Fox Dream"
         - "Fractal Descent"
+        - "Fraction Descent"
         - "Fracture DTM"
         - "Frob"
         - "Frog Pond"
@@ -443,7 +444,7 @@ pools:
   #     - "Lasa" March 2026
         - "Lava Dew"
   #     - "Let's Sell Discounts" March 2026
-        - "Level Up"
+      #   - "Level Up" Aug 2026
         - "Levels"
         - "Lilypad"
         - "Limbo"
@@ -579,6 +580,7 @@ pools:
         - "Ruby Planet"
         - "Ruediger's Bonsai Garden"
         - "Ruffland"
+        - "Rushers vs Defenders"
         - "Sakura Garden"
   #     - "Sakura Garden II" March 2026
   #     - "Sanctum Wasser" March 2026
@@ -592,7 +594,7 @@ pools:
         - "Seaside Plaza"
         - "Segment"
         - "Sharks Killed"
-        - "Sheep CTW"
+      #   - "Sheep CTW" Aug 2026
         - "Shifty Sands"
         - "Shinobi"
   #     - "Shroom Galaxy" June 2026
@@ -671,7 +673,7 @@ pools:
   #     - "Transit" March 2026
         - "Treflip"
         - "Trial Chambers"
-        - "Tulip Mania II"
+      #   - "Tulip Mania II" Aug 2026
         - "Tulog"
         - "Tumbleweed"
         - "Turf Wars"
@@ -1107,11 +1109,13 @@ pools:
       - "Fox Strife"
       - "Fractal Descent"
       - "Fractal Descent: Classic"
+      - "Fraction Descent"
       - "Hyperspace"
       - "Incassum"
       - "Interitus"
       - "Iris DTC"
       - "Kï"
+      - "Library DTE"
       - "Lunar Crescent"
       - "Mars Odyssey"
       - "Medieval Warfare: DTE"
