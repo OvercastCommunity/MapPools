@@ -120,8 +120,8 @@ pools:
       flag_assault_8v8:
         weight: 0.5
         maps:
-        - "Royal Rumble II"
         - "Kalahari Sanctuary"
+        - "Royal Rumble II"
       flag_football:
         weight: 0.5
         maps:
@@ -178,8 +178,8 @@ pools:
         - "Anvil"
         - "Apocalypse CTW"
         - "Apollo 23"
-        - "Appalachia"
         - "Apostle"
+        - "Appalachia"
         - "Apple Smash"
         - "Aquaduct CTW"
   #     - "Aquatica" March 2026
@@ -197,7 +197,7 @@ pools:
   #     - "Avalanche Mini" June 2026
         - "Avalon Funland"
   #     - "Azure" March 2026
-      #   - "Badger Dream" Aug 2026
+  #     - "Badger Dream" Aug 2026
         - "Badlands"
   #     - "Baleful Eden" March 2026
         - "BalloonsDTM"
@@ -213,6 +213,7 @@ pools:
         - "Battle of Krehm"
         - "Battle of Tenjin II"
         - "Battle of Tenjin III"
+        - "Battleline"
         - "Battleship Halberd"
   #     - "Bazaar KotF" March 2026
         - "Beach Battles"
@@ -240,6 +241,7 @@ pools:
         - "Boom"
   #     - "BoomBox" July 2026
         - "Boulevard"
+        - "Bridgid II"
         - "Brisked"
         - "Brittlebush"
         - "Burning Palace"
@@ -251,6 +253,7 @@ pools:
   #     - "Cargo" March 2026
         - "Catre KotH"
         - "Catscratch"
+        - "Cedar Crossing"
         - "Cherno CTF"
         - "Cherry City"
         - "Chestnut"
@@ -262,7 +265,7 @@ pools:
         - "Ciudad Costera"
         - "ClayClay"
   #     - "Clearcut" March 2026
-  #      - "Cloud Nine" (April 2026 Gamebreaking bug, Possibly related to bingo)
+  #     - "Cloud Nine" (April 2026 Gamebreaking bug, Possibly related to bingo)
   #     - "Coastline" June 2026
         - "Cobalt Planet"
         - "Coconut Mald"
@@ -275,6 +278,7 @@ pools:
         - "Coral Reef"
         - "Corrupted Paradise CTW"
         - "cos(tnt)"
+        - "Cottage DTM"
         - "Courtyard Classic"
   #     - "Crater Resort" March 2026
         - "Crippled Divide"
@@ -302,13 +306,13 @@ pools:
         - "Diramu Valley DTM"
   #     - "Directrix: 2 Flags" March 2026
         - "Discipline"
-        - "Discount Fortress"
-        - "Discovery"
   #     - "Disc Wars II" October 2025
         - "Disc Wars III"
+        - "Discount Fortress"
+        - "Discovery"
         - "Divided"
   #     - "Dominion" June 2026
-      #   - "Don't Break My Heart" Aug 2026
+  #     - "Don't Break My Heart" Aug 2026
         - "Double Trouble"
         - "Downforce"
         - "Downforce II"
@@ -444,7 +448,7 @@ pools:
   #     - "Lasa" March 2026
         - "Lava Dew"
   #     - "Let's Sell Discounts" March 2026
-      #   - "Level Up" Aug 2026
+  #     - "Level Up" Aug 2026
         - "Levels"
         - "Lilypad"
         - "Limbo"
@@ -503,12 +507,14 @@ pools:
         - "NextRace DTM"
         - "Nightsail" # spawner update
         - "Nirow"
+        - "No Blocks Placed"
         - "No Man's Land" # punch bows, wool mons, spawn region
         - "Noble's District"
         - "North Winds"
         - "Notre-Daaaaam of Paris"
         - "Nutrient"
   #     - "Nyxis" April 2026
+        - "Oaken Meadow"
   #     - "Oasis CTW" March 2026
         - "Oceano CTW"
         - "Odin"
@@ -521,6 +527,7 @@ pools:
         - "Outback: Outback Edition"
         - "OutCast"
         - "OutCast 2"
+        - "Outcrop"
         - "Outlyne"
         - "Paddo's"
         - "Paint the Streets"
@@ -594,7 +601,7 @@ pools:
         - "Seaside Plaza"
         - "Segment"
         - "Sharks Killed"
-      #   - "Sheep CTW" Aug 2026
+  #     - "Sheep CTW" Aug 2026
         - "Shifty Sands"
         - "Shinobi"
   #     - "Shroom Galaxy" June 2026
@@ -673,11 +680,11 @@ pools:
   #     - "Transit" March 2026
         - "Treflip"
         - "Trial Chambers"
-      #   - "Tulip Mania II" Aug 2026
+  #     - "Tulip Mania II" Aug 2026
         - "Tulog"
         - "Tumbleweed"
         - "Turf Wars"
-  #     - "Tuscany" October 2025
+        - "Tuscany"
         - "Tuscany Hills" # leaves?
         - "Tusho CTW"
         - "Twilight Citadel"
@@ -704,6 +711,7 @@ pools:
         - "Warzone"
         - "Waterwood"
         - "We Sell Mushrooms CTF"
+        - "Whalecruiser"
   #     - "When Men Cried" March 2026
         - "Wholething"
         - "Wild Isle"
@@ -797,8 +805,8 @@ pools:
       - "Blocks: Destroy the Dynamite"
       - Bomber Guys
       - BoomBox
-      - CannonCube
       - Cannon Duel
+      - CannonCube
       - "CannonQuad"
       - DATAbasin
       - Directrix
@@ -888,8 +896,8 @@ pools:
       - The 6th Law
       - The Hopper
       - TNT Spleef
-      - "War Wars: Classic"
       - "War Wars: 2Tall4Me"
+      - "War Wars: Classic"
       - "War Wars: Sand Wars 2"
       - "War Wars: Spongecake"
       - Water Drop Extreme
@@ -935,10 +943,10 @@ pools:
       - "Cacti the Wool"
       - "Cannon Duel"
       - "Ch8rge"
+      - "Charge"
       - "Charge (2023 Reboot)"
       - "Charge 2.0"
       - "Charge 6: This Time It's in Space"
-      - "Charge"
       - "Connect 4"
       - "Conquest: Hide from the Refs"
       - "Cozy Cove"
@@ -952,8 +960,8 @@ pools:
       - "Dynamight Versus"
       - "Eldritch Trials"
       - "Fall Guys"
-      - "Firing Squad"
       - "Find the Button!"
+      - "Firing Squad"
       - "Flappy Bird"
       - "Freeze Tag: Icebliss"
       - "Frostbite"
@@ -991,8 +999,8 @@ pools:
       - "MB: Durrr Burger"
       - "MB: TOM BRADY"
       - "MB: Wootonia"
-      - "Mega Cacti Terror Teams"
       - "Mega Cacti Terror"
+      - "Mega Cacti Terror Teams"
       - "MobArena: Silent City"
       - "Mont Blanc Grand Prix"
       - "No Return"
@@ -1005,6 +1013,7 @@ pools:
       - "Pillars"
       - "Ping Bomb II"
       - "Pixel Run"
+      - "Place the Wool"
       - "Player Blender: Lifesteal"
       - "Plus Side"
       - "Procedural: Cliff Maze"
@@ -1023,8 +1032,8 @@ pools:
       - "Red Rover"
       - "Road to the Moon"
       - "Rush Wars Tournament 2: Attack of the Defenders"
-      - "Salvo But it's a Castle and There's 2x Monuments"
       - "Salvo"
+      - "Salvo But it's a Castle and There's 2x Monuments"
       - "Skill Issue"
       - "Sky Push Royale"
       - "Skyfall"
@@ -1057,12 +1066,12 @@ pools:
       - "War Wars: The Wall Pt 2"
       - "War Wars: Torment"
       - "Watch Your Head"
+      - "Water Drop Extreme"
       - "Water Drop: Directrix"
       - "Water Drop: Ender Blast"
       - "Water Drop: Limbo II"
       - "Water Drop: Long Shot"
       - "Water Drop: Sunrise Over Paradise"
-      - "Water Drop Extreme"
       - "Whirlpool"
       - "Wool Story Bro"
   tnt-tuesday: # TNT Tuesday events pool
@@ -1090,9 +1099,9 @@ pools:
       - "BoomBox"
       - "BoomBox: 2 Monuments"
       - "Breath"
-      - "Cannonball Cove"
-      - "CannonCube"
       - "Cannon Duel"
+      - "CannonCube"
+      - "Cannonball Cove"
       - "cos(tnt)"
       - "Dangerous Cargo"
       - "DATAbase"
@@ -1146,6 +1155,7 @@ pools:
       - "Totally War II"
       - "Wallop 9000"
       - "Wallop Series X"
+      - "Whalecruiser DTE"
       - "Zombie Defense"
   warwars:
     type: voted
@@ -1449,14 +1459,14 @@ pools:
       - "Rage Quit"
       - "Rig"
       - "Rubik's Rage"
-      - "Sandstone Temples"
       - "Sand Wall"
+      - "Sandstone Temples"
       - "Secluded Oasis"
       - "Secluded Palace"
       - "Secluded Wharf"
       - "Sentio"
-      - "Snowfall"
       - "Snow Globe"
+      - "Snowfall"
       - "Spooktober"
       - "Stairs to Nowhere"
       - "Swarthmoor"
@@ -1485,12 +1495,12 @@ pools:
       - "Classic Flame"
       - "Eldritch"
       - "Frozen Palace"
+      - "Grassy Knoll"
       - "GS: Beholder"
       - "GS: Chandelier"
       - "GS: Earthborn"
       - "GS: Last Frontier FFA"
       - "GS: Splinter"
-      - "Grassy Knoll"
       - "Life-O-Rama"
       - "Nostalgia"
       - "Prototype"
