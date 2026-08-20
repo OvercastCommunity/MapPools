@@ -549,7 +549,7 @@ pools:
         - "Polynesia"
         - "Pompeii 5x5: One in the Quiver"
         - "Pond"
-        - "Possession Game"
+      #   - "Possession Game" Aug 2026
         - "Prisma CTW"
         - "Promenade"
         - "Puddin' Pops"
