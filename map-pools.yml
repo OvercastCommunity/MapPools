@@ -79,11 +79,11 @@ pools:
       bridge_5v5:
         weight: 0.5
         maps:
-  #     - "Avalon" March 2026
-        - "Banished"
+        - "Avalon"
+  #     - "Banished" October 2026
   #     - "Boneyard" March 2026
   #     - "Bridge: Castle" September 2023
-  #     - "Castlen't" October 2025
+        - "Castlen't"
         - "Chernot"
   #     - "Climate" March 2026
         - "Coral"
@@ -91,10 +91,10 @@ pools:
         - "Dead End"
         - "Limitless"
   #     - "Pixie" March 2026
-        - "Polders"
+  #     - "Polders" October 2026
         - "Research"
-  #     - "Resort" March 2026
-        - "Vineyard"
+        - "Resort"
+  #     - "Vineyard" October 2026
         - "Yonaguni"
       bridge:
         weight: 0.5
@@ -129,18 +129,18 @@ pools:
         maps:
         - "Cathedral Football"
         - "Cola"
-  #     - "Fantasy"
+        - "Fantasy"
   #     - "Friday Night Lights"
   #     - "Iceblade" March 2026
         - "Ice Rift"
   #     - "Keeper" June 2023
-        - "Kraken"
+  #     - "Kraken" October 2026
         - "Longhorn"
   #     - "NYC" March 2026
-  #     - "Pipes and Punters"
+        - "Pipes and Punters"
   #     - "Royal Rumble: Classic"
-  #     - "Sakura" March 2026
-        - "Superbowl Sunday"
+        - "Sakura"
+  #     - "Superbowl Sunday" October 2026
   #     - "Waffle House" March 2026
       touchdown:
         weight: 0.5
@@ -164,6 +164,7 @@ pools:
         - "Ad Infinitum"
         - "Aequabilis"
         - "Aerobellum"
+        - "Aerospace"
         - "Aether"
   #     - "After Hours" March 2026
         - "Agrostid"
@@ -184,14 +185,15 @@ pools:
         - "Appalachia"
         - "Apple Smash"
         - "Aquaduct CTW"
-  #     - "Aquatica" March 2026
+        - "Aquatica"
   #     - "Arabia" June 2026
   #     - "Araxa" July 2026
+        - "Arcane CTW"
         - "Arctic Ruins"
         - "Armature"
         - "Artholis"
         - "Ascendance Payload_Race"
-        - "Assault"
+  #     - "Assault" October 2026
         - "Athirk"
         - "Atromix"
         - "Autumn Solstice"
@@ -208,8 +210,8 @@ pools:
         - "Banana Split"
         - "Barnyard Abduction"
         - "Barr DTC"
-        - "Barricade"
-        - "Battle Ecliptica II"
+  #     - "Barricade" October 2026
+  #     - "Battle Ecliptica II" October 2026
         - "Battle Ecliptica III"
         - "Battle for Amaterasu"
         - "Battle of Krehm"
@@ -236,8 +238,9 @@ pools:
         - "Blocks II"
         - "Blocks: Destroy the Dynamite"
       #   - "Bloom" Aug 2026
+        - "Blooming"
         - "Blossom CTW"
-        - "Boar Beach"
+  #     - "Boar Beach" October 2026
         - "Bob-Omb Battlefield"
         - "Boletum"
         - "Boom"
@@ -303,7 +306,8 @@ pools:
         - "Desert Cataract"
   #     - "Desert Country" March 2026
         - "Desert Eclipse"
-        - "Desert Sanctuary"
+  #     - "Desert Sanctuary" October 2026
+        - "Desert Sanctuary 2.0"
         - "Desolate Gully CTW"
         - "Diramu Valley DTM"
   #     - "Directrix: 2 Flags" March 2026
@@ -328,8 +332,8 @@ pools:
   #     - "Dynamo"
   #     - "Edo" March 2026
         - "Embargo"
-        - "Emerald Glades"
-  #     - "Emergency Meeting" March 2026
+  #     - "Emerald Glades" October 2026
+        - "Emergency Meeting"
         - "Emission"
   #     - "Empire" March 2026
         - "Enchanted"
@@ -345,7 +349,7 @@ pools:
         - "Extraterrestrial"
         - "Facility"
         - "Factorio Mainbus"
-        - "Factory"
+  #     - "Factory" October 2026
         - "Fairy Tales 2: A Tale or Two"
   #     - "Fairy Tales 2: Mini" March 2026
         - "Fairy Tales: Metamorphose"
@@ -355,7 +359,7 @@ pools:
         - "FB: Data-Rush"
         - "Feel Good Inc."
         - "Fields of Glory"
-        - "Fier"
+  #     - "Fier" October 2026
         - "Firum CTW"
   #     - "Flags of Samarkand" June 2026
   #     - "Flush Vibes II"
@@ -384,7 +388,7 @@ pools:
         - "Golden Drought VI"
         - "Golden Fever"
         - "Gongua CTW"
-        - "Grassy Mound CTF"
+  #     - "Grassy Mound CTF" October 2026
         - "Greecia"
   #     - "Green" July 2026
         - "Green Gem CTW"
@@ -422,7 +426,7 @@ pools:
   #     - "Infernal Shadow" June 2026
         - "Ingwaz"
         - "Inheritance"
-        - "Inkbloc Art Academy"
+  #     - "Inkbloc Art Academy" October 2026
         - "Insanihe"
         - "Interitus"
         - "Iris DTC"
@@ -467,7 +471,7 @@ pools:
   #     - "Lunar Crescent" June 2026
   #     - "Lupa" January 2026
         - "Lupain"
-  #     - "Lush Oasis" March 2026
+        - "Lush Oasis"
         - "Madness on Rails"
         - "Mahatma"
   #     - "Malupa" March 2026
@@ -521,7 +525,8 @@ pools:
         - "Oceano CTW"
         - "Odin"
         - "Onier"
-        - "Operation Overlord"
+  #     - "Operation Overlord" October 2026
+        - "Oriental Mini"
         - "Osoi"
         - "Oumuamua"
         - "Ouroboros"
@@ -565,6 +570,7 @@ pools:
         - "Raceway"
         - "Rafiki"
         - "Raid FFA"
+        - "Rampant"
         - "Rangi-nui"
         - "Rat Revolution"
         - "Rattlesnake"
@@ -574,8 +580,8 @@ pools:
         - "Retaliation 2"
         - "Rice"
   #     - "Rind Rushers" March 2026
-        - "Rind Rushers II"
-        - "Ringpull"
+  #     - "Rind Rushers II" October 2026
+  #     - "Ringpull" October 2026
         - "Riverside"
         - "Roar"
         - "Rocky Top"
@@ -609,7 +615,7 @@ pools:
         - "Shinobi"
   #     - "Shroom Galaxy" June 2026
         - "Siloë"
-        - "Simplicity CTW"
+  #     - "Simplicity CTW" October 2026
         - "Sinuous"
         - "Sky Shot"
         - "Skycastle Islands"
@@ -651,6 +657,7 @@ pools:
         - "Temple Trouble"
         - "Temple Valley"
         - "Teokalli"
+        - "Terse"
         - "Tetrad"
         - "The 4th Law"
         - "The Archives"
@@ -671,6 +678,7 @@ pools:
         - "Thunderbolt"
         - "Thunderrush"
         - "Timbered"
+        - "Toca"
         - "Tohjo Falls"
         - "Tohjo Falls II"
         - "Torn Canyon"
@@ -684,8 +692,9 @@ pools:
         - "Trail Mix"
         - "Tranquility"
   #     - "Transit" March 2026
-        - "Treflip"
+  #     - "Treflip" October 2026
         - "Trial Chambers"
+        - "Tulip Mania"
   #     - "Tulip Mania II" Aug 2026
         - "Tulog"
         - "Tumbleweed"
@@ -725,8 +734,8 @@ pools:
         - "Winsray Fields"
         - "Winter Solstice"
   #     - "Winter Solstice Mini" March 2026
-        - "Winterbane"
-  #     - "Wintertime" March 2026
+  #     - "Winterbane" # October 2026
+        - "Wintertime"
         - "Wit's End"
         - "Witch's Potions"
         - "Woodwork Harbor"
