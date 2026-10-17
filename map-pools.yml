@@ -312,7 +312,7 @@ pools:
         - "Diramu Valley DTM"
   #     - "Directrix: 2 Flags" March 2026
         - "Discipline"
-  #     - "Disc Wars II" October 2025
+        - "Disc Wars II"
         - "Disc Wars III"
         - "Discount Fortress"
         - "Discovery"
@@ -326,7 +326,7 @@ pools:
         - "Dreamland"
         - "Dromedary"
   #     - "Duality" June 2026
-  #     - "Dust" March 2026
+        - "Dust"
         - "Dwyer Hill"
         - "Dynamite"
   #     - "Dynamo"
@@ -443,7 +443,7 @@ pools:
         - "Keipha CTW"
         - "Kerskyn"
         - "King Neptune"
-        - "King Ranch"
+  #     - "King Ranch" October 2026
         - "Kingdom"
         - "Krager"
         - "Kuusepuu"
@@ -666,7 +666,7 @@ pools:
         - "The Endless Blue"
   #     - "The Fenland" March 2026
   #     - "The Grove" March 2026
-        - "The High Road"
+  #     - "The High Road" October 2026
         - "The King's Lava Lair"
         - "The Last Sunset"
         - "The Nile"
