@@ -175,7 +175,7 @@ pools:
         - "Amphitheater"
         - "Ancient"
         - "Annealing"
-        - "Annealing III"
+  #     - "Annealing III" October 2026
         - "Annealing IV"
   #     - "Antiquis" March 2026
         - "Anvil"
@@ -184,7 +184,7 @@ pools:
         - "Apostle"
         - "Appalachia"
         - "Apple Smash"
-        - "Aquaduct CTW"
+  #     - "Aquaduct CTW" October 2026
         - "Aquatica"
   #     - "Arabia" June 2026
   #     - "Araxa" July 2026
@@ -322,7 +322,7 @@ pools:
         - "Double Trouble"
         - "Downforce"
         - "Downforce II"
-        - "Downtown"
+  #     - "Downtown" October 2026
         - "Dreamland"
         - "Dromedary"
   #     - "Duality" June 2026
@@ -447,6 +447,7 @@ pools:
   #     - "King Ranch" October 2026
         - "Kingdom"
         - "Krager"
+        - "Kryta: Rage"
         - "Kuusepuu"
         - "Kyoto"
   #     - "Kï" March 2026
@@ -496,7 +497,7 @@ pools:
         - "Mistral Bay"
         - "Mo'ai"
         - "Mole Dream"
-        - "Molendinis"
+  #     - "Molendinis" October 2026
         - "Monkey Mania"
         - "Monument Valley"
         - "Moonlight Summit"
@@ -555,8 +556,10 @@ pools:
         - "Pirates I"
         - "PixelMix"
         - "Placid Spring"
+        - "Pokemon Arena"
         - "Polynesia"
         - "Pompeii 5x5: One in the Quiver"
+        - "Pompeii DTC"
         - "Pond"
       #   - "Possession Game" Aug 2026
         - "Prisma CTW"
@@ -622,7 +625,8 @@ pools:
         - "Sky Shot"
         - "Skycastle Islands"
         - "Smashcap"
-        - "Smoke KotH"
+        - "Smoke CTF"
+  #     - "Smoke KotH" October 2026
   #     - "Snow Level" June 2026
         - "Snowdrift Pass"
   #     - "Snowy Wars"
@@ -640,6 +644,7 @@ pools:
         - "Still October"
         - "Streamline II"
   #     - "Summer Sadness" June 2026
+        - "Summit"
         - "Sunbliss"
         - "Sunburn"
   #     - "Sunrise Over Paradise" March 2026
@@ -719,7 +724,7 @@ pools:
         - "Venice TDM"
         - "Vertex"
         - "Vesuvius"
-        - "Villa I"
+  #     - "Villa I" October 2026
         - "Villa II"
         - "Voodoo"
         - "Wallop 9000"
