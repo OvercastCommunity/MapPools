@@ -463,7 +463,7 @@ pools:
   #     - "Little China" November 2025 too easy to abuse out of bounds w/ flag
         - "Little Roses"
         - "Long Distance"
-  #     - "Long Shot" March 2026
+        - "Long Shot"
         - "Lost Gardens"
         - "Lost Haven"
         - "Lost World CTF"
@@ -540,7 +540,7 @@ pools:
   #     - "Paddo's" October 2026
         - "Paint the Streets"
   #     - "Paintman's Day Off" March 2026
-  #     - "Palace CTF" March 2026
+        - "Palace CTF"
   #     - "Palm Rust" June 2026
         - "Pandemonium"
         - "Parabola"
