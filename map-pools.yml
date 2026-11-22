@@ -216,7 +216,7 @@ pools:
         - "Battle of Tenjin II"
         - "Battle of Tenjin III"
         - "Battleline"
-        - "Battleship Halberd"
+  #     - "Battleship Halberd" November 2026
   #     - "Bazaar KotF" March 2026
         - "Beach Battles"
         - "Beauty to Ashes"
@@ -257,6 +257,7 @@ pools:
         - "Catre KotH"
         - "Catscratch"
         - "Cedar Crossing"
+        - "Cheesy Cheese"
         - "Cherno CTF"
         - "Cherry City"
         - "Chestnut"
@@ -363,6 +364,7 @@ pools:
   #     - "Flush Vibes II"
         - "Ford"
         - "Forge Ignea"
+        - "Fortress Battles"
   #     - "Fourchette" June 2026
         - "Fox Dream"
         - "Fractal Descent"
@@ -688,7 +690,7 @@ pools:
         - "Tohjo Falls II"
         - "Torn Canyon"
   #     - "Toss Up: One in the Quiver" July 2026
-        - "Total Beesness"
+  #     - "Total Beesness" November 2026
         - "Total War II"
         - "Totem"
         - "ToW: Mush More"
