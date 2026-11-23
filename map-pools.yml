@@ -260,7 +260,7 @@ pools:
         - "Cheesy Cheese"
         - "Cherno CTF"
         - "Cherry City"
-        - "Chestnut"
+  #     - "Chestnut" November 2026
   #     - "Chocolate Diamonds"
   #     - "Circus CTW"
         - "Circus DTC"
@@ -277,7 +277,7 @@ pools:
         - "Comb Conquest"
         - "Come Summertime" # wr?
         - "Concourse"
-  #     - "Constellation" March 2026
+        - "Constellation"
         - "Cool Steak"
         - "Coral Reef"
         - "Corrupted Paradise CTW"
@@ -311,7 +311,7 @@ pools:
         - "Diramu Valley DTM"
   #     - "Directrix: 2 Flags" March 2026
         - "Discipline"
-        - "Disc Wars II"
+  #     - "Disc Wars II"
         - "Disc Wars III"
         - "Discount Fortress"
         - "Discovery"
@@ -380,7 +380,7 @@ pools:
   #     - "Garf"
         - "Geometric Domination"
         - "Gethsemane"
-        - "Gloomwald"
+  #     - "Gloomwald" November 2026
         - "Gobi"
         - "Golden Drought"
   #     - "Golden Drought III" June 2026
@@ -401,10 +401,10 @@ pools:
         - "Harbor CTW"
         - "Harvest"
         - "Haunted Cruiser"
-  #     - "Hau'oli Mau Lanui" March 2026
+        - "Hau'oli Mau Lanui"
         - "Haven Tide"
         - "Hearts of Atlantis"
-  #     - "Hekla" March 2026
+        - "Hekla"
         - "Hemlock"
         - "Hemlock II"
         - "Hillside Daydream"
@@ -563,7 +563,7 @@ pools:
         - "Pond"
       #   - "Possession Game" Aug 2026
         - "Prisma CTW"
-        - "Promenade"
+  #     - "Promenade" November 2026
         - "Puddin' Pops"
         - "Puyt"
         - "Quadrival"
