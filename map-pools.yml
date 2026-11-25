@@ -198,7 +198,7 @@ pools:
         - "Autunno"
   #     - "Avalanche Mini" June 2026
         - "Avalon Funland"
-  #     - "Azure" March 2026
+        - "Azure"
   #     - "Badger Dream" Aug 2026
         - "Badlands"
   #     - "Baleful Eden" March 2026
@@ -246,7 +246,8 @@ pools:
         - "Boulevard"
         - "Bridgid II"
         - "Brisked"
-        - "Brittlebush"
+  #     - "Brittlebush" November 2026
+        - "Brittlebush II"
         - "Burning Palace"
         - "Byas"
         - "Calico"
@@ -268,7 +269,7 @@ pools:
         - "City of Colors DTM"
         - "Ciudad Costera"
         - "ClayClay"
-  #     - "Clearcut" March 2026
+        - "Clearcut"
   #     - "Cloud Nine" (April 2026 Gamebreaking bug, Possibly related to bingo)
   #     - "Coastline" June 2026
         - "Cobalt Planet"
@@ -302,7 +303,7 @@ pools:
   #     - "Deepwind Jungle" October 2026
         - "Deepwood"
         - "Depths"
-        - "Desert Cataract"
+  #     - "Desert Cataract" November 2026
   #     - "Desert Country" March 2026
         - "Desert Eclipse"
   #     - "Desert Sanctuary" October 2026
@@ -351,7 +352,7 @@ pools:
   #     - "Factory" October 2026
         - "Fairy Tales 2: A Tale or Two"
   #     - "Fairy Tales 2: Mini" March 2026
-        - "Fairy Tales: Metamorphose"
+  #     - "Fairy Tales: Metamorphose" November 2026
         - "Fall of Babylon"
         - "Fallencrests" # power bows, core layers
         - "FB: Courtyard Isles"
@@ -367,6 +368,7 @@ pools:
         - "Fortress Battles"
   #     - "Fourchette" June 2026
         - "Fox Dream"
+        - "Fox Strife"
         - "Fractal Descent"
         - "Fraction Descent"
   #     - "Fracture DTM" November 2026
@@ -469,7 +471,7 @@ pools:
         - "Lost Gardens"
         - "Lost Haven"
         - "Lost World CTF"
-  #     - "Lotus" March 2026
+        - "Lotus"
         - "Loyalty DTM"
   #     - "Lunar Crescent" June 2026
   #     - "Lupa" January 2026
@@ -490,7 +492,7 @@ pools:
   #     - "Meerkat Dream" June 2026
         - "Metro"
         - "Metropolis"
-  #     - "México" March 2026
+        - "México"
         - "Midnight Train"
         - "Miner Sixty Niner"
   #     - "MissingNo" March 2026
@@ -522,7 +524,7 @@ pools:
         - "Nordic Village"
         - "North Winds"
         - "Notre-Daaaaam of Paris"
-        - "Nutrient"
+  #     - "Nutrient" November 2026
   #     - "Nyxis" April 2026
         - "Oaken Meadow"
   #     - "Oasis CTW" March 2026
@@ -688,7 +690,7 @@ pools:
         - "Timbered"
         - "Toca"
         - "Tohjo Falls"
-        - "Tohjo Falls II"
+  #     - "Tohjo Falls II" November 2026
         - "Torn Canyon"
   #     - "Toss Up: One in the Quiver" July 2026
   #     - "Total Beesness" November 2026
@@ -735,7 +737,7 @@ pools:
         - "Waterwood"
         - "We Sell Mushrooms CTF"
         - "Whalecruiser"
-  #     - "When Men Cried" March 2026
+        - "When Men Cried"
   #     - "Wholething" August 2026 (Permanently removed untill further notice by map author) 
         - "Wild Isle"
         - "Wildwood Crevice"
@@ -747,7 +749,7 @@ pools:
         - "Wit's End"
         - "Witch's Potions"
         - "Woodwork Harbor"
-        - "Woolirium"
+  #     - "Woolirium" November 2026
         - "Wooly Woods"
         - "Wrath Altar"
         - "Wrath of Cthulhu"
