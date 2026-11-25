@@ -369,7 +369,7 @@ pools:
         - "Fox Dream"
         - "Fractal Descent"
         - "Fraction Descent"
-        - "Fracture DTM"
+  #     - "Fracture DTM" November 2026
         - "Frob"
         - "Frog Pond"
         - "Frost"
@@ -464,7 +464,7 @@ pools:
         - "Limit"
   #     - "Little China" November 2025 too easy to abuse out of bounds w/ flag
         - "Little Roses"
-        - "Long Distance"
+  #     - "Long Distance" November 2026
         - "Long Shot"
         - "Lost Gardens"
         - "Lost Haven"
@@ -519,6 +519,7 @@ pools:
         - "No Blocks Placed"
         - "No Man's Land" # punch bows, wool mons, spawn region
         - "Noble's District"
+        - "Nordic Village"
         - "North Winds"
         - "Notre-Daaaaam of Paris"
         - "Nutrient"
@@ -541,7 +542,7 @@ pools:
         - "Outlyne"
   #     - "Paddo's" October 2026
         - "Paint the Streets"
-  #     - "Paintman's Day Off" March 2026
+        - "Paintman's Day Off"
         - "Palace CTF"
   #     - "Palm Rust" June 2026
         - "Pandemonium"
@@ -573,7 +574,7 @@ pools:
   #     - "Race for Victory 2" June 2026
         - "Race for Victory 4"
         - "Raceway"
-        - "Rafiki"
+  #     - "Rafiki" November 2026
         - "Raid FFA"
         - "Rampant"
         - "Rangi-nui"
@@ -584,7 +585,7 @@ pools:
   #     - "Research Base" March 2026
         - "Retaliation 2"
         - "Rice"
-  #     - "Rind Rushers" March 2026
+        - "Rind Rushers"
   #     - "Rind Rushers II" October 2026
   #     - "Ringpull" October 2026
         - "Riverside"
@@ -627,7 +628,7 @@ pools:
         - "Smashcap"
         - "Smoke CTF"
   #     - "Smoke KotH" October 2026
-  #     - "Snow Level" June 2026
+        - "Snow Level"
         - "Snowdrift Pass"
   #     - "Snowy Wars"
   #     - "SolitudeMC" March 2026
@@ -658,7 +659,7 @@ pools:
         - "Tahiti"
         - "Tangier"
         - "Tanker TNT"
-  #     - "Tatakai" March 2026
+        - "Tatakai"
         - "Tebulas"
         - "Temple"
         - "Temple Trouble"
